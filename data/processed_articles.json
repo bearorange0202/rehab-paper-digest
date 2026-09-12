@@ -1,13 +1,17 @@
 {
   "ids": [
+    "42726433",
+    "42726489",
     "42726518",
     "42726674",
     "42726707",
     "42726743",
     "42726796",
+    "42726837",
     "42726907",
     "42727035",
     "42727071",
+    "42727174",
     "42727393",
     "42727484",
     "42727549",
@@ -208,6 +212,38 @@
       "title": "Preoperative Sarcopenia Predicts Major Postoperative Morbidity in Patients Undergoing Pancreatic Surgery for Chronic Pancreatitis.",
       "url_path": "/articles/2026/09/preoperative-sarcopenia-predicts-major-postoperative-morbidity-in-patients-under/",
       "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727174",
+      "pmid": "42727174",
+      "doi": "10.1016/j.jnha.2026.100983",
+      "title": "Intrinsic capacity impairment and incident dementia across three population-based cohorts: a harmonized individual participant data analysis.",
+      "url_path": "/articles/2026/09/intrinsic-capacity-impairment-and-incident-dementia-across-three-population-base/",
+      "processed_at": "2026-09-12T10:44:16+00:00"
+    },
+    {
+      "id": "42726489",
+      "pmid": "42726489",
+      "doi": "10.1080/17483107.2026.2730873",
+      "title": "Effect of sacrum-backrest distance on respiratory function during wheelchair sitting: implications for seating assessment.",
+      "url_path": "/articles/2026/09/effect-of-sacrum-backrest-distance-on-respiratory-function-during-wheelchair-sit/",
+      "processed_at": "2026-09-12T10:44:16+00:00"
+    },
+    {
+      "id": "42726837",
+      "pmid": "42726837",
+      "doi": "10.36740/Merkur202604122",
+      "title": "Glioblastoma mimicking acute stroke: A case report and diagnostic challenges.",
+      "url_path": "/articles/2026/01/glioblastoma-mimicking-acute-stroke-a-case-report-and-diagnostic-challenges/",
+      "processed_at": "2026-09-12T10:44:16+00:00"
+    },
+    {
+      "id": "42726433",
+      "pmid": "42726433",
+      "doi": "10.1007/s13679-026-00759-8",
+      "title": "Obesity-Related Tendon Pathology: Cardiometabolic Mechanisms, Clinical Implications, and Management.",
+      "url_path": "/articles/2026/09/obesity-related-tendon-pathology-cardiometabolic-mechanisms-clinical-implication/",
+      "processed_at": "2026-09-12T10:44:16+00:00"
     }
   ]
 }

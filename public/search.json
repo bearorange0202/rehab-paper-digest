@@ -86,6 +86,18 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "肥満関連腱病理:心代謝メカニズム、臨床的意義、および管理に関する総説",
+    "summary": "本総説は、肥満を機械的負荷と脂肪組織機能不全を結びつける中心的要因として位置づけ、腱病理との関連を候補メカニズムとともに整理したものである。",
+    "url": "/rehab-paper-digest/articles/2026/09/obesity-related-tendon-pathology-cardiometabolic-mechanisms-clinical-implication/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42726433",
+    "doi": "10.1007/s13679-026-00759-8",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "粟粒結核患者における脳MRI施行例からみた脳結核の頻度と臨床的特徴:単施設後方視的研究",
     "summary": "粟粒結核患者のうち脳MRIを施行した例では約6割に脳結核所見が認められたが、MRI施行例には選択バイアスがあり、臨床所見のみでは脳病変の有無を判別できなかった。",
     "url": "/rehab-paper-digest/articles/2026/09/cerebral-tuberculosis-among-elderly-patients-with-miliary-tuberculosis-undergoin/",
@@ -109,6 +121,18 @@
     ],
     "pmid": "42727484",
     "doi": "10.1016/j.neurot.2026.e01068",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "車椅子座位における仙骨-背もたれ間距離が呼吸機能に及ぼす影響:シーティング評価への示唆",
+    "summary": "健常若年女性を対象に、車椅子座位で仙骨と背もたれの間の距離を変化させたところ、距離が大きいほど努力性肺活量など複数の呼吸機能指標が低下する傾向が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-sacrum-backrest-distance-on-respiratory-function-during-wheelchair-sit/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42726489",
+    "doi": "10.1080/17483107.2026.2730873",
     "published_date": "2026-09-11"
   },
   {
@@ -143,6 +167,19 @@
     ],
     "pmid": "42727886",
     "doi": "10.1016/j.jisako.2026.101215",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "内在的能力(intrinsic capacity)の障害と認知症発症リスク:3つの地域コホートを統合した個人参加者データ解析",
+    "summary": "CHARLS、ELSA、HRSの3大規模地域コホート(計約4.9万人)を統合解析した結果、内在的能力の障害ドメイン数が多いほど認知症発症リスクが段階的に上昇し、既存の人口統計モデルへの追加で予測精度が改善した。",
+    "url": "/rehab-paper-digest/articles/2026/09/intrinsic-capacity-impairment-and-incident-dementia-across-three-population-base/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "認知機能"
+    ],
+    "pmid": "42727174",
+    "doi": "10.1016/j.jnha.2026.100983",
     "published_date": "2026-09-11"
   },
   {
@@ -245,6 +282,19 @@
     "pmid": "42727549",
     "doi": "10.1016/j.msard.2026.107453",
     "published_date": "2026-08-17"
+  },
+  {
+    "title": "急性脳卒中様症状を呈した膠芽腫の一例:診断上の課題",
+    "summary": "言語障害や右片麻痺など脳卒中様症状で救急搬送された71歳女性が、精査の結果膠芽腫と診断された症例報告。",
+    "url": "/rehab-paper-digest/articles/2026/01/glioblastoma-mimicking-acute-stroke-a-case-report-and-diagnostic-challenges/",
+    "categories": [
+      "脳卒中",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42726837",
+    "doi": "10.36740/Merkur202604122",
+    "published_date": "2026-01-01"
   },
   {
     "title": "心不全患者のセルフケア支援を目的としたモバイルアプリケーションの効果に関する準実験的研究",
