@@ -1,0 +1,81 @@
+site:
+  name: "Rehab Paper Digest"
+  description: "医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。"
+  url: "https://YOUR_GITHUB_USERNAME.github.io"
+  base_path: "/rehab-paper-digest"
+  max_articles_per_day: 8
+  homepage_items: 10
+  rss_items: 20
+
+pubmed:
+  lookback_hours: 48
+  retmax: 100
+  date_type: "edat"
+  request_interval_seconds: 0.34
+  search_query: >
+    (
+      "occupational therapy"[Title/Abstract]
+      OR "physical therapy"[Title/Abstract]
+      OR physiotherapy[Title/Abstract]
+      OR rehabilitation[Title/Abstract]
+      OR "stroke rehabilitation"[Title/Abstract]
+      OR "neurological rehabilitation"[Title/Abstract]
+      OR "cognitive rehabilitation"[Title/Abstract]
+      OR dementia[Title/Abstract]
+      OR "activities of daily living"[Title/Abstract]
+      OR ADL[Title/Abstract]
+      OR "motor recovery"[Title/Abstract]
+      OR "upper extremity rehabilitation"[Title/Abstract]
+      OR "gait rehabilitation"[Title/Abstract]
+      OR "assistive technology"[Title/Abstract]
+      OR neurorehabilitation[Title/Abstract]
+      OR "Rehabilitation"[MeSH Terms]
+      OR "Occupational Therapy"[MeSH Terms]
+      OR "Physical Therapy Modalities"[MeSH Terms]
+    )
+  exclude_keywords:
+    - protocol
+    - editorial
+    - corrigendum
+  exclude_publication_types:
+    - Editorial
+    - Letter
+    - Comment
+    - News
+
+claude:
+  model: "claude-sonnet-5"
+  anthropic_version: "2023-06-01"
+  max_api_calls_per_day: 20
+  max_evaluation_candidates: 12
+  publish_score_threshold: 12
+  max_retries: 3
+
+categories:
+  - 作業療法
+  - 理学療法
+  - 言語聴覚療法
+  - 脳卒中
+  - 神経疾患
+  - 認知症
+  - 高齢者
+  - 整形外科
+  - 精神科
+  - 小児
+  - 認知機能
+  - ADL
+  - 歩行
+  - 上肢機能
+  - 福祉用具・支援技術
+  - その他
+
+disease_categories:
+  - 脳卒中
+  - 神経疾患
+  - 認知症
+  - 整形外科
+  - 精神科
+  - 小児
+
+contact_email: ""
+tool_name: "rehab-paper-digest"

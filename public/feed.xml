@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Rehab Paper Digest</title>
+    <link>https://YOUR_GITHUB_USERNAME.github.io/rehab-paper-digest</link>
+    <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
+  </channel>
+</rss>
