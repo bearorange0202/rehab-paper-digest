@@ -471,17 +471,17 @@ class ClaudeClient:
         if self.calls >= self.max_calls:
             raise RuntimeError("Claude API call limit reached")
         self.calls += 1
+        guided_prompt = (
+            f"{prompt}\n\n"
+            "Return only valid JSON. Do not wrap it in Markdown. "
+            "The JSON must match this schema:\n"
+            f"{json.dumps(schema, ensure_ascii=False)}"
+        )
         payload = {
             "model": self.config["claude"]["model"],
             "max_tokens": max_tokens,
             "system": system,
-            "messages": [{"role": "user", "content": prompt}],
-            "output_config": {
-                "format": {
-                    "type": "json_schema",
-                    "schema": schema,
-                }
-            },
+            "messages": [{"role": "user", "content": guided_prompt}],
         }
         body = json.dumps(payload).encode("utf-8")
         headers = {
@@ -499,7 +499,15 @@ class ClaudeClient:
                 )
                 data = json.loads(text)
                 return parse_claude_json(data)
-            except (urllib.error.HTTPError, urllib.error.URLError, json.JSONDecodeError, ValueError) as exc:
+            except urllib.error.HTTPError as exc:
+                detail = exc.read().decode("utf-8", "replace")[:500]
+                detail = re.sub(r"\s+", " ", detail).strip()
+                if attempt >= int(self.config["claude"].get("max_retries", 3)):
+                    raise RuntimeError(f"Claude API failed after retries: HTTP {exc.code} {detail}") from exc
+                log(f"Claude API retry {attempt}: HTTP {exc.code} {detail}")
+                time.sleep(delay)
+                delay *= 2
+            except (urllib.error.URLError, json.JSONDecodeError, ValueError) as exc:
                 if attempt >= int(self.config["claude"].get("max_retries", 3)):
                     raise RuntimeError(f"Claude API failed after retries: {type(exc).__name__}") from exc
                 log(f"Claude API retry {attempt}: {type(exc).__name__}")
@@ -516,6 +524,13 @@ def parse_claude_json(data: dict[str, Any]) -> dict[str, Any]:
     raw = "\n".join(text_parts).strip()
     if not raw:
         raise ValueError("Claude response did not include text JSON")
+    if raw.startswith("```"):
+        raw = re.sub(r"^```(?:json)?\s*", "", raw, flags=re.IGNORECASE)
+        raw = re.sub(r"\s*```$", "", raw)
+    if not raw.startswith("{"):
+        match = re.search(r"\{.*\}", raw, flags=re.DOTALL)
+        if match:
+            raw = match.group(0)
     return json.loads(raw)
 
 
