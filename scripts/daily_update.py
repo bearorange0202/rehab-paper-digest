@@ -762,6 +762,8 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 
 # {article["title_ja"]}
 
+**Original title:** {paper.title}
+
 ## 原著論文
 
 - Original title: {paper.title}
@@ -772,31 +774,31 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 - PMID: {paper.pmid or "抄録には記載されていません"}
 - 原著論文へのリンク: {paper.source_url or paper.pubmed_url}
 
-## この研究を一言で
+## 要約
 
 {article["one_sentence_summary"]}
 
-## なぜこの研究が行われた？
+## 背景
 
 {article["background"]}
 
-## 誰を対象にした？
+## 対象
 
 {article["participants"]}
 
-## 何をした？
+## 方法
 
 {article["methods"]}
 
-## 何が分かった？
+## 結果
 
 {article["results"]}
 
-## この結果は何を意味する？
+## 臨床での読み方
 
 {article["clinical_meaning"]}
 
-## 研究を見るときの注意点
+## 注意点
 
 {limitations}
 
@@ -940,10 +942,24 @@ def article_card(config: dict[str, Any], article: dict[str, Any]) -> str:
     cats = "".join(f'<span class="tag">{html.escape(c)}</span>' for c in m.get("categories", []))
     score = m.get("score", {}).get("total_score", "")
     score_text = f'<span class="score">Score {float(score):.1f}</span>' if isinstance(score, (int, float)) else ""
+    search_text = " ".join(
+        str(value)
+        for value in [
+            m.get("title", ""),
+            m.get("original_title", ""),
+            m.get("summary", ""),
+            m.get("journal", ""),
+            m.get("pmid", ""),
+            m.get("doi", ""),
+            " ".join(m.get("categories", [])),
+        ]
+    ).lower()
+    data_score = float(score) if isinstance(score, (int, float)) else 0.0
     return f"""
-<article class="article-card">
+<article class="article-card" data-search="{html.escape(search_text, quote=True)}" data-date="{html.escape(m.get("published_date", ""), quote=True)}" data-score="{data_score:.3f}">
   <div class="meta-line">{html.escape(m.get("published_date", ""))} {score_text}</div>
   <h2><a href="{html.escape(public_path(config, m.get("url_path", "#")))}">{html.escape(m.get("title", ""))}</a></h2>
+  <p class="original-title">{html.escape(m.get("original_title", ""))}</p>
   <p>{html.escape(m.get("summary", ""))}</p>
   <div class="tags">{cats}</div>
 </article>
@@ -961,13 +977,19 @@ def render_index(config: dict[str, Any], articles: list[dict[str, Any]]) -> None
         <h1>最新の論文</h1>
         <p>{html.escape(config["site"]["description"])}</p>
       </div>
-      <form class="search-box" role="search">
-        <label for="searchInput">サイト内検索</label>
+      <form class="search-box list-tools" role="search">
+        <label for="searchInput">検索</label>
         <input id="searchInput" type="search" placeholder="キーワード、カテゴリ、PMID">
+        <label for="sortSelect">並び替え</label>
+        <select id="sortSelect">
+          <option value="new">新しい順</option>
+          <option value="old">古い順</option>
+          <option value="score">スコア順</option>
+        </select>
       </form>
     </section>
     <section class="content-grid">
-      <div class="article-list" id="searchResults">{latest}</div>
+      <div class="article-list" id="searchResults" data-search-mode="local">{latest}</div>
       <aside class="side-panel">
         <h2>カテゴリ</h2>
         {category_links(config, config["categories"], "/categories/")}
@@ -995,7 +1017,17 @@ def render_listing(config: dict[str, Any], articles: list[dict[str, Any]], path:
       <h1>{html.escape(title)}</h1>
       <p>{html.escape(description)}</p>
     </section>
-    <section class="article-list">
+    <form class="list-tools" role="search">
+      <label for="searchInput">この一覧内を検索</label>
+      <input id="searchInput" type="search" placeholder="キーワード、カテゴリ、PMID">
+      <label for="sortSelect">並び替え</label>
+      <select id="sortSelect">
+        <option value="new">新しい順</option>
+        <option value="old">古い順</option>
+        <option value="score">スコア順</option>
+      </select>
+    </form>
+    <section class="article-list" id="searchResults" data-search-mode="local">
       {"".join(article_card(config, a) for a in articles) or '<p class="empty">該当する記事はまだありません。</p>'}
     </section>
 """
@@ -1025,7 +1057,7 @@ def render_category_pages(config: dict[str, Any], articles: list[dict[str, Any]]
                 matched,
                 PUBLIC_DIR / base / slugify(category, category) / "index.html",
                 category,
-                f"{category}に関連する論文記事です。",
+                f"{category}に関連する論文です。新しい順で表示しています。検索欄で、このカテゴリ内をさらに絞り込めます。",
             )
 
 
@@ -1087,6 +1119,7 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
       <div class="ad-slot" data-slot="article-top">広告枠</div>
       <p class="meta-line">{html.escape(m.get("published_date", ""))}</p>
       <h1>{html.escape(m.get("title", ""))}</h1>
+      <p class="original-title">{html.escape(m.get("original_title", ""))}</p>
       <p class="lead">{html.escape(m.get("summary", ""))}</p>
       <div class="tags">{tags}</div>
 
@@ -1102,13 +1135,13 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
         <a class="button" href="{html.escape(source_link)}" rel="noopener noreferrer">原著論文を確認する</a>
       </section>
 
-      <section><h2>なぜこの研究が行われた？</h2><p>{html.escape(m.get("background", ""))}</p></section>
-      <section><h2>誰を対象にした？</h2><p>{html.escape(m.get("participants", ""))}</p></section>
-      <section><h2>何をした？</h2><p>{html.escape(m.get("methods", ""))}</p></section>
+      <section><h2>背景</h2><p>{html.escape(m.get("background", ""))}</p></section>
+      <section><h2>対象</h2><p>{html.escape(m.get("participants", ""))}</p></section>
+      <section><h2>方法</h2><p>{html.escape(m.get("methods", ""))}</p></section>
       <div class="ad-slot" data-slot="article-middle">広告枠</div>
-      <section><h2>何が分かった？</h2><p>{html.escape(m.get("results", ""))}</p></section>
-      <section><h2>この結果は何を意味する？</h2><p>{html.escape(m.get("clinical_meaning", ""))}</p></section>
-      <section><h2>研究を見るときの注意点</h2><ul>{limitations}</ul></section>
+      <section><h2>結果</h2><p>{html.escape(m.get("results", ""))}</p></section>
+      <section><h2>臨床での読み方</h2><p>{html.escape(m.get("clinical_meaning", ""))}</p></section>
+      <section><h2>注意点</h2><ul>{limitations}</ul></section>
       <section class="score-box">
         <h2>掲載価値スコア</h2>
         <dl>
@@ -1238,12 +1271,16 @@ h2 { font-size: 1.25rem; line-height: 1.35; margin: 0 0 10px; letter-spacing: 0;
 .hero p { max-width: 680px; color: var(--muted); font-size: 1.05rem; }
 .search-box { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 18px; }
 .search-box label { display: block; font-weight: 700; margin-bottom: 8px; }
+.list-tools { display: grid; grid-template-columns: minmax(220px, 1fr) 180px; gap: 10px 14px; align-items: end; margin: 0 0 20px; }
+.list-tools label { font-weight: 700; }
+.list-tools input, .list-tools select { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: inherit; background: #fff; color: var(--ink); }
 input[type="search"] { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: inherit; background: #fff; }
 .content-grid { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 28px; padding: 30px 0 56px; }
 .article-list { display: grid; gap: 16px; }
 .article-card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 22px; }
 .article-card h2 a { color: var(--ink); }
 .article-card p { color: var(--muted); margin: 0 0 14px; }
+.original-title { color: var(--muted); font-size: .95rem; font-style: italic; line-height: 1.55; }
 .score { margin-left: 10px; color: var(--accent); }
 .tags, .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
 .tag, .tag-link { display: inline-flex; align-items: center; min-height: 30px; padding: 4px 10px; border-radius: 999px; background: var(--soft); color: var(--accent); text-decoration: none; font-size: .9rem; }
@@ -1270,49 +1307,48 @@ dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
   .site-header, .hero, .content-grid { display: block; }
   .nav { margin-top: 12px; }
   .search-box { margin-top: 22px; }
+  .list-tools { grid-template-columns: 1fr; }
   .side-panel { margin-top: 28px; }
   dl { grid-template-columns: 1fr; }
 }
 """
     script = """
-async function bootSearch() {
+function bootSearch() {
   const input = document.querySelector('#searchInput');
   const results = document.querySelector('#searchResults');
+  const sort = document.querySelector('#sortSelect');
   if (!input || !results) return;
-  const original = results.innerHTML;
-  let items = [];
-  try {
-    const base = document.querySelector('meta[name="site-base-path"]')?.content || '';
-    const response = await fetch(`${base}/search.json`);
-    items = await response.json();
-  } catch {
-    return;
-  }
-  input.addEventListener('input', () => {
+  const emptyHtml = '<p class="empty">該当する記事はありません。</p>';
+  const originalCards = Array.from(results.querySelectorAll('.article-card')).map((card) => card.cloneNode(true));
+
+  function applyFilters() {
     const q = input.value.trim().toLowerCase();
-    if (!q) {
-      results.innerHTML = original;
+    const order = sort?.value || 'new';
+    const cards = originalCards
+      .filter((card) => !q || String(card.dataset.search || '').includes(q))
+      .sort((a, b) => compareCards(a, b, order));
+
+    results.replaceChildren();
+    if (!cards.length) {
+      results.innerHTML = emptyHtml;
       return;
     }
-    const matched = items.filter((item) => {
-      const haystack = [item.title, item.summary, item.pmid, item.doi, ...(item.categories || [])].join(' ').toLowerCase();
-      return haystack.includes(q);
-    }).slice(0, 30);
-    results.innerHTML = matched.length ? matched.map((item) => `
-      <article class="article-card">
-        <div class="meta-line">${escapeHtml(item.published_date || '')}</div>
-        <h2><a href="${escapeAttr(item.url)}">${escapeHtml(item.title)}</a></h2>
-        <p>${escapeHtml(item.summary || '')}</p>
-        <div class="tags">${(item.categories || []).map((c) => `<span class="tag">${escapeHtml(c)}</span>`).join('')}</div>
-      </article>
-    `).join('') : '<p class="empty">該当する記事はありません。</p>';
-  });
+    cards.forEach((card) => results.appendChild(card.cloneNode(true)));
+  }
+
+  input.addEventListener('input', applyFilters);
+  sort?.addEventListener('change', applyFilters);
+  applyFilters();
 }
-function escapeHtml(value) {
-  return String(value).replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-function escapeAttr(value) {
-  return escapeHtml(value).replace(/`/g, '&#96;');
+
+function compareCards(a, b, order) {
+  if (order === 'old') {
+    return String(a.dataset.date || '').localeCompare(String(b.dataset.date || ''));
+  }
+  if (order === 'score') {
+    return Number(b.dataset.score || 0) - Number(a.dataset.score || 0);
+  }
+  return String(b.dataset.date || '').localeCompare(String(a.dataset.date || ''));
 }
 bootSearch();
 """
