@@ -1,6 +1,12 @@
 {
   "ids": [
+    "42725989",
+    "42726040",
+    "42726081",
+    "42726093",
+    "42726175",
     "42726278",
+    "42726330",
     "42726365",
     "42726406",
     "42726433",
@@ -289,6 +295,54 @@
       "title": "The Senescent Phenotype of Cultured Hypothalamic Astrocytes from Rats with Streptozotocin-Induced Dementia.",
       "url_path": "/articles/2026/09/the-senescent-phenotype-of-cultured-hypothalamic-astrocytes-from-rats-with-strep/",
       "processed_at": "2026-09-12T16:03:45+00:00"
+    },
+    {
+      "id": "42726081",
+      "pmid": "42726081",
+      "doi": "10.1590/2175-8239-JBN-2025-0316en",
+      "title": "Prognostic value of functional capacity assessed by the Glittre Activities of Daily Living test in hemodialysis patients: a prospective observational study.",
+      "url_path": "/articles/2026/01/prognostic-value-of-functional-capacity-assessed-by-the-glittre-activities-of-da/",
+      "processed_at": "2026-09-12T16:09:52+00:00"
+    },
+    {
+      "id": "42726093",
+      "pmid": "42726093",
+      "doi": "10.1177/21925682261489579",
+      "title": "Lumbar Decompression is Associated With Changes in Functional Transition Biomechanics and Neuromuscular Control During Sit-to-Stand in Degenerative Lumbar Stenosis.",
+      "url_path": "/articles/2026/09/lumbar-decompression-is-associated-with-changes-in-functional-transition-biomech/",
+      "processed_at": "2026-09-12T16:09:52+00:00"
+    },
+    {
+      "id": "42726175",
+      "pmid": "42726175",
+      "doi": "10.1007/s12035-026-06189-w",
+      "title": "Fructooligosaccharides Restore Gut Function and Increase Hippocampal Short-Chain Fatty Acids to Alleviate Neuronal Apoptosis Induced by Mitochondrial Autophagy in rats with Chronic Cerebral Hypoperfusion.",
+      "url_path": "/articles/2026/09/fructooligosaccharides-restore-gut-function-and-increase-hippocampal-short-chain/",
+      "processed_at": "2026-09-12T16:09:52+00:00"
+    },
+    {
+      "id": "42725989",
+      "pmid": "42725989",
+      "doi": "10.1177/13872877261487104",
+      "title": "Cadmium exposure and incidence of all-cause dementia and Alzheimer's disease in US adults.",
+      "url_path": "/articles/2026/09/cadmium-exposure-and-incidence-of-all-cause-dementia-and-alzheimer-s-disease-in/",
+      "processed_at": "2026-09-12T16:09:52+00:00"
+    },
+    {
+      "id": "42726040",
+      "pmid": "42726040",
+      "doi": "10.1016/j.jaccas.2026.110186",
+      "title": "Paradoxical Stroke via Persistent Levoatriocardinal Vein and Evaluation and Management Recommendations.",
+      "url_path": "/articles/2026/09/paradoxical-stroke-via-persistent-levoatriocardinal-vein-and-evaluation-and-mana/",
+      "processed_at": "2026-09-12T16:09:52+00:00"
+    },
+    {
+      "id": "42726330",
+      "pmid": "42726330",
+      "doi": "10.1007/s11916-026-01562-9",
+      "title": "Peripheral Nerve Stimulation of C2-C3 Nerves for Management of Headaches: A Description of a Novel Technique.",
+      "url_path": "/articles/2026/09/peripheral-nerve-stimulation-of-c2-c3-nerves-for-management-of-headaches-a-descr/",
+      "processed_at": "2026-09-12T16:09:52+00:00"
     }
   ]
 }
