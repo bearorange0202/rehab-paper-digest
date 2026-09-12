@@ -48,6 +48,18 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "膝・股関節肢位が健常者の大腿直筋・外側広筋の受動的スティフネスに及ぼす影響",
+    "summary": "健常成人36名を対象に、せん断波エラストグラフィーで関節肢位・筋深度・性差が大腿四頭筋の受動的スティフネスに与える影響を調べたランダム化クロスオーバー研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-knee-and-hip-joint-positions-on-passive-stiffness-of-the-rectus-femori/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42728264",
+    "doi": "10.1038/s41598-026-60808-z",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "単純ヘルペスウイルス1型と認知症発症の関連:実臨床電子カルテデータを用いた縦断的後ろ向きコホート研究",
     "summary": "大規模電子カルテデータを用いた後ろ向きコホート研究で、単純ヘルペスウイルス1型(HSV-1)診断歴のある患者は、ない患者と比較して軽度認知障害または認知症発症のハザード比が約1.14とわずかに高いことが示された。",
     "url": "/rehab-paper-digest/articles/2026/09/association-of-herpes-simplex-virus-type-1-with-dementia-outcomes-longitudinal-r/",
@@ -111,6 +123,19 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "非挿管COVID-19肺炎患者と非COVID肺炎患者における経口摂取回復の比較:機能的経口摂取スケールを用いた後ろ向きコホート研究",
+    "summary": "非挿管COVID-19肺炎患者は経口摂取回復が遅れていたが、その遅れは経口摂取・リハビリ開始の遅延によるものであり、COVID-19自体が直接の原因ではない可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/oral-intake-recovery-in-non-intubated-patients-with-covid-19-pneumonia-compared/",
+    "categories": [
+      "言語聴覚療法",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42726278",
+    "doi": "10.1007/s00455-026-11002-w",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "多病因性認知症の治療への道筋:血管リスク管理と疾患修飾型神経変性治療の統合",
     "summary": "血管性病理と神経変性病理が併存する多病因性認知症(MED)に対し、両病態を同時に標的とする統合的な研究戦略の必要性を論じたレビュー論文である。",
     "url": "/rehab-paper-digest/articles/2026/09/the-path-to-treating-multiple-etiology-dementia-combining-vascular-risk-control/",
@@ -136,6 +161,18 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "術後鎮痛と回復における末梢神経刺激療法の役割の進展",
+    "summary": "一時的経皮的末梢神経刺激(PNS)は、運動機能を温存しながらオピオイド消費と術後疼痛を軽減しうる神経調節療法として、複数の外科領域で報告されているナラティブレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-evolving-role-of-peripheral-nerve-stimulation-in-postoperative-analgesia-and/",
+    "categories": [
+      "その他",
+      "理学療法"
+    ],
+    "pmid": "42726365",
+    "doi": "10.1007/s11916-026-01560-x",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "無歯顎上顎の全顎補綴における翼状インプラントの有効性:システマティックレビュー・メタ解析",
     "summary": "翼状インプラントは従来型インプラントと比較してインプラント脱落リスクが有意に高く、生存率もやや低いことがメタ解析で示された。",
     "url": "/rehab-paper-digest/articles/2026/09/effectiveness-of-pterygoid-dental-implants-in-the-complete-arch-rehabilitation-o/",
@@ -144,6 +181,19 @@
     ],
     "pmid": "42728116",
     "doi": "10.1016/j.ijom.2026.08.036",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "ストレプトゾトシン誘発性認知症モデルラットの視床下部アストロサイト培養における細胞老化表現型",
+    "summary": "ストレプトゾトシン誘発性認知症モデルラットから採取した視床下部アストロサイトの培養実験で、生体内で見られた変化に加え、細胞老化やSASP因子の増加が確認されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-senescent-phenotype-of-cultured-hypothalamic-astrocytes-from-rats-with-strep/",
+    "categories": [
+      "神経疾患",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42726406",
+    "doi": "10.1007/s11064-026-04884-7",
     "published_date": "2026-09-11"
   },
   {
@@ -316,6 +366,19 @@
     ],
     "pmid": "42726707",
     "doi": "10.1371/journal.pone.0357959",
+    "published_date": "2026-01-01"
+  },
+  {
+    "title": "西・南部アフリカにおける精神病を有する人々のための地域密着型リハビリテーション介入「SUCCEED」の共同創造プロセス:Theory of Changeを用いた開発報告",
+    "summary": "サハラ以南アフリカ4カ国で、精神病を有する当事者とともにTheory of Change(変化の理論)を用いて地域密着型リハビリテーション介入SUCCEEDを共同開発したプロセスを記述した論文。",
+    "url": "/rehab-paper-digest/articles/2026/01/co-production-using-theory-of-change-in-the-development-of-the-succeed-africa-co/",
+    "categories": [
+      "精神科",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42726714",
+    "doi": "10.1371/journal.pmen.0000668",
     "published_date": "2026-01-01"
   },
   {

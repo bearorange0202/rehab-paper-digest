@@ -1,10 +1,14 @@
 {
   "ids": [
+    "42726278",
+    "42726365",
+    "42726406",
     "42726433",
     "42726489",
     "42726518",
     "42726674",
     "42726707",
+    "42726714",
     "42726743",
     "42726796",
     "42726837",
@@ -25,6 +29,7 @@
     "42728082",
     "42728116",
     "42728245",
+    "42728264",
     "42728299",
     "42728350"
   ],
@@ -244,6 +249,46 @@
       "title": "Obesity-Related Tendon Pathology: Cardiometabolic Mechanisms, Clinical Implications, and Management.",
       "url_path": "/articles/2026/09/obesity-related-tendon-pathology-cardiometabolic-mechanisms-clinical-implication/",
       "processed_at": "2026-09-12T10:44:16+00:00"
+    },
+    {
+      "id": "42726278",
+      "pmid": "42726278",
+      "doi": "10.1007/s00455-026-11002-w",
+      "title": "Oral Intake Recovery in Non-Intubated Patients With COVID-19 Pneumonia Compared With Non-COVID Pneumonia: A Retrospective Cohort Study Using the Functional Oral Intake Scale.",
+      "url_path": "/articles/2026/09/oral-intake-recovery-in-non-intubated-patients-with-covid-19-pneumonia-compared/",
+      "processed_at": "2026-09-12T16:03:45+00:00"
+    },
+    {
+      "id": "42728264",
+      "pmid": "42728264",
+      "doi": "10.1038/s41598-026-60808-z",
+      "title": "Effect of knee and hip joint positions on passive stiffness of the rectus femoris and vastus lateralis in healthy individuals.",
+      "url_path": "/articles/2026/09/effect-of-knee-and-hip-joint-positions-on-passive-stiffness-of-the-rectus-femori/",
+      "processed_at": "2026-09-12T16:03:45+00:00"
+    },
+    {
+      "id": "42726365",
+      "pmid": "42726365",
+      "doi": "10.1007/s11916-026-01560-x",
+      "title": "The Evolving Role of Peripheral Nerve Stimulation in Postoperative Analgesia and Recovery.",
+      "url_path": "/articles/2026/09/the-evolving-role-of-peripheral-nerve-stimulation-in-postoperative-analgesia-and/",
+      "processed_at": "2026-09-12T16:03:45+00:00"
+    },
+    {
+      "id": "42726714",
+      "pmid": "42726714",
+      "doi": "10.1371/journal.pmen.0000668",
+      "title": "Co-production using Theory of Change in the development of the SUCCEED Africa community-based rehabilitation intervention for people living with psychosis in West and Southeast Africa.",
+      "url_path": "/articles/2026/01/co-production-using-theory-of-change-in-the-development-of-the-succeed-africa-co/",
+      "processed_at": "2026-09-12T16:03:45+00:00"
+    },
+    {
+      "id": "42726406",
+      "pmid": "42726406",
+      "doi": "10.1007/s11064-026-04884-7",
+      "title": "The Senescent Phenotype of Cultured Hypothalamic Astrocytes from Rats with Streptozotocin-Induced Dementia.",
+      "url_path": "/articles/2026/09/the-senescent-phenotype-of-cultured-hypothalamic-astrocytes-from-rats-with-strep/",
+      "processed_at": "2026-09-12T16:03:45+00:00"
     }
   ]
 }
