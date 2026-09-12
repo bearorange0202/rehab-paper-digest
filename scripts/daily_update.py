@@ -585,7 +585,8 @@ SYSTEM_PROMPT = """
 与えられたタイトル・書誌情報・抄録以外に記載されていない研究内容を推測してはいけません。
 論文本文を読んだように書いてはいけません。
 結果、対象者数、統計値、因果関係を補完・誇張してはいけません。
-抄録に情報がない場合は「抄録には記載されていません」と明記してください。
+抄録に情報がない項目は、本文中に「記載されていません」「不明です」と補足しないでください。
+ただし研究解釈に重要な不足情報だけは、最後の限界に短く含めてください。
 医学的助言、診断、治療指示として読める表現は避けてください。
 煽り表現は禁止です。
 """.strip()
@@ -629,6 +630,8 @@ def generate_article_with_claude(
     prompt = f"""
 以下の論文について、一般の医療職が短時間で理解できる日本語記事用の構造化JSONを作成してください。
 本文はアブストラクトに近い項目立てで、背景・目的、対象、方法、結果、臨床的示唆、限界が自然に読めるようにしてください。
+対象は抄録から確認できる集団・人数・条件だけを書いてください。年齢、性別などの詳細属性が抄録にない場合は、その欠落を対象欄に書かないでください。
+抄録にない情報を「記載されていません」「不明です」と項目埋めのために書かないでください。
 カテゴリは次の候補から選んでください: {", ".join(categories)}
 scoreには、事前評価JSONをそのまま反映してください。
 
@@ -658,11 +661,28 @@ def normalize_article(result: dict[str, Any], evaluation: dict[str, Any], catego
     allowed = set(categories)
     normalized["categories"] = [c for c in normalized.get("categories", []) if c in allowed] or evaluation.get("categories", ["その他"])
     normalized["score"] = normalize_evaluation(normalized.get("score") or evaluation, categories)
-    for key in ["title_ja", "one_sentence_summary", "background", "participants", "methods", "results", "clinical_meaning"]:
+    for key in ["title_ja", "one_sentence_summary", "background", "methods", "results", "clinical_meaning"]:
         normalized[key] = safe_article_text(str(normalized.get(key) or "抄録には記載されていません"))
+    normalized["participants"] = clean_missing_info_text(str(normalized.get("participants") or ""))
     limitations = normalized.get("limitations") or []
     normalized["limitations"] = [safe_article_text(str(item)) for item in limitations if str(item).strip()]
     return normalized
+
+
+def clean_missing_info_text(value: str) -> str:
+    value = normalize_space(value)
+    if not value:
+        return ""
+    sentences = re.split(r"(?<=[。！？.!?])\s*", value)
+    kept = []
+    for sentence in sentences:
+        text = sentence.strip()
+        if not text:
+            continue
+        if re.search(r"(記載されていません|記載はありません|不明です|不明である)", text):
+            continue
+        kept.append(text)
+    return normalize_space("".join(kept))
 
 
 def safe_article_text(value: str) -> str:
@@ -757,6 +777,7 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
     }
     front_matter = json.dumps(metadata, ensure_ascii=False, indent=2)
     limitations = "\n".join(f"- {item}" for item in article["limitations"]) or "- 抄録から判断できる明確な限界は記載されていません。"
+    participants_section = f'\n## 対象\n\n{article["participants"]}\n' if article["participants"] else ""
     return f"""---
 {front_matter}
 ---
@@ -782,10 +803,7 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 ## 背景・目的
 
 {article["background"]}
-
-## 対象
-
-{article["participants"]}
+{participants_section}
 
 ## 方法
 
@@ -1112,6 +1130,10 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
         impact_factor_row = ""
         if impact_factor:
             impact_factor_row = f"\n          <dt>Impact Factor</dt><dd>{html.escape(impact_factor)}</dd>"
+        participants = clean_missing_info_text(str(m.get("participants", "")))
+        participants_section = ""
+        if participants:
+            participants_section = f'\n      <section><h2>対象</h2><p>{html.escape(participants)}</p></section>'
         json_ld = {
             "@context": "https://schema.org",
             "@type": "Article",
@@ -1146,7 +1168,7 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
       </section>
 
       <section><h2>背景・目的</h2><p>{html.escape(m.get("background", ""))}</p></section>
-      <section><h2>対象</h2><p>{html.escape(m.get("participants", ""))}</p></section>
+      {participants_section}
       <section><h2>方法</h2><p>{html.escape(m.get("methods", ""))}</p></section>
       <div class="ad-slot" data-slot="article-middle">広告枠</div>
       <section><h2>結果</h2><p>{html.escape(m.get("results", ""))}</p></section>
@@ -1268,9 +1290,11 @@ main { width: min(1120px, calc(100% - 32px)); margin: 0 auto; }
 h1 { font-size: clamp(2rem, 5vw, 4rem); line-height: 1.15; margin: 8px 0 16px; letter-spacing: 0; }
 h2 { font-size: 1.25rem; line-height: 1.35; margin: 0 0 10px; letter-spacing: 0; }
 .hero p { max-width: 680px; color: var(--muted); font-size: 1.05rem; }
-.search-box { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 18px; }
+.search-box { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 18px; min-width: 0; }
 .search-box label { display: block; font-weight: 700; margin-bottom: 8px; }
 .list-tools { display: grid; grid-template-columns: minmax(220px, 1fr) 180px; gap: 10px 14px; align-items: end; margin: 0 0 20px; }
+.search-box.list-tools { grid-template-columns: max-content minmax(0, 1fr); align-items: center; gap: 14px 18px; }
+.search-box.list-tools label { margin: 0; }
 .list-tools label { font-weight: 700; }
 .list-tools input, .list-tools select { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: inherit; background: #fff; color: var(--ink); }
 input[type="search"] { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: inherit; background: #fff; }
@@ -1305,7 +1329,8 @@ dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
   .site-header, .hero, .content-grid { display: block; }
   .nav { margin-top: 12px; }
   .search-box { margin-top: 22px; }
-  .list-tools { grid-template-columns: 1fr; }
+  .list-tools, .search-box.list-tools { grid-template-columns: 1fr; }
+  .search-box.list-tools label { margin-bottom: 4px; }
   .side-panel { margin-top: 28px; }
   dl { grid-template-columns: 1fr; }
 }
