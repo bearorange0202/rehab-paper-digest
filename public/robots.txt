@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/rehab-paper-digest/sitemap.xml
+Sitemap: https://bearorange0202.github.io/rehab-paper-digest/sitemap.xml
