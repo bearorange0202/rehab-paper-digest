@@ -8,9 +8,17 @@
     "42726907",
     "42727035",
     "42727071",
+    "42727393",
+    "42727484",
+    "42727549",
+    "42727595",
     "42727680",
     "42727710",
+    "42727886",
+    "42727902",
+    "42727940",
     "42728007",
+    "42728082",
     "42728116",
     "42728245",
     "42728299",
@@ -136,6 +144,70 @@
       "title": "Selective Neuroprotection in the ALS-FTD Spectrum: Mechanisms of Neuronal Resilience and Translational Perspectives.",
       "url_path": "/articles/2026/09/selective-neuroprotection-in-the-als-ftd-spectrum-mechanisms-of-neuronal-resilie/",
       "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42727886",
+      "pmid": "42727886",
+      "doi": "10.1016/j.jisako.2026.101215",
+      "title": "Timing of Anterior Cruciate Ligament Reconstruction and Associated Intra-Articular Pathology and Patient-Reported Outcomes: A Systematic Review.",
+      "url_path": "/articles/2026/09/timing-of-anterior-cruciate-ligament-reconstruction-and-associated-intra-articul/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727549",
+      "pmid": "42727549",
+      "doi": "10.1016/j.msard.2026.107453",
+      "title": "Virtual reality interventions and their impact on physical function and quality of life in multiple sclerosis: A systematic review with meta-analysis.",
+      "url_path": "/articles/2026/08/virtual-reality-interventions-and-their-impact-on-physical-function-and-quality/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727393",
+      "pmid": "42727393",
+      "doi": "10.1016/j.jgo.2026.103410",
+      "title": "Functional trajectories and associated factors in older adults with cancer after radiotherapy.",
+      "url_path": "/articles/2026/09/functional-trajectories-and-associated-factors-in-older-adults-with-cancer-after/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727940",
+      "pmid": "42727940",
+      "doi": "10.1177/14713012261489380",
+      "title": "Implementing Dementia-Friendly Videos in Everyday Care: A Qualitative Study of Frontline Staff Experiences.",
+      "url_path": "/articles/2026/09/implementing-dementia-friendly-videos-in-everyday-care-a-qualitative-study-of-fr/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727595",
+      "pmid": "42727595",
+      "doi": "10.1088/1741-2552/aea645",
+      "title": "Assessing consciousness by near-nerve electrostimulation in intensive rehabilitation.",
+      "url_path": "/articles/2026/09/assessing-consciousness-by-near-nerve-electrostimulation-in-intensive-rehabilita/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727484",
+      "pmid": "42727484",
+      "doi": "10.1016/j.neurot.2026.e01068",
+      "title": "The path to treating multiple-etiology dementia: Combining vascular risk control and disease-modifying neurodegenerative therapies.",
+      "url_path": "/articles/2026/09/the-path-to-treating-multiple-etiology-dementia-combining-vascular-risk-control/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42728082",
+      "pmid": "42728082",
+      "doi": "10.1111/os.70421",
+      "title": "Orthopedic Mechanophenotype: A Structured Narrative Review of Multiscale Biomechanics, Mechanotransduction, and Clinical Decision-Making.",
+      "url_path": "/articles/2026/09/orthopedic-mechanophenotype-a-structured-narrative-review-of-multiscale-biomecha/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
+    },
+    {
+      "id": "42727902",
+      "pmid": "42727902",
+      "doi": "10.1016/j.gassur.2026.102584",
+      "title": "Preoperative Sarcopenia Predicts Major Postoperative Morbidity in Patients Undergoing Pancreatic Surgery for Chronic Pancreatitis.",
+      "url_path": "/articles/2026/09/preoperative-sarcopenia-predicts-major-postoperative-morbidity-in-patients-under/",
+      "processed_at": "2026-09-12T10:28:28+00:00"
     }
   ]
 }

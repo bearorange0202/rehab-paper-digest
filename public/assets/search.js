@@ -30,9 +30,6 @@ function compareCards(a, b, order) {
   if (order === 'old') {
     return String(a.dataset.date || '').localeCompare(String(b.dataset.date || ''));
   }
-  if (order === 'score') {
-    return Number(b.dataset.score || 0) - Number(a.dataset.score || 0);
-  }
   return String(b.dataset.date || '').localeCompare(String(a.dataset.date || ''));
 }
 bootSearch();
