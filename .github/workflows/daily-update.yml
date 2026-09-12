@@ -1,0 +1,87 @@
+name: Daily paper update
+
+on:
+  schedule:
+    # GitHub cron is UTC. 21:00 UTC is 06:00 JST.
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without creating article files"
+        type: boolean
+        required: false
+        default: false
+      no_claude:
+        description: "Skip Claude API and use heuristic test scoring"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run daily update
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.no_claude }}" = "true" ]; then ARGS="$ARGS --no-claude"; fi
+          python scripts/daily_update.py $ARGS
+
+      - name: Commit generated content
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content data public
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "Update paper digest"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        if: ${{ inputs.dry_run != true }}
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: ${{ inputs.dry_run != true }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    if: ${{ inputs.dry_run != true }}
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
