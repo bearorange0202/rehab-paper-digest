@@ -1,5 +1,10 @@
 {
   "ids": [
+    "42725538",
+    "42725539",
+    "42725581",
+    "42725649",
+    "42725680",
     "42725712",
     "42725750",
     "42725843",
@@ -11,6 +16,7 @@
     "42726081",
     "42726093",
     "42726175",
+    "42726198",
     "42726278",
     "42726330",
     "42726365",
@@ -397,6 +403,54 @@
       "title": "Revisiting the role of amyloid-β: A molecular and immunological perspective.",
       "url_path": "/articles/2026/09/revisiting-the-role-of-amyloid-a-molecular-and-immunological-perspective/",
       "processed_at": "2026-09-12T16:18:00+00:00"
+    },
+    {
+      "id": "42725538",
+      "pmid": "42725538",
+      "doi": "10.1177/19417381261479680",
+      "title": "Effects of Quadriceps Strength Recovery in the First Year After Anterior Cruciate Ligament Reconstruction on Gait Biomechanics.",
+      "url_path": "/articles/2026/09/effects-of-quadriceps-strength-recovery-in-the-first-year-after-anterior-cruciat/",
+      "processed_at": "2026-09-12T22:43:42+00:00"
+    },
+    {
+      "id": "42726198",
+      "pmid": "42726198",
+      "doi": "10.1007/s11357-026-02501-7",
+      "title": "Parental longevity and polygenic longevity scores in relation to ageing-related factors in a population of 70-year-olds followed over six years: The Gothenburg H70 Birth Cohort Study.",
+      "url_path": "/articles/2026/09/parental-longevity-and-polygenic-longevity-scores-in-relation-to-ageing-related/",
+      "processed_at": "2026-09-12T22:43:42+00:00"
+    },
+    {
+      "id": "42725581",
+      "pmid": "42725581",
+      "doi": "10.1111/papr.70197",
+      "title": "Management of Neuropathic Pain in Complex Regional Pain Syndrome: A Comprehensive Review.",
+      "url_path": "/articles/2026/11/management-of-neuropathic-pain-in-complex-regional-pain-syndrome-a-comprehensive/",
+      "processed_at": "2026-09-12T22:43:42+00:00"
+    },
+    {
+      "id": "42725680",
+      "pmid": "42725680",
+      "doi": "10.1111/ene.70753",
+      "title": "TUBA4A Pathogenic Variant Manifesting With Adulthood-Onset Genetic Myasthenic Syndrome, Myopathy, and Infertility.",
+      "url_path": "/articles/2026/09/tuba4a-pathogenic-variant-manifesting-with-adulthood-onset-genetic-myasthenic-sy/",
+      "processed_at": "2026-09-12T22:43:42+00:00"
+    },
+    {
+      "id": "42725649",
+      "pmid": "42725649",
+      "doi": "10.2519/josptopen.2026.0227",
+      "title": "A Clinician's Guide to Evaluating and Managing Shoulder Overuse Injury in Softball Pitchers.",
+      "url_path": "/articles/2026/09/a-clinician-s-guide-to-evaluating-and-managing-shoulder-overuse-injury-in-softba/",
+      "processed_at": "2026-09-12T22:43:42+00:00"
+    },
+    {
+      "id": "42725539",
+      "pmid": "42725539",
+      "doi": "10.1080/08946566.2026.2731352",
+      "title": "Intersectional harms: discriminatory abuse of older LGBTQ+ adults in long-term care.",
+      "url_path": "/articles/2026/09/intersectional-harms-discriminatory-abuse-of-older-lgbtq-adults-in-long-term-car/",
+      "processed_at": "2026-09-12T22:43:42+00:00"
     }
   ]
 }
