@@ -41,6 +41,7 @@ DATA_DIR = PROJECT_ROOT / "data"
 CONTENT_DIR = PROJECT_ROOT / "content" / "articles"
 PUBLIC_DIR = PROJECT_ROOT / "public"
 PROCESSED_PATH = DATA_DIR / "processed_articles.json"
+ASSET_VERSION = "20260913-article-layout"
 DISCLAIMER = (
     "本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。"
     "診断・治療等の医学的助言を目的とするものではありません。"
@@ -931,7 +932,7 @@ def page_shell(config: dict[str, Any], title: str, description: str, path: str, 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{html.escape(title_full)}">
   <meta name="twitter:description" content="{description_esc}">
-  <link rel="stylesheet" href="{html.escape(public_path(config, '/assets/styles.css'))}">
+  <link rel="stylesheet" href="{html.escape(public_path(config, '/assets/styles.css'))}?v={ASSET_VERSION}">
 </head>
 <body>
   <header class="site-header">
@@ -950,7 +951,7 @@ def page_shell(config: dict[str, Any], title: str, description: str, path: str, 
   <footer class="site-footer">
     <p>{html.escape(DISCLAIMER)}</p>
   </footer>
-  <script src="{html.escape(public_path(config, '/assets/search.js'))}" defer></script>
+  <script src="{html.escape(public_path(config, '/assets/search.js'))}?v={ASSET_VERSION}" defer></script>
 </body>
 </html>
 """
