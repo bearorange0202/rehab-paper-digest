@@ -7,7 +7,14 @@
     "42726796",
     "42726907",
     "42727035",
-    "42727071"
+    "42727071",
+    "42727680",
+    "42727710",
+    "42728007",
+    "42728116",
+    "42728245",
+    "42728299",
+    "42728350"
   ],
   "records": [
     {
@@ -73,6 +80,62 @@
       "title": "Mobile application for self-care in people with heart failure: a quasi-experimental study.",
       "url_path": "/articles/2026/01/mobile-application-for-self-care-in-people-with-heart-failure-a-quasi-experiment/",
       "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42728245",
+      "pmid": "42728245",
+      "doi": "10.1111/ggi.70842",
+      "title": "Japanese Anticholinergic Risk Scale and Domain-Specific Functional Outcomes in Older Poststroke Patients.",
+      "url_path": "/articles/2026/09/japanese-anticholinergic-risk-scale-and-domain-specific-functional-outcomes-in-o/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42727680",
+      "pmid": "42727680",
+      "doi": "10.1016/j.ijid.2026.109113",
+      "title": "Cerebral tuberculosis among elderly patients with miliary tuberculosis undergoing brain MRI: a retrospective observational study.",
+      "url_path": "/articles/2026/09/cerebral-tuberculosis-among-elderly-patients-with-miliary-tuberculosis-undergoin/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42728350",
+      "pmid": "42728350",
+      "doi": "10.1038/s41598-026-70895-7",
+      "title": "A national cross-sectional study of patients with inherited retinal disease in China.",
+      "url_path": "/articles/2026/09/a-national-cross-sectional-study-of-patients-with-inherited-retinal-disease-in-c/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42728116",
+      "pmid": "42728116",
+      "doi": "10.1016/j.ijom.2026.08.036",
+      "title": "Effectiveness of pterygoid dental implants in the complete arch rehabilitation of the edentulous maxilla: a systematic review and meta-analysis.",
+      "url_path": "/articles/2026/09/effectiveness-of-pterygoid-dental-implants-in-the-complete-arch-rehabilitation-o/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42728299",
+      "pmid": "42728299",
+      "doi": "10.1038/s41415-026-9887-0",
+      "title": "Treating Stage IV periodontitis: the UK adolopment of the EFP Stage IV Periodontitis Treatment Guidelines.",
+      "url_path": "/articles/2026/09/treating-stage-iv-periodontitis-the-uk-adolopment-of-the-efp-stage-iv-periodonti/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42728007",
+      "pmid": "42728007",
+      "doi": "10.1016/j.soin.2026.07.012",
+      "title": "[Cognitive health in older adults: validated approaches to prevent decline and preserve autonomy].",
+      "url_path": "/articles/2026/09/cognitive-health-in-older-adults-validated-approaches-to-prevent-decline-and-pre/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
+    },
+    {
+      "id": "42727710",
+      "pmid": "42727710",
+      "doi": "10.1016/j.brainresbull.2026.112111",
+      "title": "Selective Neuroprotection in the ALS-FTD Spectrum: Mechanisms of Neuronal Resilience and Translational Perspectives.",
+      "url_path": "/articles/2026/09/selective-neuroprotection-in-the-als-ftd-spectrum-mechanisms-of-neuronal-resilie/",
+      "processed_at": "2026-09-12T10:03:54+00:00"
     }
   ]
 }

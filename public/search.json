@@ -50,6 +50,42 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "ALS-FTDスペクトラムにおける選択的神経保護:神経細胞の抵抗性メカニズムと臨床応用への視点",
+    "summary": "筋萎縮性側索硬化症(ALS)と前頭側頭型認知症(FTD)の連続体において、一部の神経細胞集団が選択的に温存される仕組みを、既存文献の統合により整理したレビュー論文です。",
+    "url": "/rehab-paper-digest/articles/2026/09/selective-neuroprotection-in-the-als-ftd-spectrum-mechanisms-of-neuronal-resilie/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42727710",
+    "doi": "10.1016/j.brainresbull.2026.112111",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "粟粒結核患者における脳MRI施行例からみた脳結核の頻度と臨床的特徴:単施設後方視的研究",
+    "summary": "粟粒結核患者のうち脳MRIを施行した例では約6割に脳結核所見が認められたが、MRI施行例には選択バイアスがあり、臨床所見のみでは脳病変の有無を判別できなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/cerebral-tuberculosis-among-elderly-patients-with-miliary-tuberculosis-undergoin/",
+    "categories": [
+      "神経疾患",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42727680",
+    "doi": "10.1016/j.ijid.2026.109113",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "無歯顎上顎の全顎補綴における翼状インプラントの有効性:システマティックレビュー・メタ解析",
+    "summary": "翼状インプラントは従来型インプラントと比較してインプラント脱落リスクが有意に高く、生存率もやや低いことがメタ解析で示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/effectiveness-of-pterygoid-dental-implants-in-the-complete-arch-rehabilitation-o/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42728116",
+    "doi": "10.1016/j.ijom.2026.08.036",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "ドイツにおける院外集中治療の実態調査:バーデン=ヴュルテンベルク州における新法制運用から見えた課題",
     "summary": "ドイツの新法制下で呼吸器専門医が評価した院外集中治療患者148例の後方視的検討で、離脱・リハビリテーションへのアクセスの重要性が示唆された。",
     "url": "/rehab-paper-digest/articles/2026/09/out-of-hospital-intensive-care-in-germany-who-s-out-there-key-issues-revealed-by/",
@@ -60,6 +96,56 @@
     "pmid": "42726674",
     "doi": "10.1159/res/aepag011",
     "published_date": "2026-09-11"
+  },
+  {
+    "title": "中国における遺伝性網膜疾患患者を対象とした全国横断調査",
+    "summary": "中国の遺伝性網膜疾患(IRD)患者2218名を対象とした横断調査により、診断の遅れ、高い誤診率、低い治療満足度、経済的制約など多面的な生活課題が明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/a-national-cross-sectional-study-of-patients-with-inherited-retinal-disease-in-c/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42728350",
+    "doi": "10.1038/s41598-026-70895-7",
+    "published_date": "2026-09-09"
+  },
+  {
+    "title": "高齢者の認知機能健康:認知機能低下を予防し自律性を維持するための検証済みアプローチ",
+    "summary": "在宅高齢者の認知機能低下予防について、身体活動・認知トレーニング・食事・社会交流を組み合わせた多因子介入を中心にメカニズムや評価ツール、既存プログラムを整理した総説です。",
+    "url": "/rehab-paper-digest/articles/2026/09/cognitive-health-in-older-adults-validated-approaches-to-prevent-decline-and-pre/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "認知機能"
+    ],
+    "pmid": "42728007",
+    "doi": "10.1016/j.soin.2026.07.012",
+    "published_date": "2026-09-01"
+  },
+  {
+    "title": "日本版抗コリン薬リスクスケール(JARS)と脳卒中後高齢患者の領域別機能予後との関連",
+    "summary": "脳卒中後高齢患者747例を対象に、日本版抗コリン薬リスクスケール(JARS)とADL・認知・嚥下・栄養・筋力の各予後との関連を検討した後ろ向きコホート研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/japanese-anticholinergic-risk-scale-and-domain-specific-functional-outcomes-in-o/",
+    "categories": [
+      "脳卒中",
+      "高齢者",
+      "認知機能",
+      "ADL"
+    ],
+    "pmid": "42728245",
+    "doi": "10.1111/ggi.70842",
+    "published_date": "2026-09-01"
+  },
+  {
+    "title": "Stage IV歯周炎の治療:欧州歯周病学連盟(EFP)Stage IVガイドラインの英国版適応(adolopment)",
+    "summary": "英国歯周病学会が、EFPによるStage IV歯周炎治療のS3臨床ガイドラインを英国向けに適応(adolopment)したプロセスと推奨内容を解説した論文である。",
+    "url": "/rehab-paper-digest/articles/2026/09/treating-stage-iv-periodontitis-the-uk-adolopment-of-the-efp-stage-iv-periodonti/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42728299",
+    "doi": "10.1038/s41415-026-9887-0",
+    "published_date": "2026-09-01"
   },
   {
     "title": "心不全患者のセルフケア支援を目的としたモバイルアプリケーションの効果に関する準実験的研究",

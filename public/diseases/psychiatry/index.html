@@ -4,19 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>精神科 | Rehab Paper Digest</title>
-  <meta name="description" content="精神科に関連する論文記事です。">
+  <meta name="description" content="精神科に関連する論文です。新しい順で表示しています。検索欄で、このカテゴリ内をさらに絞り込めます。">
   <link rel="canonical" href="https://bearorange0202.github.io/rehab-paper-digest/diseases/psychiatry/">
   <meta name="site-base-path" content="/rehab-paper-digest">
   <link rel="icon" href="/rehab-paper-digest/assets/favicon.svg" type="image/svg+xml">
   <link rel="alternate" type="application/rss+xml" title="Rehab Paper Digest RSS" href="/rehab-paper-digest/feed.xml">
   <meta property="og:type" content="website">
   <meta property="og:title" content="精神科 | Rehab Paper Digest">
-  <meta property="og:description" content="精神科に関連する論文記事です。">
+  <meta property="og:description" content="精神科に関連する論文です。新しい順で表示しています。検索欄で、このカテゴリ内をさらに絞り込めます。">
   <meta property="og:url" content="https://bearorange0202.github.io/rehab-paper-digest/diseases/psychiatry/">
   <meta property="og:site_name" content="Rehab Paper Digest">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="精神科 | Rehab Paper Digest">
-  <meta name="twitter:description" content="精神科に関連する論文記事です。">
+  <meta name="twitter:description" content="精神科に関連する論文です。新しい順で表示しています。検索欄で、このカテゴリ内をさらに絞り込めます。">
   <link rel="stylesheet" href="/rehab-paper-digest/assets/styles.css">
 </head>
 <body>
@@ -34,9 +34,19 @@
 
     <section class="page-heading">
       <h1>精神科</h1>
-      <p>精神科に関連する論文記事です。</p>
+      <p>精神科に関連する論文です。新しい順で表示しています。検索欄で、このカテゴリ内をさらに絞り込めます。</p>
     </section>
-    <section class="article-list">
+    <form class="list-tools" role="search">
+      <label for="searchInput">この一覧内を検索</label>
+      <input id="searchInput" type="search" placeholder="キーワード、カテゴリ、PMID">
+      <label for="sortSelect">並び替え</label>
+      <select id="sortSelect">
+        <option value="new">新しい順</option>
+        <option value="old">古い順</option>
+        <option value="score">スコア順</option>
+      </select>
+    </form>
+    <section class="article-list" id="searchResults" data-search-mode="local">
       <p class="empty">該当する記事はまだありません。</p>
     </section>
 

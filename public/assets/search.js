@@ -1,40 +1,38 @@
-async function bootSearch() {
+function bootSearch() {
   const input = document.querySelector('#searchInput');
   const results = document.querySelector('#searchResults');
+  const sort = document.querySelector('#sortSelect');
   if (!input || !results) return;
-  const original = results.innerHTML;
-  let items = [];
-  try {
-    const base = document.querySelector('meta[name="site-base-path"]')?.content || '';
-    const response = await fetch(`${base}/search.json`);
-    items = await response.json();
-  } catch {
-    return;
-  }
-  input.addEventListener('input', () => {
+  const emptyHtml = '<p class="empty">該当する記事はありません。</p>';
+  const originalCards = Array.from(results.querySelectorAll('.article-card')).map((card) => card.cloneNode(true));
+
+  function applyFilters() {
     const q = input.value.trim().toLowerCase();
-    if (!q) {
-      results.innerHTML = original;
+    const order = sort?.value || 'new';
+    const cards = originalCards
+      .filter((card) => !q || String(card.dataset.search || '').includes(q))
+      .sort((a, b) => compareCards(a, b, order));
+
+    results.replaceChildren();
+    if (!cards.length) {
+      results.innerHTML = emptyHtml;
       return;
     }
-    const matched = items.filter((item) => {
-      const haystack = [item.title, item.summary, item.pmid, item.doi, ...(item.categories || [])].join(' ').toLowerCase();
-      return haystack.includes(q);
-    }).slice(0, 30);
-    results.innerHTML = matched.length ? matched.map((item) => `
-      <article class="article-card">
-        <div class="meta-line">${escapeHtml(item.published_date || '')}</div>
-        <h2><a href="${escapeAttr(item.url)}">${escapeHtml(item.title)}</a></h2>
-        <p>${escapeHtml(item.summary || '')}</p>
-        <div class="tags">${(item.categories || []).map((c) => `<span class="tag">${escapeHtml(c)}</span>`).join('')}</div>
-      </article>
-    `).join('') : '<p class="empty">該当する記事はありません。</p>';
-  });
+    cards.forEach((card) => results.appendChild(card.cloneNode(true)));
+  }
+
+  input.addEventListener('input', applyFilters);
+  sort?.addEventListener('change', applyFilters);
+  applyFilters();
 }
-function escapeHtml(value) {
-  return String(value).replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-function escapeAttr(value) {
-  return escapeHtml(value).replace(/`/g, '&#96;');
+
+function compareCards(a, b, order) {
+  if (order === 'old') {
+    return String(a.dataset.date || '').localeCompare(String(b.dataset.date || ''));
+  }
+  if (order === 'score') {
+    return Number(b.dataset.score || 0) - Number(a.dataset.score || 0);
+  }
+  return String(b.dataset.date || '').localeCompare(String(a.dataset.date || ''));
 }
 bootSearch();
