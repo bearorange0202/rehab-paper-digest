@@ -72,6 +72,31 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "外傷性脳損傷研究における翻訳的非効率性:94,399件の文献からの証拠",
+    "summary": "94,399件の外傷性脳損傷関連文献を自然言語処理で解析した結果、無作為化比較試験の少なさや基礎研究と臨床応用の乖離など、研究エコシステム上の構造的な非効率性が明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/translational-inefficiencies-in-traumatic-brain-injury-research-evidence-from-94/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42725750",
+    "doi": "10.1227/neu.0000000000004208",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "ダウン症候群とアルツハイマー病:認知症および診断経路に対する本人・家族の理解と認識を探る質的研究",
+    "summary": "ダウン症候群のある人とその家族を対象にした質的研究で、認知症概念への理解はあるものの、診断経路への不安や家族内での話しにくさが明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/down-syndrome-and-alzheimer-s-disease-a-qualitative-study-exploring-understandin/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42725843",
+    "doi": "10.1111/jir.70173",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "単純ヘルペスウイルス1型と認知症発症の関連:実臨床電子カルテデータを用いた縦断的後ろ向きコホート研究",
     "summary": "大規模電子カルテデータを用いた後ろ向きコホート研究で、単純ヘルペスウイルス1型(HSV-1)診断歴のある患者は、ない患者と比較して軽度認知障害または認知症発症のハザード比が約1.14とわずかに高いことが示された。",
     "url": "/rehab-paper-digest/articles/2026/09/association-of-herpes-simplex-virus-type-1-with-dementia-outcomes-longitudinal-r/",
@@ -208,6 +233,19 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "脊髄損傷者に対するカヤックエルゴメーター訓練が体幹制御・自立度・心肺機能に与える効果",
+    "summary": "脊髄損傷者を対象に、カヤックエルゴメーター訓練と従来の体幹訓練を比較したランダム化比較試験で、カヤック訓練群に改善傾向がみられたが、補正後は統計的有意差は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-kayak-ergometer-training-on-trunk-control-independence-and-cardiovascu/",
+    "categories": [
+      "理学療法",
+      "神経疾患",
+      "ADL"
+    ],
+    "pmid": "42725712",
+    "doi": "10.1080/10790268.2026.2672832",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "ストレプトゾトシン誘発性認知症モデルラットの視床下部アストロサイト培養における細胞老化表現型",
     "summary": "ストレプトゾトシン誘発性認知症モデルラットから採取した視床下部アストロサイトの培養実験で、生体内で見られた変化に加え、細胞老化やSASP因子の増加が確認されました。",
     "url": "/rehab-paper-digest/articles/2026/09/the-senescent-phenotype-of-cultured-hypothalamic-astrocytes-from-rats-with-strep/",
@@ -234,6 +272,18 @@
     "published_date": "2026-09-11"
   },
   {
+    "title": "アミロイドβの役割再考:金属イオンと感染・免疫学的観点からの分子機序仮説",
+    "summary": "アルツハイマー病の原因として、アミロイドβを単なる毒性物質ではなく防御的なタンパク質断片と捉え直し、金属イオンや感染症との関連から新たな機序仮説を提示した理論的考察論文です。",
+    "url": "/rehab-paper-digest/articles/2026/09/revisiting-the-role-of-amyloid-a-molecular-and-immunological-perspective/",
+    "categories": [
+      "認知症",
+      "神経疾患"
+    ],
+    "pmid": "42725888",
+    "doi": "10.1177/13872877261484863",
+    "published_date": "2026-09-11"
+  },
+  {
     "title": "ドイツにおける院外集中治療の実態調査:バーデン=ヴュルテンベルク州における新法制運用から見えた課題",
     "summary": "ドイツの新法制下で呼吸器専門医が評価した院外集中治療患者148例の後方視的検討で、離脱・リハビリテーションへのアクセスの重要性が示唆された。",
     "url": "/rehab-paper-digest/articles/2026/09/out-of-hospital-intensive-care-in-germany-who-s-out-there-key-issues-revealed-by/",
@@ -254,6 +304,20 @@
     ],
     "pmid": "42727886",
     "doi": "10.1016/j.jisako.2026.101215",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "思春期特発性側弯症における床反力の左右非対称性と脊柱アライメントの関連:後方視的観察研究",
+    "summary": "思春期特発性側弯症患者180名を対象に、歩行時の左右荷重非対称性と脊柱・骨盤アライメント指標との関連を検討したところ、骨盤傾斜が非対称分類と関連し、非対称の程度はCobb角単独ではなく複数の脊柱骨盤パラメータの組み合わせを反映していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/ground-reaction-force-loading-asymmetry-and-spinal-alignment-in-adolescents-with/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "小児",
+      "歩行"
+    ],
+    "pmid": "42725988",
+    "doi": "10.1177/10538127261488146",
     "published_date": "2026-09-11"
   },
   {
@@ -304,6 +368,19 @@
     ],
     "pmid": "42726093",
     "doi": "10.1177/21925682261489579",
+    "published_date": "2026-09-11"
+  },
+  {
+    "title": "認知症高齢者におけるウェルビーイングへの歌唱活動と会話活動の比較:クロスオーバー・パイロット研究",
+    "summary": "認知症のある施設入居者15名を対象に歌唱活動と会話活動を比較したパイロット研究で、歌唱は介護者負担を軽減し、会話は本人のウェルビーイングを高める傾向が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/singing-versus-conversation-for-wellbeing-in-dementia-a-cross-over-pilot-study/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42725922",
+    "doi": "10.1177/13872877261485601",
     "published_date": "2026-09-11"
   },
   {

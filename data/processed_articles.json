@@ -1,5 +1,11 @@
 {
   "ids": [
+    "42725712",
+    "42725750",
+    "42725843",
+    "42725888",
+    "42725922",
+    "42725988",
     "42725989",
     "42726040",
     "42726081",
@@ -343,6 +349,54 @@
       "title": "Peripheral Nerve Stimulation of C2-C3 Nerves for Management of Headaches: A Description of a Novel Technique.",
       "url_path": "/articles/2026/09/peripheral-nerve-stimulation-of-c2-c3-nerves-for-management-of-headaches-a-descr/",
       "processed_at": "2026-09-12T16:09:52+00:00"
+    },
+    {
+      "id": "42725750",
+      "pmid": "42725750",
+      "doi": "10.1227/neu.0000000000004208",
+      "title": "Translational Inefficiencies in Traumatic Brain Injury Research: Evidence From 94 399 Publications.",
+      "url_path": "/articles/2026/09/translational-inefficiencies-in-traumatic-brain-injury-research-evidence-from-94/",
+      "processed_at": "2026-09-12T16:18:00+00:00"
+    },
+    {
+      "id": "42725988",
+      "pmid": "42725988",
+      "doi": "10.1177/10538127261488146",
+      "title": "Ground reaction force loading asymmetry and spinal alignment in adolescents with idiopathic scoliosis: A retrospective observational study.",
+      "url_path": "/articles/2026/09/ground-reaction-force-loading-asymmetry-and-spinal-alignment-in-adolescents-with/",
+      "processed_at": "2026-09-12T16:18:00+00:00"
+    },
+    {
+      "id": "42725843",
+      "pmid": "42725843",
+      "doi": "10.1111/jir.70173",
+      "title": "Down Syndrome and Alzheimer's Disease: A Qualitative Study Exploring Understanding and Perceptions of Dementia and Diagnostic Pathways Among People With Down Syndrome and Their Families.",
+      "url_path": "/articles/2026/09/down-syndrome-and-alzheimer-s-disease-a-qualitative-study-exploring-understandin/",
+      "processed_at": "2026-09-12T16:18:00+00:00"
+    },
+    {
+      "id": "42725712",
+      "pmid": "42725712",
+      "doi": "10.1080/10790268.2026.2672832",
+      "title": "Effect of kayak ergometer training on trunk control, independence, and cardiovascular fitness in individuals with a spinal cord injury.",
+      "url_path": "/articles/2026/09/effect-of-kayak-ergometer-training-on-trunk-control-independence-and-cardiovascu/",
+      "processed_at": "2026-09-12T16:18:00+00:00"
+    },
+    {
+      "id": "42725922",
+      "pmid": "42725922",
+      "doi": "10.1177/13872877261485601",
+      "title": "Singing versus conversation for wellbeing in dementia: A cross-over pilot study.",
+      "url_path": "/articles/2026/09/singing-versus-conversation-for-wellbeing-in-dementia-a-cross-over-pilot-study/",
+      "processed_at": "2026-09-12T16:18:00+00:00"
+    },
+    {
+      "id": "42725888",
+      "pmid": "42725888",
+      "doi": "10.1177/13872877261484863",
+      "title": "Revisiting the role of amyloid-β: A molecular and immunological perspective.",
+      "url_path": "/articles/2026/09/revisiting-the-role-of-amyloid-a-molecular-and-immunological-perspective/",
+      "processed_at": "2026-09-12T16:18:00+00:00"
     }
   ]
 }
