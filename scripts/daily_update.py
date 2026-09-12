@@ -1312,6 +1312,7 @@ dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
 """
     script = """
 function bootSearch() {
+  const form = document.querySelector('.list-tools');
   const input = document.querySelector('#searchInput');
   const results = document.querySelector('#searchResults');
   const sort = document.querySelector('#sortSelect');
@@ -1334,6 +1335,10 @@ function bootSearch() {
     cards.forEach((card) => results.appendChild(card.cloneNode(true)));
   }
 
+  form?.addEventListener('submit', (event) => {
+    event.preventDefault();
+    applyFilters();
+  });
   input.addEventListener('input', applyFilters);
   sort?.addEventListener('change', applyFilters);
   applyFilters();
