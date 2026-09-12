@@ -628,6 +628,7 @@ def generate_article_with_claude(
 ) -> dict[str, Any]:
     prompt = f"""
 以下の論文について、一般の医療職が短時間で理解できる日本語記事用の構造化JSONを作成してください。
+本文はアブストラクトに近い項目立てで、背景・目的、対象、方法、結果、臨床的示唆、限界が自然に読めるようにしてください。
 カテゴリは次の候補から選んでください: {", ".join(categories)}
 scoreには、事前評価JSONをそのまま反映してください。
 
@@ -774,11 +775,11 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 - PMID: {paper.pmid or "抄録には記載されていません"}
 - 原著論文へのリンク: {paper.source_url or paper.pubmed_url}
 
-## 要約
+## 概要
 
 {article["one_sentence_summary"]}
 
-## 背景
+## 背景・目的
 
 {article["background"]}
 
@@ -794,11 +795,11 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 
 {article["results"]}
 
-## 臨床での読み方
+## 臨床的示唆
 
 {article["clinical_meaning"]}
 
-## 注意点
+## 限界
 
 {limitations}
 
@@ -940,8 +941,6 @@ def page_shell(config: dict[str, Any], title: str, description: str, path: str, 
 def article_card(config: dict[str, Any], article: dict[str, Any]) -> str:
     m = article["metadata"]
     cats = "".join(f'<span class="tag">{html.escape(c)}</span>' for c in m.get("categories", []))
-    score = m.get("score", {}).get("total_score", "")
-    score_text = f'<span class="score">Score {float(score):.1f}</span>' if isinstance(score, (int, float)) else ""
     search_text = " ".join(
         str(value)
         for value in [
@@ -954,16 +953,26 @@ def article_card(config: dict[str, Any], article: dict[str, Any]) -> str:
             " ".join(m.get("categories", [])),
         ]
     ).lower()
-    data_score = float(score) if isinstance(score, (int, float)) else 0.0
     return f"""
-<article class="article-card" data-search="{html.escape(search_text, quote=True)}" data-date="{html.escape(m.get("published_date", ""), quote=True)}" data-score="{data_score:.3f}">
-  <div class="meta-line">{html.escape(m.get("published_date", ""))} {score_text}</div>
+<article class="article-card" data-search="{html.escape(search_text, quote=True)}" data-date="{html.escape(m.get("published_date", ""), quote=True)}">
+  <div class="meta-line">{html.escape(m.get("published_date", ""))}</div>
   <h2><a href="{html.escape(public_path(config, m.get("url_path", "#")))}">{html.escape(m.get("title", ""))}</a></h2>
   <p class="original-title">{html.escape(m.get("original_title", ""))}</p>
   <p>{html.escape(m.get("summary", ""))}</p>
   <div class="tags">{cats}</div>
 </article>
 """
+
+
+def lookup_journal_impact_factor(config: dict[str, Any], journal: str) -> str:
+    table = config.get("journal_impact_factors", {}) or {}
+    if not isinstance(table, dict) or not journal:
+        return ""
+    normalized_journal = normalize_space(str(journal)).casefold()
+    for name, value in table.items():
+        if normalize_space(str(name)).casefold() == normalized_journal and str(value).strip():
+            return str(value).strip()
+    return ""
 
 
 def render_index(config: dict[str, Any], articles: list[dict[str, Any]]) -> None:
@@ -984,7 +993,6 @@ def render_index(config: dict[str, Any], articles: list[dict[str, Any]]) -> None
         <select id="sortSelect">
           <option value="new">新しい順</option>
           <option value="old">古い順</option>
-          <option value="score">スコア順</option>
         </select>
       </form>
     </section>
@@ -1024,7 +1032,6 @@ def render_listing(config: dict[str, Any], articles: list[dict[str, Any]], path:
       <select id="sortSelect">
         <option value="new">新しい順</option>
         <option value="old">古い順</option>
-        <option value="score">スコア順</option>
       </select>
     </form>
     <section class="article-list" id="searchResults" data-search-mode="local">
@@ -1101,7 +1108,10 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
         )
         limitations = "".join(f"<li>{html.escape(item)}</li>" for item in m.get("limitations", [])) or "<li>抄録から判断できる明確な限界は記載されていません。</li>"
         source_link = m.get("source_url") or m.get("pubmed_url") or "#"
-        score = m.get("score", {})
+        impact_factor = lookup_journal_impact_factor(config, m.get("journal", ""))
+        impact_factor_row = ""
+        if impact_factor:
+            impact_factor_row = f"\n          <dt>Impact Factor</dt><dd>{html.escape(impact_factor)}</dd>"
         json_ld = {
             "@context": "https://schema.org",
             "@type": "Article",
@@ -1128,31 +1138,20 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
         <dl>
           <dt>Original title</dt><dd>{html.escape(m.get("original_title", ""))}</dd>
           <dt>著者</dt><dd>{html.escape(", ".join(m.get("authors", [])) or "抄録には記載されていません")}</dd>
-          <dt>雑誌名</dt><dd>{html.escape(m.get("journal", "") or "抄録には記載されていません")}</dd>
+          <dt>雑誌名</dt><dd>{html.escape(m.get("journal", "") or "抄録には記載されていません")}</dd>{impact_factor_row}
           <dt>DOI</dt><dd>{html.escape(m.get("doi", "") or "抄録には記載されていません")}</dd>
           <dt>PMID</dt><dd>{html.escape(m.get("pmid", "") or "抄録には記載されていません")}</dd>
         </dl>
         <a class="button" href="{html.escape(source_link)}" rel="noopener noreferrer">原著論文を確認する</a>
       </section>
 
-      <section><h2>背景</h2><p>{html.escape(m.get("background", ""))}</p></section>
+      <section><h2>背景・目的</h2><p>{html.escape(m.get("background", ""))}</p></section>
       <section><h2>対象</h2><p>{html.escape(m.get("participants", ""))}</p></section>
       <section><h2>方法</h2><p>{html.escape(m.get("methods", ""))}</p></section>
       <div class="ad-slot" data-slot="article-middle">広告枠</div>
       <section><h2>結果</h2><p>{html.escape(m.get("results", ""))}</p></section>
-      <section><h2>臨床での読み方</h2><p>{html.escape(m.get("clinical_meaning", ""))}</p></section>
-      <section><h2>注意点</h2><ul>{limitations}</ul></section>
-      <section class="score-box">
-        <h2>掲載価値スコア</h2>
-        <dl>
-          <dt>臨床的重要性</dt><dd>{score.get("clinical_importance", "-")}</dd>
-          <dt>新規性</dt><dd>{score.get("novelty", "-")}</dd>
-          <dt>有用性</dt><dd>{score.get("usefulness", "-")}</dd>
-          <dt>研究デザイン</dt><dd>{score.get("design_strength", "-")}</dd>
-          <dt>読者関心</dt><dd>{score.get("reader_interest", "-")}</dd>
-          <dt>総合</dt><dd>{score.get("total_score", "-")}</dd>
-        </dl>
-      </section>
+      <section><h2>臨床的示唆</h2><p>{html.escape(m.get("clinical_meaning", ""))}</p></section>
+      <section><h2>限界</h2><ul>{limitations}</ul></section>
       <div class="ad-slot" data-slot="article-bottom">広告枠</div>
       <p class="disclaimer">{html.escape(m.get("disclaimer", DISCLAIMER))}</p>
       <script type="application/ld+json">{json_ld_text}</script>
@@ -1281,7 +1280,6 @@ input[type="search"] { width: 100%; border: 1px solid var(--line); border-radius
 .article-card h2 a { color: var(--ink); }
 .article-card p { color: var(--muted); margin: 0 0 14px; }
 .original-title { color: var(--muted); font-size: .95rem; font-style: italic; line-height: 1.55; }
-.score { margin-left: 10px; color: var(--accent); }
 .tags, .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
 .tag, .tag-link { display: inline-flex; align-items: center; min-height: 30px; padding: 4px 10px; border-radius: 999px; background: var(--soft); color: var(--accent); text-decoration: none; font-size: .9rem; }
 .side-panel { display: grid; align-content: start; gap: 18px; }
@@ -1291,8 +1289,8 @@ input[type="search"] { width: 100%; border: 1px solid var(--line); border-radius
 .article-page { width: min(820px, 100%); margin: 0 auto; padding: 44px 0 64px; }
 .article-page h1 { font-size: clamp(1.9rem, 4vw, 3rem); }
 .lead { font-size: 1.15rem; color: var(--muted); }
-.article-page section, .source-box, .score-box { margin: 28px 0; }
-.source-box, .score-box { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 22px; }
+.article-page section, .source-box { margin: 28px 0; }
+.source-box { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 22px; }
 dl { display: grid; grid-template-columns: 130px minmax(0, 1fr); gap: 8px 16px; margin: 0; }
 dt { color: var(--muted); font-weight: 700; }
 dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
@@ -1344,9 +1342,6 @@ function bootSearch() {
 function compareCards(a, b, order) {
   if (order === 'old') {
     return String(a.dataset.date || '').localeCompare(String(b.dataset.date || ''));
-  }
-  if (order === 'score') {
-    return Number(b.dataset.score || 0) - Number(a.dataset.score || 0);
   }
   return String(b.dataset.date || '').localeCompare(String(a.dataset.date || ''));
 }
