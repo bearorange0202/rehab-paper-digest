@@ -1,4 +1,78 @@
 {
-  "ids": [],
-  "records": []
+  "ids": [
+    "42726518",
+    "42726674",
+    "42726707",
+    "42726743",
+    "42726796",
+    "42726907",
+    "42727035",
+    "42727071"
+  ],
+  "records": [
+    {
+      "id": "42727071",
+      "pmid": "42727071",
+      "doi": "10.2196/83028",
+      "title": "Association of Herpes Simplex Virus Type-1 With Dementia Outcomes: Longitudinal Retrospective Cohort Study Using Real-World Electronic Health Record Data.",
+      "url_path": "/articles/2026/09/association-of-herpes-simplex-virus-type-1-with-dementia-outcomes-longitudinal-r/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42726674",
+      "pmid": "42726674",
+      "doi": "10.1159/res/aepag011",
+      "title": "Out-of-Hospital Intensive Care in Germany - who´s out there? Key issues revealed by the clinical application of the new legislation in Baden Württemberg.",
+      "url_path": "/articles/2026/09/out-of-hospital-intensive-care-in-germany-who-s-out-there-key-issues-revealed-by/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42727035",
+      "pmid": "42727035",
+      "doi": "10.1212/CPJ.0000000000200652",
+      "title": "The AIMS Clinic Model: A Retrospective Analysis of Interdisciplinary Movement-Neuropalliative Care for People With Late-Stage Parkinsonism.",
+      "url_path": "/articles/2026/10/the-aims-clinic-model-a-retrospective-analysis-of-interdisciplinary-movement-neu/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42726907",
+      "pmid": "42726907",
+      "doi": "10.1080/17482631.2026.2731703",
+      "title": "Patients' conceptions of opting out of group-based education for type 2 diabetes in Swedish primary care - a phenomenographic interview study.",
+      "url_path": "/articles/2026/12/patients-conceptions-of-opting-out-of-group-based-education-for-type-2-diabetes/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42726796",
+      "pmid": "42726796",
+      "doi": "10.2196/91767",
+      "title": "Digital Health Use and Interest in Virtual Cardiac Rehabilitation Among Cardiac Inpatients: Cross-Sectional Study.",
+      "url_path": "/articles/2026/09/digital-health-use-and-interest-in-virtual-cardiac-rehabilitation-among-cardiac/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42726743",
+      "pmid": "42726743",
+      "doi": "10.1371/journal.pone.0357983",
+      "title": "Impact of visual mouth image presentation on speech perception in noise in normal hearing subjects and cochlear implant users.",
+      "url_path": "/articles/2026/01/impact-of-visual-mouth-image-presentation-on-speech-perception-in-noise-in-norma/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42726707",
+      "pmid": "42726707",
+      "doi": "10.1371/journal.pone.0357959",
+      "title": "Culturally grounded health communication to support self-care among pregnant women with diabetes: Development and content validation of an educational cordel in Brazil.",
+      "url_path": "/articles/2026/01/culturally-grounded-health-communication-to-support-self-care-among-pregnant-wom/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    },
+    {
+      "id": "42726518",
+      "pmid": "42726518",
+      "doi": "10.1590/1980-220X-REEUSP-2025-0537en",
+      "title": "Mobile application for self-care in people with heart failure: a quasi-experimental study.",
+      "url_path": "/articles/2026/01/mobile-application-for-self-care-in-people-with-heart-failure-a-quasi-experiment/",
+      "processed_at": "2026-09-12T01:47:03+00:00"
+    }
+  ]
 }
