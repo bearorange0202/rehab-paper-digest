@@ -588,6 +588,7 @@ SYSTEM_PROMPT = """
 結果、対象者数、統計値、因果関係を補完・誇張してはいけません。
 抄録に情報がない項目は、本文中に「記載されていません」「不明です」と補足しないでください。
 ただし研究解釈に重要な不足情報だけは、最後の限界に短く含めてください。
+年齢・性別・罹病期間などの属性がないというだけの記載は、対象にも限界にも入れないでください。
 医学的助言、診断、治療指示として読める表現は避けてください。
 煽り表現は禁止です。
 """.strip()
@@ -633,6 +634,7 @@ def generate_article_with_claude(
 本文はアブストラクトに近い項目立てで、背景・目的、対象、方法、結果、臨床的示唆、限界が自然に読めるようにしてください。
 対象は抄録から確認できる集団・人数・条件だけを書いてください。年齢、性別などの詳細属性が抄録にない場合は、その欠落を対象欄に書かないでください。
 抄録にない情報を「記載されていません」「不明です」と項目埋めのために書かないでください。
+限界には、単に年齢・性別・罹病期間などの属性が抄録にないというだけの記載を入れないでください。
 カテゴリは次の候補から選んでください: {", ".join(categories)}
 scoreには、事前評価JSONをそのまま反映してください。
 
@@ -666,8 +668,25 @@ def normalize_article(result: dict[str, Any], evaluation: dict[str, Any], catego
         normalized[key] = safe_article_text(str(normalized.get(key) or "抄録には記載されていません"))
     normalized["participants"] = clean_missing_info_text(str(normalized.get("participants") or ""))
     limitations = normalized.get("limitations") or []
-    normalized["limitations"] = [safe_article_text(str(item)) for item in limitations if str(item).strip()]
+    normalized["limitations"] = clean_limitations(limitations)
     return normalized
+
+
+def clean_limitations(items: list[Any]) -> list[str]:
+    cleaned = []
+    for item in items:
+        text = safe_article_text(str(item))
+        if is_generic_missing_attribute_text(text):
+            continue
+        cleaned.append(text)
+    return cleaned
+
+
+def is_generic_missing_attribute_text(value: str) -> bool:
+    text = normalize_space(value)
+    if not re.search(r"(記載されていません|記載されていない|記載はありません|不明です|不明である)", text):
+        return False
+    return bool(re.search(r"(年齢|性別|属性|罹病期間|背景情報|地域特性|詳細情報)", text))
 
 
 def clean_missing_info_text(value: str) -> str:
@@ -680,7 +699,7 @@ def clean_missing_info_text(value: str) -> str:
         text = sentence.strip()
         if not text:
             continue
-        if re.search(r"(記載されていません|記載はありません|不明です|不明である)", text):
+        if re.search(r"(記載されていません|記載されていない|記載はありません|不明です|不明である)", text):
             continue
         kept.append(text)
     return normalize_space("".join(kept))
@@ -1125,7 +1144,8 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
             f'<a class="tag" href="{public_path(config, f"/categories/{slugify(c, c)}/")}">{html.escape(c)}</a>'
             for c in m.get("categories", [])
         )
-        limitations = "".join(f"<li>{html.escape(item)}</li>" for item in m.get("limitations", [])) or "<li>抄録から判断できる明確な限界は記載されていません。</li>"
+        limitations_items = clean_limitations(m.get("limitations", []))
+        limitations = "".join(f"<li>{html.escape(item)}</li>" for item in limitations_items) or "<li>抄録から判断できる明確な限界は記載されていません。</li>"
         source_link = m.get("source_url") or m.get("pubmed_url") or "#"
         impact_factor = lookup_journal_impact_factor(config, m.get("journal", ""))
         impact_factor_row = ""
