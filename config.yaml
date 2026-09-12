@@ -1,7 +1,7 @@
 site:
   name: "Rehab Paper Digest"
   description: "医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。"
-  url: "https://YOUR_GITHUB_USERNAME.github.io"
+  url: "https://bearorange0202.github.io"
   base_path: "/rehab-paper-digest"
   max_articles_per_day: 8
   homepage_items: 10
