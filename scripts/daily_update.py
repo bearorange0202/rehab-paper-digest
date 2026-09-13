@@ -41,7 +41,7 @@ DATA_DIR = PROJECT_ROOT / "data"
 CONTENT_DIR = PROJECT_ROOT / "content" / "articles"
 PUBLIC_DIR = PROJECT_ROOT / "public"
 PROCESSED_PATH = DATA_DIR / "processed_articles.json"
-ASSET_VERSION = "20260913-article-layout"
+ASSET_VERSION = "20260913-all-card-search"
 DISCLAIMER = (
     "本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。"
     "診断・治療等の医学的助言を目的とするものではありません。"
