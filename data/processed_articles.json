@@ -62,7 +62,13 @@
     "42731357",
     "42731691",
     "42731827",
-    "42731832"
+    "42731832",
+    "42732269",
+    "42732557",
+    "42732615",
+    "42732640",
+    "42732641",
+    "42732644"
   ],
   "records": [
     {
@@ -568,6 +574,54 @@
       "title": "Continuous glucose monitoring in older inpatients with type 2 diabetes and cognitive impairment: an open single-arm feasibility study.",
       "url_path": "/articles/2026/09/continuous-glucose-monitoring-in-older-inpatients-with-type-2-diabetes-and-cogni/",
       "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42732557",
+      "pmid": "42732557",
+      "doi": "10.1002/msc.70262",
+      "title": "Prevalence of Strength Deficits of Core and Hip Stabilizers in Knee Osteoarthritis: A Cross-Sectional Study.",
+      "url_path": "/articles/2026/09/prevalence-of-strength-deficits-of-core-and-hip-stabilizers-in-knee-osteoarthrit/",
+      "processed_at": "2026-09-13T22:45:03+00:00"
+    },
+    {
+      "id": "42732269",
+      "pmid": "42732269",
+      "doi": "10.1177/23259671261477946",
+      "title": "Recovery Trajectory of Range of Motion and Its Association With Patient Factors During Early Postoperative Stiffness After Arthroscopic Rotator Cuff Repair.",
+      "url_path": "/articles/2026/09/recovery-trajectory-of-range-of-motion-and-its-association-with-patient-factors/",
+      "processed_at": "2026-09-13T22:45:03+00:00"
+    },
+    {
+      "id": "42732640",
+      "pmid": "42732640",
+      "doi": "10.65717/iao.2026.252241",
+      "title": "Auditory and Language Development in Children with White Matter Diffused Lesions Using Cochlear Implants.",
+      "url_path": "/articles/2026/08/auditory-and-language-development-in-children-with-white-matter-diffused-lesions/",
+      "processed_at": "2026-09-13T22:45:03+00:00"
+    },
+    {
+      "id": "42732615",
+      "pmid": "42732615",
+      "doi": "10.1080/17483107.2026.2721780",
+      "title": "R2Play-Rehab: co-designing a multidomain integrative active rehabilitation tool for concussion.",
+      "url_path": "/articles/2026/09/r2play-rehab-co-designing-a-multidomain-integrative-active-rehabilitation-tool-f/",
+      "processed_at": "2026-09-13T22:45:03+00:00"
+    },
+    {
+      "id": "42732644",
+      "pmid": "42732644",
+      "doi": "10.65717/iao.2026.252185",
+      "title": "Clinical Significance of Neuro-Otological Examinations in Persistent Postural-Perceptual Dizziness: A Retrospective Study.",
+      "url_path": "/articles/2026/08/clinical-significance-of-neuro-otological-examinations-in-persistent-postural-pe/",
+      "processed_at": "2026-09-13T22:45:03+00:00"
+    },
+    {
+      "id": "42732641",
+      "pmid": "42732641",
+      "doi": "10.65717/iao.2026.262348",
+      "title": "Candidates for Revision Tympanoplasty and Implantable Hearing Devices in Cases of Postoperative Hearing Failure in Cholesteatoma.",
+      "url_path": "/articles/2026/08/candidates-for-revision-tympanoplasty-and-implantable-hearing-devices-in-cases-o/",
+      "processed_at": "2026-09-13T22:45:03+00:00"
     }
   ]
 }
