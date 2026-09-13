@@ -41,7 +41,7 @@ DATA_DIR = PROJECT_ROOT / "data"
 CONTENT_DIR = PROJECT_ROOT / "content" / "articles"
 PUBLIC_DIR = PROJECT_ROOT / "public"
 PROCESSED_PATH = DATA_DIR / "processed_articles.json"
-ASSET_VERSION = "20260913-all-card-search"
+ASSET_VERSION = "20260913-date-category-search"
 DISCLAIMER = (
     "本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。"
     "診断・治療等の医学的助言を目的とするものではありません。"
@@ -75,6 +75,7 @@ class Paper:
     authors: list[str] = field(default_factory=list)
     journal: str = ""
     published_date: str = ""
+    online_publication_date: str = ""
     doi: str = ""
     publication_types: list[str] = field(default_factory=list)
     pubmed_url: str = ""
@@ -311,6 +312,7 @@ def parse_pubmed_xml(xml_text: str) -> list[Paper]:
         abstract = collect_abstract(article)
         journal = collect_text(article.find("Journal/Title")) or collect_text(article.find("Journal/ISOAbbreviation"))
         published_date = parse_pub_date(article.find("Journal/JournalIssue/PubDate"))
+        online_publication_date = parse_online_publication_date(article_node, article)
         authors = collect_authors(article)
         doi = collect_doi(article_node)
         pub_types = [collect_text(node) for node in article.findall(".//PublicationType")]
@@ -324,6 +326,7 @@ def parse_pubmed_xml(xml_text: str) -> list[Paper]:
                 authors=authors,
                 journal=normalize_space(journal),
                 published_date=published_date,
+                online_publication_date=online_publication_date,
                 doi=doi,
                 publication_types=[p for p in pub_types if p],
                 pubmed_url=pubmed_url,
@@ -377,6 +380,22 @@ def collect_doi(article_node: ET.Element) -> str:
     for node in article_node.findall(".//ELocationID"):
         if node.attrib.get("EIdType") == "doi" and node.text:
             return node.text.strip()
+    return ""
+
+
+def parse_online_publication_date(article_node: ET.Element, article: ET.Element) -> str:
+    for node in article.findall("ArticleDate"):
+        parsed = parse_pub_date(node)
+        if parsed:
+            return parsed
+    history = article_node.find("PubmedData/History")
+    if history is not None:
+        for status in ("aheadofprint", "epublish"):
+            for node in history.findall("PubMedPubDate"):
+                if node.attrib.get("PubStatus") == status:
+                    parsed = parse_pub_date(node)
+                    if parsed:
+                        return parsed
     return ""
 
 
@@ -601,6 +620,7 @@ def paper_payload(paper: Paper) -> str:
             "authors": paper.authors,
             "journal": paper.journal,
             "published_date": paper.published_date,
+            "online_publication_date": paper.online_publication_date,
             "doi": paper.doi,
             "pmid": paper.pmid,
             "publication_types": paper.publication_types,
@@ -768,14 +788,21 @@ def slugify(title: str, fallback: str) -> str:
 
 
 def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.datetime) -> str:
-    published = paper.published_date or now.date().isoformat()
+    issue_date = paper.published_date
+    online_date = paper.online_publication_date
+    published = article_sort_date(
+        {"online_publication_date": online_date, "published_date": issue_date, "generated_at": now.isoformat(timespec="seconds")},
+        now.date(),
+    )
     year, month = published[:4], published[5:7] if len(published) >= 7 else "01"
     metadata = {
         "title": article["title_ja"],
         "original_title": paper.title,
         "authors": paper.authors,
         "journal": paper.journal,
-        "published_date": published,
+        "published_date": issue_date,
+        "online_publication_date": online_date,
+        "sort_date": published,
         "generated_at": now.isoformat(timespec="seconds"),
         "updated_at": now.isoformat(timespec="seconds"),
         "doi": paper.doi,
@@ -811,7 +838,8 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 - Original title: {paper.title}
 - 著者: {", ".join(paper.authors) if paper.authors else "抄録には記載されていません"}
 - 雑誌名: {paper.journal or "抄録には記載されていません"}
-- 出版年月日: {published}
+- 公開日: {online_date or "記載されていません"}
+- 発行日: {issue_date or "記載されていません"}
 - DOI: {paper.doi or "抄録には記載されていません"}
 - PMID: {paper.pmid or "抄録には記載されていません"}
 - 原著論文へのリンク: {paper.source_url or paper.pubmed_url}
@@ -850,7 +878,14 @@ def article_markdown(paper: Paper, article: dict[str, Any], slug: str, now: dt.d
 
 
 def write_article(paper: Paper, article: dict[str, Any], now: dt.datetime) -> tuple[Path, dict[str, Any]]:
-    published = paper.published_date or now.date().isoformat()
+    published = article_sort_date(
+        {
+            "online_publication_date": paper.online_publication_date,
+            "published_date": paper.published_date,
+            "generated_at": now.isoformat(timespec="seconds"),
+        },
+        now.date(),
+    )
     year = published[:4] if len(published) >= 4 else str(now.year)
     month = published[5:7] if len(published) >= 7 else f"{now.month:02d}"
     slug = slugify(paper.title, paper.identifier)
@@ -884,14 +919,96 @@ def load_articles() -> list[dict[str, Any]]:
             articles.append(parse_article_file(path))
         except Exception as exc:
             log(f"Skip broken article {path}: {exc}")
-    articles.sort(key=lambda item: item["metadata"].get("published_date", ""), reverse=True)
+    articles.sort(key=lambda item: article_sort_date(item["metadata"]), reverse=True)
     return articles
+
+
+def is_iso_date(value: str) -> bool:
+    try:
+        dt.date.fromisoformat(value[:10])
+        return True
+    except ValueError:
+        return False
+
+
+def is_future_date(value: str, today: dt.date | None = None) -> bool:
+    if not value or not is_iso_date(value):
+        return False
+    today = today or dt.date.today()
+    return dt.date.fromisoformat(value[:10]) > today
+
+
+def article_sort_date(metadata: dict[str, Any], today: dt.date | None = None) -> str:
+    today = today or dt.date.today()
+    online_date = str(metadata.get("online_publication_date") or "")
+    if online_date:
+        return online_date[:10]
+    issue_date = str(metadata.get("published_date") or "")
+    if issue_date and not is_future_date(issue_date, today):
+        return issue_date[:10]
+    generated_date = str(metadata.get("generated_at") or "")[:10]
+    if is_iso_date(generated_date):
+        return generated_date
+    return today.isoformat()
+
+
+def article_date_label(metadata: dict[str, Any]) -> str:
+    online_date = str(metadata.get("online_publication_date") or "")[:10]
+    issue_date = str(metadata.get("published_date") or "")[:10]
+    parts = []
+    if online_date:
+        parts.append(f"公開日 {online_date}")
+    if issue_date and issue_date != online_date:
+        parts.append(f"発行日 {issue_date}")
+    return " / ".join(parts)
+
+
+def rewrite_article_metadata(article: dict[str, Any]) -> None:
+    path = article["path"]
+    metadata = article["metadata"]
+    body = article["body"]
+    front_matter = json.dumps(metadata, ensure_ascii=False, indent=2)
+    path.write_text(f"---\n{front_matter}\n---\n\n{body}\n", encoding="utf-8")
+
+
+def backfill_article_dates(config: dict[str, Any], articles: list[dict[str, Any]]) -> None:
+    pmids = sorted({
+        str(article["metadata"].get("pmid") or "")
+        for article in articles
+        if article["metadata"].get("pmid")
+        and (not article["metadata"].get("online_publication_date") or not article["metadata"].get("sort_date"))
+    })
+    papers_by_pmid: dict[str, Paper] = {}
+    if pmids:
+        try:
+            papers_by_pmid = {paper.pmid: paper for paper in PubMedClient(config).fetch_details(pmids)}
+        except Exception as exc:
+            log(f"date_backfill_skipped error={type(exc).__name__}")
+    changed = 0
+    today = dt.date.today()
+    for article in articles:
+        metadata = article["metadata"]
+        original = dict(metadata)
+        paper = papers_by_pmid.get(str(metadata.get("pmid") or ""))
+        if paper:
+            if paper.online_publication_date:
+                metadata["online_publication_date"] = paper.online_publication_date
+            if paper.published_date:
+                metadata["published_date"] = paper.published_date
+        metadata["sort_date"] = article_sort_date(metadata, today)
+        if metadata != original:
+            rewrite_article_metadata(article)
+            changed += 1
+    if changed:
+        log(f"date_backfilled articles={changed}")
+    articles.sort(key=lambda item: article_sort_date(item["metadata"], today), reverse=True)
 
 
 def render_site(config: dict[str, Any]) -> None:
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
     (PUBLIC_DIR / "assets").mkdir(parents=True, exist_ok=True)
     articles = load_articles()
+    backfill_article_dates(config, articles)
     write_static_assets(config)
     render_index(config, articles)
     render_listing(config, articles, PUBLIC_DIR / "articles" / "index.html", "新着論文", "公開済みの記事を新しい順に掲載しています。")
@@ -991,9 +1108,11 @@ def article_card(config: dict[str, Any], article: dict[str, Any]) -> str:
             " ".join(m.get("categories", [])),
         ]
     ).lower()
+    sort_date = article_sort_date(m)
+    date_label = article_date_label(m)
     return f"""
-<article class="article-card" data-search="{html.escape(search_text, quote=True)}" data-date="{html.escape(m.get("published_date", ""), quote=True)}">
-  <div class="meta-line">{html.escape(m.get("published_date", ""))}</div>
+<article class="article-card" data-search="{html.escape(search_text, quote=True)}" data-date="{html.escape(sort_date, quote=True)}">
+  <div class="meta-line">{html.escape(date_label)}</div>
   <h2><a href="{html.escape(public_path(config, m.get("url_path", "#")))}">{html.escape(m.get("title", ""))}</a></h2>
   <p class="original-title">{html.escape(m.get("original_title", ""))}</p>
   <p>{html.escape(m.get("summary", ""))}</p>
@@ -1037,10 +1156,8 @@ def render_index(config: dict[str, Any], articles: list[dict[str, Any]]) -> None
     <section class="content-grid">
       <div class="article-list" id="searchResults" data-search-mode="local">{latest}</div>
       <aside class="side-panel">
-        <h2>カテゴリ</h2>
-        {category_links(config, config["categories"], "/categories/")}
-        <h2>疾患別</h2>
-        {category_links(config, config["disease_categories"], "/diseases/")}
+        {category_filter(config, "カテゴリ", config["categories"], "/categories/")}
+        {category_filter(config, "疾患別", config["disease_categories"], "/diseases/")}
         <div class="ad-slot" data-slot="sidebar">広告枠</div>
       </aside>
     </section>
@@ -1053,7 +1170,21 @@ def category_links(config: dict[str, Any], categories: list[str], base: str) -> 
     for category in categories:
         route = f"{base}{slugify(category, category)}/"
         links.append(f'<a class="tag-link" href="{public_path(config, route)}">{html.escape(category)}</a>')
-    return '<div class="tag-cloud">' + "".join(links) + "</div>"
+    return '<div class="tag-cloud" data-category-list>' + "".join(links) + "</div>"
+
+
+def category_filter(config: dict[str, Any], label: str, categories: list[str], base: str) -> str:
+    input_id = f"categoryFilter-{slugify(label, label)}"
+    return f"""
+<section class="category-filter" data-category-filter-section>
+  <h2>{html.escape(label)}</h2>
+  <form class="category-filter-form" role="search">
+    <label for="{html.escape(input_id)}">{html.escape(label)}を検索</label>
+    <input id="{html.escape(input_id)}" data-category-filter type="search" placeholder="{html.escape(label)}名で絞り込み">
+  </form>
+  {category_links(config, categories, base)}
+</section>
+"""
 
 
 def render_listing(config: dict[str, Any], articles: list[dict[str, Any]], path: Path, title: str, description: str) -> None:
@@ -1090,7 +1221,7 @@ def render_category_pages(config: dict[str, Any], articles: list[dict[str, Any]]
           <h1>{page_name}</h1>
           <p>関心のある領域から論文を探せます。</p>
         </section>
-        {category_links(config, categories, f"/{base}/")}
+        {category_filter(config, page_name, categories, f"/{base}/")}
 """
         index_path = PUBLIC_DIR / base / "index.html"
         index_path.parent.mkdir(parents=True, exist_ok=True)
@@ -1109,7 +1240,7 @@ def render_category_pages(config: dict[str, Any], articles: list[dict[str, Any]]
 def render_archive_pages(config: dict[str, Any], articles: list[dict[str, Any]]) -> None:
     archive: dict[str, list[dict[str, Any]]] = {}
     for article in articles:
-        date = article["metadata"].get("published_date", "")
+        date = article_sort_date(article["metadata"])
         key = date[:7] if len(date) >= 7 else "unknown"
         archive.setdefault(key, []).append(article)
     links = []
@@ -1147,6 +1278,10 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
         limitations_items = clean_limitations(m.get("limitations", []))
         limitations = "".join(f"<li>{html.escape(item)}</li>" for item in limitations_items) or "<li>抄録から判断できる明確な限界は記載されていません。</li>"
         source_link = m.get("source_url") or m.get("pubmed_url") or "#"
+        primary_date = article_sort_date(m)
+        date_label = article_date_label(m)
+        online_date = str(m.get("online_publication_date") or "")[:10]
+        issue_date = str(m.get("published_date") or "")[:10]
         impact_factor = lookup_journal_impact_factor(config, m.get("journal", ""))
         impact_factor_row = ""
         if impact_factor:
@@ -1159,7 +1294,7 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": m.get("title"),
-            "datePublished": m.get("published_date"),
+            "datePublished": primary_date,
             "dateModified": m.get("updated_at"),
             "author": {"@type": "Organization", "name": config["site"]["name"]},
             "isBasedOn": source_link,
@@ -1170,7 +1305,7 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
         body = f"""
     <article class="article-page">
       <div class="ad-slot" data-slot="article-top">広告枠</div>
-      <p class="meta-line">{html.escape(m.get("published_date", ""))}</p>
+      <p class="meta-line">{html.escape(date_label)}</p>
       <h1>{html.escape(m.get("title", ""))}</h1>
       <p class="original-title">{html.escape(m.get("original_title", ""))}</p>
       <p class="lead">{html.escape(m.get("summary", ""))}</p>
@@ -1182,10 +1317,12 @@ def render_article_pages(config: dict[str, Any], articles: list[dict[str, Any]])
           <dt>Original title</dt><dd>{html.escape(m.get("original_title", ""))}</dd>
           <dt>著者</dt><dd>{html.escape(", ".join(m.get("authors", [])) or "抄録には記載されていません")}</dd>
           <dt>雑誌名</dt><dd>{html.escape(m.get("journal", "") or "抄録には記載されていません")}</dd>{impact_factor_row}
+          <dt>公開日</dt><dd>{html.escape(online_date or "記載されていません")}</dd>
+          <dt>発行日</dt><dd>{html.escape(issue_date or "記載されていません")}</dd>
           <dt>DOI</dt><dd>{html.escape(m.get("doi", "") or "抄録には記載されていません")}</dd>
           <dt>PMID</dt><dd>{html.escape(m.get("pmid", "") or "抄録には記載されていません")}</dd>
         </dl>
-        <a class="button" href="{html.escape(source_link)}" rel="noopener noreferrer">原著論文を確認する</a>
+        <a class="button" href="{html.escape(source_link)}" target="_blank" rel="noopener noreferrer">原著論文を確認する</a>
       </section>
 
       <section><h2>背景・目的</h2><p>{html.escape(m.get("background", ""))}</p></section>
@@ -1216,7 +1353,9 @@ def render_search_json(config: dict[str, Any], articles: list[dict[str, Any]]) -
                 "categories": m.get("categories", []),
                 "pmid": m.get("pmid", ""),
                 "doi": m.get("doi", ""),
-                "published_date": m.get("published_date", ""),
+                "published_date": article_sort_date(m),
+                "online_publication_date": m.get("online_publication_date", ""),
+                "issue_date": m.get("published_date", ""),
             }
         )
     write_json(PUBLIC_DIR / "search.json", data)
@@ -1233,7 +1372,7 @@ def render_rss(config: dict[str, Any], articles: list[dict[str, Any]]) -> None:
       <title>{html.escape(m.get("title", ""))}</title>
       <link>{html.escape(url)}</link>
       <guid>{html.escape(url)}</guid>
-      <pubDate>{rss_date(m.get("published_date", ""))}</pubDate>
+      <pubDate>{rss_date(article_sort_date(m))}</pubDate>
       <description>{html.escape(m.get("summary", ""))}</description>
     </item>"""
         )
@@ -1327,8 +1466,13 @@ input[type="search"] { width: 100%; border: 1px solid var(--line); border-radius
 .original-title { color: var(--muted); font-size: .95rem; font-style: italic; line-height: 1.55; }
 .tags, .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
 .tag, .tag-link { display: inline-flex; align-items: center; min-height: 30px; padding: 4px 10px; border-radius: 999px; background: var(--soft); color: var(--accent); text-decoration: none; font-size: .9rem; }
+.category-filter { display: grid; gap: 10px; }
+.category-filter h2 { margin: 10px 0 0; }
+.category-filter-form { display: grid; gap: 6px; }
+.category-filter-form label { color: var(--muted); font-size: .85rem; font-weight: 700; }
+.category-filter-form input { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 9px 11px; font: inherit; background: #fff; color: var(--ink); }
+.tag-link[hidden] { display: none; }
 .side-panel { display: grid; align-content: start; gap: 18px; }
-.side-panel h2 { margin-top: 10px; }
 .page-heading { padding: 44px 0 20px; border-bottom: 1px solid var(--line); margin-bottom: 24px; }
 .page-heading p { color: var(--muted); }
 .article-page { width: min(820px, 100%); margin: 0 auto; padding: 44px 0 64px; }
@@ -1396,7 +1540,29 @@ function compareCards(a, b, order) {
   }
   return String(b.dataset.date || '').localeCompare(String(a.dataset.date || ''));
 }
+function bootCategoryFilters() {
+  document.querySelectorAll('[data-category-filter]').forEach((input) => {
+    const section = input.closest('[data-category-filter-section]');
+    if (!section) return;
+    const form = input.closest('form');
+    const links = Array.from(section.querySelectorAll('.tag-link'));
+    function applyCategoryFilter() {
+      const q = input.value.trim().toLowerCase();
+      links.forEach((link) => {
+        link.hidden = Boolean(q) && !link.textContent.toLowerCase().includes(q);
+      });
+    }
+    form?.addEventListener('submit', (event) => {
+      event.preventDefault();
+      applyCategoryFilter();
+    });
+    input.addEventListener('input', applyCategoryFilter);
+    applyCategoryFilter();
+  });
+}
+
 bootSearch();
+bootCategoryFilters();
 """
     favicon = """
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
@@ -1518,3 +1684,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+Separate online and issue dates
