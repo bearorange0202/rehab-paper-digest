@@ -1014,7 +1014,7 @@ def lookup_journal_impact_factor(config: dict[str, Any], journal: str) -> str:
 
 
 def render_index(config: dict[str, Any], articles: list[dict[str, Any]]) -> None:
-    latest = "\n".join(article_card(config, a) for a in articles[: int(config["site"].get("homepage_items", 10))])
+    latest = "\n".join(article_card(config, a) for a in articles)
     if not latest:
         latest = '<p class="empty">まだ記事はありません。GitHub Actions の手動実行、または dry-run で取得状況を確認してください。</p>'
     body = f"""
