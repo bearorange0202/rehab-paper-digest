@@ -1,5 +1,9 @@
 {
   "ids": [
+    "42725303",
+    "42725311",
+    "42725432",
+    "42725466",
     "42725538",
     "42725539",
     "42725581",
@@ -49,6 +53,7 @@
     "42728245",
     "42728264",
     "42728299",
+    "42728305",
     "42728350"
   ],
   "records": [
@@ -451,6 +456,46 @@
       "title": "Intersectional harms: discriminatory abuse of older LGBTQ+ adults in long-term care.",
       "url_path": "/articles/2026/09/intersectional-harms-discriminatory-abuse-of-older-lgbtq-adults-in-long-term-car/",
       "processed_at": "2026-09-12T22:43:42+00:00"
+    },
+    {
+      "id": "42725466",
+      "pmid": "42725466",
+      "doi": "10.1080/09638288.2026.2729409",
+      "title": "Centering First Nations parents' voices: a community-directed pediatric rehabilitation needs assessment in Northern Saskatchewan.",
+      "url_path": "/articles/2026/09/centering-first-nations-parents-voices-a-community-directed-pediatric-rehabilita/",
+      "processed_at": "2026-09-13T02:13:17+00:00"
+    },
+    {
+      "id": "42725303",
+      "pmid": "42725303",
+      "doi": "10.4103/indianjpsychiatry_361_26",
+      "title": "Behavioral and psychological symptoms of dementia and its relationship with caregiver burden: A cross-sectional study of inpatients with dementia in a tertiary center.",
+      "url_path": "/articles/2026/08/behavioral-and-psychological-symptoms-of-dementia-and-its-relationship-with-care/",
+      "processed_at": "2026-09-13T02:13:17+00:00"
+    },
+    {
+      "id": "42725432",
+      "pmid": "42725432",
+      "doi": "10.1093/nar/gkag880",
+      "title": "Altered neuronal start codon stringency favors cap-independent repeat-associated non-AUG translation.",
+      "url_path": "/articles/2026/09/altered-neuronal-start-codon-stringency-favors-cap-independent-repeat-associated/",
+      "processed_at": "2026-09-13T02:13:17+00:00"
+    },
+    {
+      "id": "42725311",
+      "pmid": "42725311",
+      "doi": "10.4103/ipj.ipj_309_25",
+      "title": "Digital twins in dementia: Early evidence and future directions for precision psychiatry.",
+      "url_path": "/articles/2026/01/digital-twins-in-dementia-early-evidence-and-future-directions-for-precision-psy/",
+      "processed_at": "2026-09-13T02:13:17+00:00"
+    },
+    {
+      "id": "42728305",
+      "pmid": "42728305",
+      "doi": "10.1038/s41394-026-00753-1",
+      "title": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury.",
+      "url_path": "/articles/2026/09/postural-changes-and-motor-evoked-potentials-following-percutaneous-spinal-cord/",
+      "processed_at": "2026-09-13T02:13:17+00:00"
     }
   ]
 }
