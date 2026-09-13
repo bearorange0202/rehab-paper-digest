@@ -37,4 +37,26 @@ function compareCards(a, b, order) {
   }
   return String(b.dataset.date || '').localeCompare(String(a.dataset.date || ''));
 }
+function bootCategoryFilters() {
+  document.querySelectorAll('[data-category-filter]').forEach((input) => {
+    const section = input.closest('[data-category-filter-section]');
+    if (!section) return;
+    const form = input.closest('form');
+    const links = Array.from(section.querySelectorAll('.tag-link'));
+    function applyCategoryFilter() {
+      const q = input.value.trim().toLowerCase();
+      links.forEach((link) => {
+        link.hidden = Boolean(q) && !link.textContent.toLowerCase().includes(q);
+      });
+    }
+    form?.addEventListener('submit', (event) => {
+      event.preventDefault();
+      applyCategoryFilter();
+    });
+    input.addEventListener('input', applyCategoryFilter);
+    applyCategoryFilter();
+  });
+}
+
 bootSearch();
+bootCategoryFilters();

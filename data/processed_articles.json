@@ -54,7 +54,15 @@
     "42728264",
     "42728299",
     "42728305",
-    "42728350"
+    "42728350",
+    "42731122",
+    "42731172",
+    "42731173",
+    "42731317",
+    "42731357",
+    "42731691",
+    "42731827",
+    "42731832"
   ],
   "records": [
     {
@@ -496,6 +504,70 @@
       "title": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury.",
       "url_path": "/articles/2026/09/postural-changes-and-motor-evoked-potentials-following-percutaneous-spinal-cord/",
       "processed_at": "2026-09-13T02:13:17+00:00"
+    },
+    {
+      "id": "42731122",
+      "pmid": "42731122",
+      "doi": "10.1002/ksa.70600",
+      "title": "Outcomes after anterior cruciate ligament reconstruction with versus without lateral extra-articular tenodesis: A propensity-matched cohort study.",
+      "url_path": "/articles/2026/09/outcomes-after-anterior-cruciate-ligament-reconstruction-with-versus-without-lat/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731832",
+      "pmid": "42731832",
+      "doi": "10.1136/bmjopen-2026-119904",
+      "title": "Barriers and facilitators to reducing sedentary behaviour in stroke survivors: a scoping review based on the theoretical domains framework.",
+      "url_path": "/articles/2026/09/barriers-and-facilitators-to-reducing-sedentary-behaviour-in-stroke-survivors-a/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731691",
+      "pmid": "42731691",
+      "doi": "10.1016/j.apmr.2026.09.006",
+      "title": "Fall-prevention education after achieving independent walking is associated with reduced subsequent fall risk in patients with stroke: a retrospective pre-post intervention study.",
+      "url_path": "/articles/2026/09/fall-prevention-education-after-achieving-independent-walking-is-associated-with/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731172",
+      "pmid": "42731172",
+      "doi": "10.1016/j.tjpad.2026.100676",
+      "title": "Prevalence, risk factors, and racial disparities in probable and possible dementia: the national health and aging trends study.",
+      "url_path": "/articles/2026/09/prevalence-risk-factors-and-racial-disparities-in-probable-and-possible-dementia/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731357",
+      "pmid": "42731357",
+      "doi": "10.1016/j.archger.2026.106404",
+      "title": "Biological age acceleration and multidomain functional impairment: Mortality associations and incremental value in NHANES and CHARLS.",
+      "url_path": "/articles/2026/09/biological-age-acceleration-and-multidomain-functional-impairment-mortality-asso/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731173",
+      "pmid": "42731173",
+      "doi": "10.1016/j.tjpad.2026.100670",
+      "title": "Characterization of a metabolomics signature of the brain-health-promoting MIND diet in older persons.",
+      "url_path": "/articles/2026/09/characterization-of-a-metabolomics-signature-of-the-brain-health-promoting-mind/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731317",
+      "pmid": "42731317",
+      "doi": "10.1016/j.msksp.2026.103660",
+      "title": "Designing Prehabilitation programs for spinal surgery - a qualitative study exploring patient perceptions of spinal surgery prehabilitation programs.",
+      "url_path": "/articles/2026/09/designing-prehabilitation-programs-for-spinal-surgery-a-qualitative-study-explor/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
+    },
+    {
+      "id": "42731827",
+      "pmid": "42731827",
+      "doi": "10.1136/bmjopen-2026-118196",
+      "title": "Continuous glucose monitoring in older inpatients with type 2 diabetes and cognitive impairment: an open single-arm feasibility study.",
+      "url_path": "/articles/2026/09/continuous-glucose-monitoring-in-older-inpatients-with-type-2-diabetes-and-cogni/",
+      "processed_at": "2026-09-13T07:29:49+00:00"
     }
   ]
 }

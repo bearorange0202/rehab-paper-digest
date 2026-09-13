@@ -1,16 +1,5 @@
 [
   {
-    "title": "スウェーデンのプライマリケアにおける2型糖尿病患者がグループ教育を選択しなかった理由に関する現象学的インタビュー研究",
-    "summary": "2型糖尿病のグループ教育を選択しなかった患者18名へのインタビューから、個別学習の希望・利便性の障壁の認識・グループの利点への理解という3つの異なる認識パターンが明らかになった。",
-    "url": "/rehab-paper-digest/articles/2026/12/patients-conceptions-of-opting-out-of-group-based-education-for-type-2-diabetes/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42726907",
-    "doi": "10.1080/17482631.2026.2731703",
-    "published_date": "2026-12-31"
-  },
-  {
     "title": "複合性局所疼痛症候群(CRPS)における神経障害性疼痛管理に関する包括的レビュー",
     "summary": "CRPS Type IおよびIIにおける神経障害性疼痛への薬物・非薬物療法を整理したレビューで、ガバペンチンと理学療法に比較的強いエビデンスがあると報告された。",
     "url": "/rehab-paper-digest/articles/2026/11/management-of-neuropathic-pain-in-complex-regional-pain-syndrome-a-comprehensive/",
@@ -20,7 +9,53 @@
     ],
     "pmid": "42725581",
     "doi": "10.1111/papr.70197",
-    "published_date": "2026-11-01"
+    "published_date": "2026-09-12",
+    "online_publication_date": "",
+    "issue_date": "2026-11-01"
+  },
+  {
+    "title": "確実な認知症・可能性のある認知症の有病率、リスク因子、および人種間格差:全米高齢化動向調査(NHATS)より",
+    "summary": "全米代表サンプルを用いた横断研究で、認知症の有病率とリスク因子が人種・民族間で大きく異なることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/prevalence-risk-factors-and-racial-disparities-in-probable-and-possible-dementia/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "認知機能"
+    ],
+    "pmid": "42731172",
+    "doi": "10.1016/j.tjpad.2026.100676",
+    "published_date": "2026-09-12",
+    "online_publication_date": "2026-09-12",
+    "issue_date": "2026-09-12"
+  },
+  {
+    "title": "脳卒中患者における自立歩行獲得直後の転倒予防教育は、その後の転倒リスク低下と関連する:後ろ向き前後比較研究",
+    "summary": "自立歩行を獲得した脳卒中患者に対し、標準化された転倒予防教育を実施した群は、通常ケア群と比べてその後の転倒発生時期が遅く、転倒発生率も低かった。",
+    "url": "/rehab-paper-digest/articles/2026/09/fall-prevention-education-after-achieving-independent-walking-is-associated-with/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42731691",
+    "doi": "10.1016/j.apmr.2026.09.006",
+    "published_date": "2026-09-12",
+    "online_publication_date": "2026-09-12",
+    "issue_date": "2026-09-12"
+  },
+  {
+    "title": "外側支持組織腱固定術(LET)併用有無による前十字靱帯再建術後の転帰比較:傾向スコアマッチングコホート研究",
+    "summary": "前十字靱帯再建術にLETを併用した群は、単独再建群と比較して術後早期の合併症や中期の変形性膝関節症リスクが高く、再靱帯損傷の有意な減少は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/outcomes-after-anterior-cruciate-ligament-reconstruction-with-versus-without-lat/",
+    "categories": [
+      "整形外科",
+      "理学療法"
+    ],
+    "pmid": "42731122",
+    "doi": "10.1002/ksa.70600",
+    "published_date": "2026-09-12",
+    "online_publication_date": "2026-09-12",
+    "issue_date": "2026-09-12"
   },
   {
     "title": "AIMSクリニックモデル:後期パーキンソニズム患者に対する学際的運動障害・神経緩和ケア外来の後方視的分析",
@@ -33,7 +68,22 @@
     ],
     "pmid": "42727035",
     "doi": "10.1212/CPJ.0000000000200652",
-    "published_date": "2026-10-01"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "スウェーデンのプライマリケアにおける2型糖尿病患者がグループ教育を選択しなかった理由に関する現象学的インタビュー研究",
+    "summary": "2型糖尿病のグループ教育を選択しなかった患者18名へのインタビューから、個別学習の希望・利便性の障壁の認識・グループの利点への理解という3つの異なる認識パターンが明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/12/patients-conceptions-of-opting-out-of-group-based-education-for-type-2-diabetes/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42726907",
+    "doi": "10.1080/17482631.2026.2731703",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-12-31"
   },
   {
     "title": "前十字靭帯再建術後1年間における大腿四頭筋筋力回復が歩行バイオメカニクスに与える影響",
@@ -46,7 +96,9 @@
     ],
     "pmid": "42725538",
     "doi": "10.1177/19417381261479680",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "頭痛管理のためのC2-C3神経末梢神経刺激:新規手技の解説",
@@ -58,7 +110,9 @@
     ],
     "pmid": "42726330",
     "doi": "10.1007/s11916-026-01562-9",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "集中リハビリテーションにおける近傍神経電気刺激を用いた意識状態評価の検討",
@@ -70,7 +124,9 @@
     ],
     "pmid": "42727595",
     "doi": "10.1088/1741-2552/aea645",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "整形外科的メカノフェノタイプ:多スケール生体力学・メカノトランスダクション・臨床意思決定に関する構造化ナラティブレビュー",
@@ -82,7 +138,9 @@
     ],
     "pmid": "42728082",
     "doi": "10.1111/os.70421",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "膝・股関節肢位が健常者の大腿直筋・外側広筋の受動的スティフネスに及ぼす影響",
@@ -94,7 +152,9 @@
     ],
     "pmid": "42728264",
     "doi": "10.1038/s41598-026-60808-z",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "外傷性脳損傷研究における翻訳的非効率性:94,399件の文献からの証拠",
@@ -106,7 +166,9 @@
     ],
     "pmid": "42725750",
     "doi": "10.1227/neu.0000000000004208",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "ダウン症候群とアルツハイマー病:認知症および診断経路に対する本人・家族の理解と認識を探る質的研究",
@@ -119,7 +181,9 @@
     ],
     "pmid": "42725843",
     "doi": "10.1111/jir.70173",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "単純ヘルペスウイルス1型と認知症発症の関連:実臨床電子カルテデータを用いた縦断的後ろ向きコホート研究",
@@ -132,7 +196,9 @@
     ],
     "pmid": "42727071",
     "doi": "10.2196/83028",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "心臓リハビリテーション適応入院患者におけるデジタルヘルス利用状況とバーチャル心臓リハビリテーションへの関心:横断研究",
@@ -145,7 +211,9 @@
     ],
     "pmid": "42726796",
     "doi": "10.2196/91767",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "ALS-FTDスペクトラムにおける選択的神経保護:神経細胞の抵抗性メカニズムと臨床応用への視点",
@@ -157,7 +225,9 @@
     ],
     "pmid": "42727710",
     "doi": "10.1016/j.brainresbull.2026.112111",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "肥満関連腱病理:心代謝メカニズム、臨床的意義、および管理に関する総説",
@@ -169,7 +239,9 @@
     ],
     "pmid": "42726433",
     "doi": "10.1007/s13679-026-00759-8",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "粟粒結核患者における脳MRI施行例からみた脳結核の頻度と臨床的特徴:単施設後方視的研究",
@@ -182,7 +254,9 @@
     ],
     "pmid": "42727680",
     "doi": "10.1016/j.ijid.2026.109113",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "非挿管COVID-19肺炎患者と非COVID肺炎患者における経口摂取回復の比較:機能的経口摂取スケールを用いた後ろ向きコホート研究",
@@ -195,7 +269,9 @@
     ],
     "pmid": "42726278",
     "doi": "10.1007/s00455-026-11002-w",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "多病因性認知症の治療への道筋:血管リスク管理と疾患修飾型神経変性治療の統合",
@@ -208,7 +284,9 @@
     ],
     "pmid": "42727484",
     "doi": "10.1016/j.neurot.2026.e01068",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "ファーストネーションの親の声を中心に据えて:北部サスカチュワンにおける地域主導型小児リハビリテーションニーズ評価",
@@ -221,7 +299,24 @@
     ],
     "pmid": "42725466",
     "doi": "10.1080/09638288.2026.2729409",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "認知機能障害を有する高齢2型糖尿病入院患者における持続血糖モニタリング(CGM)の実行可能性に関する単群非対照研究",
+    "summary": "認知機能障害を伴う高齢2型糖尿病入院患者32名を対象に、盲検化持続血糖モニタリング(CGM)センサーの装着可能性・受容性・忍容性を検討したところ、高い受容性と低い痛みが報告された。",
+    "url": "/rehab-paper-digest/articles/2026/09/continuous-glucose-monitoring-in-older-inpatients-with-type-2-diabetes-and-cogni/",
+    "categories": [
+      "高齢者",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42731827",
+    "doi": "10.1136/bmjopen-2026-118196",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "車椅子座位における仙骨-背もたれ間距離が呼吸機能に及ぼす影響:シーティング評価への示唆",
@@ -233,7 +328,9 @@
     ],
     "pmid": "42726489",
     "doi": "10.1080/17483107.2026.2730873",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "米国成人におけるカドミウム曝露と全認知症・アルツハイマー病発症率の関連",
@@ -245,7 +342,9 @@
     ],
     "pmid": "42725989",
     "doi": "10.1177/13872877261487104",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "術後鎮痛と回復における末梢神経刺激療法の役割の進展",
@@ -257,7 +356,23 @@
     ],
     "pmid": "42726365",
     "doi": "10.1007/s11916-026-01560-x",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "脊椎手術前のプレハビリテーションプログラム設計に関する患者の意向を探る質的研究",
+    "summary": "腰椎手術を待つ患者を対象にした質的研究で、プレハビリテーションプログラムへの参加意欲、参加の障壁・促進要因、プログラム構造や内容への希望が明らかにされた。",
+    "url": "/rehab-paper-digest/articles/2026/09/designing-prehabilitation-programs-for-spinal-surgery-a-qualitative-study-explor/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42731317",
+    "doi": "10.1016/j.msksp.2026.103660",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "無歯顎上顎の全顎補綴における翼状インプラントの有効性:システマティックレビュー・メタ解析",
@@ -268,7 +383,9 @@
     ],
     "pmid": "42728116",
     "doi": "10.1016/j.ijom.2026.08.036",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "ソフトボール投手の肩オーバーユース障害の評価と管理に関する臨床ガイド",
@@ -281,7 +398,9 @@
     ],
     "pmid": "42725649",
     "doi": "10.2519/josptopen.2026.0227",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "脊髄損傷者に対するカヤックエルゴメーター訓練が体幹制御・自立度・心肺機能に与える効果",
@@ -294,7 +413,9 @@
     ],
     "pmid": "42725712",
     "doi": "10.1080/10790268.2026.2672832",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "ストレプトゾトシン誘発性認知症モデルラットの視床下部アストロサイト培養における細胞老化表現型",
@@ -307,7 +428,9 @@
     ],
     "pmid": "42726406",
     "doi": "10.1007/s11064-026-04884-7",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "フラクトオリゴ糖は腸機能を回復させ海馬短鎖脂肪酸を増加させることで慢性脳低灌流ラットのミトコンドリア自食作用による神経細胞アポトーシスを軽減する",
@@ -320,7 +443,9 @@
     ],
     "pmid": "42726175",
     "doi": "10.1007/s12035-026-06189-w",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "アミロイドβの役割再考:金属イオンと感染・免疫学的観点からの分子機序仮説",
@@ -332,7 +457,9 @@
     ],
     "pmid": "42725888",
     "doi": "10.1177/13872877261484863",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "ドイツにおける院外集中治療の実態調査:バーデン=ヴュルテンベルク州における新法制運用から見えた課題",
@@ -344,7 +471,24 @@
     ],
     "pmid": "42726674",
     "doi": "10.1159/res/aepag011",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "高齢者における脳の健康に関わるMIND食のメタボロミクス・シグネチャーの特徴づけ",
+    "summary": "高齢者コホートの血中代謝物から8種のMIND食アドヒアランス関連シグネチャーを同定したが、認知機能低下との関連は多変量調整後に有意ではなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/characterization-of-a-metabolomics-signature-of-the-brain-health-promoting-mind/",
+    "categories": [
+      "高齢者",
+      "認知機能",
+      "その他"
+    ],
+    "pmid": "42731173",
+    "doi": "10.1016/j.tjpad.2026.100670",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "前十字靱帯再建術の手術タイミングと関節内病変・患者報告アウトカムとの関連:システマティックレビュー",
@@ -355,7 +499,9 @@
     ],
     "pmid": "42727886",
     "doi": "10.1016/j.jisako.2026.101215",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "思春期特発性側弯症における床反力の左右非対称性と脊柱アライメントの関連:後方視的観察研究",
@@ -369,7 +515,9 @@
     ],
     "pmid": "42725988",
     "doi": "10.1177/10538127261488146",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "内在的能力(intrinsic capacity)の障害と認知症発症リスク:3つの地域コホートを統合した個人参加者データ解析",
@@ -382,7 +530,9 @@
     ],
     "pmid": "42727174",
     "doi": "10.1016/j.jnha.2026.100983",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "慢性膵炎に対する膵臓手術における術前サルコペニアと術後主要合併症の関連",
@@ -393,7 +543,24 @@
     ],
     "pmid": "42727902",
     "doi": "10.1016/j.gassur.2026.102584",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "脳卒中生存者における座位行動軽減の阻害要因・促進要因:理論的領域フレームワークに基づくスコーピングレビュー",
+    "summary": "脳卒中後の座りすぎ行動を減らすうえでの阻害要因・促進要因を、49件の研究をもとにTheoretical Domains Frameworkの12領域に整理したスコーピングレビュー。",
+    "url": "/rehab-paper-digest/articles/2026/09/barriers-and-facilitators-to-reducing-sedentary-behaviour-in-stroke-survivors-a/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "ADL"
+    ],
+    "pmid": "42731832",
+    "doi": "10.1136/bmjopen-2026-119904",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "70歳コホート6年間追跡研究:両親の寿命と多遺伝子性長寿スコアは加齢関連因子とどう関わるか(ヨーテボリH70出生コホート研究)",
@@ -406,7 +573,9 @@
     ],
     "pmid": "42726198",
     "doi": "10.1007/s11357-026-02501-7",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "放射線治療を受ける高齢がん患者における機能的軌跡とその関連因子",
@@ -419,7 +588,9 @@
     ],
     "pmid": "42727393",
     "doi": "10.1016/j.jgo.2026.103410",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "脊髄損傷者における経皮的脊髄硬膜外刺激:姿勢変化が運動誘発反応に与える影響",
@@ -431,7 +602,9 @@
     ],
     "pmid": "42728305",
     "doi": "10.1038/s41394-026-00753-1",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "交差する差別被害:長期療養施設における高齢LGBTQ+当事者への差別的虐待",
@@ -444,7 +617,9 @@
     ],
     "pmid": "42725539",
     "doi": "10.1080/08946566.2026.2731352",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "腰椎除圧術は変性腰部脊柱管狭窄症患者における立ち上がり動作の力学と神経筋制御の変化と関連する",
@@ -457,7 +632,9 @@
     ],
     "pmid": "42726093",
     "doi": "10.1177/21925682261489579",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "認知症高齢者におけるウェルビーイングへの歌唱活動と会話活動の比較:クロスオーバー・パイロット研究",
@@ -470,7 +647,9 @@
     ],
     "pmid": "42725922",
     "doi": "10.1177/13872877261485601",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
   },
   {
     "title": "日常ケアにおける認知症フレンドリー動画の実装:現場スタッフの経験に関する質的研究",
@@ -483,7 +662,77 @@
     ],
     "pmid": "42727940",
     "doi": "10.1177/14713012261489380",
-    "published_date": "2026-09-11"
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "Stage IV歯周炎の治療:欧州歯周病学連盟(EFP)Stage IVガイドラインの英国版適応(adolopment)",
+    "summary": "英国歯周病学会が、EFPによるStage IV歯周炎治療のS3臨床ガイドラインを英国向けに適応(adolopment)したプロセスと推奨内容を解説した論文である。",
+    "url": "/rehab-paper-digest/articles/2026/09/treating-stage-iv-periodontitis-the-uk-adolopment-of-the-efp-stage-iv-periodonti/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42728299",
+    "doi": "10.1038/s41415-026-9887-0",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "心不全患者のセルフケア支援を目的としたモバイルアプリケーションの効果に関する準実験的研究",
+    "summary": "心不全患者57名を対象に、モバイルアプリ「Tum-Tum」の使用前後でセルフケア指標(維持・自信サブスケール)が有意に改善したことを示した単群前後比較研究。",
+    "url": "/rehab-paper-digest/articles/2026/01/mobile-application-for-self-care-in-people-with-heart-failure-a-quasi-experiment/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42726518",
+    "doi": "10.1590/1980-220X-REEUSP-2025-0537en",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "妊娠糖尿病女性のセルフケア支援に向けた文化的教育資材:ブラジルの伝統韻文「コルデル」の開発と内容妥当性検証",
+    "summary": "ブラジルの伝統的韻文文学「コルデル」を用いた妊娠糖尿病患者向け教育資材を開発し、妊婦22名と専門家40名による内容妥当性評価を行った方法論的研究。",
+    "url": "/rehab-paper-digest/articles/2026/01/culturally-grounded-health-communication-to-support-self-care-among-pregnant-wom/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42726707",
+    "doi": "10.1371/journal.pone.0357959",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "西・南部アフリカにおける精神病を有する人々のための地域密着型リハビリテーション介入「SUCCEED」の共同創造プロセス:Theory of Changeを用いた開発報告",
+    "summary": "サハラ以南アフリカ4カ国で、精神病を有する当事者とともにTheory of Change(変化の理論)を用いて地域密着型リハビリテーション介入SUCCEEDを共同開発したプロセスを記述した論文。",
+    "url": "/rehab-paper-digest/articles/2026/01/co-production-using-theory-of-change-in-the-development-of-the-succeed-africa-co/",
+    "categories": [
+      "精神科",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42726714",
+    "doi": "10.1371/journal.pmen.0000668",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "雑音下音声知覚に対する視覚的な口の動き提示の影響:健聴者と人工内耳装用者における実話者映像とアバター映像の比較",
+    "summary": "実話者の口元映像を音声と併せて提示すると、健聴者・人工内耳装用者ともに雑音下での音声知覚が改善したが、コンピュータ生成アバターでは効果が見られず、聴取努力の軽減はいずれも限定的だった。",
+    "url": "/rehab-paper-digest/articles/2026/01/impact-of-visual-mouth-image-presentation-on-speech-perception-in-noise-in-norma/",
+    "categories": [
+      "言語聴覚療法",
+      "その他"
+    ],
+    "pmid": "42726743",
+    "doi": "10.1371/journal.pone.0357983",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "遺残性左心房心臓静脈(LACV)を介した奇異性脳梗塞の1例:評価と管理に関する提言",
@@ -495,7 +744,23 @@
     ],
     "pmid": "42726040",
     "doi": "10.1016/j.jaccas.2026.110186",
-    "published_date": "2026-09-10"
+    "published_date": "2026-09-10",
+    "online_publication_date": "2026-09-10",
+    "issue_date": "2026-09-10"
+  },
+  {
+    "title": "生物学的加齢の加速と多領域機能障害:NHANESとCHARLSにおける死亡・障害との関連および予測増分価値の検討",
+    "summary": "米国と中国の高齢者縦断コホートを用いて、生物学的加齢の加速は死亡と弱く関連するものの障害発生とは関連せず、機能障害スコアに追加しても予測性能はほとんど向上しないことが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/biological-age-acceleration-and-multidomain-functional-impairment-mortality-asso/",
+    "categories": [
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42731357",
+    "doi": "10.1016/j.archger.2026.106404",
+    "published_date": "2026-09-09",
+    "online_publication_date": "2026-09-09",
+    "issue_date": "2026-09-09"
   },
   {
     "title": "中国における遺伝性網膜疾患患者を対象とした全国横断調査",
@@ -507,7 +772,9 @@
     ],
     "pmid": "42728350",
     "doi": "10.1038/s41598-026-70895-7",
-    "published_date": "2026-09-09"
+    "published_date": "2026-09-09",
+    "online_publication_date": "2026-09-09",
+    "issue_date": "2026-09-09"
   },
   {
     "title": "神経細胞における開始コドン厳格性の変化がキャップ非依存的なリピート関連非AUG翻訳を促進する",
@@ -519,20 +786,9 @@
     ],
     "pmid": "42725432",
     "doi": "10.1093/nar/gkag880",
-    "published_date": "2026-09-07"
-  },
-  {
-    "title": "高齢者の認知機能健康:認知機能低下を予防し自律性を維持するための検証済みアプローチ",
-    "summary": "在宅高齢者の認知機能低下予防について、身体活動・認知トレーニング・食事・社会交流を組み合わせた多因子介入を中心にメカニズムや評価ツール、既存プログラムを整理した総説です。",
-    "url": "/rehab-paper-digest/articles/2026/09/cognitive-health-in-older-adults-validated-approaches-to-prevent-decline-and-pre/",
-    "categories": [
-      "認知症",
-      "高齢者",
-      "認知機能"
-    ],
-    "pmid": "42728007",
-    "doi": "10.1016/j.soin.2026.07.012",
-    "published_date": "2026-09-01"
+    "published_date": "2026-09-07",
+    "online_publication_date": "",
+    "issue_date": "2026-09-07"
   },
   {
     "title": "日本版抗コリン薬リスクスケール(JARS)と脳卒中後高齢患者の領域別機能予後との関連",
@@ -546,18 +802,9 @@
     ],
     "pmid": "42728245",
     "doi": "10.1111/ggi.70842",
-    "published_date": "2026-09-01"
-  },
-  {
-    "title": "Stage IV歯周炎の治療:欧州歯周病学連盟(EFP)Stage IVガイドラインの英国版適応(adolopment)",
-    "summary": "英国歯周病学会が、EFPによるStage IV歯周炎治療のS3臨床ガイドラインを英国向けに適応(adolopment)したプロセスと推奨内容を解説した論文である。",
-    "url": "/rehab-paper-digest/articles/2026/09/treating-stage-iv-periodontitis-the-uk-adolopment-of-the-efp-stage-iv-periodonti/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42728299",
-    "doi": "10.1038/s41415-026-9887-0",
-    "published_date": "2026-09-01"
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
   },
   {
     "title": "TUBA4A遺伝子変異により成人発症の遺伝性筋無力症候群・ミオパチー・不妊を呈した1例",
@@ -569,7 +816,39 @@
     ],
     "pmid": "42725680",
     "doi": "10.1111/ene.70753",
-    "published_date": "2026-09-01"
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "高齢者の認知機能健康:認知機能低下を予防し自律性を維持するための検証済みアプローチ",
+    "summary": "在宅高齢者の認知機能低下予防について、身体活動・認知トレーニング・食事・社会交流を組み合わせた多因子介入を中心にメカニズムや評価ツール、既存プログラムを整理した総説です。",
+    "url": "/rehab-paper-digest/articles/2026/09/cognitive-health-in-older-adults-validated-approaches-to-prevent-decline-and-pre/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "認知機能"
+    ],
+    "pmid": "42728007",
+    "doi": "10.1016/j.soin.2026.07.012",
+    "published_date": "2026-08-21",
+    "online_publication_date": "2026-08-21",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "認知症の行動・心理症状(BPSD)と介護負担の関連:インド三次医療機関における入院認知症患者の横断研究",
+    "summary": "インドの三次医療機関に入院した認知症患者100名を対象に、BPSDのパターンと介護者の負担・苦痛との関連を調べた横断研究。",
+    "url": "/rehab-paper-digest/articles/2026/08/behavioral-and-psychological-symptoms-of-dementia-and-its-relationship-with-care/",
+    "categories": [
+      "認知症",
+      "精神科",
+      "高齢者"
+    ],
+    "pmid": "42725303",
+    "doi": "10.4103/indianjpsychiatry_361_26",
+    "published_date": "2026-08-20",
+    "online_publication_date": "2026-08-20",
+    "issue_date": "2026-08-01"
   },
   {
     "title": "多発性硬化症患者に対するバーチャルリアリティ介入が身体機能とQOLに与える影響:システマティックレビュー・メタ解析",
@@ -583,33 +862,9 @@
     ],
     "pmid": "42727549",
     "doi": "10.1016/j.msard.2026.107453",
-    "published_date": "2026-08-17"
-  },
-  {
-    "title": "認知症の行動・心理症状(BPSD)と介護負担の関連:インド三次医療機関における入院認知症患者の横断研究",
-    "summary": "インドの三次医療機関に入院した認知症患者100名を対象に、BPSDのパターンと介護者の負担・苦痛との関連を調べた横断研究。",
-    "url": "/rehab-paper-digest/articles/2026/08/behavioral-and-psychological-symptoms-of-dementia-and-its-relationship-with-care/",
-    "categories": [
-      "認知症",
-      "精神科",
-      "高齢者"
-    ],
-    "pmid": "42725303",
-    "doi": "10.4103/indianjpsychiatry_361_26",
-    "published_date": "2026-08-01"
-  },
-  {
-    "title": "血液透析患者におけるGlittre-ADLテストで評価した身体機能の予後予測価値:前向き観察研究",
-    "summary": "血液透析患者76名を対象とした前向き観察研究で、日常生活動作を模したGlittre-ADLテストの遂行時間が年齢とともに死亡リスクの独立した関連因子であることが示されました。",
-    "url": "/rehab-paper-digest/articles/2026/01/prognostic-value-of-functional-capacity-assessed-by-the-glittre-activities-of-da/",
-    "categories": [
-      "理学療法",
-      "ADL",
-      "その他"
-    ],
-    "pmid": "42726081",
-    "doi": "10.1590/2175-8239-JBN-2025-0316en",
-    "published_date": "2026-01-01"
+    "published_date": "2026-08-17",
+    "online_publication_date": "2026-08-17",
+    "issue_date": "2026-08-17"
   },
   {
     "title": "認知症領域におけるデジタルツイン技術:精密精神医学に向けた早期エビデンスと今後の方向性",
@@ -622,7 +877,24 @@
     ],
     "pmid": "42725311",
     "doi": "10.4103/ipj.ipj_309_25",
-    "published_date": "2026-01-01"
+    "published_date": "2026-02-10",
+    "online_publication_date": "2026-02-10",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "血液透析患者におけるGlittre-ADLテストで評価した身体機能の予後予測価値:前向き観察研究",
+    "summary": "血液透析患者76名を対象とした前向き観察研究で、日常生活動作を模したGlittre-ADLテストの遂行時間が年齢とともに死亡リスクの独立した関連因子であることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/01/prognostic-value-of-functional-capacity-assessed-by-the-glittre-activities-of-da/",
+    "categories": [
+      "理学療法",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42726081",
+    "doi": "10.1590/2175-8239-JBN-2025-0316en",
+    "published_date": "2026-01-01",
+    "online_publication_date": "",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "急性脳卒中様症状を呈した膠芽腫の一例:診断上の課題",
@@ -635,53 +907,8 @@
     ],
     "pmid": "42726837",
     "doi": "10.36740/Merkur202604122",
-    "published_date": "2026-01-01"
-  },
-  {
-    "title": "心不全患者のセルフケア支援を目的としたモバイルアプリケーションの効果に関する準実験的研究",
-    "summary": "心不全患者57名を対象に、モバイルアプリ「Tum-Tum」の使用前後でセルフケア指標(維持・自信サブスケール)が有意に改善したことを示した単群前後比較研究。",
-    "url": "/rehab-paper-digest/articles/2026/01/mobile-application-for-self-care-in-people-with-heart-failure-a-quasi-experiment/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42726518",
-    "doi": "10.1590/1980-220X-REEUSP-2025-0537en",
-    "published_date": "2026-01-01"
-  },
-  {
-    "title": "妊娠糖尿病女性のセルフケア支援に向けた文化的教育資材:ブラジルの伝統韻文「コルデル」の開発と内容妥当性検証",
-    "summary": "ブラジルの伝統的韻文文学「コルデル」を用いた妊娠糖尿病患者向け教育資材を開発し、妊婦22名と専門家40名による内容妥当性評価を行った方法論的研究。",
-    "url": "/rehab-paper-digest/articles/2026/01/culturally-grounded-health-communication-to-support-self-care-among-pregnant-wom/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42726707",
-    "doi": "10.1371/journal.pone.0357959",
-    "published_date": "2026-01-01"
-  },
-  {
-    "title": "西・南部アフリカにおける精神病を有する人々のための地域密着型リハビリテーション介入「SUCCEED」の共同創造プロセス:Theory of Changeを用いた開発報告",
-    "summary": "サハラ以南アフリカ4カ国で、精神病を有する当事者とともにTheory of Change(変化の理論)を用いて地域密着型リハビリテーション介入SUCCEEDを共同開発したプロセスを記述した論文。",
-    "url": "/rehab-paper-digest/articles/2026/01/co-production-using-theory-of-change-in-the-development-of-the-succeed-africa-co/",
-    "categories": [
-      "精神科",
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42726714",
-    "doi": "10.1371/journal.pmen.0000668",
-    "published_date": "2026-01-01"
-  },
-  {
-    "title": "雑音下音声知覚に対する視覚的な口の動き提示の影響:健聴者と人工内耳装用者における実話者映像とアバター映像の比較",
-    "summary": "実話者の口元映像を音声と併せて提示すると、健聴者・人工内耳装用者ともに雑音下での音声知覚が改善したが、コンピュータ生成アバターでは効果が見られず、聴取努力の軽減はいずれも限定的だった。",
-    "url": "/rehab-paper-digest/articles/2026/01/impact-of-visual-mouth-image-presentation-on-speech-perception-in-noise-in-norma/",
-    "categories": [
-      "言語聴覚療法",
-      "その他"
-    ],
-    "pmid": "42726743",
-    "doi": "10.1371/journal.pone.0357983",
-    "published_date": "2026-01-01"
+    "published_date": "2026-01-01",
+    "online_publication_date": "",
+    "issue_date": "2026-01-01"
   }
 ]

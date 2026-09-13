@@ -40,8 +40,13 @@ input[type="search"] { width: 100%; border: 1px solid var(--line); border-radius
 .original-title { color: var(--muted); font-size: .95rem; font-style: italic; line-height: 1.55; }
 .tags, .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
 .tag, .tag-link { display: inline-flex; align-items: center; min-height: 30px; padding: 4px 10px; border-radius: 999px; background: var(--soft); color: var(--accent); text-decoration: none; font-size: .9rem; }
+.category-filter { display: grid; gap: 10px; }
+.category-filter h2 { margin: 10px 0 0; }
+.category-filter-form { display: grid; gap: 6px; }
+.category-filter-form label { color: var(--muted); font-size: .85rem; font-weight: 700; }
+.category-filter-form input { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 9px 11px; font: inherit; background: #fff; color: var(--ink); }
+.tag-link[hidden] { display: none; }
 .side-panel { display: grid; align-content: start; gap: 18px; }
-.side-panel h2 { margin-top: 10px; }
 .page-heading { padding: 44px 0 20px; border-bottom: 1px solid var(--line); margin-bottom: 24px; }
 .page-heading p { color: var(--muted); }
 .article-page { width: min(820px, 100%); margin: 0 auto; padding: 44px 0 64px; }
