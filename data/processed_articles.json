@@ -68,7 +68,15 @@
     "42732615",
     "42732640",
     "42732641",
-    "42732644"
+    "42732644",
+    "42735092",
+    "42735207",
+    "42735210",
+    "42735219",
+    "42735284",
+    "42735389",
+    "42735390",
+    "42735391"
   ],
   "records": [
     {
@@ -622,6 +630,70 @@
       "title": "Candidates for Revision Tympanoplasty and Implantable Hearing Devices in Cases of Postoperative Hearing Failure in Cholesteatoma.",
       "url_path": "/articles/2026/08/candidates-for-revision-tympanoplasty-and-implantable-hearing-devices-in-cases-o/",
       "processed_at": "2026-09-13T22:45:03+00:00"
+    },
+    {
+      "id": "42735092",
+      "pmid": "42735092",
+      "doi": "10.1080/01616412.2026.2697005",
+      "title": "Robot-assisted gait training in cerebral palsy: a GRADE-assessed systematic review and meta-analysis with trial sequential analysis.",
+      "url_path": "/articles/2026/09/robot-assisted-gait-training-in-cerebral-palsy-a-grade-assessed-systematic-revie/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735391",
+      "pmid": "42735391",
+      "doi": "10.1093/ageing/afag260",
+      "title": "Measuring what matters: evaluating the psychometric properties of goal attainment scaling in a psychosocial dementia trial.",
+      "url_path": "/articles/2026/09/measuring-what-matters-evaluating-the-psychometric-properties-of-goal-attainment/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735389",
+      "pmid": "42735389",
+      "doi": "10.1093/ageing/afag263",
+      "title": "Cardiometabolic medication exposures and cognitive outcomes in Alzheimer's disease.",
+      "url_path": "/articles/2026/09/cardiometabolic-medication-exposures-and-cognitive-outcomes-in-alzheimer-s-disea/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735390",
+      "pmid": "42735390",
+      "doi": "10.1093/ageing/afag270",
+      "title": "Prioritising modifiable risk factors for self-management of urinary incontinence in older men: integrating expert consensus with patient readiness.",
+      "url_path": "/articles/2026/09/prioritising-modifiable-risk-factors-for-self-management-of-urinary-incontinence/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735284",
+      "pmid": "42735284",
+      "doi": "10.1044/2026_AJA-26-00030",
+      "title": "Effects of Traditional and Virtual Reality-Based Vestibular Rehabilitation on Balance and Visual-Motor Skills in Children With Specific Learning Disorders: A Randomized Controlled Trial.",
+      "url_path": "/articles/2026/09/effects-of-traditional-and-virtual-reality-based-vestibular-rehabilitation-on-ba/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735207",
+      "pmid": "42735207",
+      "doi": "10.1080/15502783.2026.2720742",
+      "title": "Resistance versus concurrent training with three assigned protein targets in middle-aged and older women: a randomized 2 × 3 factorial trial.",
+      "url_path": "/articles/2026/09/resistance-versus-concurrent-training-with-three-assigned-protein-targets-in-mid/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735219",
+      "pmid": "42735219",
+      "doi": "10.1097/PHM.0000000000003161",
+      "title": "Effects of High-Intensity Laser Therapy on Functional Outcomes and Spasticity-Related Pain in Subacute and Chronic Stroke Patients with Plantar Flexor Spasticity: A Randomized Sham-Controlled Trial.",
+      "url_path": "/articles/2026/09/effects-of-high-intensity-laser-therapy-on-functional-outcomes-and-spasticity-re/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42735210",
+      "pmid": "42735210",
+      "doi": "10.1080/10749357.2026.2723405",
+      "title": "Physical dependence, self-efficacy, and resilience in stroke patients: a double-moderated mediation model of healthcare group and pre-stroke employment.",
+      "url_path": "/articles/2026/09/physical-dependence-self-efficacy-and-resilience-in-stroke-patients-a-double-mod/",
+      "processed_at": "2026-09-14T23:36:25+00:00"
     }
   ]
 }

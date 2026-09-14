@@ -1,5 +1,81 @@
 [
   {
+    "title": "脳性麻痺児に対するロボット支援歩行トレーニングの効果:GRADE評価とTrial Sequential Analysisを用いたシステマティックレビュー・メタ解析",
+    "summary": "脳性麻痺児542例を対象とした15件のRCTを解析した結果、ロボット支援歩行トレーニングは多くの歩行・バランス指標で通常療法と同等だったが、6分間歩行距離、10m歩行速度、粗大運動機能(走る・跳ぶ項目)ではわずかな上乗せ効果が確認された。",
+    "url": "/rehab-paper-digest/articles/2026/09/robot-assisted-gait-training-in-cerebral-palsy-a-grade-assessed-systematic-revie/",
+    "categories": [
+      "小児",
+      "理学療法",
+      "歩行",
+      "神経疾患"
+    ],
+    "pmid": "42735092",
+    "doi": "10.1080/01616412.2026.2697005",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-09-14"
+  },
+  {
+    "title": "脳卒中患者における身体的依存度・自己効力感・レジリエンスの関連:医療介入群と発症前就労状況による二重調整媒介モデル",
+    "summary": "脳卒中患者123名を対象とした横断研究で、身体的依存度とレジリエンスの関連を自己効力感が媒介し、その経路は医療介入群と発症前就労状況によって調整されることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/physical-dependence-self-efficacy-and-resilience-in-stroke-patients-a-double-mod/",
+    "categories": [
+      "脳卒中",
+      "神経疾患",
+      "ADL"
+    ],
+    "pmid": "42735210",
+    "doi": "10.1080/10749357.2026.2723405",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-09-14"
+  },
+  {
+    "title": "底屈筋痙縮を有する脳卒中患者に対する高強度レーザー療法が機能的転帰と痙縮関連疼痛に与える効果:ランダム化シャム対照試験",
+    "summary": "亜急性期・慢性期脳卒中後の底屈筋痙縮患者において、高強度レーザー療法を通常リハビリに併用したところ、シャム群と比較して痙縮関連疼痛が大きく改善し、歩行速度についても補正後解析で改善傾向がみられた予備的ランダム化比較試験。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-high-intensity-laser-therapy-on-functional-outcomes-and-spasticity-re/",
+    "categories": [
+      "理学療法",
+      "脳卒中",
+      "その他"
+    ],
+    "pmid": "42735219",
+    "doi": "10.1097/PHM.0000000000003161",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-09-14"
+  },
+  {
+    "title": "中高年女性におけるレジスタンス運動と複合運動、3種のタンパク質摂取目標を比較した2×3要因ランダム化比較試験",
+    "summary": "中高年女性を対象に、レジスタンス運動単独と有酸素運動を併用した複合トレーニング、および3種類のタンパク質摂取目標の組み合わせを検討したが、骨格筋量に対するタンパク質摂取目標の効果は検出されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/resistance-versus-concurrent-training-with-three-assigned-protein-targets-in-mid/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42735207",
+    "doi": "10.1080/15502783.2026.2720742",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-12-30"
+  },
+  {
+    "title": "特異的学習障害児に対する従来型およびVR型前庭リハビリテーションがバランスと視覚運動技能に与える効果:ランダム化比較試験",
+    "summary": "特異的学習障害児では定型発達児と比べてバランス機能が低下しており、従来型・VR型いずれの前庭リハビリでもバランスや学習関連指標が改善し、VR型では一部の前庭・眼球運動指標でより大きな改善がみられた。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-traditional-and-virtual-reality-based-vestibular-rehabilitation-on-ba/",
+    "categories": [
+      "小児",
+      "その他",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42735284",
+    "doi": "10.1044/2026_AJA-26-00030",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-09-14"
+  },
+  {
     "title": "R2Play-Rehab:脳震盪に対する多領域統合型アクティブリハビリテーションツールの共同デザイン",
     "summary": "脳震盪評価ツールR2Playをリハビリテーション用に発展させるため、11名の臨床家との共同デザインを通じて介入機会と設計要件を整理した研究です。",
     "url": "/rehab-paper-digest/articles/2026/09/r2play-rehab-co-designing-a-multidomain-integrative-active-rehabilitation-tool-f/",
@@ -818,6 +894,49 @@
     "published_date": "2026-09-07",
     "online_publication_date": "",
     "issue_date": "2026-09-07"
+  },
+  {
+    "title": "認知症の心理社会的介入試験における目標達成度スケール(GAS)の測定特性の検証",
+    "summary": "認知症とその家族介護者を対象としたNIDUS-Family試験において、個別化アウトカム指標であるGoal Attainment Scaling(GAS)の実行可能性・信頼性・妥当性が良好であることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/measuring-what-matters-evaluating-the-psychometric-properties-of-goal-attainment/",
+    "categories": [
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42735391",
+    "doi": "10.1093/ageing/afag260",
+    "published_date": "2026-09-04",
+    "online_publication_date": "",
+    "issue_date": "2026-09-04"
+  },
+  {
+    "title": "高齢男性の尿失禁自己管理:専門家の合意と患者の実行可能性を統合した優先順位づけ",
+    "summary": "尿失禁のある高齢男性を対象に、専門家が臨床的に重要とみなす修正可能な危険因子と、当事者が実際に取り組む意欲・実行可能性を組み合わせて、自己管理介入の優先候補を検討した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/prioritising-modifiable-risk-factors-for-self-management-of-urinary-incontinence/",
+    "categories": [
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42735390",
+    "doi": "10.1093/ageing/afag270",
+    "published_date": "2026-09-04",
+    "online_publication_date": "",
+    "issue_date": "2026-09-04"
+  },
+  {
+    "title": "心血管代謝薬への曝露とアルツハイマー病における認知機能転帰の関連",
+    "summary": "複数の大規模コホートを統合し、7種類の心血管代謝薬とアルツハイマー病における認知機能低下の推移との関連を検討した観察研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/cardiometabolic-medication-exposures-and-cognitive-outcomes-in-alzheimer-s-disea/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "認知機能"
+    ],
+    "pmid": "42735389",
+    "doi": "10.1093/ageing/afag263",
+    "published_date": "2026-09-04",
+    "online_publication_date": "",
+    "issue_date": "2026-09-04"
   },
   {
     "title": "膝関節症患者における体幹深部筋・股関節周囲筋の筋力低下の有病率:横断研究",
