@@ -76,7 +76,15 @@
     "42735284",
     "42735389",
     "42735390",
-    "42735391"
+    "42735391",
+    "42742859",
+    "42742866",
+    "42743220",
+    "42743226",
+    "42743227",
+    "42743401",
+    "42743440",
+    "42743538"
   ],
   "records": [
     {
@@ -694,6 +702,70 @@
       "title": "Physical dependence, self-efficacy, and resilience in stroke patients: a double-moderated mediation model of healthcare group and pre-stroke employment.",
       "url_path": "/articles/2026/09/physical-dependence-self-efficacy-and-resilience-in-stroke-patients-a-double-mod/",
       "processed_at": "2026-09-14T23:36:25+00:00"
+    },
+    {
+      "id": "42743227",
+      "pmid": "42743227",
+      "doi": "10.1371/journal.pdig.0001686",
+      "title": "Reliable detection and continuous monitoring of memory dysfunction in mild cognitive impairment and healthy aging through adaptive computational phenotyping.",
+      "url_path": "/articles/2026/09/reliable-detection-and-continuous-monitoring-of-memory-dysfunction-in-mild-cogni/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42742866",
+      "pmid": "42742866",
+      "doi": "10.1007/s11886-026-02419-8",
+      "title": "Diet Versus Exercise in Cardiometabolic Disease: Are Two Always Better Than One?",
+      "url_path": "/articles/2026/09/diet-versus-exercise-in-cardiometabolic-disease-are-two-always-better-than-one/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42742859",
+      "pmid": "42742859",
+      "doi": "10.1007/s11255-026-05357-0",
+      "title": "Effects of neuromuscular electrical stimulation (NMES) in patients undergoing haemodialysis: a systematic review and meta-analysis.",
+      "url_path": "/articles/2026/09/effects-of-neuromuscular-electrical-stimulation-nmes-in-patients-undergoing-haem/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42743538",
+      "pmid": "42743538",
+      "doi": "10.1097/TA.0000000000005100",
+      "title": "Anticipatory firearm safety planning among older adult firearm owners: Attitudes toward physician involvement.",
+      "url_path": "/articles/2026/09/anticipatory-firearm-safety-planning-among-older-adult-firearm-owners-attitudes/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42743226",
+      "pmid": "42743226",
+      "doi": "10.1371/journal.pone.0343482",
+      "title": "Time, talk, and teamwork: Perceptions of personalised dementia care planning conversations in primary care.",
+      "url_path": "/articles/2026/09/time-talk-and-teamwork-perceptions-of-personalised-dementia-care-planning-conver/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42743440",
+      "pmid": "42743440",
+      "doi": "10.2196/91968",
+      "title": "Quality of Life of People Living With Dementia Residing in Nursing Homes: Secondary Analysis of Observational Data.",
+      "url_path": "/articles/2026/09/quality-of-life-of-people-living-with-dementia-residing-in-nursing-homes-seconda/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42743401",
+      "pmid": "42743401",
+      "doi": "10.1111/jce.70496",
+      "title": "Sensor-Driven Pacemaker Tachycardia During Chest Physiotherapy: The Hidden Accelerometer Sensor Response in a Leadless Pacemaker in the VDD Mode.",
+      "url_path": "/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42743220",
+      "pmid": "42743220",
+      "doi": "10.1371/journal.pone.0356824",
+      "title": "Clinical characteristics and microperimetry of patients with myopic maculopathy referred to vision rehabilitation compared to age related macular degeneration.",
+      "url_path": "/articles/2026/09/clinical-characteristics-and-microperimetry-of-patients-with-myopic-maculopathy/",
+      "processed_at": "2026-09-15T23:18:06+00:00"
     }
   ]
 }

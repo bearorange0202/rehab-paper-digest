@@ -1,5 +1,119 @@
 [
   {
+    "title": "VDDモードのリードレスペースメーカーで胸部理学療法中に生じたセンサー起因の頻脈性ペーシング",
+    "summary": "リードレスペースメーカー(VDDモード)装着患者において、胸部理学療法中の振動が加速度センサーを刺激し、意図しない心拍数上昇(モード切替によるVVIRペーシング)を引き起こした症例が報告されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42743401",
+    "doi": "10.1111/jce.70496",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-15"
+  },
+  {
+    "title": "高齢の銃保有者における認知症を見据えた銃火器安全計画:医師関与への態度に関する調査",
+    "summary": "高齢の銃保有者を対象とした横断調査で、認知症を見据えた銃火器安全計画は現状ほとんど行われていないものの、この概念に触れることで計画意図が大きく高まる一方、医師の関与には賛否が分かれることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/anticipatory-firearm-safety-planning-among-older-adult-firearm-owners-attitudes/",
+    "categories": [
+      "高齢者",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42743538",
+    "doi": "10.1097/TA.0000000000005100",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-15"
+  },
+  {
+    "title": "心血管代謝疾患における食事療法と運動療法:併用は常に単独より優れるのか",
+    "summary": "食事療法と運動療法を直接比較したランダム化比較試験・メタ解析を整理したレビューで、併用の優位性はアウトカムによって異なることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/diet-versus-exercise-in-cardiometabolic-disease-are-two-always-better-than-one/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42742866",
+    "doi": "10.1007/s11886-026-02419-8",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-15"
+  },
+  {
+    "title": "時間・対話・チームワーク:プライマリケアにおける認知症のパーソナライズされたケアプランニング会話に関する認識",
+    "summary": "認知症の人・家族介護者・多職種のプライマリケア従事者への半構造化インタビューにより、ケアプランニング会話を阻害・促進する要因を探索した質的研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/time-talk-and-teamwork-perceptions-of-personalised-dementia-care-planning-conver/",
+    "categories": [
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42743226",
+    "doi": "10.1371/journal.pone.0343482",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "血液透析患者に対する神経筋電気刺激(NMES)の効果:システマティックレビュー・メタ解析",
+    "summary": "血液透析患者へのNMESは握力にわずかな改善傾向を示したが、感度分析で頑健性を欠き、歩行や生化学マーカー、QOLなど他の指標では一貫した効果は確認されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-neuromuscular-electrical-stimulation-nmes-in-patients-undergoing-haem/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42742859",
+    "doi": "10.1007/s11255-026-05357-0",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-15"
+  },
+  {
+    "title": "視覚リハビリテーションに紹介された近視性黄斑症患者の臨床的特徴とマイクロペリメトリー所見:加齢黄斑変性との比較",
+    "summary": "視覚リハビリテーションに紹介された近視性黄斑症患者は加齢黄斑変性患者より若年で、良好な視力でも傍中心暗点により日常生活動作を課題として挙げる傾向が示された後ろ向き比較研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/clinical-characteristics-and-microperimetry-of-patients-with-myopic-maculopathy/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42743220",
+    "doi": "10.1371/journal.pone.0356824",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "介護施設入居中の認知症高齢者のQoL:観察データの二次解析による大規模言語モデル活用の探索",
+    "summary": "オランダの介護施設に入居する認知症の人151名の観察記録(MEDLO)をGPT-4o-miniで解析し、QoLに関連する言語パターンを抽出できるか探索した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/quality-of-life-of-people-living-with-dementia-residing-in-nursing-homes-seconda/",
+    "categories": [
+      "認知症",
+      "高齢者"
+    ],
+    "pmid": "42743440",
+    "doi": "10.2196/91968",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-15"
+  },
+  {
+    "title": "適応的な計算論的表現型分析による軽度認知障害と健常加齢における記憶機能障害の信頼性の高い検出と継続的モニタリング",
+    "summary": "軽度認知障害患者と健常高齢者計51名が週1回・最長1年間の遠隔記憶課題を行い、記憶の固定・忘却モデルに基づく個別スコア(SGMA)が信頼性と診断精度を示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/reliable-detection-and-continuous-monitoring-of-memory-dysfunction-in-mild-cogni/",
+    "categories": [
+      "認知症",
+      "認知機能",
+      "高齢者"
+    ],
+    "pmid": "42743227",
+    "doi": "10.1371/journal.pdig.0001686",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-01"
+  },
+  {
     "title": "脳性麻痺児に対するロボット支援歩行トレーニングの効果:GRADE評価とTrial Sequential Analysisを用いたシステマティックレビュー・メタ解析",
     "summary": "脳性麻痺児542例を対象とした15件のRCTを解析した結果、ロボット支援歩行トレーニングは多くの歩行・バランス指標で通常療法と同等だったが、6分間歩行距離、10m歩行速度、粗大運動機能(走る・跳ぶ項目)ではわずかな上乗せ効果が確認された。",
     "url": "/rehab-paper-digest/articles/2026/09/robot-assisted-gait-training-in-cerebral-palsy-a-grade-assessed-systematic-revie/",
