@@ -1,5 +1,122 @@
 [
   {
+    "title": "多領域心臓リハビリテーションを受けた高齢心筋梗塞患者における身体機能と予後の関連",
+    "summary": "PIpELINe試験のサブ解析で、高齢心筋梗塞患者における身体機能(SPPB)、特に歩行速度が心血管イベント再発の強力な予測因子であることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/physical-performance-and-outcomes-after-myocardial-infarction-in-older-patients/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42748164",
+    "doi": "10.1093/eurjpc/zwag390",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
+  },
+  {
+    "title": "在宅認知症介護を支援するmHealthアプリのための介護者の課題と機能要件:質的インタビュー研究",
+    "summary": "インドネシアの認知症介護者・医療従事者へのインタビューから、在宅介護の課題とそれに対応するmHealthアプリの機能要件を参加型デザインで抽出した質的研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/caregiver-challenges-and-functional-requirements-for-an-mhealth-app-supporting-h/",
+    "categories": [
+      "認知症",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42748455",
+    "doi": "10.2196/87234",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
+  },
+  {
+    "title": "若年サッカー選手における片側性バランス単独トレーニングと複合(バランス+プライオメトリック)トレーニングが左右のバランス能力非対称性に与える効果の比較",
+    "summary": "若年男子サッカー選手を対象に、非利き足への片側性バランス単独トレーニングと、バランス+プライオメトリックを組み合わせた複合トレーニングを比較したところ、いずれも静的・動的な左右バランス能力を改善させたが、明確な優劣は示されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-unilateral-single-mode-balance-training-compared-to-combined-balance/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42748111",
+    "doi": "10.1371/journal.pone.0358565",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "韓国高齢者を対象としたシナリオ型シリアスゲームによる軽度認知障害スクリーニングの予備的妥当性検証",
+    "summary": "文化的に馴染みのある日常生活シナリオとタブレット操作の正確性・反応時間を組み合わせたシリアスゲームが、韓国の地域在住高齢者においてMCIを一定の精度で判別できる可能性が予備的に示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/scenario-based-serious-game-for-screening-mild-cognitive-impairment-in-older-adu/",
+    "categories": [
+      "認知症",
+      "認知機能",
+      "高齢者"
+    ],
+    "pmid": "42748403",
+    "doi": "10.2196/92334",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
+  },
+  {
+    "title": "エリートおよびレクリエーションレベルのハンドボール選手におけるACL損傷の受傷機転",
+    "summary": "デンマークの全国患者登録を用いた大規模調査で、ハンドボールにおけるACL損傷の多くが非接触型で、ボール保持中のフェイントやシュート動作、攻撃時のバックコートプレーヤーに多く発生していることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/acl-injury-mechanism-in-elite-and-recreational-handball-players/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42748360",
+    "doi": "10.1002/ksa.70595",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
+  },
+  {
+    "title": "台湾の長期療養施設データを用いた6か月死亡予測のための解釈可能な機械学習モデルの開発と時間的外部検証",
+    "summary": "台湾の大規模長期療養施設データベースを用いて、入所時に日常的に収集される評価データのみから6か月死亡を高い精度で予測する解釈可能な機械学習モデルを開発し、翌年のデータで検証した後ろ向きコホート研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/development-and-temporal-external-validation-of-a-parsimonious-interpretable-mac/",
+    "categories": [
+      "高齢者",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42748398",
+    "doi": "10.2196/94567",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
+  },
+  {
+    "title": "マラウイ農村部における脳性麻痺児の介護:主介護者の経験と支援ニーズに関する混合研究",
+    "summary": "マラウイ農村部で脳性麻痺児を介護する主介護者42名を対象に、介護負担の実態と対処・支援ニーズを混合研究法で検討したところ、高い介護負担が示され、貧困やスティグマの影響とレジリエンスによる対処が明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/caring-for-a-child-with-cerebral-palsy-in-rural-malawi-a-mixed-methods-study-of/",
+    "categories": [
+      "小児",
+      "神経疾患",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42748405",
+    "doi": "10.1111/dmcn.70502",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
+  },
+  {
+    "title": "無線インソール型センサー(WalkinSense)を用いた準自由生活環境下での日常生活活動分類の検証",
+    "summary": "圧力・慣性データを統合した無線インソール型センサーが、準自由生活環境下で日常生活活動の種類や継続時間、歩数をおおむね高い精度で分類できることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/classification-of-daily-activities-using-a-wireless-instrumented-insole-walkinse/",
+    "categories": [
+      "福祉用具・支援技術",
+      "歩行",
+      "ADL"
+    ],
+    "pmid": "42748102",
+    "doi": "10.1371/journal.pone.0357961",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "VDDモードのリードレスペースメーカーで胸部理学療法中に生じたセンサー起因の頻脈性ペーシング",
     "summary": "リードレスペースメーカー(VDDモード)装着患者において、胸部理学療法中の振動が加速度センサーを刺激し、意図しない心拍数上昇(モード切替によるVVIRペーシング)を引き起こした症例が報告されました。",
     "url": "/rehab-paper-digest/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/",

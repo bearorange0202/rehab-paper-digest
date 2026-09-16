@@ -84,7 +84,15 @@
     "42743227",
     "42743401",
     "42743440",
-    "42743538"
+    "42743538",
+    "42748102",
+    "42748111",
+    "42748164",
+    "42748360",
+    "42748398",
+    "42748403",
+    "42748405",
+    "42748455"
   ],
   "records": [
     {
@@ -766,6 +774,70 @@
       "title": "Clinical characteristics and microperimetry of patients with myopic maculopathy referred to vision rehabilitation compared to age related macular degeneration.",
       "url_path": "/articles/2026/09/clinical-characteristics-and-microperimetry-of-patients-with-myopic-maculopathy/",
       "processed_at": "2026-09-15T23:18:06+00:00"
+    },
+    {
+      "id": "42748398",
+      "pmid": "42748398",
+      "doi": "10.2196/94567",
+      "title": "Development and Temporal External Validation of a Parsimonious, Interpretable Machine Learning Model for Predicting 6-Month Mortality in Long-Term Care Facilities: A Retrospective Cohort Study.",
+      "url_path": "/articles/2026/09/development-and-temporal-external-validation-of-a-parsimonious-interpretable-mac/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748360",
+      "pmid": "42748360",
+      "doi": "10.1002/ksa.70595",
+      "title": "ACL injury mechanism in elite and recreational handball players.",
+      "url_path": "/articles/2026/09/acl-injury-mechanism-in-elite-and-recreational-handball-players/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748164",
+      "pmid": "42748164",
+      "doi": "10.1093/eurjpc/zwag390",
+      "title": "Physical performance and outcomes after myocardial infarction in older patients undergoing multidomain cardiac rehabilitation.",
+      "url_path": "/articles/2026/09/physical-performance-and-outcomes-after-myocardial-infarction-in-older-patients/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748405",
+      "pmid": "42748405",
+      "doi": "10.1111/dmcn.70502",
+      "title": "Caring for a child with cerebral palsy in rural Malawi: A mixed-methods study of caregiver experiences and support needs.",
+      "url_path": "/articles/2026/09/caring-for-a-child-with-cerebral-palsy-in-rural-malawi-a-mixed-methods-study-of/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748403",
+      "pmid": "42748403",
+      "doi": "10.2196/92334",
+      "title": "Scenario-Based Serious Game for Screening Mild Cognitive Impairment in Older Adults: Cross-Sectional Preliminary Validation Study.",
+      "url_path": "/articles/2026/09/scenario-based-serious-game-for-screening-mild-cognitive-impairment-in-older-adu/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748102",
+      "pmid": "42748102",
+      "doi": "10.1371/journal.pone.0357961",
+      "title": "Classification of daily activities using a wireless instrumented insole (WalkinSense) in a semi free-living setting.",
+      "url_path": "/articles/2026/09/classification-of-daily-activities-using-a-wireless-instrumented-insole-walkinse/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748111",
+      "pmid": "42748111",
+      "doi": "10.1371/journal.pone.0358565",
+      "title": "Effects of unilateral single-mode balance training compared to combined balance and plyometric training on soccer players' interlimb asymmetry in static and dynamic balance performance.",
+      "url_path": "/articles/2026/09/effects-of-unilateral-single-mode-balance-training-compared-to-combined-balance/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42748455",
+      "pmid": "42748455",
+      "doi": "10.2196/87234",
+      "title": "Caregiver Challenges and Functional Requirements for an mHealth App Supporting Home-Based Dementia Care: Qualitative Interview Study.",
+      "url_path": "/articles/2026/09/caregiver-challenges-and-functional-requirements-for-an-mhealth-app-supporting-h/",
+      "processed_at": "2026-09-16T23:22:59+00:00"
     }
   ]
 }
