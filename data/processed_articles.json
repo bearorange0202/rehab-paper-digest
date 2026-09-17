@@ -92,7 +92,14 @@
     "42748398",
     "42748403",
     "42748405",
-    "42748455"
+    "42748455",
+    "42752857",
+    "42752944",
+    "42753032",
+    "42753033",
+    "42753098",
+    "42753155",
+    "42753251"
   ],
   "records": [
     {
@@ -838,6 +845,62 @@
       "title": "Caregiver Challenges and Functional Requirements for an mHealth App Supporting Home-Based Dementia Care: Qualitative Interview Study.",
       "url_path": "/articles/2026/09/caregiver-challenges-and-functional-requirements-for-an-mhealth-app-supporting-h/",
       "processed_at": "2026-09-16T23:22:59+00:00"
+    },
+    {
+      "id": "42753032",
+      "pmid": "42753032",
+      "doi": "10.1007/s11357-026-02536-w",
+      "title": "Mediating role of depressive symptoms in the association between trajectories of instrumental activities of daily living and all-cause mortality in middle-aged or older adults: a cohort study in South Korea.",
+      "url_path": "/articles/2026/09/mediating-role-of-depressive-symptoms-in-the-association-between-trajectories-of/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42752857",
+      "pmid": "42752857",
+      "doi": "10.1093/ptj/pzag099",
+      "title": "Association Between the Short Physical Performance Battery and Hospitalization-Associated Disability in Older Patients With Heart Failure.",
+      "url_path": "/articles/2026/09/association-between-the-short-physical-performance-battery-and-hospitalization-a/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42753155",
+      "pmid": "42753155",
+      "doi": "10.1111/ejn.70688",
+      "title": "Time-Dependent Enhancement of Motor Dexterity and Cerebellar Function via Premotor-Cerebellar Associative Stimulation.",
+      "url_path": "/articles/2026/09/time-dependent-enhancement-of-motor-dexterity-and-cerebellar-function-via-premot/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42752944",
+      "pmid": "42752944",
+      "doi": "10.1007/s00417-026-07503-x",
+      "title": "Association of primary congenital glaucoma with quality of life in children and their families.",
+      "url_path": "/articles/2026/09/association-of-primary-congenital-glaucoma-with-quality-of-life-in-children-and/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42753251",
+      "pmid": "42753251",
+      "doi": "10.2196/95768",
+      "title": "Structured Digital Device Instruction for Older Adults With Stroke During Convalescent Rehabilitation: Prospective Feasibility Study.",
+      "url_path": "/articles/2026/09/structured-digital-device-instruction-for-older-adults-with-stroke-during-conval/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42753098",
+      "pmid": "42753098",
+      "doi": "10.5603/fm.93249",
+      "title": "From chewing to thinking: anatomical and neurophysiological links between mastication, cerebral blood flow, and cognition: a narrative review.",
+      "url_path": "/articles/2026/01/from-chewing-to-thinking-anatomical-and-neurophysiological-links-between-mastica/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42753033",
+      "pmid": "42753033",
+      "doi": "10.1007/s13105-026-01234-7",
+      "title": "A combination of aerobic and resistance training induces white adipose tissue browning.",
+      "url_path": "/articles/2026/09/a-combination-of-aerobic-and-resistance-training-induces-white-adipose-tissue-br/",
+      "processed_at": "2026-09-17T23:13:53+00:00"
     }
   ]
 }
