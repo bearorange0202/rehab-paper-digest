@@ -99,7 +99,15 @@
     "42753033",
     "42753098",
     "42753155",
-    "42753251"
+    "42753251",
+    "42758489",
+    "42758491",
+    "42758504",
+    "42758547",
+    "42758697",
+    "42758739",
+    "42758807",
+    "42758877"
   ],
   "records": [
     {
@@ -901,6 +909,70 @@
       "title": "A combination of aerobic and resistance training induces white adipose tissue browning.",
       "url_path": "/articles/2026/09/a-combination-of-aerobic-and-resistance-training-induces-white-adipose-tissue-br/",
       "processed_at": "2026-09-17T23:13:53+00:00"
+    },
+    {
+      "id": "42758489",
+      "pmid": "42758489",
+      "doi": "10.1001/jamahealthforum.2026.3280",
+      "title": "Cost-Effectiveness of Community-Based Rehabilitation for People With Schizophrenia: A Secondary Analysis of a Cluster Randomized Trial.",
+      "url_path": "/articles/2026/09/cost-effectiveness-of-community-based-rehabilitation-for-people-with-schizophren/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758739",
+      "pmid": "42758739",
+      "doi": "10.1371/journal.pone.0358337",
+      "title": "Trends in trajectories and incidence of functional impairment in middle-aged Americans.",
+      "url_path": "/articles/2026/09/trends-in-trajectories-and-incidence-of-functional-impairment-in-middle-aged-ame/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758504",
+      "pmid": "42758504",
+      "doi": "10.1001/jamanetworkopen.2026.34839",
+      "title": "Posttraumatic Stress Disorder, Health-Related Social Needs, and Cognitive Outcomes in US Veterans.",
+      "url_path": "/articles/2026/09/posttraumatic-stress-disorder-health-related-social-needs-and-cognitive-outcomes/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758491",
+      "pmid": "42758491",
+      "doi": "10.1080/09638288.2026.2724043",
+      "title": "Alignment between goals and subjective memory concerns in measuring outcomes of memory rehabilitation post-stroke.",
+      "url_path": "/articles/2026/09/alignment-between-goals-and-subjective-memory-concerns-in-measuring-outcomes-of/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758547",
+      "pmid": "42758547",
+      "doi": "10.1556/2060.2026.00899",
+      "title": "Effect of manual diaphragmatic release technique on exercise capacity and sleep quality in older adults with Type II diabetes: A randomized controlled trial.",
+      "url_path": "/articles/2026/09/effect-of-manual-diaphragmatic-release-technique-on-exercise-capacity-and-sleep/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758877",
+      "pmid": "42758877",
+      "doi": "10.1113/JP290882",
+      "title": "Disrupted bilateral co-ordination of soleus motor units during early subacute stroke rehabilitation.",
+      "url_path": "/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758807",
+      "pmid": "42758807",
+      "doi": "10.47626/1516-4446-2026-5102",
+      "title": "Brazilian Psychiatric Association Guidelines for the Treatment of Eating Disorders.",
+      "url_path": "/articles/2026/09/brazilian-psychiatric-association-guidelines-for-the-treatment-of-eating-disorde/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42758697",
+      "pmid": "42758697",
+      "doi": "10.1371/journal.pone.0358534",
+      "title": "Effects of basic and dual-task training programs on physical function in Parkinson's disease: The PARKEX study.",
+      "url_path": "/articles/2026/09/effects-of-basic-and-dual-task-training-programs-on-physical-function-in-parkins/",
+      "processed_at": "2026-09-18T22:57:27+00:00"
     }
   ]
 }

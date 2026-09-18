@@ -1,5 +1,94 @@
 [
   {
+    "title": "脳卒中亜急性期リハビリテーション早期における両側ヒラメ筋運動単位協調の破綻",
+    "summary": "脳卒中亜急性期患者では立位時のヒラメ筋運動単位の両側同期性が低下しており、その改善がバランス機能(BBS)の改善と強く関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42758877",
+    "doi": "10.1113/JP290882",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "摂食障害治療に関するブラジル精神医学会ガイドライン",
+    "summary": "ブラジル精神医学会が神経性やせ症・神経性過食症・過食性障害の治療について、エビデンスに基づく多職種連携の推奨をまとめたガイドラインです。",
+    "url": "/rehab-paper-digest/articles/2026/09/brazilian-psychiatric-association-guidelines-for-the-treatment-of-eating-disorde/",
+    "categories": [
+      "精神科"
+    ],
+    "pmid": "42758807",
+    "doi": "10.47626/1516-4446-2026-5102",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "2型糖尿病を有する高齢者に対する用手的横隔膜リリース技術が運動耐容能と睡眠の質に与える効果:ランダム化対照試験",
+    "summary": "2型糖尿病の高齢者において、用手的横隔膜リリースと呼吸法の併用は呼吸法単独と比べて運動耐容能・睡眠の質・疲労・QOLをより改善したという単盲検RCTの結果です。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-manual-diaphragmatic-release-technique-on-exercise-capacity-and-sleep/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42758547",
+    "doi": "10.1556/2060.2026.00899",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "脳卒中後の記憶リハビリテーションにおける目標と主観的記憶の問題の一致度がアウトカム測定に与える影響",
+    "summary": "脳卒中後の記憶リハビリでは、参加者自身が設定した目標に一致する記憶の問題の方が、目標と一致しない問題よりも初期介入で改善しやすいことが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/alignment-between-goals-and-subjective-memory-concerns-in-measuring-outcomes-of/",
+    "categories": [
+      "脳卒中",
+      "認知機能",
+      "その他"
+    ],
+    "pmid": "42758491",
+    "doi": "10.1080/09638288.2026.2724043",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "米国中年層における機能障害の軌跡と発生率の出生コホート別動向",
+    "summary": "米国の代表的コホート研究において、1935~1959年生まれの4つの出生コホートを比較したところ、より新しい世代ほど中年期(65歳未満)の日常生活動作(ADL/IADL)機能障害の軌跡と発生率が改善していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/trends-in-trajectories-and-incidence-of-functional-impairment-in-middle-aged-ame/",
+    "categories": [
+      "高齢者",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42758739",
+    "doi": "10.1371/journal.pone.0358337",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "パーキンソン病患者に対する基本運動療法とデュアルタスク運動療法が身体機能に与える効果:PARKEX研究",
+    "summary": "パーキンソン病患者24名を対象としたランダム化比較試験で、基本運動療法とデュアルタスク運動療法はいずれも下肢筋力と機能的移動能力を改善したが、生活の質や抑うつ症状には統計的な有意差は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-basic-and-dual-task-training-programs-on-physical-function-in-parkins/",
+    "categories": [
+      "理学療法",
+      "神経疾患",
+      "歩行"
+    ],
+    "pmid": "42758697",
+    "doi": "10.1371/journal.pone.0358534",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "有酸素運動とレジスタンス運動の複合トレーニングはマウスの白色脂肪組織の褐色化を誘導する",
     "summary": "マウスを用いた実験で、8週間の複合トレーニング(有酸素+レジスタンス)が白色脂肪組織において褐色脂肪細胞様の特徴(ブラウニング)を誘導することが示された。",
     "url": "/rehab-paper-digest/articles/2026/09/a-combination-of-aerobic-and-resistance-training-induces-white-adipose-tissue-br/",
@@ -1241,6 +1330,36 @@
     "published_date": "2026-09-04",
     "online_publication_date": "",
     "issue_date": "2026-09-04"
+  },
+  {
+    "title": "統合失調症患者に対する地域リハビリテーションの費用対効果:クラスターランダム化比較試験の二次解析",
+    "summary": "中国の統合失調症患者を対象に、施設ベースケアに加えた集団型地域リハビリテーション(CBR)の費用対効果を検討したクラスターRCTの二次解析で、CBR併用群は臨床アウトカムの改善とコスト削減の両立が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/cost-effectiveness-of-community-based-rehabilitation-for-people-with-schizophren/",
+    "categories": [
+      "精神科",
+      "その他"
+    ],
+    "pmid": "42758489",
+    "doi": "10.1001/jamahealthforum.2026.3280",
+    "published_date": "2026-09-04",
+    "online_publication_date": "2026-09-04",
+    "issue_date": "2026-09-04"
+  },
+  {
+    "title": "米国退役軍人におけるPTSD、健康関連社会的ニーズと認知機能転帰との関連",
+    "summary": "米国退役軍人約382万人の後ろ向きコホート研究で、PTSDと健康関連社会的ニーズ(HRSNs)はそれぞれ独立して軽度認知障害・アルツハイマー病・関連認知症の発症リスクと関連し、両者が併存するとリスクがさらに高まることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/posttraumatic-stress-disorder-health-related-social-needs-and-cognitive-outcomes/",
+    "categories": [
+      "認知症",
+      "認知機能",
+      "精神科",
+      "高齢者"
+    ],
+    "pmid": "42758504",
+    "doi": "10.1001/jamanetworkopen.2026.34839",
+    "published_date": "2026-09-01",
+    "online_publication_date": "2026-09-01",
+    "issue_date": "2026-09-01"
   },
   {
     "title": "膝関節症患者における体幹深部筋・股関節周囲筋の筋力低下の有病率:横断研究",
