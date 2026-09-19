@@ -6,11 +6,25 @@
     <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
     
     <item>
+      <title>COPDにおける血中好酸球数と2型生物学的製剤の適格性:全員が対象となるわけではない</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description>入院リハビリテーションを受けたCOPD患者441例のうち、2型生物学的製剤の適格基準を満たしたのは6.8%にとどまった。</description>
+    </item>
+    <item>
       <title>脳卒中亜急性期リハビリテーション早期における両側ヒラメ筋運動単位協調の破綻</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>脳卒中亜急性期患者では立位時のヒラメ筋運動単位の両側同期性が低下しており、その改善がバランス機能(BBS)の改善と強く関連していた。</description>
+    </item>
+    <item>
+      <title>東アジア系米国人の高齢認知症介護者における介護の時間的負荷と精神的健康の関連</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/how-temporal-caregiving-demands-shape-mental-health-among-older-east-asian-demen/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/how-temporal-caregiving-demands-shape-mental-health-among-older-east-asian-demen/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>東アジア系米国人の認知症介護者82名を対象とした横断調査で、客観的な介護時間よりも主観的な介護負担感がうつ症状と強く関連することが示された。</description>
     </item>
     <item>
       <title>摂食障害治療に関するブラジル精神医学会ガイドライン</title>
@@ -46,6 +60,13 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-basic-and-dual-task-training-programs-on-physical-function-in-parkins/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>パーキンソン病患者24名を対象としたランダム化比較試験で、基本運動療法とデュアルタスク運動療法はいずれも下肢筋力と機能的移動能力を改善したが、生活の質や抑うつ症状には統計的な有意差は認められなかった。</description>
+    </item>
+    <item>
+      <title>股関節形成術を受けた高齢患者の死亡率予測に対する説明可能AI:韓国国民健康保険データを用いた機械学習解析</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/explainable-artificial-intelligence-for-predicting-mortality-in-geriatric-patien/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/explainable-artificial-intelligence-for-predicting-mortality-in-geriatric-patien/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>韓国の大規模保険データを用いて、高齢者の股関節形成術後1年死亡率を予測する機械学習モデルを構築し、年齢や輸血、認知症などが主要な予測因子として特定された。</description>
     </item>
     <item>
       <title>有酸素運動とレジスタンス運動の複合トレーニングはマウスの白色脂肪組織の褐色化を誘導する</title>
@@ -123,27 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/development-and-temporal-external-validation-of-a-parsimonious-interpretable-mac/</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <description>台湾の大規模長期療養施設データベースを用いて、入所時に日常的に収集される評価データのみから6か月死亡を高い精度で予測する解釈可能な機械学習モデルを開発し、翌年のデータで検証した後ろ向きコホート研究です。</description>
-    </item>
-    <item>
-      <title>マラウイ農村部における脳性麻痺児の介護:主介護者の経験と支援ニーズに関する混合研究</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/caring-for-a-child-with-cerebral-palsy-in-rural-malawi-a-mixed-methods-study-of/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/caring-for-a-child-with-cerebral-palsy-in-rural-malawi-a-mixed-methods-study-of/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>マラウイ農村部で脳性麻痺児を介護する主介護者42名を対象に、介護負担の実態と対処・支援ニーズを混合研究法で検討したところ、高い介護負担が示され、貧困やスティグマの影響とレジリエンスによる対処が明らかになった。</description>
-    </item>
-    <item>
-      <title>無線インソール型センサー(WalkinSense)を用いた準自由生活環境下での日常生活活動分類の検証</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/classification-of-daily-activities-using-a-wireless-instrumented-insole-walkinse/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/classification-of-daily-activities-using-a-wireless-instrumented-insole-walkinse/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>圧力・慣性データを統合した無線インソール型センサーが、準自由生活環境下で日常生活活動の種類や継続時間、歩数をおおむね高い精度で分類できることが示された。</description>
-    </item>
-    <item>
-      <title>VDDモードのリードレスペースメーカーで胸部理学療法中に生じたセンサー起因の頻脈性ペーシング</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>リードレスペースメーカー(VDDモード)装着患者において、胸部理学療法中の振動が加速度センサーを刺激し、意図しない心拍数上昇(モード切替によるVVIRペーシング)を引き起こした症例が報告されました。</description>
     </item>
   </channel>
 </rss>

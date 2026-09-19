@@ -107,7 +107,13 @@
     "42758697",
     "42758739",
     "42758807",
-    "42758877"
+    "42758877",
+    "42760680",
+    "42760755",
+    "42760892",
+    "42760921",
+    "42761073",
+    "42761078"
   ],
   "records": [
     {
@@ -973,6 +979,54 @@
       "title": "Effects of basic and dual-task training programs on physical function in Parkinson's disease: The PARKEX study.",
       "url_path": "/articles/2026/09/effects-of-basic-and-dual-task-training-programs-on-physical-function-in-parkins/",
       "processed_at": "2026-09-18T22:57:27+00:00"
+    },
+    {
+      "id": "42760680",
+      "pmid": "42760680",
+      "doi": "10.1097/MD.0000000000050463",
+      "title": "Explainable artificial intelligence for predicting mortality in geriatric patients undergoing hip arthroplasty: Machine learning analysis using national health insurance data.",
+      "url_path": "/articles/2026/09/explainable-artificial-intelligence-for-predicting-mortality-in-geriatric-patien/",
+      "processed_at": "2026-09-19T22:35:38+00:00"
+    },
+    {
+      "id": "42761073",
+      "pmid": "42761073",
+      "doi": "10.3389/fragi.2026.1929793",
+      "title": "Cognitive and behavioral benefits of newspaper reading in community-dwelling older adults: a feasibility randomized controlled trial.",
+      "url_path": "/articles/2026/09/cognitive-and-behavioral-benefits-of-newspaper-reading-in-community-dwelling-old/",
+      "processed_at": "2026-09-19T22:35:38+00:00"
+    },
+    {
+      "id": "42760921",
+      "pmid": "42760921",
+      "doi": "10.3389/fnins.2026.1887979",
+      "title": "20 Hz tACS engages striatal THINs to enhance β-band synchrony and motor drive.",
+      "url_path": "/articles/2026/09/20-hz-tacs-engages-striatal-thins-to-enhance-band-synchrony-and-motor-drive/",
+      "processed_at": "2026-09-19T22:35:38+00:00"
+    },
+    {
+      "id": "42760755",
+      "pmid": "42760755",
+      "doi": "10.1080/13557858.2026.2729317",
+      "title": "How temporal caregiving demands shape mental health among older East Asian dementia caregivers.",
+      "url_path": "/articles/2026/09/how-temporal-caregiving-demands-shape-mental-health-among-older-east-asian-demen/",
+      "processed_at": "2026-09-19T22:35:38+00:00"
+    },
+    {
+      "id": "42761078",
+      "pmid": "42761078",
+      "doi": "10.3389/fmed.2026.1871136",
+      "title": "Machine learning-based risk prediction model for postoperative abdominal distension after spinal surgery under general anesthesia.",
+      "url_path": "/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/",
+      "processed_at": "2026-09-19T22:35:38+00:00"
+    },
+    {
+      "id": "42760892",
+      "pmid": "42760892",
+      "doi": "10.1177/17534666261471839",
+      "title": "Blood eosinophils in COPD: are biologics for everyone?",
+      "url_path": "/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/",
+      "processed_at": "2026-09-19T22:35:38+00:00"
     }
   ]
 }

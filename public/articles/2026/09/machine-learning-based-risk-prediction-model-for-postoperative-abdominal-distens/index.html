@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル | Rehab Paper Digest</title>
+  <meta name="description" content="脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。">
+  <link rel="canonical" href="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/">
+  <meta name="site-base-path" content="/rehab-paper-digest">
+  <link rel="icon" href="/rehab-paper-digest/assets/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Rehab Paper Digest RSS" href="/rehab-paper-digest/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル | Rehab Paper Digest">
+  <meta property="og:description" content="脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。">
+  <meta property="og:url" content="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/">
+  <meta property="og:site_name" content="Rehab Paper Digest">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル | Rehab Paper Digest">
+  <meta name="twitter:description" content="脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。">
+  <link rel="stylesheet" href="/rehab-paper-digest/assets/styles.css?v=20260913-date-category-search">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/rehab-paper-digest/">Rehab Paper Digest</a>
+    <nav class="nav">
+      <a href="/rehab-paper-digest/articles/">新着</a>
+      <a href="/rehab-paper-digest/categories/">カテゴリ</a>
+      <a href="/rehab-paper-digest/diseases/">疾患別</a>
+      <a href="/rehab-paper-digest/archive/">年月別</a>
+      <a href="/rehab-paper-digest/feed.xml">RSS</a>
+    </nav>
+  </header>
+  <main>
+
+    <article class="article-page">
+      <div class="ad-slot" data-slot="article-top">広告枠</div>
+      <p class="meta-line">公開日 2026-09-04 / 発行日 2026-01-01</p>
+      <h1>全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル</h1>
+      <p class="original-title">Machine learning-based risk prediction model for postoperative abdominal distension after spinal surgery under general anesthesia.</p>
+      <p class="lead">脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。</p>
+      <div class="tags"><a class="tag" href="/rehab-paper-digest/categories/orthopedics/">整形外科</a><a class="tag" href="/rehab-paper-digest/categories/other/">その他</a></div>
+
+      <section class="source-box">
+        <h2>原著論文</h2>
+        <dl>
+          <dt>Original title</dt><dd>Machine learning-based risk prediction model for postoperative abdominal distension after spinal surgery under general anesthesia.</dd>
+          <dt>著者</dt><dd>Wu C, Xie L, Zhou S, Hu Y, Li X, Huang Z, Yang D, Mou X</dd>
+          <dt>雑誌名</dt><dd>Frontiers in medicine</dd>
+          <dt>公開日</dt><dd>2026-09-04</dd>
+          <dt>発行日</dt><dd>2026-01-01</dd>
+          <dt>DOI</dt><dd>10.3389/fmed.2026.1871136</dd>
+          <dt>PMID</dt><dd>42761078</dd>
+        </dl>
+        <a class="button" href="https://doi.org/10.3389/fmed.2026.1871136" target="_blank" rel="noopener noreferrer">原著論文を確認する</a>
+      </section>
+
+      <section><h2>背景・目的</h2><p>脊椎手術後の腹部膨満は臨床的に早期発見が難しい合併症とされています。周術期の日常的な情報を統合することで、機械学習がリスク予測の精度を高められる可能性が指摘されています。</p></section>
+      
+      <section><h2>対象</h2><p>全身麻酔下で脊椎手術を受けた1,234名の患者を対象とした単施設の後ろ向き研究です。データは訓練セット(80%)と内部テストセット(20%、247名、うち腹部膨満発生28例)に層化分割されました。</p></section>
+      <section><h2>方法</h2><p>術後ADLカテゴリ、PCA(自己調節鎮痛)使用、術後抗菌薬使用の有無を含む17の周術期・術後早期変数を評価しました。欠損値補完、スケーリング、5分割交差検証によるグリッドサーチを行い、ロジスティック回帰(LR)、ランダムフォレスト(RF)、サポートベクターマシン(SVM)、勾配ブースティング(GB)の4モデルを構築しました。判別能、キャリブレーション、Brierスコア、意思決定曲線分析、順列重要度を用いてモデルを評価し、最もAUCが高かったモデルについてTreeSHAP分析で解釈を行いました。</p></section>
+      <div class="ad-slot" data-slot="article-middle">広告枠</div>
+      <section><h2>結果</h2><p>腹部膨満は1,234名中138名(11.18%)に発生しました。内部テストセットにおいて、RFのAUCが0.775(95%信頼区間0.650-0.880)と最も高く、GB(0.746)、SVM(0.737)、LR(0.723)が続きました。RFとGBのAUC差は統計的に有意でした(P=0.039)が、他の組み合わせでは有意差はありませんでした。TreeSHAP分析では、PCA使用、ドレーン留置、手術時間が主要な予測因子として同定され、PCA使用とドレーン留置はリスクを高める方向に、術後ADL値が高いことはリスクを下げる方向に関連する傾向が示されました。</p></section>
+      <section><h2>臨床的示唆</h2><p>PCAやドレーン留置などの日常的に記録される周術期情報が腹部膨満リスクと関連する可能性が示され、看護師による早期リスク層別化の一助となる可能性があります。ただし著者らはモデルの説明が予測的な関連にとどまり因果関係を示すものではないと明記しており、実際の臨床応用の前に前向き・外部検証が必要とされています。</p></section>
+      <section><h2>限界</h2><ul><li>単施設の後ろ向きデザインであり、内部検証のみで外部施設での検証は行われていません。</li><li>モデルの判別能は中程度にとどまり、感度・特異度のトレードオフがモデル間で大きく異なりました。</li><li>SHAPによる寄与の方向性は予測的な関連を示すものであり、因果関係を意味するものではないと著者らも述べています。</li><li>前向きな時間的検証や臨床閾値の設定が実施される前の段階であり、実際のベッドサイド使用には至っていません。</li></ul></section>
+      <div class="ad-slot" data-slot="article-bottom">広告枠</div>
+      <p class="disclaimer">本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+      <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル", "datePublished": "2026-09-04", "dateModified": "2026-09-19T22:34:02+00:00", "author": {"@type": "Organization", "name": "Rehab Paper Digest"}, "isBasedOn": "https://doi.org/10.3389/fmed.2026.1871136", "description": "脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。", "mainEntityOfPage": "https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/"}</script>
+    </article>
+
+  </main>
+  <footer class="site-footer">
+    <p>本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+  </footer>
+  <script src="/rehab-paper-digest/assets/search.js?v=20260913-date-category-search" defer></script>
+</body>
+</html>

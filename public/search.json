@@ -1,5 +1,18 @@
 [
   {
+    "title": "COPDにおける血中好酸球数と2型生物学的製剤の適格性:全員が対象となるわけではない",
+    "summary": "入院リハビリテーションを受けたCOPD患者441例のうち、2型生物学的製剤の適格基準を満たしたのは6.8%にとどまった。",
+    "url": "/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42760892",
+    "doi": "10.1177/17534666261471839",
+    "published_date": "2026-09-19",
+    "online_publication_date": "2026-09-19",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "脳卒中亜急性期リハビリテーション早期における両側ヒラメ筋運動単位協調の破綻",
     "summary": "脳卒中亜急性期患者では立位時のヒラメ筋運動単位の両側同期性が低下しており、その改善がバランス機能(BBS)の改善と強く関連していた。",
     "url": "/rehab-paper-digest/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/",
@@ -11,6 +24,21 @@
     ],
     "pmid": "42758877",
     "doi": "10.1113/JP290882",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "東アジア系米国人の高齢認知症介護者における介護の時間的負荷と精神的健康の関連",
+    "summary": "東アジア系米国人の認知症介護者82名を対象とした横断調査で、客観的な介護時間よりも主観的な介護負担感がうつ症状と強く関連することが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/how-temporal-caregiving-demands-shape-mental-health-among-older-east-asian-demen/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "精神科"
+    ],
+    "pmid": "42760755",
+    "doi": "10.1080/13557858.2026.2729317",
     "published_date": "2026-09-18",
     "online_publication_date": "2026-09-18",
     "issue_date": "2026-09-18"
@@ -87,6 +115,20 @@
     "published_date": "2026-09-18",
     "online_publication_date": "2026-09-18",
     "issue_date": "2026-01-01"
+  },
+  {
+    "title": "股関節形成術を受けた高齢患者の死亡率予測に対する説明可能AI:韓国国民健康保険データを用いた機械学習解析",
+    "summary": "韓国の大規模保険データを用いて、高齢者の股関節形成術後1年死亡率を予測する機械学習モデルを構築し、年齢や輸血、認知症などが主要な予測因子として特定された。",
+    "url": "/rehab-paper-digest/articles/2026/09/explainable-artificial-intelligence-for-predicting-mortality-in-geriatric-patien/",
+    "categories": [
+      "整形外科",
+      "高齢者"
+    ],
+    "pmid": "42760680",
+    "doi": "10.1097/MD.0000000000050463",
+    "published_date": "2026-09-18",
+    "online_publication_date": "",
+    "issue_date": "2026-09-18"
   },
   {
     "title": "有酸素運動とレジスタンス運動の複合トレーニングはマウスの白色脂肪組織の褐色化を誘導する",
@@ -1317,6 +1359,20 @@
     "issue_date": "2026-09-04"
   },
   {
+    "title": "20Hz経頭蓋交流電流刺激は線条体のチロシン水酸化酵素陽性介在ニューロンを介してβ帯域同期と運動遂行を高める(加齢マウス研究)",
+    "summary": "加齢マウスにおいて、M1への20Hz経頭蓋交流電流刺激が線条体のチロシン水酸化酵素陽性介在ニューロンの活性化とβ帯域同期、ドパミン放出を伴って麻酔後の運動遂行を改善する可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/20-hz-tacs-engages-striatal-thins-to-enhance-band-synchrony-and-motor-drive/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42760921",
+    "doi": "10.3389/fnins.2026.1887979",
+    "published_date": "2026-09-04",
+    "online_publication_date": "2026-09-04",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "心血管代謝薬への曝露とアルツハイマー病における認知機能転帰の関連",
     "summary": "複数の大規模コホートを統合し、7種類の心血管代謝薬とアルツハイマー病における認知機能低下の推移との関連を検討した観察研究です。",
     "url": "/rehab-paper-digest/articles/2026/09/cardiometabolic-medication-exposures-and-cognitive-outcomes-in-alzheimer-s-disea/",
@@ -1344,6 +1400,35 @@
     "published_date": "2026-09-04",
     "online_publication_date": "2026-09-04",
     "issue_date": "2026-09-04"
+  },
+  {
+    "title": "地域在住高齢者における新聞購読の認知・行動面への効果:実行可能性ランダム化比較試験",
+    "summary": "新聞を購読していなかった地域在住高齢者に26週間新聞を読んでもらったところ、認知機能・抑うつ・生活空間の広がりが読まない群より有意に改善した。",
+    "url": "/rehab-paper-digest/articles/2026/09/cognitive-and-behavioral-benefits-of-newspaper-reading-in-community-dwelling-old/",
+    "categories": [
+      "高齢者",
+      "認知機能",
+      "その他"
+    ],
+    "pmid": "42761073",
+    "doi": "10.3389/fragi.2026.1929793",
+    "published_date": "2026-09-04",
+    "online_publication_date": "2026-09-04",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル",
+    "summary": "脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42761078",
+    "doi": "10.3389/fmed.2026.1871136",
+    "published_date": "2026-09-04",
+    "online_publication_date": "2026-09-04",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "米国退役軍人におけるPTSD、健康関連社会的ニーズと認知機能転帰との関連",
