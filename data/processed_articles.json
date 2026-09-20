@@ -113,7 +113,14 @@
     "42760892",
     "42760921",
     "42761073",
-    "42761078"
+    "42761078",
+    "42763636",
+    "42763667",
+    "42763723",
+    "42763734",
+    "42763884",
+    "42763894",
+    "42763902"
   ],
   "records": [
     {
@@ -1027,6 +1034,62 @@
       "title": "Blood eosinophils in COPD: are biologics for everyone?",
       "url_path": "/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/",
       "processed_at": "2026-09-19T22:35:38+00:00"
+    },
+    {
+      "id": "42763723",
+      "pmid": "42763723",
+      "doi": "10.7759/cureus.114880",
+      "title": "Physical Activity, Exercise, and Rehabilitation in Myasthenia Gravis: A Systematic Review and Narrative Synthesis.",
+      "url_path": "/articles/2026/08/physical-activity-exercise-and-rehabilitation-in-myasthenia-gravis-a-systematic/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42763636",
+      "pmid": "42763636",
+      "doi": "10.64719/pb.20773",
+      "title": "Auvelity (Dextromethorphan-Bupropion) for Agitation and Aggression in Alzheimer's Disease Dementia: Mechanism, Efficacy, Safety, and Clinical Considerations.",
+      "url_path": "/articles/2026/09/auvelity-dextromethorphan-bupropion-for-agitation-and-aggression-in-alzheimer-s/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42763734",
+      "pmid": "42763734",
+      "doi": "10.2147/JMDH.S635260",
+      "title": "User Needs for an Artificial Intelligence-Empowered Basic Activities of Daily Living Training System After Stroke: A Qualitative Study.",
+      "url_path": "/articles/2026/09/user-needs-for-an-artificial-intelligence-empowered-basic-activities-of-daily-li/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42763902",
+      "pmid": "42763902",
+      "doi": "10.1080/17483107.2026.2734710",
+      "title": "The impact of an electric hand warmer on powered wheelchair mobility in men with duchenne Muscular dystrophy.",
+      "url_path": "/articles/2026/09/the-impact-of-an-electric-hand-warmer-on-powered-wheelchair-mobility-in-men-with/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42763884",
+      "pmid": "42763884",
+      "doi": "10.1556/650.2026.33629",
+      "title": "[Comprehensive developmental neurological care of preterm infants at the Clinical Center of the University of Pécs].",
+      "url_path": "/articles/2026/09/comprehensive-developmental-neurological-care-of-preterm-infants-at-the-clinical/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42763667",
+      "pmid": "42763667",
+      "doi": "10.5812/aapm-171054",
+      "title": "Enhanced Delivery of Transforaminal Epidural Steroid Injection (TFESI) for Radiculopathy Associated with Acute Lumbar Disc Prolapse Through Physiotherapist-led Assessment, Consent, and Direct Listing.",
+      "url_path": "/articles/2026/04/enhanced-delivery-of-transforaminal-epidural-steroid-injection-tfesi-for-radicul/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42763894",
+      "pmid": "42763894",
+      "doi": "10.1080/03091902.2026.2718865",
+      "title": "Tetragrip: a functional electrical stimulation (FES) device for enhancing upper limb function in people with tetraplegia - development, technical evaluation, and pilot clinical investigation.",
+      "url_path": "/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/",
+      "processed_at": "2026-09-20T22:50:17+00:00"
     }
   ]
 }

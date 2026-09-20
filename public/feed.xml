@@ -6,6 +6,27 @@
     <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
     
     <item>
+      <title>Tetragrip：頸髄損傷による四肢麻痺者の上肢機能を補助する機能的電気刺激(FES)デバイスの開発、技術評価、および予備的臨床調査</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>C5-C7頸髄損傷による四肢麻痺者向けに開発された5チャンネルFESデバイス「Tetragrip」について、健常者での技術評価と少数の脊髄損傷当事者による予備的な使用感評価を報告した論文。</description>
+    </item>
+    <item>
+      <title>ペーチ大学医療センターにおける早産児への包括的発達神経学的ケア</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/comprehensive-developmental-neurological-care-of-preterm-infants-at-the-clinical/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/comprehensive-developmental-neurological-care-of-preterm-infants-at-the-clinical/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>ハンガリー・ペーチ大学医療センターで実施されている早産児向けの早期介入と長期神経発達フォローアップを統合した「ペーチモデル」を、2015〜2025年の施設データを用いて記述した後方視的研究です。</description>
+    </item>
+    <item>
+      <title>デュシェンヌ型筋ジストロフィー男性における電動車椅子操作への電気ハンドウォーマーの影響</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/the-impact-of-an-electric-hand-warmer-on-powered-wheelchair-mobility-in-men-with/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/the-impact-of-an-electric-hand-warmer-on-powered-wheelchair-mobility-in-men-with/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>デュシェンヌ型筋ジストロフィー患者13名を対象に電気ハンドウォーマーを試用したところ、寒冷環境下での電動車椅子操作の持久力と使用時の自己効力感が有意に改善した。</description>
+    </item>
+    <item>
       <title>COPDにおける血中好酸球数と2型生物学的製剤の適格性:全員が対象となるわけではない</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/</guid>
@@ -46,6 +67,13 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/alignment-between-goals-and-subjective-memory-concerns-in-measuring-outcomes-of/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>脳卒中後の記憶リハビリでは、参加者自身が設定した目標に一致する記憶の問題の方が、目標と一致しない問題よりも初期介入で改善しやすいことが示された。</description>
+    </item>
+    <item>
+      <title>アルツハイマー型認知症の激越・攻撃性に対するデキストロメトルファン‐ブプロピオン配合薬(Auvelity):機序・有効性・安全性・臨床的考察</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/auvelity-dextromethorphan-bupropion-for-agitation-and-aggression-in-alzheimer-s/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/auvelity-dextromethorphan-bupropion-for-agitation-and-aggression-in-alzheimer-s/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>抗精神病薬の代替として注目されるデキストロメトルファン‐ブプロピオン配合薬について、作用機序と既存臨床試験(ADVANCE-1、ACCORD)の結果、安全性を整理したレビュー論文です。</description>
     </item>
     <item>
       <title>米国中年層における機能障害の軌跡と発生率の出生コホート別動向</title>
@@ -116,34 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/caregiver-challenges-and-functional-requirements-for-an-mhealth-app-supporting-h/</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <description>インドネシアの認知症介護者・医療従事者へのインタビューから、在宅介護の課題とそれに対応するmHealthアプリの機能要件を参加型デザインで抽出した質的研究。</description>
-    </item>
-    <item>
-      <title>若年サッカー選手における片側性バランス単独トレーニングと複合(バランス+プライオメトリック)トレーニングが左右のバランス能力非対称性に与える効果の比較</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-unilateral-single-mode-balance-training-compared-to-combined-balance/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-unilateral-single-mode-balance-training-compared-to-combined-balance/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>若年男子サッカー選手を対象に、非利き足への片側性バランス単独トレーニングと、バランス+プライオメトリックを組み合わせた複合トレーニングを比較したところ、いずれも静的・動的な左右バランス能力を改善させたが、明確な優劣は示されなかった。</description>
-    </item>
-    <item>
-      <title>韓国高齢者を対象としたシナリオ型シリアスゲームによる軽度認知障害スクリーニングの予備的妥当性検証</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/scenario-based-serious-game-for-screening-mild-cognitive-impairment-in-older-adu/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/scenario-based-serious-game-for-screening-mild-cognitive-impairment-in-older-adu/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>文化的に馴染みのある日常生活シナリオとタブレット操作の正確性・反応時間を組み合わせたシリアスゲームが、韓国の地域在住高齢者においてMCIを一定の精度で判別できる可能性が予備的に示された。</description>
-    </item>
-    <item>
-      <title>エリートおよびレクリエーションレベルのハンドボール選手におけるACL損傷の受傷機転</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/acl-injury-mechanism-in-elite-and-recreational-handball-players/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/acl-injury-mechanism-in-elite-and-recreational-handball-players/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>デンマークの全国患者登録を用いた大規模調査で、ハンドボールにおけるACL損傷の多くが非接触型で、ボール保持中のフェイントやシュート動作、攻撃時のバックコートプレーヤーに多く発生していることが示されました。</description>
-    </item>
-    <item>
-      <title>台湾の長期療養施設データを用いた6か月死亡予測のための解釈可能な機械学習モデルの開発と時間的外部検証</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/development-and-temporal-external-validation-of-a-parsimonious-interpretable-mac/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/development-and-temporal-external-validation-of-a-parsimonious-interpretable-mac/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>台湾の大規模長期療養施設データベースを用いて、入所時に日常的に収集される評価データのみから6か月死亡を高い精度で予測する解釈可能な機械学習モデルを開発し、翌年のデータで検証した後ろ向きコホート研究です。</description>
     </item>
   </channel>
 </rss>

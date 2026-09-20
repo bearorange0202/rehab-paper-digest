@@ -1,5 +1,50 @@
 [
   {
+    "title": "Tetragrip：頸髄損傷による四肢麻痺者の上肢機能を補助する機能的電気刺激(FES)デバイスの開発、技術評価、および予備的臨床調査",
+    "summary": "C5-C7頸髄損傷による四肢麻痺者向けに開発された5チャンネルFESデバイス「Tetragrip」について、健常者での技術評価と少数の脊髄損傷当事者による予備的な使用感評価を報告した論文。",
+    "url": "/rehab-paper-digest/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/",
+    "categories": [
+      "福祉用具・支援技術",
+      "上肢機能",
+      "神経疾患"
+    ],
+    "pmid": "42763894",
+    "doi": "10.1080/03091902.2026.2718865",
+    "published_date": "2026-09-20",
+    "online_publication_date": "2026-09-20",
+    "issue_date": "2026-09-20"
+  },
+  {
+    "title": "ペーチ大学医療センターにおける早産児への包括的発達神経学的ケア",
+    "summary": "ハンガリー・ペーチ大学医療センターで実施されている早産児向けの早期介入と長期神経発達フォローアップを統合した「ペーチモデル」を、2015〜2025年の施設データを用いて記述した後方視的研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/comprehensive-developmental-neurological-care-of-preterm-infants-at-the-clinical/",
+    "categories": [
+      "小児",
+      "理学療法",
+      "神経疾患"
+    ],
+    "pmid": "42763884",
+    "doi": "10.1556/650.2026.33629",
+    "published_date": "2026-09-20",
+    "online_publication_date": "2026-09-20",
+    "issue_date": "2026-09-20"
+  },
+  {
+    "title": "デュシェンヌ型筋ジストロフィー男性における電動車椅子操作への電気ハンドウォーマーの影響",
+    "summary": "デュシェンヌ型筋ジストロフィー患者13名を対象に電気ハンドウォーマーを試用したところ、寒冷環境下での電動車椅子操作の持久力と使用時の自己効力感が有意に改善した。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-impact-of-an-electric-hand-warmer-on-powered-wheelchair-mobility-in-men-with/",
+    "categories": [
+      "福祉用具・支援技術",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42763902",
+    "doi": "10.1080/17483107.2026.2734710",
+    "published_date": "2026-09-20",
+    "online_publication_date": "2026-09-20",
+    "issue_date": "2026-09-20"
+  },
+  {
     "title": "COPDにおける血中好酸球数と2型生物学的製剤の適格性:全員が対象となるわけではない",
     "summary": "入院リハビリテーションを受けたCOPD患者441例のうち、2型生物学的製剤の適格基準を満たしたのは6.8%にとどまった。",
     "url": "/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/",
@@ -84,6 +129,21 @@
     "doi": "10.1080/09638288.2026.2724043",
     "published_date": "2026-09-18",
     "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "アルツハイマー型認知症の激越・攻撃性に対するデキストロメトルファン‐ブプロピオン配合薬(Auvelity):機序・有効性・安全性・臨床的考察",
+    "summary": "抗精神病薬の代替として注目されるデキストロメトルファン‐ブプロピオン配合薬について、作用機序と既存臨床試験(ADVANCE-1、ACCORD)の結果、安全性を整理したレビュー論文です。",
+    "url": "/rehab-paper-digest/articles/2026/09/auvelity-dextromethorphan-bupropion-for-agitation-and-aggression-in-alzheimer-s/",
+    "categories": [
+      "認知症",
+      "精神科",
+      "神経疾患"
+    ],
+    "pmid": "42763636",
+    "doi": "10.64719/pb.20773",
+    "published_date": "2026-09-18",
+    "online_publication_date": "",
     "issue_date": "2026-09-18"
   },
   {
@@ -390,6 +450,21 @@
     "published_date": "2026-09-15",
     "online_publication_date": "2026-09-15",
     "issue_date": "2026-09-15"
+  },
+  {
+    "title": "脳卒中後のAI搭載基本的ADL訓練システムに対する利用者ニーズ:質的研究",
+    "summary": "脳卒中後片麻痺患者と主介護者への面接調査から、AI搭載ADL訓練システムの受容には有用性・使いやすさ・安全性・持続可能性が重要であることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/user-needs-for-an-artificial-intelligence-empowered-basic-activities-of-daily-li/",
+    "categories": [
+      "脳卒中",
+      "ADL",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42763734",
+    "doi": "10.2147/JMDH.S635260",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "視覚リハビリテーションに紹介された近視性黄斑症患者の臨床的特徴とマイクロペリメトリー所見:加齢黄斑変性との比較",
@@ -1578,6 +1653,20 @@
     "issue_date": "2026-08-01"
   },
   {
+    "title": "重症筋無力症における身体活動・運動・リハビリテーションに関する系統的レビューとナラティブ統合",
+    "summary": "重症筋無力症患者における身体活動・運動介入・リハビリテーションに関する既存研究を系統的にレビューし、エビデンスの現状と限界を整理した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/08/physical-activity-exercise-and-rehabilitation-in-myasthenia-gravis-a-systematic/",
+    "categories": [
+      "神経疾患",
+      "理学療法"
+    ],
+    "pmid": "42763723",
+    "doi": "10.7759/cureus.114880",
+    "published_date": "2026-08-20",
+    "online_publication_date": "2026-08-20",
+    "issue_date": "2026-08-01"
+  },
+  {
     "title": "多発性硬化症患者に対するバーチャルリアリティ介入が身体機能とQOLに与える影響:システマティックレビュー・メタ解析",
     "summary": "多発性硬化症患者781名を対象とした19件のRCTを統合した結果、VRリハビリテーションは歩行速度・機能的移動能力・バランス・QOLの改善と関連したが、エビデンスの確実性は低〜非常に低いと評価された。",
     "url": "/rehab-paper-digest/articles/2026/08/virtual-reality-interventions-and-their-impact-on-physical-function-and-quality/",
@@ -1592,6 +1681,21 @@
     "published_date": "2026-08-17",
     "online_publication_date": "2026-08-17",
     "issue_date": "2026-08-17"
+  },
+  {
+    "title": "急性腰椎椎間板脱出による神経根症に対する理学療法士主導の評価・同意取得・直接リスティングによるTFESI提供体制の効率化",
+    "summary": "理学療法士が評価・同意取得・直接リスティングを担う経路変更により、経椎間孔硬膜外ステロイド注射(TFESI)までの待機時間が短縮されたことを報告した単施設後方視的観察研究です。",
+    "url": "/rehab-paper-digest/articles/2026/04/enhanced-delivery-of-transforaminal-epidural-steroid-injection-tfesi-for-radicul/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42763667",
+    "doi": "10.5812/aapm-171054",
+    "published_date": "2026-04-30",
+    "online_publication_date": "2026-04-30",
+    "issue_date": "2026-04-30"
   },
   {
     "title": "認知症領域におけるデジタルツイン技術:精密精神医学に向けた早期エビデンスと今後の方向性",
