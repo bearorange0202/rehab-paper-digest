@@ -1,5 +1,122 @@
 [
   {
+    "title": "腱板部分断裂(後上方型)に関する2026年ESSKA-ESAフォーマルコンセンサス(第2部):治療戦略・リハビリテーション・スポーツ復帰・合併症",
+    "summary": "肩腱板部分断裂(後上方型)の治療・リハビリ・スポーツ復帰・合併症について、欧州の専門家20名によるフォーマルコンセンサス手法で30項目の推奨がまとめられた。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-2026-esska-esa-formal-consensus-on-partial-thickness-posterosuperior-rotator/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42766425",
+    "doi": "10.1002/ksa.70622",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
+    "title": "COPD向けデジタル自己管理ツールmyCOPDの提供方法が2つの臨床現場での患者エンゲージメントに与える影響:質的研究",
+    "summary": "COPDのデジタル自己管理ツールmyCOPDは、地域リハビリでの能動的・関係性重視の提供が、病院退院支援での受動的な導入よりも持続的な患者エンゲージメントを促す可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/understanding-delivery-and-engagement-with-a-digital-self-management-interventio/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42766845",
+    "doi": "10.2196/88108",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
+    "title": "慢性的な息切れを有する人へのウォーキングフットボール:混合研究法によるプルーフオブコンセプト研究",
+    "summary": "呼吸リハビリテーション終了後の運動維持手段として、ウォーキングフットボールの実行可能性を少人数の観察研究で探索的に検討した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/walking-football-for-people-with-chronic-breathlessness-a-mixed-methods-proof-of/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42766603",
+    "doi": "10.1177/14799731261489273",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション",
+    "summary": "Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/",
+    "categories": [
+      "認知症",
+      "認知機能",
+      "その他"
+    ],
+    "pmid": "42766599",
+    "doi": "10.2196/93279",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
+    "title": "タイ農村部の地域リハビリセンターにおける脳卒中生存者向け作業に基づく実践(OBP)サービス提供モデルの開発と実施可能性:混合研究法によるフィージビリティスタディ",
+    "summary": "タイ農村部の地域リハビリセンターで、脳卒中生存者7名に対し作業に基づく実践(OBP)モデルを実施したところ、作業遂行・目標達成・QOLの改善がみられ、担当作業療法士も実施可能性と実践的有用性を実感した予備的研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/developing-and-implementing-an-occupation-based-practice-service-delivery-model/",
+    "categories": [
+      "作業療法",
+      "脳卒中",
+      "ADL"
+    ],
+    "pmid": "42766796",
+    "doi": "10.2196/91118",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
+    "title": "理学療法学生に対する協働型シミュレーション学習の効果:ランダム化比較試験",
+    "summary": "腰痛急性増悪の模擬患者対応を用いた研究で、協働型と個別型のシミュレーション学習は臨床能力の向上において同等の効果を示した。",
+    "url": "/rehab-paper-digest/articles/2026/09/collaborative-simulation-based-learning-to-develop-competencies-in-physical-ther/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42766711",
+    "doi": "10.2196/85442",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
+    "title": "バングラデシュのリハビリ施設に通う閉経後女性における腰痛の有病率、関連要因、機械学習による分類の検討",
+    "summary": "バングラデシュの2つのリハビリ・理学療法施設に通う閉経後女性566名を対象とした横断研究で、過去1年間の腰痛有病率は46.6%であり、年齢層、職業、高血圧、呼吸器疾患、社会経済状況との関連が示され、機械学習モデルによる分類も試みられた。",
+    "url": "/rehab-paper-digest/articles/2026/09/prevalence-associated-factors-and-machine-learning-classification-of-low-back-pa/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42766617",
+    "doi": "10.1371/journal.pone.0355864",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "中国における脊髄損傷の疾病負担の経年推移・要因分解・2050年までの将来予測",
+    "summary": "Global Burden of Disease 2023データを用いた解析で、中国の脊髄損傷は1990年から2023年にかけて症例数が増加し、頸髄損傷と転倒による負担が特に増大しており、2050年まで高い有病数が続くと予測されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/secular-trends-decomposition-and-projections-of-spinal-cord-injury-burden-in-chi/",
+    "categories": [
+      "神経疾患",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42766468",
+    "doi": "10.1159/ned/adwag035",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
     "title": "Tetragrip：頸髄損傷による四肢麻痺者の上肢機能を補助する機能的電気刺激(FES)デバイスの開発、技術評価、および予備的臨床調査",
     "summary": "C5-C7頸髄損傷による四肢麻痺者向けに開発された5チャンネルFESデバイス「Tetragrip」について、健常者での技術評価と少数の脊髄損傷当事者による予備的な使用感評価を報告した論文。",
     "url": "/rehab-paper-digest/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/",

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション | Rehab Paper Digest</title>
+  <meta name="description" content="Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。">
+  <link rel="canonical" href="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/">
+  <meta name="site-base-path" content="/rehab-paper-digest">
+  <link rel="icon" href="/rehab-paper-digest/assets/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Rehab Paper Digest RSS" href="/rehab-paper-digest/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション | Rehab Paper Digest">
+  <meta property="og:description" content="Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。">
+  <meta property="og:url" content="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/">
+  <meta property="og:site_name" content="Rehab Paper Digest">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション | Rehab Paper Digest">
+  <meta name="twitter:description" content="Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。">
+  <link rel="stylesheet" href="/rehab-paper-digest/assets/styles.css?v=20260913-date-category-search">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/rehab-paper-digest/">Rehab Paper Digest</a>
+    <nav class="nav">
+      <a href="/rehab-paper-digest/articles/">新着</a>
+      <a href="/rehab-paper-digest/categories/">カテゴリ</a>
+      <a href="/rehab-paper-digest/diseases/">疾患別</a>
+      <a href="/rehab-paper-digest/archive/">年月別</a>
+      <a href="/rehab-paper-digest/feed.xml">RSS</a>
+    </nav>
+  </header>
+  <main>
+
+    <article class="article-page">
+      <div class="ad-slot" data-slot="article-top">広告枠</div>
+      <p class="meta-line">公開日 2026-09-21</p>
+      <h1>大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション</h1>
+      <p class="original-title">Multimodal Dementia Prediction With Large Language Models: Cross-Attention Over Text, Audio, and Image.</p>
+      <p class="lead">Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。</p>
+      <div class="tags"><a class="tag" href="/rehab-paper-digest/categories/dementia/">認知症</a><a class="tag" href="/rehab-paper-digest/categories/cognitive-function/">認知機能</a><a class="tag" href="/rehab-paper-digest/categories/other/">その他</a></div>
+
+      <section class="source-box">
+        <h2>原著論文</h2>
+        <dl>
+          <dt>Original title</dt><dd>Multimodal Dementia Prediction With Large Language Models: Cross-Attention Over Text, Audio, and Image.</dd>
+          <dt>著者</dt><dd>Agbavor F, Liang H</dd>
+          <dt>雑誌名</dt><dd>JMIR aging</dd>
+          <dt>公開日</dt><dd>2026-09-21</dd>
+          <dt>発行日</dt><dd>2026-09-21</dd>
+          <dt>DOI</dt><dd>10.2196/93279</dd>
+          <dt>PMID</dt><dd>42766599</dd>
+        </dl>
+        <a class="button" href="https://doi.org/10.2196/93279" target="_blank" rel="noopener noreferrer">原著論文を確認する</a>
+      </section>
+
+      <section><h2>背景・目的</h2><p>アルツハイマー病(AD)は認知症の主要な原因であり、発話に基づく早期スクリーニング手法への関心が高まっています。これまでの研究は文字起こしに基づく言語的特徴や音響的手がかりのいずれか一方を用いる単一モダリティのアプローチ、あるいはモダリティ間の相互作用を明示的に考慮しない単純な融合手法にとどまっていました。</p></section>
+      
+      <section><h2>対象</h2><p>Cookie Theft絵画説明課題への回答について、テキスト・音声・画像の3つのモダリティを用いたデータセットを対象に分析が行われました。</p></section>
+      <section><h2>方法</h2><p>研究者らは、Cookie Theft絵の視覚刺激に基づくテキスト・音声・画像表現を統合する、注意機構に基づく三モーダル融合フレームワークを提案しました。新規の双方向クロスアテンション機構を用いて統一されたマルチモーダル埋め込みを生成し、(1)AD診断の有無を分類するAD検出タスク、(2)Mini-Mental State Examination(MMSE)認知スコアを予測するAD重症度評価タスクの2つで手法を評価しました。単一モダリティのベースライン、二モーダル融合、従来の早期・後期融合手法との比較、および双方向・単方向クロスアテンションの比較によるアブレーション分析も実施されました。</p></section>
+      <div class="ad-slot" data-slot="article-middle">広告枠</div>
+      <section><h2>結果</h2><p>AD検出タスクでは、三モーダル融合が最良の性能(F1スコア0.8667、ROC曲線下面積0.9032)を達成し、単一モダリティ、二モーダル融合、従来の融合手法を上回りました。AD重症度評価では、提案したマルチモーダル表現によりMMSEスコア予測の二乗平均平方根誤差が約4.20まで低下し、単一モダリティおよび二モーダル融合の設定より改善しました。アブレーション分析では、双方向クロスアテンションが従来の単方向クロスアテンションより一貫して優れた性能を示しました。</p></section>
+      <section><h2>臨床的示唆</h2><p>本研究は、絵画説明課題から得られる複数の情報様式(テキスト・音声・画像)を注意機構により統合することで、認知症スクリーニングの精度向上につながる可能性を示すものです。将来的にマルチモーダルな認知機能スクリーニングパイプラインの開発に向けた技術的基盤となり得ますが、現時点では研究段階の技術検証であり、臨床現場での実用化には更なる検証が必要です。</p></section>
+      <section><h2>限界</h2><ul><li>抄録には使用データセットの規模や取得元、対象集団の臨床的特徴に関する詳細な記載がなく、一般化可能性の評価が困難です。</li><li>技術的な性能評価(F1スコア、AUC、RMSE)にとどまり、実際の臨床現場での運用可能性や医療者による評価との比較は示されていません。</li></ul></section>
+      <div class="ad-slot" data-slot="article-bottom">広告枠</div>
+      <p class="disclaimer">本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+      <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション", "datePublished": "2026-09-21", "dateModified": "2026-09-21T23:43:31+00:00", "author": {"@type": "Organization", "name": "Rehab Paper Digest"}, "isBasedOn": "https://doi.org/10.2196/93279", "description": "Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。", "mainEntityOfPage": "https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/"}</script>
+    </article>
+
+  </main>
+  <footer class="site-footer">
+    <p>本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+  </footer>
+  <script src="/rehab-paper-digest/assets/search.js?v=20260913-date-category-search" defer></script>
+</body>
+</html>

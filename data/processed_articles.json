@@ -120,7 +120,15 @@
     "42763734",
     "42763884",
     "42763894",
-    "42763902"
+    "42763902",
+    "42766425",
+    "42766468",
+    "42766599",
+    "42766603",
+    "42766617",
+    "42766711",
+    "42766796",
+    "42766845"
   ],
   "records": [
     {
@@ -1090,6 +1098,70 @@
       "title": "Tetragrip: a functional electrical stimulation (FES) device for enhancing upper limb function in people with tetraplegia - development, technical evaluation, and pilot clinical investigation.",
       "url_path": "/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/",
       "processed_at": "2026-09-20T22:50:17+00:00"
+    },
+    {
+      "id": "42766425",
+      "pmid": "42766425",
+      "doi": "10.1002/ksa.70622",
+      "title": "The 2026 ESSKA-ESA formal consensus on partial-thickness posterosuperior rotator cuff tears (Part 2): Treatment strategies, rehabilitation, return to sport and complications.",
+      "url_path": "/articles/2026/09/the-2026-esska-esa-formal-consensus-on-partial-thickness-posterosuperior-rotator/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766468",
+      "pmid": "42766468",
+      "doi": "10.1159/ned/adwag035",
+      "title": "Secular Trends, Decomposition and Projections of Spinal Cord Injury Burden in China, 1990-2050.",
+      "url_path": "/articles/2026/09/secular-trends-decomposition-and-projections-of-spinal-cord-injury-burden-in-chi/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766599",
+      "pmid": "42766599",
+      "doi": "10.2196/93279",
+      "title": "Multimodal Dementia Prediction With Large Language Models: Cross-Attention Over Text, Audio, and Image.",
+      "url_path": "/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766845",
+      "pmid": "42766845",
+      "doi": "10.2196/88108",
+      "title": "Understanding Delivery and Engagement With a Digital Self-Management Intervention for Chronic Obstructive Pulmonary Disease Across Two Clinical Settings: Qualitative Study.",
+      "url_path": "/articles/2026/09/understanding-delivery-and-engagement-with-a-digital-self-management-interventio/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766796",
+      "pmid": "42766796",
+      "doi": "10.2196/91118",
+      "title": "Developing and Implementing an Occupation-Based Practice Service Delivery Model for Stroke Survivors in a Rural Thai Community Rehabilitation Center: Mixed Methods Feasibility Study.",
+      "url_path": "/articles/2026/09/developing-and-implementing-an-occupation-based-practice-service-delivery-model/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766711",
+      "pmid": "42766711",
+      "doi": "10.2196/85442",
+      "title": "Collaborative Simulation-Based Learning to Develop Competencies in Physical Therapy Students: Randomized Controlled Trial.",
+      "url_path": "/articles/2026/09/collaborative-simulation-based-learning-to-develop-competencies-in-physical-ther/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766603",
+      "pmid": "42766603",
+      "doi": "10.1177/14799731261489273",
+      "title": "Walking football for people with chronic breathlessness: A mixed-methods proof of concept study.",
+      "url_path": "/articles/2026/09/walking-football-for-people-with-chronic-breathlessness-a-mixed-methods-proof-of/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42766617",
+      "pmid": "42766617",
+      "doi": "10.1371/journal.pone.0355864",
+      "title": "Prevalence, associated factors, and machine learning classification of low back pain among postmenopausal women attending rehabilitation and physiotherapy facilities in Bangladesh.",
+      "url_path": "/articles/2026/09/prevalence-associated-factors-and-machine-learning-classification-of-low-back-pa/",
+      "processed_at": "2026-09-21T23:46:04+00:00"
     }
   ]
 }
