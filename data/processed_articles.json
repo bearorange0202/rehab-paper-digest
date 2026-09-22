@@ -128,7 +128,15 @@
     "42766617",
     "42766711",
     "42766796",
-    "42766845"
+    "42766845",
+    "42770516",
+    "42770538",
+    "42770545",
+    "42770731",
+    "42770782",
+    "42770793",
+    "42770826",
+    "42770837"
   ],
   "records": [
     {
@@ -1162,6 +1170,70 @@
       "title": "Prevalence, associated factors, and machine learning classification of low back pain among postmenopausal women attending rehabilitation and physiotherapy facilities in Bangladesh.",
       "url_path": "/articles/2026/09/prevalence-associated-factors-and-machine-learning-classification-of-low-back-pa/",
       "processed_at": "2026-09-21T23:46:04+00:00"
+    },
+    {
+      "id": "42770516",
+      "pmid": "42770516",
+      "doi": "10.1177/19437676261488791",
+      "title": "Outcomes of Mirror Therapy Preceding Augmented Reality in Stroke Rehabilitation: A Randomized Controlled Trial.",
+      "url_path": "/articles/2026/09/outcomes-of-mirror-therapy-preceding-augmented-reality-in-stroke-rehabilitation/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770545",
+      "pmid": "42770545",
+      "doi": "10.1002/ana.78367",
+      "title": "Genetic Resilience and Resistance in Alzheimer's Disease Diagnosis and Pathology.",
+      "url_path": "/articles/2026/09/genetic-resilience-and-resistance-in-alzheimer-s-disease-diagnosis-and-pathology/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770793",
+      "pmid": "42770793",
+      "doi": "10.1097/MAO.0000000000005076",
+      "title": "Data-Driven Multiparameter Predictive Analysis of Cochlear Implant Rehabilitation Outcomes.",
+      "url_path": "/articles/2026/09/data-driven-multiparameter-predictive-analysis-of-cochlear-implant-rehabilitatio/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770731",
+      "pmid": "42770731",
+      "doi": "10.1111/1756-185x.70882",
+      "title": "DN4-Positive Neuropathic Pain Features in End-Stage Knee Osteoarthritis Awaiting Arthroplasty: Prevalence and Relationship With Function and Quality-of-Life.",
+      "url_path": "/articles/2026/09/dn4-positive-neuropathic-pain-features-in-end-stage-knee-osteoarthritis-awaiting/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770837",
+      "pmid": "42770837",
+      "doi": "10.1111/cch.70355",
+      "title": "Parental Perspectives on Feeding Challenges in Children With Cerebral Palsy: A Qualitative Study.",
+      "url_path": "/articles/2026/09/parental-perspectives-on-feeding-challenges-in-children-with-cerebral-palsy-a-qu/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770826",
+      "pmid": "42770826",
+      "doi": "10.3928/19404921-20260916-02",
+      "title": "Analytical Appraisal of Validity and Reliability Metrics in Dementia Knowledge Assessment Instruments: Consequences for Clinical Nursing Practice in Vietnam.",
+      "url_path": "/articles/2026/09/analytical-appraisal-of-validity-and-reliability-metrics-in-dementia-knowledge-a/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770538",
+      "pmid": "42770538",
+      "doi": "10.1177/19417381261483200",
+      "title": "Stroboscopic Versus Traditional Balance Training in Female Volleyball Players With Chronic Ankle Instability: A Randomized Controlled Trial.",
+      "url_path": "/articles/2026/09/stroboscopic-versus-traditional-balance-training-in-female-volleyball-players-wi/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42770782",
+      "pmid": "42770782",
+      "doi": "10.1056/EVIDctw2500331",
+      "title": "Designing Pilot Studies for Embedded Pragmatic Clinical Trials.",
+      "url_path": "/articles/2026/09/designing-pilot-studies-for-embedded-pragmatic-clinical-trials/",
+      "processed_at": "2026-09-22T23:23:23+00:00"
     }
   ]
 }
