@@ -136,7 +136,15 @@
     "42770782",
     "42770793",
     "42770826",
-    "42770837"
+    "42770837",
+    "42776773",
+    "42776790",
+    "42776812",
+    "42776856",
+    "42776926",
+    "42776945",
+    "42777162",
+    "42777184"
   ],
   "records": [
     {
@@ -1234,6 +1242,70 @@
       "title": "Designing Pilot Studies for Embedded Pragmatic Clinical Trials.",
       "url_path": "/articles/2026/09/designing-pilot-studies-for-embedded-pragmatic-clinical-trials/",
       "processed_at": "2026-09-22T23:23:23+00:00"
+    },
+    {
+      "id": "42777184",
+      "pmid": "42777184",
+      "doi": "10.1212/WNL.0000000000218554",
+      "title": "Long-Term Risk of Dementia After TIA: A Population-Wide Matched Cohort Study.",
+      "url_path": "/articles/2026/09/long-term-risk-of-dementia-after-tia-a-population-wide-matched-cohort-study/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42776790",
+      "pmid": "42776790",
+      "doi": "10.1080/09638288.2026.2735445",
+      "title": "A novel real-time computer vision and artificial intelligence based hand function rehabilitation program for children with cerebral palsy.",
+      "url_path": "/articles/2026/09/a-novel-real-time-computer-vision-and-artificial-intelligence-based-hand-functio/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42776773",
+      "pmid": "42776773",
+      "doi": "10.3390/audiolres16050131",
+      "title": "Relationships Among Hearing, Auditory Processing, and Cognition: A Study of Older Adults.",
+      "url_path": "/articles/2026/09/relationships-among-hearing-auditory-processing-and-cognition-a-study-of-older-a/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42776926",
+      "pmid": "42776926",
+      "doi": "10.1080/08039488.2026.2734995",
+      "title": "Validation of the Danish version of the Questionnaire about the Process of Recovery (QPR): psychometric properties, sensitivity to change, and meaningful difference.",
+      "url_path": "/articles/2026/09/validation-of-the-danish-version-of-the-questionnaire-about-the-process-of-recov/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42777162",
+      "pmid": "42777162",
+      "doi": "10.2196/92481",
+      "title": "Dynamics of Digital Support Platform Use Among Family Caregivers of Children With Disabilities: Longitudinal Study.",
+      "url_path": "/articles/2026/09/dynamics-of-digital-support-platform-use-among-family-caregivers-of-children-wit/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42776945",
+      "pmid": "42776945",
+      "doi": "10.1371/journal.pone.0338755",
+      "title": "Implementation of evidence-based practice guidelines to prevent urinary retention in hospitals: A process evaluation in orthopaedic care.",
+      "url_path": "/articles/2026/09/implementation-of-evidence-based-practice-guidelines-to-prevent-urinary-retentio/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42776812",
+      "pmid": "42776812",
+      "doi": "10.3390/vision10040069",
+      "title": "Long-Term Visual Acuity in Young Children After Lensectomy for Congenital Cataract.",
+      "url_path": "/articles/2026/09/long-term-visual-acuity-in-young-children-after-lensectomy-for-congenital-catara/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42776856",
+      "pmid": "42776856",
+      "doi": "10.1097/IAE.0000000000005023",
+      "title": "First-in-Human Implantation of an Add-On Dual Intraocular System Combining a Standard IOL and the SING-IMT™ Telescope: Optical Simulation, Preclinical Validation, and Clinical Feasibility.",
+      "url_path": "/articles/2026/09/first-in-human-implantation-of-an-add-on-dual-intraocular-system-combining-a-sta/",
+      "processed_at": "2026-09-23T23:19:44+00:00"
     }
   ]
 }
