@@ -144,7 +144,15 @@
     "42776926",
     "42776945",
     "42777162",
-    "42777184"
+    "42777184",
+    "42781380",
+    "42781422",
+    "42781425",
+    "42781433",
+    "42781497",
+    "42781528",
+    "42781534",
+    "42781561"
   ],
   "records": [
     {
@@ -1306,6 +1314,70 @@
       "title": "First-in-Human Implantation of an Add-On Dual Intraocular System Combining a Standard IOL and the SING-IMT™ Telescope: Optical Simulation, Preclinical Validation, and Clinical Feasibility.",
       "url_path": "/articles/2026/09/first-in-human-implantation-of-an-add-on-dual-intraocular-system-combining-a-sta/",
       "processed_at": "2026-09-23T23:19:44+00:00"
+    },
+    {
+      "id": "42781534",
+      "pmid": "42781534",
+      "doi": "10.1016/j.prdoa.2026.100498",
+      "title": "Motor and non-motor outcomes post rehabilitation for persons with freezing of gait and Parkinson's disease: A systematic review and Meta-analysis.",
+      "url_path": "/articles/2026/09/motor-and-non-motor-outcomes-post-rehabilitation-for-persons-with-freezing-of-ga/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781422",
+      "pmid": "42781422",
+      "doi": "10.1002/pcn5.70418",
+      "title": "Peer support and 2-year abstinence in alcohol use disorder: A nationwide prospective cohort study in recovery-support facilities.",
+      "url_path": "/articles/2026/09/peer-support-and-2-year-abstinence-in-alcohol-use-disorder-a-nationwide-prospect/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781561",
+      "pmid": "42781561",
+      "doi": "10.7759/cureus.115067",
+      "title": "Post-stroke Vascular Cognitive Impairment in India: A National Survey of Healthcare Professionals' Clinical Practices.",
+      "url_path": "/articles/2026/08/post-stroke-vascular-cognitive-impairment-in-india-a-national-survey-of-healthca/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781433",
+      "pmid": "42781433",
+      "doi": "10.1093/braincomms/fcag354",
+      "title": "Functional reorganization of motor subcircuits in Parkinson's disease.",
+      "url_path": "/articles/2026/09/functional-reorganization-of-motor-subcircuits-in-parkinson-s-disease/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781425",
+      "pmid": "42781425",
+      "doi": "10.3389/fnmol.2026.1855078",
+      "title": "Additive protection of transcranial direct current stimulation and mitochondrial transplantation on ischemic stroke via inducing A2 astrocytes.",
+      "url_path": "/articles/2026/09/additive-protection-of-transcranial-direct-current-stimulation-and-mitochondrial/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781528",
+      "pmid": "42781528",
+      "doi": "10.2147/IJGM.S613458",
+      "title": "Factors Influencing Kinesiophobia in Patients After Ischemic Stroke Stent Placement: A Mixed-Methods Study.",
+      "url_path": "/articles/2026/09/factors-influencing-kinesiophobia-in-patients-after-ischemic-stroke-stent-placem/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781380",
+      "pmid": "42781380",
+      "doi": "10.3389/fnagi.2026.1925159",
+      "title": "Integrating Baduanjin exercise into Parkinson's rehabilitation: a randomized controlled trial.",
+      "url_path": "/articles/2026/09/integrating-baduanjin-exercise-into-parkinson-s-rehabilitation-a-randomized-cont/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42781497",
+      "pmid": "42781497",
+      "doi": "10.5937/jomb0-62196",
+      "title": "Serum Omentin-1 and CS846: Biomarkers for diagnosis and post-TKA functional outcomes in knee osteoarthritis.",
+      "url_path": "/articles/2026/05/serum-omentin-1-and-cs846-biomarkers-for-diagnosis-and-post-tka-functional-outco/",
+      "processed_at": "2026-09-24T23:39:53+00:00"
     }
   ]
 }
