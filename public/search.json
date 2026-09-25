@@ -1,5 +1,105 @@
 [
   {
+    "title": "パーキンソン病患者に対する運動介入が歩行・運動機能・バランスに与える効果:メタ解析",
+    "summary": "パーキンソン病患者を対象とした20件のRCT(714例)のメタ解析で、運動介入はすくみ足・運動機能・バランスの一部指標を改善させる可能性が示されたが、エビデンスの確実性は中〜低程度にとどまった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-exercise-interventions-on-gait-motor-function-and-balance-in-patients/",
+    "categories": [
+      "理学療法",
+      "神経疾患",
+      "歩行"
+    ],
+    "pmid": "42789569",
+    "doi": "10.1371/journal.pone.0359274",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "軽度認知障害高齢者におけるマインドボディ運動の非線形用量反応関係:システマティックレビュー・メタ解析",
+    "summary": "軽度認知障害高齢者を対象としたマインドボディ運動(太極拳・ヨガなど)のメタ解析で、全般的認知機能と処理速度に対する非線形(U字型)な用量反応関係が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/nonlinear-dose-response-of-mind-body-exercise-in-older-adults-with-mild-cognitiv/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "認知機能",
+      "その他"
+    ],
+    "pmid": "42789586",
+    "doi": "10.1371/journal.pone.0350867",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "頭頸部がん患者における加速度計を用いた身体活動量の変化と関連因子:前向きコホート研究",
+    "summary": "頭頸部がん患者517例を診断時から治療後2年まで追跡した結果、全体としての身体活動量の変化は有意ではなかったが、併存疾患・高齢・喫煙・パフォーマンス低下は活動量低下と関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/demographic-lifestyle-and-clinical-factors-associated-with-accelerometer-based-p/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42789773",
+    "doi": "10.1249/MSS.0000000000004153",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
+    "title": "血統同一性(IBD)解析による神経変性疾患の浸透率低下の解明と遺伝子発見への応用",
+    "summary": "筋萎縮性側索硬化症(ALS)・前頭側頭型認知症(FTD)スペクトラムの大規模コホートにIBD解析を適用し、見かけ上孤発性の症例に隠れた血縁関係や遺伝的関連を明らかにし、新規疾患遺伝子座候補を同定した研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/identity-by-descent-to-resolve-reduced-penetrance-and-advance-gene-discovery-in/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42789481",
+    "doi": "10.1093/brain/awag326",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
+    "title": "支援・リハビリ・訓練技術に対するユーザー満足度質問票(U-ART-Q)の開発と内容妥当性検証",
+    "summary": "支援機器・リハビリ機器・訓練技術に対する利用者満足度を測るための新たな質問票U-ART-Qが開発され、専門家評価により内容妥当性が確認されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/user-satisfaction-with-assistive-rehabilitation-and-training-technologies-questi/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42789783",
+    "doi": "10.2196/88182",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
+    "title": "バングラデシュにおける認知症診断年齢・サブタイプ関連因子・神経画像による鑑別能:CARED研究",
+    "summary": "バングラデシュの三次医療機関における横断研究で、認知症サブタイプごとの診断年齢差や関連因子、神経画像視覚評価スケールの鑑別能を検討した。",
+    "url": "/rehab-paper-digest/articles/2026/09/age-at-dementia-diagnosis-subtype-associations-and-neuroimaging-differentiation/",
+    "categories": [
+      "認知症",
+      "神経疾患"
+    ],
+    "pmid": "42789572",
+    "doi": "10.1371/journal.pone.0359109",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "「力を取り戻したい」―身体疾患と精神疾患を併せ持つ人々のセルフマネジメントに関する解釈学的現象学的分析",
+    "summary": "身体疾患と不安・抑うつを併存する地域在住成人8名へのインタビューから、セルフマネジメントを妨げる・支える要因を探索した質的研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/i-want-to-take-the-power-back-an-interpretative-phenomenological-analysis-of-sel/",
+    "categories": [
+      "精神科",
+      "その他"
+    ],
+    "pmid": "42789507",
+    "doi": "10.1371/journal.pone.0359157",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "脳性麻痺児に対するリアルタイムコンピュータビジョン・AIを用いた手指機能リハビリテーションプログラムの効果",
     "summary": "脳性麻痺児を対象に、リアルタイムのコンピュータビジョンとAIを活用した手指機能訓練プログラムが上肢機能の一部指標を改善し、在宅療法としての実施可能性が示された。",
     "url": "/rehab-paper-digest/articles/2026/09/a-novel-real-time-computer-vision-and-artificial-intelligence-based-hand-functio/",
@@ -1969,6 +2069,20 @@
     ],
     "pmid": "42770731",
     "doi": "10.1111/1756-185x.70882",
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "理学療法:リハビリテーションの原則、連携、協働",
+    "summary": "プライマリケア医が理学療法士と効果的に連携するための、リハビリテーションの基本原則と治療戦略を解説した総説。",
+    "url": "/rehab-paper-digest/articles/2026/09/physical-therapy-rehabilitation-principles-coordination-and-collaboration/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42789630",
+    "doi": "",
     "published_date": "2026-09-01",
     "online_publication_date": "",
     "issue_date": "2026-09-01"

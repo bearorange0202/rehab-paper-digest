@@ -152,7 +152,15 @@
     "42781497",
     "42781528",
     "42781534",
-    "42781561"
+    "42781561",
+    "42789481",
+    "42789507",
+    "42789569",
+    "42789572",
+    "42789586",
+    "42789630",
+    "42789773",
+    "42789783"
   ],
   "records": [
     {
@@ -1378,6 +1386,70 @@
       "title": "Serum Omentin-1 and CS846: Biomarkers for diagnosis and post-TKA functional outcomes in knee osteoarthritis.",
       "url_path": "/articles/2026/05/serum-omentin-1-and-cs846-biomarkers-for-diagnosis-and-post-tka-functional-outco/",
       "processed_at": "2026-09-24T23:39:53+00:00"
+    },
+    {
+      "id": "42789586",
+      "pmid": "42789586",
+      "doi": "10.1371/journal.pone.0350867",
+      "title": "Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis.",
+      "url_path": "/articles/2026/09/nonlinear-dose-response-of-mind-body-exercise-in-older-adults-with-mild-cognitiv/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789481",
+      "pmid": "42789481",
+      "doi": "10.1093/brain/awag326",
+      "title": "Identity-by-descent to resolve reduced penetrance and advance gene discovery in neurodegenerative disease.",
+      "url_path": "/articles/2026/09/identity-by-descent-to-resolve-reduced-penetrance-and-advance-gene-discovery-in/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789569",
+      "pmid": "42789569",
+      "doi": "10.1371/journal.pone.0359274",
+      "title": "Effects of exercise interventions on gait, motor function, and balance in patients with Parkinson's disease: A meta-analysis with clinical implications.",
+      "url_path": "/articles/2026/09/effects-of-exercise-interventions-on-gait-motor-function-and-balance-in-patients/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789783",
+      "pmid": "42789783",
+      "doi": "10.2196/88182",
+      "title": "User Satisfaction With Assistive, Rehabilitation, and Training Technologies: Questionnaire Development and Content Validation Study.",
+      "url_path": "/articles/2026/09/user-satisfaction-with-assistive-rehabilitation-and-training-technologies-questi/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789773",
+      "pmid": "42789773",
+      "doi": "10.1249/MSS.0000000000004153",
+      "title": "Demographic, Lifestyle, and Clinical Factors Associated with Accelerometer-Based Physical Activity in Patients with Head and Neck Cancer: A Prospective Cohort Study.",
+      "url_path": "/articles/2026/09/demographic-lifestyle-and-clinical-factors-associated-with-accelerometer-based-p/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789507",
+      "pmid": "42789507",
+      "doi": "10.1371/journal.pone.0359157",
+      "title": "\"I want to take the power back\": An interpretative phenomenological analysis of self-management in coexisting physical and mental long-term conditions.",
+      "url_path": "/articles/2026/09/i-want-to-take-the-power-back-an-interpretative-phenomenological-analysis-of-sel/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789630",
+      "pmid": "42789630",
+      "doi": "",
+      "title": "Physical Therapy: Rehabilitation Principles, Coordination, and Collaboration.",
+      "url_path": "/articles/2026/09/physical-therapy-rehabilitation-principles-coordination-and-collaboration/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42789572",
+      "pmid": "42789572",
+      "doi": "10.1371/journal.pone.0359109",
+      "title": "Age at dementia diagnosis, subtype associations, and neuroimaging differentiation in Bangladesh: The CARED study.",
+      "url_path": "/articles/2026/09/age-at-dementia-diagnosis-subtype-associations-and-neuroimaging-differentiation/",
+      "processed_at": "2026-09-25T23:43:00+00:00"
     }
   ]
 }
