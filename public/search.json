@@ -1,5 +1,35 @@
 [
   {
+    "title": "ダウン症候群のある青年に対するVRベース有酸素運動と従来型有酸素運動の効果比較:DOWNFIT無作為化比較試験",
+    "summary": "ダウン症候群のある青年40名を対象に、VRベース有酸素運動と従来型有酸素運動を10週間実施したところ、両群とも体組成が改善し、VR群は柔軟性・握力・体幹持久力、従来群は機能的能力・移動能力でより大きな改善がみられた。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-virtual-reality-based-aerobic-exercise-versus-traditional-aerobic-exe/",
+    "categories": [
+      "小児",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42798248",
+    "doi": "10.1080/09638288.2026.2735453",
+    "published_date": "2026-09-26",
+    "online_publication_date": "2026-09-26",
+    "issue_date": "2026-09-26"
+  },
+  {
+    "title": "脳卒中生存者を対象としたShort Form Stroke Impact Scale(SF-SIS)アラビア語版の異文化間適応と妥当性検証",
+    "summary": "サウジアラビアの脳卒中生存者130名を対象に、SF-SISのアラビア語版を作成し、信頼性と構成概念妥当性が良好であることを示した心理測定研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/cross-cultural-adaptation-and-validation-of-the-short-form-stroke-impact-scale-s/",
+    "categories": [
+      "脳卒中",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42798213",
+    "doi": "10.1080/09638288.2026.2729418",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
     "title": "パーキンソン病患者に対する運動介入が歩行・運動機能・バランスに与える効果:メタ解析",
     "summary": "パーキンソン病患者を対象とした20件のRCT(714例)のメタ解析で、運動介入はすくみ足・運動機能・バランスの一部指標を改善させる可能性が示されたが、エビデンスの確実性は中〜低程度にとどまった。",
     "url": "/rehab-paper-digest/articles/2026/09/effects-of-exercise-interventions-on-gait-motor-function-and-balance-in-patients/",
@@ -72,6 +102,21 @@
     "issue_date": "2026-09-25"
   },
   {
+    "title": "跳躍高だけではない:ACLリハビリテーション過程におけるカウンタームーブメントジャンプ指標のモニタリング",
+    "summary": "本稿は、ACL損傷後のリハビリテーション過程でカウンタームーブメントジャンプ(CMJ)テストのどの指標を、なぜモニタリングすべきかを論理的推論と既存エビデンスに基づき整理した総説的論考です。",
+    "url": "/rehab-paper-digest/articles/2026/09/beyond-jump-height-monitoring-countermovement-jump-metrics-across-the-anterior-c/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42798206",
+    "doi": "10.1080/09593985.2026.2738832",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
     "title": "バングラデシュにおける認知症診断年齢・サブタイプ関連因子・神経画像による鑑別能:CARED研究",
     "summary": "バングラデシュの三次医療機関における横断研究で、認知症サブタイプごとの診断年齢差や関連因子、神経画像視覚評価スケールの鑑別能を検討した。",
     "url": "/rehab-paper-digest/articles/2026/09/age-at-dementia-diagnosis-subtype-associations-and-neuroimaging-differentiation/",
@@ -98,6 +143,36 @@
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
     "issue_date": "2026-01-01"
+  },
+  {
+    "title": "「暴力は単純なものではない」:後天性脳損傷が暴力行動に果たす役割についての実践者の視点",
+    "summary": "後天性脳損傷(ABI)後の暴力行動について、支援に携わる実践者への面接調査から、ABIが未充足の健康・社会的ニーズを介して暴力リスクを高めうるという認識が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/violence-isn-t-a-simple-thing-practitioner-perspectives-on-the-role-of-acquired/",
+    "categories": [
+      "神経疾患",
+      "精神科",
+      "その他"
+    ],
+    "pmid": "42798223",
+    "doi": "10.1080/09638288.2026.2731076",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
+    "title": "地域在住高齢者におけるバランス能力と記憶機能の関連:横断研究",
+    "summary": "認知機能が正常な地域在住高齢者49名を対象に、開眼片脚立位時間がACE-IIIの総合得点および記憶領域と有意に関連することを示した横断研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/association-between-balance-ability-and-memory-function-in-community-dwelling-ol/",
+    "categories": [
+      "高齢者",
+      "認知機能",
+      "理学療法"
+    ],
+    "pmid": "42798118",
+    "doi": "10.1097/MD.0000000000050786",
+    "published_date": "2026-09-25",
+    "online_publication_date": "",
+    "issue_date": "2026-09-25"
   },
   {
     "title": "脳性麻痺児に対するリアルタイムコンピュータビジョン・AIを用いた手指機能リハビリテーションプログラムの効果",
@@ -1416,6 +1491,21 @@
     "issue_date": "2026-09-11"
   },
   {
+    "title": "線維筋痛症患者における標準化評価バッテリーの構成概念妥当性:パフォーマンステスト・患者報告アウトカム・加速度計データの統合分析",
+    "summary": "線維筋痛症の女性患者87名を対象に、パフォーマンステスト・患者報告アウトカム・加速度計データを組み合わせた評価バッテリーが、ICF枠組みに基づく多次元的な機能評価として妥当であることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-value-of-performance-based-tests-in-the-assessment-of-patients-with-fibromya/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42798403",
+    "doi": "10.3389/fresc.2026.1947752",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "ALS-FTDスペクトラムにおける選択的神経保護:神経細胞の抵抗性メカニズムと臨床応用への視点",
     "summary": "筋萎縮性側索硬化症(ALS)と前頭側頭型認知症(FTD)の連続体において、一部の神経細胞集団が選択的に温存される仕組みを、既存文献の統合により整理したレビュー論文です。",
     "url": "/rehab-paper-digest/articles/2026/09/selective-neuroprotection-in-the-als-ftd-spectrum-mechanisms-of-neuronal-resilie/",
@@ -1543,6 +1633,21 @@
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
+  },
+  {
+    "title": "若年・中年脳卒中患者と配偶者における心理的ストレスと悲しみの反芻の縦断的関連:アクター・パートナー相互依存モデルによる検討",
+    "summary": "脳卒中患者と配偶者256組を6か月間追跡した結果、両者の心理的ストレスは各自の反芻を予測し、さらに配偶者の反芻が患者の反芻を予測する非対称な波及効果が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/longitudinal-dyadic-associations-between-psychological-stress-and-sadness-rumina/",
+    "categories": [
+      "脳卒中",
+      "精神科",
+      "その他"
+    ],
+    "pmid": "42798397",
+    "doi": "10.3389/fpubh.2026.1910517",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "心臓リハビリテーション適応入院患者におけるデジタルヘルス利用状況とバーチャル心臓リハビリテーションへの関心:横断研究",

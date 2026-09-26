@@ -160,7 +160,14 @@
     "42789586",
     "42789630",
     "42789773",
-    "42789783"
+    "42789783",
+    "42798118",
+    "42798206",
+    "42798213",
+    "42798223",
+    "42798248",
+    "42798397",
+    "42798403"
   ],
   "records": [
     {
@@ -1450,6 +1457,62 @@
       "title": "Age at dementia diagnosis, subtype associations, and neuroimaging differentiation in Bangladesh: The CARED study.",
       "url_path": "/articles/2026/09/age-at-dementia-diagnosis-subtype-associations-and-neuroimaging-differentiation/",
       "processed_at": "2026-09-25T23:43:00+00:00"
+    },
+    {
+      "id": "42798248",
+      "pmid": "42798248",
+      "doi": "10.1080/09638288.2026.2735453",
+      "title": "Effects of virtual reality-based aerobic exercise versus traditional aerobic exercise training on physical fitness, functional capacity, and quality of life in individuals with Down syndrome: DOWNFIT (Down Syndrome Fitness Intervention Trial) randomized controlled trial.",
+      "url_path": "/articles/2026/09/effects-of-virtual-reality-based-aerobic-exercise-versus-traditional-aerobic-exe/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
+    },
+    {
+      "id": "42798397",
+      "pmid": "42798397",
+      "doi": "10.3389/fpubh.2026.1910517",
+      "title": "Longitudinal dyadic associations between psychological stress and sadness rumination in young and middle-aged stroke patients and their spouses: an actor-partner interdependence model study.",
+      "url_path": "/articles/2026/09/longitudinal-dyadic-associations-between-psychological-stress-and-sadness-rumina/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
+    },
+    {
+      "id": "42798403",
+      "pmid": "42798403",
+      "doi": "10.3389/fresc.2026.1947752",
+      "title": "The value of performance-based tests in the assessment of patients with fibromyalgia: a construct validity and comprehensiveness analysis of a standardized test battery.",
+      "url_path": "/articles/2026/09/the-value-of-performance-based-tests-in-the-assessment-of-patients-with-fibromya/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
+    },
+    {
+      "id": "42798213",
+      "pmid": "42798213",
+      "doi": "10.1080/09638288.2026.2729418",
+      "title": "Cross-cultural adaptation and validation of the Short Form Stroke Impact Scale (SF-SIS) into Arabic among stroke survivors in Saudi Arabia.",
+      "url_path": "/articles/2026/09/cross-cultural-adaptation-and-validation-of-the-short-form-stroke-impact-scale-s/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
+    },
+    {
+      "id": "42798223",
+      "pmid": "42798223",
+      "doi": "10.1080/09638288.2026.2731076",
+      "title": "\"Violence isn't a simple thing\": practitioner perspectives on the role of acquired brain injury in violence.",
+      "url_path": "/articles/2026/09/violence-isn-t-a-simple-thing-practitioner-perspectives-on-the-role-of-acquired/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
+    },
+    {
+      "id": "42798206",
+      "pmid": "42798206",
+      "doi": "10.1080/09593985.2026.2738832",
+      "title": "Beyond jump height: monitoring countermovement jump metrics across the Anterior Cruciate Ligament rehabilitation journey.",
+      "url_path": "/articles/2026/09/beyond-jump-height-monitoring-countermovement-jump-metrics-across-the-anterior-c/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
+    },
+    {
+      "id": "42798118",
+      "pmid": "42798118",
+      "doi": "10.1097/MD.0000000000050786",
+      "title": "Association between balance ability and memory function in community-dwelling older adults: A cross-sectional study.",
+      "url_path": "/articles/2026/09/association-between-balance-ability-and-memory-function-in-community-dwelling-ol/",
+      "processed_at": "2026-09-26T23:16:10+00:00"
     }
   ]
 }
