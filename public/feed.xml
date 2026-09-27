@@ -6,6 +6,20 @@
     <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
     
     <item>
+      <title>軟骨軟化症による前膝痛に対する筋膜リリースとドライニードリングの効果比較:ランダム化比較試験</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/assessing-the-impact-of-myofascial-release-versus-dry-needling-for-chondromalaci/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/assessing-the-impact-of-myofascial-release-versus-dry-needling-for-chondromalaci/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>軟骨軟化症による前膝痛を持つ成人女性において、筋膜リリースとドライニードリングはいずれも運動療法と併用することで疼痛を軽減し、筋膜リリースは大腿四頭筋の筋力とハムストリング/大腿四頭筋比の改善においてより優れていた。</description>
+    </item>
+    <item>
+      <title>膝関節症患者に対するドライニードリングと器具を用いた軟部組織モビライゼーションの短期効果:ランダム化比較試験</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/short-term-effectiveness-of-dry-needling-and-instrument-assisted-soft-tissue-mob/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/short-term-effectiveness-of-dry-needling-and-instrument-assisted-soft-tissue-mob/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>膝関節症患者34名を対象に、ドライニードリング・IASTM・通常理学療法の3群を比較したところ、いずれも疼痛・機能・可動域が改善し、ドライニードリングが最も改善幅が大きかった。</description>
+    </item>
+    <item>
       <title>ダウン症候群のある青年に対するVRベース有酸素運動と従来型有酸素運動の効果比較:DOWNFIT無作為化比較試験</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-virtual-reality-based-aerobic-exercise-versus-traditional-aerobic-exe/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-virtual-reality-based-aerobic-exercise-versus-traditional-aerobic-exe/</guid>
@@ -32,6 +46,13 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/nonlinear-dose-response-of-mind-body-exercise-in-older-adults-with-mild-cognitiv/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <description>軽度認知障害高齢者を対象としたマインドボディ運動(太極拳・ヨガなど)のメタ解析で、全般的認知機能と処理速度に対する非線形(U字型)な用量反応関係が示されました。</description>
+    </item>
+    <item>
+      <title>多領域脳波バイオマーカー統合による機械学習ベースの認知症分類</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。</description>
     </item>
     <item>
       <title>頭頸部がん患者における加速度計を用いた身体活動量の変化と関連因子:前向きコホート研究</title>
@@ -123,27 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/long-term-risk-of-dementia-after-tia-a-population-wide-matched-cohort-study/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <description>カナダ・オンタリオ州の大規模行政データを用いた研究で、TIA後は対照群と比べて認知症リスクが長期にわたり高く、5年以降は脳卒中後とほぼ同程度になることが示されました。</description>
-    </item>
-    <item>
-      <title>アルコール使用障害の回復支援施設におけるピアサポートと2年間の完全断酒との関連:全国前向きコホート研究</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/peer-support-and-2-year-abstinence-in-alcohol-use-disorder-a-nationwide-prospect/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/peer-support-and-2-year-abstinence-in-alcohol-use-disorder-a-nationwide-prospect/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>薬物依存症回復支援施設(DARC)を利用するアルコール使用障害者を対象とした全国コホート研究で、良好な仲間関係と回復ロールモデルへの曝露が2年間の完全断酒と有意に関連していた。</description>
-    </item>
-    <item>
-      <title>標準眼内レンズと望遠鏡インプラント(SING-IMT)を組み合わせた二重眼内システムの世界初ヒト移植:光学シミュレーション・前臨床検証・臨床実施可能性</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/first-in-human-implantation-of-an-add-on-dual-intraocular-system-combining-a-sta/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/first-in-human-implantation-of-an-add-on-dual-intraocular-system-combining-a-sta/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>進行加齢黄斑変性に対し標準眼内レンズと望遠鏡型インプラントを併用する新しい術式について、光学シミュレーション・豚モデルでの前臨床検証・世界初のヒト移植を通じて実施可能性と短期安全性を検討した研究です。</description>
-    </item>
-    <item>
-      <title>デンマーク語版QPR(回復過程質問票)の妥当性検証:心理測定学的特性、変化への感度、意味のある差異の閾値</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/validation-of-the-danish-version-of-the-questionnaire-about-the-process-of-recov/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/validation-of-the-danish-version-of-the-questionnaire-about-the-process-of-recov/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>デンマークの地域精神保健サービス利用者を対象に、主観的リカバリーを評価するQPR-15とQPR-7のデンマーク語版を検証し、QPR-7が良好な心理測定学的特性と解釈可能な閾値を持つことを示した研究です。</description>
     </item>
   </channel>
 </rss>

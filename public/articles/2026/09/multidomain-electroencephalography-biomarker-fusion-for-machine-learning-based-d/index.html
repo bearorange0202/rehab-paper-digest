@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>多領域脳波バイオマーカー統合による機械学習ベースの認知症分類 | Rehab Paper Digest</title>
+  <meta name="description" content="公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。">
+  <link rel="canonical" href="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/">
+  <meta name="site-base-path" content="/rehab-paper-digest">
+  <link rel="icon" href="/rehab-paper-digest/assets/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Rehab Paper Digest RSS" href="/rehab-paper-digest/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="多領域脳波バイオマーカー統合による機械学習ベースの認知症分類 | Rehab Paper Digest">
+  <meta property="og:description" content="公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。">
+  <meta property="og:url" content="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/">
+  <meta property="og:site_name" content="Rehab Paper Digest">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="多領域脳波バイオマーカー統合による機械学習ベースの認知症分類 | Rehab Paper Digest">
+  <meta name="twitter:description" content="公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。">
+  <link rel="stylesheet" href="/rehab-paper-digest/assets/styles.css?v=20260913-date-category-search">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/rehab-paper-digest/">Rehab Paper Digest</a>
+    <nav class="nav">
+      <a href="/rehab-paper-digest/articles/">新着</a>
+      <a href="/rehab-paper-digest/categories/">カテゴリ</a>
+      <a href="/rehab-paper-digest/diseases/">疾患別</a>
+      <a href="/rehab-paper-digest/archive/">年月別</a>
+      <a href="/rehab-paper-digest/feed.xml">RSS</a>
+    </nav>
+  </header>
+  <main>
+
+    <article class="article-page">
+      <div class="ad-slot" data-slot="article-top">広告枠</div>
+      <p class="meta-line">公開日 2026-09-25</p>
+      <h1>多領域脳波バイオマーカー統合による機械学習ベースの認知症分類</h1>
+      <p class="original-title">Multidomain Electroencephalography Biomarker Fusion for Machine Learning-Based Dementia Classification.</p>
+      <p class="lead">公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。</p>
+      <div class="tags"><a class="tag" href="/rehab-paper-digest/categories/dementia/">認知症</a><a class="tag" href="/rehab-paper-digest/categories/neurological-disease/">神経疾患</a><a class="tag" href="/rehab-paper-digest/categories/cognitive-function/">認知機能</a></div>
+
+      <section class="source-box">
+        <h2>原著論文</h2>
+        <dl>
+          <dt>Original title</dt><dd>Multidomain Electroencephalography Biomarker Fusion for Machine Learning-Based Dementia Classification.</dd>
+          <dt>著者</dt><dd>Thomas J, Subhashree S, Mohanty SN, V S DP, Sanjesh R, Jibrin Musa M</dd>
+          <dt>雑誌名</dt><dd>Journal of visualized experiments : JoVE</dd>
+          <dt>公開日</dt><dd>2026-09-25</dd>
+          <dt>発行日</dt><dd>2026-09-25</dd>
+          <dt>DOI</dt><dd>10.3791/72549</dd>
+          <dt>PMID</dt><dd>42801300</dd>
+        </dl>
+        <a class="button" href="https://doi.org/10.3791/72549" target="_blank" rel="noopener noreferrer">原著論文を確認する</a>
+      </section>
+
+      <section><h2>背景・目的</h2><p>脳波(EEG)は非侵襲的に脳活動を評価できる手法として、神経変性疾患の特徴づけに応用が検討されてきました。本研究では、複数の領域から抽出したEEGバイオマーカーを組み合わせることで、アルツハイマー病(AD)、前頭側頭型認知症(FTD)、健常者(HC)を機械学習によって識別できるかを検証しています。</p></section>
+      
+      <section><h2>対象</h2><p>公開されている安静時・閉眼状態のEEG記録データセットを使用し、AD群36名、FTD群23名、健常対照群29名の計88名が含まれています。</p></section>
+      <section><h2>方法</h2><p>各参加者のEEG記録から、二乗平均平方根(RMS)、パワースペクトル密度(PSD)、エントロピー指標などの多領域特徴量と人口統計学的特徴を抽出しました。これらを組み合わせた特徴量セットを用いてランダムフォレスト分類器を学習させ、説明可能AI(explainable AI)により特徴量の解釈を行いました。さらに、特徴量の安定性評価とCohenのd効果量分析により各特徴量の寄与を検討し、続いてアブレーション解析(特定の特徴量を除いた際の性能変化の検討)を実施しました。</p></section>
+      <div class="ad-slot" data-slot="article-middle">広告枠</div>
+      <section><h2>結果</h2><p>エントロピー系の特徴量は分類への寄与が最も低いことが示されました。全ての多領域特徴量を用いたモデルでは、学習データで96%、テストデータで92%の分類精度が得られました。エントロピー特徴量を除外すると、テストデータの精度は94%に向上しました。</p></section>
+      <section><h2>臨床的示唆</h2><p>本研究は、複数のEEG特徴量領域を組み合わせることで認知症関連疾患の分類に有用な情報が得られる可能性を示す技術的検討であり、将来的な非侵襲的補助評価手法の開発に向けた基礎的知見を提供するものです。ただし、実際の臨床診断プロセスへの適用を裏付けるものではありません。</p></section>
+      <section><h2>限界</h2><ul><li>公開データセットの再解析であり、対象者数が比較的少数(計88名)である点</li><li>外部データセットや異なる施設での検証が行われていない</li><li>実際の臨床現場における診断精度や有用性については検討されていない</li></ul></section>
+      <div class="ad-slot" data-slot="article-bottom">広告枠</div>
+      <p class="disclaimer">本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+      <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "多領域脳波バイオマーカー統合による機械学習ベースの認知症分類", "datePublished": "2026-09-25", "dateModified": "2026-09-27T23:28:26+00:00", "author": {"@type": "Organization", "name": "Rehab Paper Digest"}, "isBasedOn": "https://doi.org/10.3791/72549", "description": "公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。", "mainEntityOfPage": "https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/"}</script>
+    </article>
+
+  </main>
+  <footer class="site-footer">
+    <p>本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+  </footer>
+  <script src="/rehab-paper-digest/assets/search.js?v=20260913-date-category-search" defer></script>
+</body>
+</html>

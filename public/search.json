@@ -1,5 +1,33 @@
 [
   {
+    "title": "軟骨軟化症による前膝痛に対する筋膜リリースとドライニードリングの効果比較:ランダム化比較試験",
+    "summary": "軟骨軟化症による前膝痛を持つ成人女性において、筋膜リリースとドライニードリングはいずれも運動療法と併用することで疼痛を軽減し、筋膜リリースは大腿四頭筋の筋力とハムストリング/大腿四頭筋比の改善においてより優れていた。",
+    "url": "/rehab-paper-digest/articles/2026/09/assessing-the-impact-of-myofascial-release-versus-dry-needling-for-chondromalaci/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42801270",
+    "doi": "10.1177/19417381261486230",
+    "published_date": "2026-09-27",
+    "online_publication_date": "2026-09-27",
+    "issue_date": "2026-09-27"
+  },
+  {
+    "title": "膝関節症患者に対するドライニードリングと器具を用いた軟部組織モビライゼーションの短期効果:ランダム化比較試験",
+    "summary": "膝関節症患者34名を対象に、ドライニードリング・IASTM・通常理学療法の3群を比較したところ、いずれも疼痛・機能・可動域が改善し、ドライニードリングが最も改善幅が大きかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/short-term-effectiveness-of-dry-needling-and-instrument-assisted-soft-tissue-mob/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42801510",
+    "doi": "10.1080/10669817.2026.2733484",
+    "published_date": "2026-09-27",
+    "online_publication_date": "2026-09-27",
+    "issue_date": "2026-09-27"
+  },
+  {
     "title": "ダウン症候群のある青年に対するVRベース有酸素運動と従来型有酸素運動の効果比較:DOWNFIT無作為化比較試験",
     "summary": "ダウン症候群のある青年40名を対象に、VRベース有酸素運動と従来型有酸素運動を10週間実施したところ、両群とも体組成が改善し、VR群は柔軟性・握力・体幹持久力、従来群は機能的能力・移動能力でより大きな改善がみられた。",
     "url": "/rehab-paper-digest/articles/2026/09/effects-of-virtual-reality-based-aerobic-exercise-versus-traditional-aerobic-exe/",
@@ -59,6 +87,21 @@
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
     "issue_date": "2026-01-01"
+  },
+  {
+    "title": "多領域脳波バイオマーカー統合による機械学習ベースの認知症分類",
+    "summary": "公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "認知機能"
+    ],
+    "pmid": "42801300",
+    "doi": "10.3791/72549",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
   },
   {
     "title": "頭頸部がん患者における加速度計を用いた身体活動量の変化と関連因子:前向きコホート研究",
@@ -304,6 +347,21 @@
     "published_date": "2026-09-22",
     "online_publication_date": "2026-09-22",
     "issue_date": "2026-09-22"
+  },
+  {
+    "title": "アルツハイマー病:分子病態から疾患修飾療法、そして高齢者臨床への実装まで",
+    "summary": "アルツハイマー病の分子病態から最新の抗アミロイド抗体薬、遺伝学的背景、診断バイオマーカー、高齢者臨床への実装課題までを包括的に整理したナラティブレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/09/alzheimer-s-disease-from-molecular-pathogenesis-to-disease-modifying-therapies-a/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "高齢者"
+    ],
+    "pmid": "42801246",
+    "doi": "10.2147/CIA.S639690",
+    "published_date": "2026-09-22",
+    "online_publication_date": "2026-09-22",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "実践に埋め込まれたプラグマティック臨床試験(ePCT)のためのパイロット研究デザイン",
@@ -2281,6 +2339,21 @@
     "issue_date": "2026-08-28"
   },
   {
+    "title": "開瞼失行に対するブロモクリプチン治療が奏効した1例",
+    "summary": "脳血管障害後に開瞼失行を呈した患者に対し、ブロモクリプチンを投与したところ数日以内に開瞼動作が可能となり、他の失行症状にも改善がみられた症例報告です。",
+    "url": "/rehab-paper-digest/articles/2026/08/successful-treatment-of-apraxia-of-eyelid-opening-with-bromocriptine-a-case-repo/",
+    "categories": [
+      "神経疾患",
+      "脳卒中",
+      "その他"
+    ],
+    "pmid": "42801174",
+    "doi": "10.7759/cureus.115304",
+    "published_date": "2026-08-27",
+    "online_publication_date": "2026-08-27",
+    "issue_date": "2026-08-01"
+  },
+  {
     "title": "インドにおける脳卒中後血管性認知障害:医療専門職の臨床実践に関する全国調査",
     "summary": "インドの脳卒中診療に携わる医療専門職110名を対象とした全国調査により、脳卒中後認知障害の評価・介入の実施状況とその障壁が明らかにされた。",
     "url": "/rehab-paper-digest/articles/2026/08/post-stroke-vascular-cognitive-impairment-in-india-a-national-survey-of-healthca/",
@@ -2356,6 +2429,35 @@
     "issue_date": "2026-08-17"
   },
   {
+    "title": "認知症介護者における経済的困窮(financial toxicity)と多面的な経済的負担",
+    "summary": "認知症介護者79名を対象とした横断調査で、約半数に経済的困窮が認められ、介護負担の大きさや世帯収入の低さと関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/08/financial-toxicity-and-multidimensional-economic-strain-among-dementia-caregiver/",
+    "categories": [
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42801132",
+    "doi": "10.1002/bsa3.70106",
+    "published_date": "2026-08-16",
+    "online_publication_date": "2026-08-16",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "脳出血における免疫関連循環バイオマーカー:看護管理と予後評価への示唆",
+    "summary": "脳出血患者における免疫関連バイオマーカー(血球比率、CRP、PCTなど)の臨床応用可能性を整理し、病期に応じたモニタリング枠組みと看護実践への活用視点を提案した総説。",
+    "url": "/rehab-paper-digest/articles/2026/08/immune-related-circulating-biomarkers-in-intracerebral-hemorrhage-implications-f/",
+    "categories": [
+      "脳卒中",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42801775",
+    "doi": "10.18502/ijaai.v25i5.22254",
+    "published_date": "2026-08-10",
+    "online_publication_date": "2026-08-10",
+    "issue_date": "2026-08-10"
+  },
+  {
     "title": "血清Omentin-1とCS846:変形性膝関節症の診断とTKA術後機能予後のバイオマーカー",
     "summary": "変形性膝関節症患者と健常対照者を比較した研究で、血清Omentin-1とCS846を組み合わせることで、疾患診断とTKA術後6ヶ月の機能回復不良の予測に一定の有用性が示された。",
     "url": "/rehab-paper-digest/articles/2026/05/serum-omentin-1-and-cs846-biomarkers-for-diagnosis-and-post-tka-functional-outco/",
@@ -2410,6 +2512,19 @@
     ],
     "pmid": "42726837",
     "doi": "10.36740/Merkur202604122",
+    "published_date": "2026-01-01",
+    "online_publication_date": "",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "救急・集中治療看護師における看護ケアの見落とし:項目レベルのネットワーク分析とコンピュータシミュレーションによる検討",
+    "summary": "中国の救急・集中治療看護師3351名のデータを用い、看護ケアの見落とし24項目間の関連構造をネットワーク分析とシミュレーションで検討し、頻度だけでは分からない優先すべきケア項目を特定した横断研究。",
+    "url": "/rehab-paper-digest/articles/2026/01/missed-nursing-care-among-emergency-and-critical-care-nurses-an-item-level-netwo/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42801313",
+    "doi": "10.1155/jonm/5019343",
     "published_date": "2026-01-01",
     "online_publication_date": "",
     "issue_date": "2026-01-01"
