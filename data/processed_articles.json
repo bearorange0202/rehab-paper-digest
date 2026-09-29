@@ -175,7 +175,15 @@
     "42801300",
     "42801313",
     "42801510",
-    "42801775"
+    "42801775",
+    "42804318",
+    "42804386",
+    "42804459",
+    "42804507",
+    "42804642",
+    "42804652",
+    "42804665",
+    "42804666"
   ],
   "records": [
     {
@@ -1585,6 +1593,70 @@
       "title": "Multidomain Electroencephalography Biomarker Fusion for Machine Learning-Based Dementia Classification.",
       "url_path": "/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/",
       "processed_at": "2026-09-27T23:30:46+00:00"
+    },
+    {
+      "id": "42804642",
+      "pmid": "42804642",
+      "doi": "10.1073/pnas.2613077123",
+      "title": "Longitudinal adaptations in neural and behavioral systems following hearing restoration using cochlear implants.",
+      "url_path": "/articles/2026/09/longitudinal-adaptations-in-neural-and-behavioral-systems-following-hearing-rest/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804507",
+      "pmid": "42804507",
+      "doi": "10.1080/14992027.2026.2729217",
+      "title": "Effect of selected components of aural rehabilitation delivered in-person versus guided internet-based modalities on quality of life in adults with hearing loss: a systematic review and meta-analyses.",
+      "url_path": "/articles/2026/09/effect-of-selected-components-of-aural-rehabilitation-delivered-in-person-versus/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804386",
+      "pmid": "42804386",
+      "doi": "10.1080/23279095.2026.2737794",
+      "title": "Optimal cutoffs for the Montreal Cognitive Assessment among English and Spanish speaking Latinos.",
+      "url_path": "/articles/2026/09/optimal-cutoffs-for-the-montreal-cognitive-assessment-among-english-and-spanish/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804665",
+      "pmid": "42804665",
+      "doi": "10.1249/MSS.0000000000004157",
+      "title": "Greater Ankle Laxity and Smaller Evertor Muscles in Conjunction are Linked to Symptoms of Chronic Ankle Instability in Collegiate Basketball Athletes.",
+      "url_path": "/articles/2026/09/greater-ankle-laxity-and-smaller-evertor-muscles-in-conjunction-are-linked-to-sy/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804666",
+      "pmid": "42804666",
+      "doi": "10.1080/00207144.2026.2728581",
+      "title": "Hypnosis Using Cognitive Rehabilitation Versus Mindfulness Suggestions on Working Memory and Therapeutic Alliance in Patients in Alcohol Treatment.",
+      "url_path": "/articles/2026/09/hypnosis-using-cognitive-rehabilitation-versus-mindfulness-suggestions-on-workin/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804652",
+      "pmid": "42804652",
+      "doi": "10.1097/PSY.0000000000001533",
+      "title": "Attachment Anxiety, Mitochondrial Respiration, and Future Depressive Symptoms in Dementia Spousal Caregivers.",
+      "url_path": "/articles/2026/09/attachment-anxiety-mitochondrial-respiration-and-future-depressive-symptoms-in-d/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804459",
+      "pmid": "42804459",
+      "doi": "10.1371/journal.pone.0358740",
+      "title": "Effects of blood flow restriction combined with visual feedback training on lower limb function and the serum levels of BDNF and VEGF in patients with stroke.",
+      "url_path": "/articles/2026/09/effects-of-blood-flow-restriction-combined-with-visual-feedback-training-on-lowe/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42804318",
+      "pmid": "42804318",
+      "doi": "",
+      "title": "Effects of Burst Spinal Cord Stimulation Versus Those of Paravertebral Block on Thoracic Subacute Herpetic Neuralgia: A Propensity Score-Matched Retrospective Cohort Study.",
+      "url_path": "/articles/2026/09/effects-of-burst-spinal-cord-stimulation-versus-those-of-paravertebral-block-on/",
+      "processed_at": "2026-09-29T00:43:49+00:00"
     }
   ]
 }
