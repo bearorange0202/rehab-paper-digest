@@ -183,7 +183,15 @@
     "42804642",
     "42804652",
     "42804665",
-    "42804666"
+    "42804666",
+    "42809225",
+    "42809251",
+    "42809480",
+    "42809495",
+    "42809523",
+    "42809641",
+    "42809792",
+    "42809840"
   ],
   "records": [
     {
@@ -1657,6 +1665,70 @@
       "title": "Effects of Burst Spinal Cord Stimulation Versus Those of Paravertebral Block on Thoracic Subacute Herpetic Neuralgia: A Propensity Score-Matched Retrospective Cohort Study.",
       "url_path": "/articles/2026/09/effects-of-burst-spinal-cord-stimulation-versus-those-of-paravertebral-block-on/",
       "processed_at": "2026-09-29T00:43:49+00:00"
+    },
+    {
+      "id": "42809480",
+      "pmid": "42809480",
+      "doi": "10.1159/pps/aemag017",
+      "title": "Digital rehabilitation using immersive Virtual Reality for Post-COVID fatigue: a double-blind randomized controlled trial.",
+      "url_path": "/articles/2026/09/digital-rehabilitation-using-immersive-virtual-reality-for-post-covid-fatigue-a/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809495",
+      "pmid": "42809495",
+      "doi": "10.37765/ajmc.2026.90008",
+      "title": "Pilot Testing the Johns Hopkins Early Discharge Planning Calculator.",
+      "url_path": "/articles/2026/09/pilot-testing-the-johns-hopkins-early-discharge-planning-calculator/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809523",
+      "pmid": "42809523",
+      "doi": "10.1159/res/aepag017",
+      "title": "Sustained but Attenuated Weight Gain following Pulmonary Rehabilitation in COPD: Evidence for a Gap in Post-Discharge Nutritional Care.",
+      "url_path": "/articles/2026/09/sustained-but-attenuated-weight-gain-following-pulmonary-rehabilitation-in-copd/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809225",
+      "pmid": "42809225",
+      "doi": "10.1093/geront/gnag230",
+      "title": "Healthcare Provider Experiences Delivering Dementia Care in Indigenous Communities: Challenges and Recommendations.",
+      "url_path": "/articles/2026/09/healthcare-provider-experiences-delivering-dementia-care-in-indigenous-communiti/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809792",
+      "pmid": "42809792",
+      "doi": "10.1590/1980-220X-REEUSP-2026-0209en",
+      "title": "Experiencing obesity: trajectory and fruitless sacrifices to lose weight prior to bariatric surgery.",
+      "url_path": "/articles/2026/09/experiencing-obesity-trajectory-and-fruitless-sacrifices-to-lose-weight-prior-to/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809641",
+      "pmid": "42809641",
+      "doi": "10.2106/JBJS.CC.26.00188",
+      "title": "Transient Paraparesis from Post-traumatic Muscle Herniation Through Laminectomy Defect: Rare Sequela of Thoracolumbar Kyphosis Correction: A Case Report.",
+      "url_path": "/articles/2026/09/transient-paraparesis-from-post-traumatic-muscle-herniation-through-laminectomy/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809251",
+      "pmid": "42809251",
+      "doi": "10.4103/IJO.IJO_3157_25",
+      "title": "Cognitive impairment in glaucoma.",
+      "url_path": "/articles/2026/09/cognitive-impairment-in-glaucoma/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42809840",
+      "pmid": "42809840",
+      "doi": "10.2196/85075",
+      "title": "Social Determinants and Oral Health Among Indigenous and Non-Indigenous Older Adults in La Araucanía, Chile: Cross-Sectional Study.",
+      "url_path": "/articles/2026/09/social-determinants-and-oral-health-among-indigenous-and-non-indigenous-older-ad/",
+      "processed_at": "2026-09-30T00:02:30+00:00"
     }
   ]
 }
