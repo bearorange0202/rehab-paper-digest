@@ -191,7 +191,15 @@
     "42809523",
     "42809641",
     "42809792",
-    "42809840"
+    "42809840",
+    "42814647",
+    "42814649",
+    "42814668",
+    "42814801",
+    "42814823",
+    "42814913",
+    "42814968",
+    "42814995"
   ],
   "records": [
     {
@@ -1729,6 +1737,70 @@
       "title": "Social Determinants and Oral Health Among Indigenous and Non-Indigenous Older Adults in La Araucanía, Chile: Cross-Sectional Study.",
       "url_path": "/articles/2026/09/social-determinants-and-oral-health-among-indigenous-and-non-indigenous-older-ad/",
       "processed_at": "2026-09-30T00:02:30+00:00"
+    },
+    {
+      "id": "42814801",
+      "pmid": "42814801",
+      "doi": "10.1126/scitranslmed.adw3644",
+      "title": "Assessment of upper-limb motor recovery after stroke using a wrist-worn accelerometer digital biomarker.",
+      "url_path": "/articles/2026/09/assessment-of-upper-limb-motor-recovery-after-stroke-using-a-wrist-worn-accelero/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814823",
+      "pmid": "42814823",
+      "doi": "10.1126/sciadv.aef9864",
+      "title": "Speech clocks decode dementia phenotypes, social exposome, and biological aging.",
+      "url_path": "/articles/2026/09/speech-clocks-decode-dementia-phenotypes-social-exposome-and-biological-aging/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814913",
+      "pmid": "42814913",
+      "doi": "10.2196/96867",
+      "title": "Knowledge Performance, User Experience, and Cybersickness With Immersive Virtual Reality for Tai Chi Movement-Encoding in Older Adults: Randomized Comparison Study.",
+      "url_path": "/articles/2026/09/knowledge-performance-user-experience-and-cybersickness-with-immersive-virtual-r/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814647",
+      "pmid": "42814647",
+      "doi": "10.2196/91104",
+      "title": "Assessment of Wrist-Worn Activity Tracker Accuracy for Measuring Sedentary Behavior in Outpatients With Cardiovascular Disease: Validation Study.",
+      "url_path": "/articles/2026/09/assessment-of-wrist-worn-activity-tracker-accuracy-for-measuring-sedentary-behav/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814995",
+      "pmid": "42814995",
+      "doi": "10.2196/83563",
+      "title": "Measurement Properties of the European Portuguese Michigan Hand Outcomes Questionnaire (MHQ) in Paper and Electronic Formats: Instrument Validation Study.",
+      "url_path": "/articles/2026/09/measurement-properties-of-the-european-portuguese-michigan-hand-outcomes-questio/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814649",
+      "pmid": "42814649",
+      "doi": "10.1159/ene/acsag009",
+      "title": "The orexinergic system in Alzheimer's disease: from sleep disruption to accelerated neurodegeneration.",
+      "url_path": "/articles/2026/09/the-orexinergic-system-in-alzheimer-s-disease-from-sleep-disruption-to-accelerat/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814968",
+      "pmid": "42814968",
+      "doi": "10.1109/JBHI.2026.3737611",
+      "title": "Smart Foot Wearables: An Interdisciplinary Perspective.",
+      "url_path": "/articles/2026/09/smart-foot-wearables-an-interdisciplinary-perspective/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42814668",
+      "pmid": "42814668",
+      "doi": "10.1093/milmed/usag433",
+      "title": "Patient and Provider Perspective of Cranioelectrical Stimulation for the Management of Persistent Mild Traumatic Brain Injury Symptoms in Veterans and Service Members.",
+      "url_path": "/articles/2026/09/patient-and-provider-perspective-of-cranioelectrical-stimulation-for-the-managem/",
+      "processed_at": "2026-10-01T00:16:40+00:00"
     }
   ]
 }

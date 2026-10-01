@@ -1,5 +1,126 @@
 [
   {
+    "title": "発話から推定する「音声年齢時計」は認知症の表現型、社会的曝露、生物学的加齢を反映する",
+    "summary": "ラテンアメリカ5カ国2928人の発話データから算出した音声年齢ギャップが、健常者と各種認知症群を区別し、リン酸化タウやエピジェネティック年齢などの生物学的加齢指標と関連することが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/speech-clocks-decode-dementia-phenotypes-social-exposome-and-biological-aging/",
+    "categories": [
+      "認知症",
+      "言語聴覚療法",
+      "神経疾患",
+      "高齢者"
+    ],
+    "pmid": "42814823",
+    "doi": "10.1126/sciadv.aef9864",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-10-02"
+  },
+  {
+    "title": "スマートフット・ウェアラブル機器に関する学際的視点からのレビュー",
+    "summary": "足部装着型スマートウェアラブル機器(SFW)について、構造・センシング・通信・検証などの観点から分類体系を提示した学際的レビューです。",
+    "url": "/rehab-paper-digest/articles/2026/09/smart-foot-wearables-an-interdisciplinary-perspective/",
+    "categories": [
+      "福祉用具・支援技術",
+      "歩行",
+      "その他"
+    ],
+    "pmid": "42814968",
+    "doi": "10.1109/JBHI.2026.3737611",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "退役軍人の軽度外傷性脳損傷後遺症に対する頭蓋電気刺激(CES)についての患者と医療者の視点",
+    "summary": "VAのポリトラウマリハビリ施設で、軽度外傷性脳損傷の持続症状管理に用いられるCESについて、患者81名と医療者23名への質的・混合研究から使用実態や受容、教育ニーズが明らかにされた。",
+    "url": "/rehab-paper-digest/articles/2026/09/patient-and-provider-perspective-of-cranioelectrical-stimulation-for-the-managem/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42814668",
+    "doi": "10.1093/milmed/usag433",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "手首装着型加速度計を用いた脳卒中後上肢運動機能回復のデジタルバイオマーカーによる評価",
+    "summary": "手首装着型加速度計データから算出したデジタル指標(DAPS)により、脳卒中後の上肢運動回復を高い信頼性・妥当性で評価でき、臨床試験に必要なサンプルサイズを大幅に削減できる可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/assessment-of-upper-limb-motor-recovery-after-stroke-using-a-wrist-worn-accelero/",
+    "categories": [
+      "脳卒中",
+      "上肢機能",
+      "福祉用具・支援技術",
+      "理学療法"
+    ],
+    "pmid": "42814801",
+    "doi": "10.1126/scitranslmed.adw3644",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "高齢者における太極拳の動作符号化学習:没入型VRと2D動画の比較ランダム化研究",
+    "summary": "地域在住高齢者を対象に没入型VRと2D動画による太極拳動作学習を比較したところ、知識スコアに差はなかったが、VR群はゲーム体験面で良好な評価を示した。",
+    "url": "/rehab-paper-digest/articles/2026/09/knowledge-performance-user-experience-and-cybersickness-with-immersive-virtual-r/",
+    "categories": [
+      "高齢者",
+      "福祉用具・支援技術",
+      "認知機能"
+    ],
+    "pmid": "42814913",
+    "doi": "10.2196/96867",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "アルツハイマー病におけるオレキシン系の役割:睡眠障害から神経変性促進まで",
+    "summary": "アルツハイマー病では睡眠障害とアミロイド病理が相互に悪化し合う関係にあり、その仲介因子としてオレキシン系が注目されているとする総説。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-orexinergic-system-in-alzheimer-s-disease-from-sleep-disruption-to-accelerat/",
+    "categories": [
+      "神経疾患",
+      "認知症"
+    ],
+    "pmid": "42814649",
+    "doi": "10.1159/ene/acsag009",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "心疾患を有する外来高齢患者における手首装着型活動量計の座位行動測定精度の検証",
+    "summary": "心疾患外来患者51名を対象に、市販の手首装着型活動量計と研究用加速度計で座位時間を同時測定し一致度を検討した結果、固定的なバイアスを補正することで集団レベルの一致度が大きく改善した。",
+    "url": "/rehab-paper-digest/articles/2026/09/assessment-of-wrist-worn-activity-tracker-accuracy-for-measuring-sedentary-behav/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42814647",
+    "doi": "10.2196/91104",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "欧州ポルトガル語版Michigan Hand Outcomes Questionnaire(MHQ)の紙媒体・電子媒体における測定特性:尺度開発研究",
+    "summary": "手・手関節疾患患者81名を対象に欧州ポルトガル語版MHQを翻訳・文化的適応し、紙媒体と電子媒体の信頼性・使用感を比較検討した観察研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/measurement-properties-of-the-european-portuguese-michigan-hand-outcomes-questio/",
+    "categories": [
+      "上肢機能",
+      "整形外科",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42814995",
+    "doi": "10.2196/83563",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
     "title": "先住民コミュニティにおける認知症ケア提供の経験:医療提供者が語る課題と提言",
     "summary": "米国・カナダの先住民コミュニティで認知症ケアに従事する医療提供者14名へのインタビューから、資源不足・介護者支援の必要性・コミュニケーション課題・地域の認知症理解の低さという課題と、それに対する改善提言が主題分析により示された。",
     "url": "/rehab-paper-digest/articles/2026/09/healthcare-provider-experiences-delivering-dementia-care-in-indigenous-communiti/",
