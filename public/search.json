@@ -16,6 +16,20 @@
     "issue_date": "2026-10-02"
   },
   {
+    "title": "がんリハビリテーション後の復職における社会経済的格差:ドイツ年金保険データを用いた分析",
+    "summary": "ドイツの公的年金保険データを用いた分析で、低所得層はがんリハビリテーション後の復職率が低いという社会経済的格差が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/",
+    "categories": [
+      "その他",
+      "高齢者"
+    ],
+    "pmid": "42819518",
+    "doi": "10.25646/14443",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "スマートフット・ウェアラブル機器に関する学際的視点からのレビュー",
     "summary": "足部装着型スマートウェアラブル機器(SFW)について、構造・センシング・通信・検証などの観点から分類体系を提示した学際的レビューです。",
     "url": "/rehab-paper-digest/articles/2026/09/smart-foot-wearables-an-interdisciplinary-perspective/",
@@ -59,6 +73,20 @@
     "published_date": "2026-09-30",
     "online_publication_date": "2026-09-30",
     "issue_date": "2026-09-30"
+  },
+  {
+    "title": "レカネマブ治療中の髄液タウと6か月臨床変化の関連:日本における前向き実臨床コホート研究",
+    "summary": "レカネマブ治療を受けた早期アルツハイマー病スペクトラムの患者50人を対象とした前向きコホート研究で、治療開始前の髄液pTau181および総タウ値が高いことが6か月後のCDR-SB悪化と関連していました。",
+    "url": "/rehab-paper-digest/articles/2026/09/baseline-csf-tau-and-short-term-clinical-change-during-lecanemab-therapy-a-prosp/",
+    "categories": [
+      "神経疾患",
+      "認知症"
+    ],
+    "pmid": "42819539",
+    "doi": "10.1002/dad2.70487",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "高齢者における太極拳の動作符号化学習:没入型VRと2D動画の比較ランダム化研究",
@@ -1187,6 +1215,20 @@
     "published_date": "2026-09-16",
     "online_publication_date": "2026-09-16",
     "issue_date": "2026-09-16"
+  },
+  {
+    "title": "閉塞性睡眠時無呼吸に対するリハビリテーションと運動療法:無呼吸低呼吸指数(AHI)を超えた視点",
+    "summary": "閉塞性睡眠時無呼吸(OSA)に対する運動療法や口腔咽頭筋機能療法などのリハビリテーション介入が、AHIの変化が乏しい場合でも眠気・睡眠の質・機能的能力・認知機能・QOLを改善しうることを整理したナラティブレビュー。",
+    "url": "/rehab-paper-digest/articles/2026/09/rehabilitation-and-therapeutic-exercise-in-obstructive-sleep-apnea-a-perspective/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42819610",
+    "doi": "10.3389/fmed.2026.1873380",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "若年サッカー選手における片側性バランス単独トレーニングと複合(バランス+プライオメトリック)トレーニングが左右のバランス能力非対称性に与える効果の比較",
@@ -2812,6 +2854,65 @@
     "published_date": "2026-08-10",
     "online_publication_date": "2026-08-10",
     "issue_date": "2026-08-10"
+  },
+  {
+    "title": "認知症の進化的起源",
+    "summary": "加齢性認知症の中核病態とされる脳毛細血管からの微小出血という脆弱性が、脊椎動物の進化の過程でどのように生じたかを7つの進化的特徴から考察した総説です。",
+    "url": "/rehab-paper-digest/articles/2026/07/the-evolutionary-origins-of-dementia/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42819534",
+    "doi": "10.1177/25424823261470053",
+    "published_date": "2026-07-21",
+    "online_publication_date": "2026-07-21",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "カンボジアにおける下肢切断者のリハビリテーション前後の生活の質の変化",
+    "summary": "カンボジアの下肢切断者125名を対象に、リハビリ前後のQOL変化を調べたところ、客観的・主観的QOLともに有意に改善し、断端痛の有無と切断からリハビリ開始までの遅延がQOL改善と関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/06/change-in-quality-of-life-after-rehabilitation-in-cambodia-among-adults-with-low/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42819714",
+    "doi": "10.1298/ptr.R0039",
+    "published_date": "2026-06-30",
+    "online_publication_date": "2026-06-30",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "日本の緩和ケア病棟におけるがんリハビリテーションの実施状況:全国調査",
+    "summary": "日本全国の緩和ケア病棟462施設を対象とした全国調査により、がんリハビリテーションの対象がん種、介入内容、実施頻度・時間などの実態が明らかにされました。",
+    "url": "/rehab-paper-digest/articles/2026/06/overview-of-cancer-rehabilitation-provided-in-palliative-care-units-in-japan-a-n/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42819709",
+    "doi": "10.1298/ptr.25-E10376",
+    "published_date": "2026-06-04",
+    "online_publication_date": "2026-06-04",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "回復期リハ病棟における低FIM脳卒中患者の退院時機能自立度予測:入院時モデルと3週時点モデルの比較",
+    "summary": "入院時情報のみのモデルより、入院時情報に3週時点の再評価を加えたモデルの方が、退院時FIM運動項目の予測精度が高かった。",
+    "url": "/rehab-paper-digest/articles/2026/06/time-updated-prediction-of-discharge-functional-independence-in-patients-with-st/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "ADL"
+    ],
+    "pmid": "42819719",
+    "doi": "10.1298/ptr.25-E10391",
+    "published_date": "2026-06-04",
+    "online_publication_date": "2026-06-04",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "血清Omentin-1とCS846:変形性膝関節症の診断とTKA術後機能予後のバイオマーカー",

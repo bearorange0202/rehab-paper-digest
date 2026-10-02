@@ -199,7 +199,14 @@
     "42814823",
     "42814913",
     "42814968",
-    "42814995"
+    "42814995",
+    "42819518",
+    "42819534",
+    "42819539",
+    "42819610",
+    "42819709",
+    "42819714",
+    "42819719"
   ],
   "records": [
     {
@@ -1801,6 +1808,62 @@
       "title": "Patient and Provider Perspective of Cranioelectrical Stimulation for the Management of Persistent Mild Traumatic Brain Injury Symptoms in Veterans and Service Members.",
       "url_path": "/articles/2026/09/patient-and-provider-perspective-of-cranioelectrical-stimulation-for-the-managem/",
       "processed_at": "2026-10-01T00:16:40+00:00"
+    },
+    {
+      "id": "42819714",
+      "pmid": "42819714",
+      "doi": "10.1298/ptr.R0039",
+      "title": "Change in Quality of Life after Rehabilitation in Cambodia among Adults with Lower Limb Amputation.",
+      "url_path": "/articles/2026/06/change-in-quality-of-life-after-rehabilitation-in-cambodia-among-adults-with-low/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42819719",
+      "pmid": "42819719",
+      "doi": "10.1298/ptr.25-E10391",
+      "title": "Time-updated Prediction of Discharge Functional Independence in Patients with Stroke and Low Functional Independence Measure in a Convalescent Rehabilitation Ward: Comparison between Admission and 3-week Models.",
+      "url_path": "/articles/2026/06/time-updated-prediction-of-discharge-functional-independence-in-patients-with-st/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42819610",
+      "pmid": "42819610",
+      "doi": "10.3389/fmed.2026.1873380",
+      "title": "Rehabilitation and therapeutic exercise in obstructive sleep apnea: a perspective beyond the apnea-hypopnea index.",
+      "url_path": "/articles/2026/09/rehabilitation-and-therapeutic-exercise-in-obstructive-sleep-apnea-a-perspective/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42819539",
+      "pmid": "42819539",
+      "doi": "10.1002/dad2.70487",
+      "title": "Baseline CSF tau and short-term clinical change during lecanemab therapy: A prospective real-world cohort study in Japan.",
+      "url_path": "/articles/2026/09/baseline-csf-tau-and-short-term-clinical-change-during-lecanemab-therapy-a-prosp/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42819534",
+      "pmid": "42819534",
+      "doi": "10.1177/25424823261470053",
+      "title": "The evolutionary origins of dementia.",
+      "url_path": "/articles/2026/07/the-evolutionary-origins-of-dementia/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42819709",
+      "pmid": "42819709",
+      "doi": "10.1298/ptr.25-E10376",
+      "title": "Overview of Cancer Rehabilitation Provided in Palliative Care Units in Japan: A Nationwide Survey.",
+      "url_path": "/articles/2026/06/overview-of-cancer-rehabilitation-provided-in-palliative-care-units-in-japan-a-n/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42819518",
+      "pmid": "42819518",
+      "doi": "10.25646/14443",
+      "title": "Socioeconomic differences in return to work after oncological rehabilitation: An analysis using data from German Pension Insurance.",
+      "url_path": "/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/",
+      "processed_at": "2026-10-02T00:19:31+00:00"
     }
   ]
 }

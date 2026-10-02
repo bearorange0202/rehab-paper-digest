@@ -13,6 +13,13 @@
       <description>ラテンアメリカ5カ国2928人の発話データから算出した音声年齢ギャップが、健常者と各種認知症群を区別し、リン酸化タウやエピジェネティック年齢などの生物学的加齢指標と関連することが示された。</description>
     </item>
     <item>
+      <title>がんリハビリテーション後の復職における社会経済的格差:ドイツ年金保険データを用いた分析</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>ドイツの公的年金保険データを用いた分析で、低所得層はがんリハビリテーション後の復職率が低いという社会経済的格差が示されました。</description>
+    </item>
+    <item>
       <title>スマートフット・ウェアラブル機器に関する学際的視点からのレビュー</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/smart-foot-wearables-an-interdisciplinary-perspective/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/smart-foot-wearables-an-interdisciplinary-perspective/</guid>
@@ -32,6 +39,13 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/assessment-of-upper-limb-motor-recovery-after-stroke-using-a-wrist-worn-accelero/</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <description>手首装着型加速度計データから算出したデジタル指標(DAPS)により、脳卒中後の上肢運動回復を高い信頼性・妥当性で評価でき、臨床試験に必要なサンプルサイズを大幅に削減できる可能性が示された。</description>
+    </item>
+    <item>
+      <title>レカネマブ治療中の髄液タウと6か月臨床変化の関連:日本における前向き実臨床コホート研究</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/baseline-csf-tau-and-short-term-clinical-change-during-lecanemab-therapy-a-prosp/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/baseline-csf-tau-and-short-term-clinical-change-during-lecanemab-therapy-a-prosp/</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>レカネマブ治療を受けた早期アルツハイマー病スペクトラムの患者50人を対象とした前向きコホート研究で、治療開始前の髄液pTau181および総タウ値が高いことが6か月後のCDR-SB悪化と関連していました。</description>
     </item>
     <item>
       <title>高齢者における太極拳の動作符号化学習:没入型VRと2D動画の比較ランダム化研究</title>
@@ -130,20 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/longitudinal-adaptations-in-neural-and-behavioral-systems-following-hearing-rest/</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <description>人工内耳を新規装用した成人19名を活性化後12か月まで追跡し、連続音声聴取課題における行動指標とEEG神経指標が活性化後早期に大きく改善し約6か月でプラトーに達することを示した研究です。</description>
-    </item>
-    <item>
-      <title>認知症配偶者介護者における愛着不安、ミトコンドリア呼吸、将来の抑うつ症状の関連</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/attachment-anxiety-mitochondrial-respiration-and-future-depressive-symptoms-in-d/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/attachment-anxiety-mitochondrial-respiration-and-future-depressive-symptoms-in-d/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>認知症配偶者介護者166名を対象に、末梢血単核細胞のミトコンドリア予備呼吸能と愛着不安の交互作用が7か月後の抑うつ症状を予測することを示した縦断研究。</description>
-    </item>
-    <item>
-      <title>脳卒中患者に対する血流制限トレーニングと視覚フィードバック訓練の併用が下肢機能および血清BDNF・VEGFに及ぼす効果</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-blood-flow-restriction-combined-with-visual-feedback-training-on-lowe/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/effects-of-blood-flow-restriction-combined-with-visual-feedback-training-on-lowe/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>脳卒中患者40例を対象としたRCTで、血流制限トレーニングと視覚フィードバック訓練の併用が視覚フィードバック訓練単独よりもバランス・下肢機能・ADL・血清BDNF/VEGFをより改善したと報告された。</description>
     </item>
   </channel>
 </rss>
