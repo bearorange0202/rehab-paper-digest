@@ -206,7 +206,13 @@
     "42819610",
     "42819709",
     "42819714",
-    "42819719"
+    "42819719",
+    "42825617",
+    "42825868",
+    "42825944",
+    "42826334",
+    "42826347",
+    "42826367"
   ],
   "records": [
     {
@@ -1864,6 +1870,54 @@
       "title": "Socioeconomic differences in return to work after oncological rehabilitation: An analysis using data from German Pension Insurance.",
       "url_path": "/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/",
       "processed_at": "2026-10-02T00:19:31+00:00"
+    },
+    {
+      "id": "42826367",
+      "pmid": "42826367",
+      "doi": "10.1097/MAO.0000000000005081",
+      "title": "Active Middle Ear Implantation for Sensorineural Hearing Loss: A Systematic Review and Meta-Analysis.",
+      "url_path": "/articles/2026/10/active-middle-ear-implantation-for-sensorineural-hearing-loss-a-systematic-revie/",
+      "processed_at": "2026-10-03T00:04:38+00:00"
+    },
+    {
+      "id": "42826347",
+      "pmid": "42826347",
+      "doi": "10.24875/CIRU.26000152",
+      "title": "[Effect of continuous nursing based on \"Internet + nursing service\" on prognosis of elderly patients with hip fracture after PFNA surgery].",
+      "url_path": "/articles/2026/10/effect-of-continuous-nursing-based-on-internet-nursing-service-on-prognosis-of-e/",
+      "processed_at": "2026-10-03T00:04:38+00:00"
+    },
+    {
+      "id": "42826334",
+      "pmid": "42826334",
+      "doi": "10.1097/MD.0000000000050807",
+      "title": "Association of CYP2C19 genetic polymorphisms with dyslipidemia and ischemic cerebrovascular disease in the mongolian population: A case-control study.",
+      "url_path": "/articles/2026/10/association-of-cyp2c19-genetic-polymorphisms-with-dyslipidemia-and-ischemic-cere/",
+      "processed_at": "2026-10-03T00:04:38+00:00"
+    },
+    {
+      "id": "42825944",
+      "pmid": "42825944",
+      "doi": "10.1007/s00391-026-02661-3",
+      "title": "[Rehabilitation in residential long-term care : Longitudinal study of functional independence, quality of life and return home].",
+      "url_path": "/articles/2026/10/rehabilitation-in-residential-long-term-care-longitudinal-study-of-functional-in/",
+      "processed_at": "2026-10-03T00:04:38+00:00"
+    },
+    {
+      "id": "42825868",
+      "pmid": "42825868",
+      "doi": "10.1007/s11325-026-03822-9",
+      "title": "Obstructive sleep apnea severity associates with reduced phase-lag index functional connectivity during N2 sleep.",
+      "url_path": "/articles/2026/10/obstructive-sleep-apnea-severity-associates-with-reduced-phase-lag-index-functio/",
+      "processed_at": "2026-10-03T00:04:38+00:00"
+    },
+    {
+      "id": "42825617",
+      "pmid": "42825617",
+      "doi": "10.4103/jips.jips_38_26",
+      "title": "Etiological trends, defect classification, and prosthetic rehabilitation of maxillofacial defects: A nine-year retrospective institutional analysis.",
+      "url_path": "/articles/2026/10/etiological-trends-defect-classification-and-prosthetic-rehabilitation-of-maxill/",
+      "processed_at": "2026-10-03T00:04:38+00:00"
     }
   ]
 }
