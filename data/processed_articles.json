@@ -212,7 +212,14 @@
     "42825944",
     "42826334",
     "42826347",
-    "42826367"
+    "42826367",
+    "42826793",
+    "42826906",
+    "42827061",
+    "42827084",
+    "42827105",
+    "42827299",
+    "42827396"
   ],
   "records": [
     {
@@ -1918,6 +1925,62 @@
       "title": "Etiological trends, defect classification, and prosthetic rehabilitation of maxillofacial defects: A nine-year retrospective institutional analysis.",
       "url_path": "/articles/2026/10/etiological-trends-defect-classification-and-prosthetic-rehabilitation-of-maxill/",
       "processed_at": "2026-10-03T00:04:38+00:00"
+    },
+    {
+      "id": "42827299",
+      "pmid": "42827299",
+      "doi": "10.1002/jcsm.70401",
+      "title": "Vitamin D Ameliorates Skeletal Muscle Atrophy After Spinal Cord Injury by Upregulating TIGAR and Enhancing Mitochondrial Function.",
+      "url_path": "/articles/2026/10/vitamin-d-ameliorates-skeletal-muscle-atrophy-after-spinal-cord-injury-by-upregu/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42827396",
+      "pmid": "42827396",
+      "doi": "10.1111/1756-185x.70896",
+      "title": "Effects of Yoga on Rheumatoid Arthritis: A Systematic Review and Meta-Analysis.",
+      "url_path": "/articles/2026/10/effects-of-yoga-on-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42827061",
+      "pmid": "42827061",
+      "doi": "10.1016/j.berh.2026.102204",
+      "title": "Are we at risk of increasing sarcopenia? Implications for osteoarthritis and osteoporosis.",
+      "url_path": "/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42827084",
+      "pmid": "42827084",
+      "doi": "10.1111/joor.70323",
+      "title": "Impact of Periodontal Therapy on Function and Quality of Life in Stage III Periodontitis.",
+      "url_path": "/articles/2026/10/impact-of-periodontal-therapy-on-function-and-quality-of-life-in-stage-iii-perio/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42826906",
+      "pmid": "42826906",
+      "doi": "10.1016/j.arr.2026.103388",
+      "title": "What can narcolepsy teach us about hypocretin and dementia?",
+      "url_path": "/articles/2026/10/what-can-narcolepsy-teach-us-about-hypocretin-and-dementia/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42827105",
+      "pmid": "42827105",
+      "doi": "10.1038/s41398-026-04352-4",
+      "title": "Changes in resting-state functional connectivity between large-scale brain networks after an intensive arts intervention for adolescents with depression.",
+      "url_path": "/articles/2026/08/changes-in-resting-state-functional-connectivity-between-large-scale-brain-netwo/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42826793",
+      "pmid": "42826793",
+      "doi": "10.1016/j.jcpo.2026.100813",
+      "title": "Regional Differences in Perceptions of Cancer Care Centralisation in Japan: A Patient Advocate Survey.",
+      "url_path": "/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/",
+      "processed_at": "2026-10-03T23:28:37+00:00"
     }
   ]
 }

@@ -6,6 +6,13 @@
     <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
     
     <item>
+      <title>サルコペニアは増加リスクにあるのか?変形性関節症と骨粗鬆症への示唆</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>サルコペニアと変形性関節症(OA)・骨粗鬆症(OP)が共通の機序を通じて相互に悪化させ合う可能性を整理し、既存の診療資源を統合した対応の重要性を論じた総説。</description>
+    </item>
+    <item>
       <title>モンゴル族における虚血性脳血管疾患とCYP2C19遺伝子多型・脂質異常症の関連:症例対照研究</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/association-of-cyp2c19-genetic-polymorphisms-with-dyslipidemia-and-ischemic-cere/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/association-of-cyp2c19-genetic-polymorphisms-with-dyslipidemia-and-ischemic-cere/</guid>
@@ -27,11 +34,32 @@
       <description>中等度から重度の感音難聴患者において、人工中耳(Vibrant Soundbridge)は有意な聴力改善と比較的良好な安全性を示したが、研究間のばらつきが大きいことが報告されました。</description>
     </item>
     <item>
+      <title>日本におけるがん医療集約化に対する認識の地域差:患者アドボケイト調査</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>国立がん研究センターの患者・市民パネルへのウェブ調査により、がん医療集約化政策に対する認識やサービス利用可能性の評価に地域差があることが示された。</description>
+    </item>
+    <item>
       <title>閉塞性睡眠時無呼吸の重症度はN2睡眠中の位相遅延指数による脳機能的結合性の低下と関連する</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/obstructive-sleep-apnea-severity-associates-with-reduced-phase-lag-index-functio/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/obstructive-sleep-apnea-severity-associates-with-reduced-phase-lag-index-functio/</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <description>閉塞性睡眠時無呼吸患者50例の後ろ向き解析で、無呼吸低呼吸指数が重いほどN2睡眠中のデルタ波・シータ波の位相遅延指数(PLI)による脳波機能的結合性が低下する関連がみられた。</description>
+    </item>
+    <item>
+      <title>ナルコレプシーから何がわかるか:ヒポクレチンと認知症の関係を考える</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/what-can-narcolepsy-teach-us-about-hypocretin-and-dementia/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/what-can-narcolepsy-teach-us-about-hypocretin-and-dementia/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>ヒポクレチン欠損を特徴とするナルコレプシー1型は深刻な睡眠覚醒障害を伴うにもかかわらず、神経変性バイオマーカーの所見は一貫せず、睡眠と認知症の関連を考える上で逆説的な手がかりを提供するという総説です。</description>
+    </item>
+    <item>
+      <title>ステージIII歯周炎に対する歯周治療が咀嚼機能と生活の質に与える影響</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/impact-of-periodontal-therapy-on-function-and-quality-of-life-in-stage-iii-perio/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/impact-of-periodontal-therapy-on-function-and-quality-of-life-in-stage-iii-perio/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>ステージIII、グレードB歯周炎患者に対する包括的歯周治療により、臨床的歯周パラメータ、咀嚼機能、口腔関連QOLが治療段階を通じて並行して改善した。</description>
     </item>
     <item>
       <title>PFNA術後高齢大腿骨近位部骨折患者における「インターネット+看護」継続ケアの予後への影響</title>
@@ -41,11 +69,25 @@
       <description>PFNA手術を受けた高齢大腿骨近位部骨折患者88例を対象に、インターネットを活用した退院後継続ケアが通常ケアと比較して股関節機能・自己効力感・QOL・合併症率・満足度に良好な効果を示したとする前向き非ランダム化比較研究です。</description>
     </item>
     <item>
+      <title>関節リウマチに対するヨガの効果:システマティックレビュー・メタ分析</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/effects-of-yoga-on-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/effects-of-yoga-on-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>関節リウマチ患者を対象としたRCT8件・651名のメタ分析で、ヨガは疾患活動性スコア(DAS28)とIL-6を有意に改善したが、身体機能(HAQ-DI)やTNF-αには有意な効果は認められなかった。</description>
+    </item>
+    <item>
       <title>顎顔面欠損の病因傾向・欠損分類・補綴リハビリテーション:9年間の単施設後方視的分析</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/etiological-trends-defect-classification-and-prosthetic-rehabilitation-of-maxill/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/etiological-trends-defect-classification-and-prosthetic-rehabilitation-of-maxill/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <description>三次医療機関における9年間・246例の顎顔面欠損症例を分析し、病因・欠損分類・補綴治療様式の分布を記述した後方視的研究です。</description>
+    </item>
+    <item>
+      <title>ビタミンDはTIGARの発現上昇とミトコンドリア機能改善を介して脊髄損傷後の骨格筋萎縮を軽減する</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/vitamin-d-ameliorates-skeletal-muscle-atrophy-after-spinal-cord-injury-by-upregu/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/vitamin-d-ameliorates-skeletal-muscle-atrophy-after-spinal-cord-injury-by-upregu/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>脊髄損傷患者の血清ビタミンD値と筋量の相関解析、およびマウス脊髄損傷モデルへのビタミンD投与実験により、ビタミンDがTIGAR発現上昇とミトコンドリア機能改善を介して骨格筋萎縮を軽減する可能性が示された。</description>
     </item>
     <item>
       <title>発話から推定する「音声年齢時計」は認知症の表現型、社会的曝露、生物学的加齢を反映する</title>
@@ -102,48 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/the-orexinergic-system-in-alzheimer-s-disease-from-sleep-disruption-to-accelerat/</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <description>アルツハイマー病では睡眠障害とアミロイド病理が相互に悪化し合う関係にあり、その仲介因子としてオレキシン系が注目されているとする総説。</description>
-    </item>
-    <item>
-      <title>心疾患を有する外来高齢患者における手首装着型活動量計の座位行動測定精度の検証</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/assessment-of-wrist-worn-activity-tracker-accuracy-for-measuring-sedentary-behav/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/assessment-of-wrist-worn-activity-tracker-accuracy-for-measuring-sedentary-behav/</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <description>心疾患外来患者51名を対象に、市販の手首装着型活動量計と研究用加速度計で座位時間を同時測定し一致度を検討した結果、固定的なバイアスを補正することで集団レベルの一致度が大きく改善した。</description>
-    </item>
-    <item>
-      <title>欧州ポルトガル語版Michigan Hand Outcomes Questionnaire(MHQ)の紙媒体・電子媒体における測定特性:尺度開発研究</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/measurement-properties-of-the-european-portuguese-michigan-hand-outcomes-questio/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/measurement-properties-of-the-european-portuguese-michigan-hand-outcomes-questio/</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <description>手・手関節疾患患者81名を対象に欧州ポルトガル語版MHQを翻訳・文化的適応し、紙媒体と電子媒体の信頼性・使用感を比較検討した観察研究です。</description>
-    </item>
-    <item>
-      <title>先住民コミュニティにおける認知症ケア提供の経験:医療提供者が語る課題と提言</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/healthcare-provider-experiences-delivering-dementia-care-in-indigenous-communiti/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/healthcare-provider-experiences-delivering-dementia-care-in-indigenous-communiti/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>米国・カナダの先住民コミュニティで認知症ケアに従事する医療提供者14名へのインタビューから、資源不足・介護者支援の必要性・コミュニケーション課題・地域の認知症理解の低さという課題と、それに対する改善提言が主題分析により示された。</description>
-    </item>
-    <item>
-      <title>コロナ後遺症の疲労に対する没入型VR運動療法:二重盲検ランダム化比較試験</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/digital-rehabilitation-using-immersive-virtual-reality-for-post-covid-fatigue-a/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/digital-rehabilitation-using-immersive-virtual-reality-for-post-covid-fatigue-a/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>コロナ後遺症による中等度~重度の疲労を持つ成人100名を対象に、没入型VR運動療法と通常運動療法を比較したところ、主要評価項目に有意差はなかったものの、VR群でのみ臨床的に意味のある改善基準を達成し、症状悪化が少なく、患者による全体的な改善評価も良好だった。</description>
-    </item>
-    <item>
-      <title>COPD患者における呼吸リハビリテーション後の体重増加は持続するが減弱する:退院後の栄養ケアにギャップの可能性</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/sustained-but-attenuated-weight-gain-following-pulmonary-rehabilitation-in-copd/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/sustained-but-attenuated-weight-gain-following-pulmonary-rehabilitation-in-copd/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>COPD患者を対象とした多施設研究で、呼吸リハビリテーションによる体重増加は退院後も持続したものの、退院後は栄養カウンセリングの実施率が大きく低下していた。</description>
-    </item>
-    <item>
-      <title>緑内障における認知機能障害</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/cognitive-impairment-in-glaucoma/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/09/cognitive-impairment-in-glaucoma/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>緑内障は単なる眼疾患ではなく、パーキンソン病やアルツハイマー病と共通する神経変性の特徴を持つ可能性があり、認知機能低下との関連が指摘されているとするナラティブレビュー。</description>
     </item>
   </channel>
 </rss>

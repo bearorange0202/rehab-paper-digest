@@ -1,5 +1,20 @@
 [
   {
+    "title": "サルコペニアは増加リスクにあるのか?変形性関節症と骨粗鬆症への示唆",
+    "summary": "サルコペニアと変形性関節症(OA)・骨粗鬆症(OP)が共通の機序を通じて相互に悪化させ合う可能性を整理し、既存の診療資源を統合した対応の重要性を論じた総説。",
+    "url": "/rehab-paper-digest/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/",
+    "categories": [
+      "高齢者",
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42827061",
+    "doi": "10.1016/j.berh.2026.102204",
+    "published_date": "2026-10-02",
+    "online_publication_date": "2026-10-02",
+    "issue_date": "2026-10-02"
+  },
+  {
     "title": "モンゴル族における虚血性脳血管疾患とCYP2C19遺伝子多型・脂質異常症の関連:症例対照研究",
     "summary": "モンゴル族の虚血性脳血管疾患患者を対象に、CYP2C19遺伝子型に基づく個別化治療と標準治療を比較したところ、CYP2C19低代謝型がリスク増加と関連し、遺伝子型ガイド治療群で脂質プロファイルや神経学的回復・ADLの改善が大きかったと報告されています。",
     "url": "/rehab-paper-digest/articles/2026/10/association-of-cyp2c19-genetic-polymorphisms-with-dyslipidemia-and-ischemic-cere/",
@@ -43,6 +58,19 @@
     "issue_date": "2026-10-02"
   },
   {
+    "title": "日本におけるがん医療集約化に対する認識の地域差:患者アドボケイト調査",
+    "summary": "国立がん研究センターの患者・市民パネルへのウェブ調査により、がん医療集約化政策に対する認識やサービス利用可能性の評価に地域差があることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42826793",
+    "doi": "10.1016/j.jcpo.2026.100813",
+    "published_date": "2026-10-02",
+    "online_publication_date": "2026-10-02",
+    "issue_date": "2026-10-02"
+  },
+  {
     "title": "閉塞性睡眠時無呼吸の重症度はN2睡眠中の位相遅延指数による脳機能的結合性の低下と関連する",
     "summary": "閉塞性睡眠時無呼吸患者50例の後ろ向き解析で、無呼吸低呼吸指数が重いほどN2睡眠中のデルタ波・シータ波の位相遅延指数(PLI)による脳波機能的結合性が低下する関連がみられた。",
     "url": "/rehab-paper-digest/articles/2026/10/obstructive-sleep-apnea-severity-associates-with-reduced-phase-lag-index-functio/",
@@ -52,6 +80,34 @@
     ],
     "pmid": "42825868",
     "doi": "10.1007/s11325-026-03822-9",
+    "published_date": "2026-10-02",
+    "online_publication_date": "2026-10-02",
+    "issue_date": "2026-10-02"
+  },
+  {
+    "title": "ナルコレプシーから何がわかるか:ヒポクレチンと認知症の関係を考える",
+    "summary": "ヒポクレチン欠損を特徴とするナルコレプシー1型は深刻な睡眠覚醒障害を伴うにもかかわらず、神経変性バイオマーカーの所見は一貫せず、睡眠と認知症の関連を考える上で逆説的な手がかりを提供するという総説です。",
+    "url": "/rehab-paper-digest/articles/2026/10/what-can-narcolepsy-teach-us-about-hypocretin-and-dementia/",
+    "categories": [
+      "神経疾患",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42826906",
+    "doi": "10.1016/j.arr.2026.103388",
+    "published_date": "2026-10-02",
+    "online_publication_date": "2026-10-02",
+    "issue_date": "2026-10-02"
+  },
+  {
+    "title": "ステージIII歯周炎に対する歯周治療が咀嚼機能と生活の質に与える影響",
+    "summary": "ステージIII、グレードB歯周炎患者に対する包括的歯周治療により、臨床的歯周パラメータ、咀嚼機能、口腔関連QOLが治療段階を通じて並行して改善した。",
+    "url": "/rehab-paper-digest/articles/2026/10/impact-of-periodontal-therapy-on-function-and-quality-of-life-in-stage-iii-perio/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42827084",
+    "doi": "10.1111/joor.70323",
     "published_date": "2026-10-02",
     "online_publication_date": "2026-10-02",
     "issue_date": "2026-10-02"
@@ -73,6 +129,20 @@
     "issue_date": "2026-10-02"
   },
   {
+    "title": "関節リウマチに対するヨガの効果:システマティックレビュー・メタ分析",
+    "summary": "関節リウマチ患者を対象としたRCT8件・651名のメタ分析で、ヨガは疾患活動性スコア(DAS28)とIL-6を有意に改善したが、身体機能(HAQ-DI)やTNF-αには有意な効果は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/effects-of-yoga-on-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42827396",
+    "doi": "10.1111/1756-185x.70896",
+    "published_date": "2026-10-01",
+    "online_publication_date": "",
+    "issue_date": "2026-10-01"
+  },
+  {
     "title": "顎顔面欠損の病因傾向・欠損分類・補綴リハビリテーション:9年間の単施設後方視的分析",
     "summary": "三次医療機関における9年間・246例の顎顔面欠損症例を分析し、病因・欠損分類・補綴治療様式の分布を記述した後方視的研究です。",
     "url": "/rehab-paper-digest/articles/2026/10/etiological-trends-defect-classification-and-prosthetic-rehabilitation-of-maxill/",
@@ -83,6 +153,20 @@
     "doi": "10.4103/jips.jips_38_26",
     "published_date": "2026-10-01",
     "online_publication_date": "2026-10-01",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "ビタミンDはTIGARの発現上昇とミトコンドリア機能改善を介して脊髄損傷後の骨格筋萎縮を軽減する",
+    "summary": "脊髄損傷患者の血清ビタミンD値と筋量の相関解析、およびマウス脊髄損傷モデルへのビタミンD投与実験により、ビタミンDがTIGAR発現上昇とミトコンドリア機能改善を介して骨格筋萎縮を軽減する可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/vitamin-d-ameliorates-skeletal-muscle-atrophy-after-spinal-cord-injury-by-upregu/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42827299",
+    "doi": "10.1002/jcsm.70401",
+    "published_date": "2026-10-01",
+    "online_publication_date": "",
     "issue_date": "2026-10-01"
   },
   {
@@ -2908,6 +2992,21 @@
     ],
     "pmid": "42727549",
     "doi": "10.1016/j.msard.2026.107453",
+    "published_date": "2026-08-17",
+    "online_publication_date": "2026-08-17",
+    "issue_date": "2026-08-17"
+  },
+  {
+    "title": "思春期うつ病患者に対する集中的芸術介入後の安静時機能的脳ネットワーク結合の変化",
+    "summary": "思春期うつ病患者39名を対象に2週間の芸術介入前後で脳ネットワーク間結合を調べた探索的fMRI研究で、一部のネットワーク間結合強度の増加が認められたが、抑うつ症状の変化とは相関しなかった。",
+    "url": "/rehab-paper-digest/articles/2026/08/changes-in-resting-state-functional-connectivity-between-large-scale-brain-netwo/",
+    "categories": [
+      "精神科",
+      "小児",
+      "神経疾患"
+    ],
+    "pmid": "42827105",
+    "doi": "10.1038/s41398-026-04352-4",
     "published_date": "2026-08-17",
     "online_publication_date": "2026-08-17",
     "issue_date": "2026-08-17"
