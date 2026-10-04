@@ -219,7 +219,11 @@
     "42827084",
     "42827105",
     "42827299",
-    "42827396"
+    "42827396",
+    "42829641",
+    "42829688",
+    "42829761",
+    "42829808"
   ],
   "records": [
     {
@@ -1981,6 +1985,38 @@
       "title": "Regional Differences in Perceptions of Cancer Care Centralisation in Japan: A Patient Advocate Survey.",
       "url_path": "/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/",
       "processed_at": "2026-10-03T23:28:37+00:00"
+    },
+    {
+      "id": "42829688",
+      "pmid": "42829688",
+      "doi": "10.7759/cureus.115717",
+      "title": "Ultrasound-Guided Minimally Invasive Tenotomy Utilizing TenJet for Recalcitrant Gluteal Tendinopathy: A Six-Month Interim Analysis From a Prospective Multicenter Study.",
+      "url_path": "/articles/2026/09/ultrasound-guided-minimally-invasive-tenotomy-utilizing-tenjet-for-recalcitrant/",
+      "processed_at": "2026-10-04T23:41:04+00:00"
+    },
+    {
+      "id": "42829808",
+      "pmid": "42829808",
+      "doi": "10.1080/07317115.2026.2738798",
+      "title": "Therapeutic Impact of Snoezelen Environments on Emotional Outcomes and Pain in Long-Term Care Residents with and Without Dementia.",
+      "url_path": "/articles/2026/10/therapeutic-impact-of-snoezelen-environments-on-emotional-outcomes-and-pain-in-l/",
+      "processed_at": "2026-10-04T23:41:04+00:00"
+    },
+    {
+      "id": "42829761",
+      "pmid": "42829761",
+      "doi": "10.1002/jha2.70420",
+      "title": "Long-Term Outcomes of Exercise-Based Rehabilitation and Immunometabolic Parameters in Adult Haematopoietic Stem Cell Transplant Recipients: An Updated Systematic Review of Randomised Controlled Trials.",
+      "url_path": "/articles/2026/10/long-term-outcomes-of-exercise-based-rehabilitation-and-immunometabolic-paramete/",
+      "processed_at": "2026-10-04T23:41:04+00:00"
+    },
+    {
+      "id": "42829641",
+      "pmid": "42829641",
+      "doi": "10.25259/SNI_666_2026",
+      "title": "Proximal and distal endovascular embolization of a penetrating V3 vertebral artery transection with adjunctive surgical ligation: A case report.",
+      "url_path": "/articles/2026/09/proximal-and-distal-endovascular-embolization-of-a-penetrating-v3-vertebral-arte/",
+      "processed_at": "2026-10-04T23:41:04+00:00"
     }
   ]
 }

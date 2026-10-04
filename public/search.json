@@ -1,5 +1,35 @@
 [
   {
+    "title": "認知症の有無にかかわらず長期ケア施設入所高齢者におけるスノーズレン多感覚環境の心理感情面・疼痛への治療効果",
+    "summary": "長期ケア施設入所高齢者を対象にスノーズレン多感覚環境を実施したところ、セッション直後には感情表出・心理面・疼痛知覚の改善がみられたが、介入全体を通した前後比較では有意な変化は確認されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/therapeutic-impact-of-snoezelen-environments-on-emotional-outcomes-and-pain-in-l/",
+    "categories": [
+      "高齢者",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42829808",
+    "doi": "10.1080/07317115.2026.2738798",
+    "published_date": "2026-10-04",
+    "online_publication_date": "2026-10-04",
+    "issue_date": "2026-10-04"
+  },
+  {
+    "title": "成人造血幹細胞移植後の運動療法の長期効果と免疫代謝指標:ランダム化比較試験の系統的レビュー",
+    "summary": "成人の造血幹細胞移植後患者を対象に3ヶ月以上の運動介入効果を検討した7件のRCTを統合した結果、運動は安全で身体機能の改善と関連する可能性があるが、心肺機能・疲労・QOLへの効果や免疫代謝指標への影響は不確実であることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/10/long-term-outcomes-of-exercise-based-rehabilitation-and-immunometabolic-paramete/",
+    "categories": [
+      "理学療法",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42829761",
+    "doi": "10.1002/jha2.70420",
+    "published_date": "2026-10-03",
+    "online_publication_date": "2026-10-03",
+    "issue_date": "2026-10-01"
+  },
+  {
     "title": "サルコペニアは増加リスクにあるのか?変形性関節症と骨粗鬆症への示唆",
     "summary": "サルコペニアと変形性関節症(OA)・骨粗鬆症(OP)が共通の機序を通じて相互に悪化させ合う可能性を整理し、既存の診療資源を統合した対応の重要性を論じた総説。",
     "url": "/rehab-paper-digest/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/",
@@ -2603,6 +2633,20 @@
     "issue_date": "2026-01-01"
   },
   {
+    "title": "穿通性V3椎骨動脈完全離断に対する近位・遠位血管内塞栓術と外科的結紮の併用療法:症例報告",
+    "summary": "外科的止血が奏効しなかった穿通性V3椎骨動脈完全離断に対し、血管内塞栓術と外科的結紮を組み合わせることで止血に成功した1例が報告された。",
+    "url": "/rehab-paper-digest/articles/2026/09/proximal-and-distal-endovascular-embolization-of-a-penetrating-v3-vertebral-arte/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42829641",
+    "doi": "10.25259/SNI_666_2026",
+    "published_date": "2026-09-04",
+    "online_publication_date": "2026-09-04",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "20Hz経頭蓋交流電流刺激は線条体のチロシン水酸化酵素陽性介在ニューロンを介してβ帯域同期と運動遂行を高める(加齢マウス研究)",
     "summary": "加齢マウスにおいて、M1への20Hz経頭蓋交流電流刺激が線条体のチロシン水酸化酵素陽性介在ニューロンの活性化とβ帯域同期、ドパミン放出を伴って麻酔後の運動遂行を改善する可能性が示された。",
     "url": "/rehab-paper-digest/articles/2026/09/20-hz-tacs-engages-striatal-thins-to-enhance-band-synchrony-and-motor-drive/",
@@ -2717,6 +2761,20 @@
     "published_date": "2026-09-03",
     "online_publication_date": "2026-09-03",
     "issue_date": "2026-09-03"
+  },
+  {
+    "title": "保存療法抵抗性の慢性臀部腱症に対するTenJetを用いた超音波ガイド下低侵襲腱切除術:多施設前向き研究の6ヶ月中間解析",
+    "summary": "保存療法に抵抗性の慢性臀部腱症患者46例に対し、超音波ガイド下でTenJetデバイスによる低侵襲腱切除術を実施したところ、6ヶ月時点で疼痛と機能の有意な改善がみられ、重篤な合併症は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/ultrasound-guided-minimally-invasive-tenotomy-utilizing-tenjet-for-recalcitrant/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42829688",
+    "doi": "10.7759/cureus.115717",
+    "published_date": "2026-09-03",
+    "online_publication_date": "2026-09-03",
+    "issue_date": "2026-09-01"
   },
   {
     "title": "運動前野-小脳間の対連合刺激による運動巧緻性と小脳機能の時間依存的増強",
