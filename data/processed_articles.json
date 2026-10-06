@@ -223,7 +223,15 @@
     "42829641",
     "42829688",
     "42829761",
-    "42829808"
+    "42829808",
+    "42832427",
+    "42832520",
+    "42832563",
+    "42832702",
+    "42832706",
+    "42832713",
+    "42832756",
+    "42832789"
   ],
   "records": [
     {
@@ -2017,6 +2025,70 @@
       "title": "Proximal and distal endovascular embolization of a penetrating V3 vertebral artery transection with adjunctive surgical ligation: A case report.",
       "url_path": "/articles/2026/09/proximal-and-distal-endovascular-embolization-of-a-penetrating-v3-vertebral-arte/",
       "processed_at": "2026-10-04T23:41:04+00:00"
+    },
+    {
+      "id": "42832702",
+      "pmid": "42832702",
+      "doi": "10.1097/EDE.0000000000002054",
+      "title": "Long-term exposure to ultrafine particles and mortality from neurodegenerative diseases: a population-based cohort study.",
+      "url_path": "/articles/2026/10/long-term-exposure-to-ultrafine-particles-and-mortality-from-neurodegenerative-d/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832756",
+      "pmid": "42832756",
+      "doi": "10.2196/97810",
+      "title": "10 Years of BRAVE Self-Help Service Delivery for Child and Adolescent Anxiety in Australia: Open Effectiveness-Implementation Trial.",
+      "url_path": "/articles/2026/10/10-years-of-brave-self-help-service-delivery-for-child-and-adolescent-anxiety-in/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832713",
+      "pmid": "42832713",
+      "doi": "10.1377/hlthaff.2025.01424",
+      "title": "Dementia Care Patterns In The US Vary By Clinician Type: Evidence From A National Workforce Study, 2024-25.",
+      "url_path": "/articles/2026/10/dementia-care-patterns-in-the-us-vary-by-clinician-type-evidence-from-a-national/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832427",
+      "pmid": "42832427",
+      "doi": "10.1159/ger/acxag006",
+      "title": "Impact of a Geriatric Co-management Service on Surgical Cancer Care for Older Adults.",
+      "url_path": "/articles/2026/10/impact-of-a-geriatric-co-management-service-on-surgical-cancer-care-for-older-ad/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832563",
+      "pmid": "42832563",
+      "doi": "10.1371/journal.pone.0359778",
+      "title": "Marital status and incident screen-positive cognitive impairment in a Taiwanese longitudinal cohort (2005-2016): Associations vary by cognitive screening instrument.",
+      "url_path": "/articles/2026/10/marital-status-and-incident-screen-positive-cognitive-impairment-in-a-taiwanese/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832789",
+      "pmid": "42832789",
+      "doi": "10.2196/99564",
+      "title": "Concurrent Validity of Isokinetic Hip and Knee Strength Measurements Using the UGO Exoskeleton in Healthy Young Adults: Cross-Sectional Validation Study.",
+      "url_path": "/articles/2026/10/concurrent-validity-of-isokinetic-hip-and-knee-strength-measurements-using-the-u/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832706",
+      "pmid": "42832706",
+      "doi": "10.1097/DBP.0000000000001523",
+      "title": "Etiological Diagnoses Versus Descriptive Developmental Diagnoses.",
+      "url_path": "/articles/2026/10/etiological-diagnoses-versus-descriptive-developmental-diagnoses/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42832520",
+      "pmid": "42832520",
+      "doi": "10.1371/journal.pone.0349848",
+      "title": "Maintaining cognitive gains in type 2 diabetes: Barriers, supports, and patterns of strategy use.",
+      "url_path": "/articles/2026/10/maintaining-cognitive-gains-in-type-2-diabetes-barriers-supports-and-patterns-of/",
+      "processed_at": "2026-10-06T01:42:27+00:00"
     }
   ]
 }

@@ -1,5 +1,107 @@
 [
   {
+    "title": "2型糖尿病患者における認知的介入後の戦略維持:障壁、支援、そしてパターン",
+    "summary": "2型糖尿病患者を対象とした認知介入(MAPSS-DM)で習得した戦略の維持状況をフォローアップ面接で質的に検討し、維持・部分的維持・中断の3パターンとそれぞれの促進要因・阻害要因を明らかにした研究です。",
+    "url": "/rehab-paper-digest/articles/2026/10/maintaining-cognitive-gains-in-type-2-diabetes-barriers-supports-and-patterns-of/",
+    "categories": [
+      "認知機能",
+      "その他"
+    ],
+    "pmid": "42832520",
+    "doi": "10.1371/journal.pone.0349848",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "台湾の縦断コホートにおける婚姻状況と認知機能低下スクリーニング陽性との関連:使用する認知スクリーニング尺度によって結果が異なる",
+    "summary": "台湾の高齢者大規模コホートで、婚姻状況と認知機能低下スクリーニング陽性との関連は、使用した評価尺度(SPMSQ期とAD8期)によって方向性が逆転した。",
+    "url": "/rehab-paper-digest/articles/2026/10/marital-status-and-incident-screen-positive-cognitive-impairment-in-a-taiwanese/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "認知機能"
+    ],
+    "pmid": "42832563",
+    "doi": "10.1371/journal.pone.0359778",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "オーストラリアにおける小児・思春期不安症向けデジタルセルフヘルプ「BRAVE」の10年間の実装・効果検証",
+    "summary": "オーストラリアで10年間運用された不安症向けデジタルセルフヘルププログラムBRAVEについて、5万人超の実世界データを用いて実装状況と効果を検証した研究。",
+    "url": "/rehab-paper-digest/articles/2026/10/10-years-of-brave-self-help-service-delivery-for-child-and-adolescent-anxiety-in/",
+    "categories": [
+      "小児",
+      "精神科",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42832756",
+    "doi": "10.2196/97810",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-05"
+  },
+  {
+    "title": "病因診断と記述的発達診断の違い:ターナー症候群の一例から",
+    "summary": "発達の遅れと自閉スペクトラム症様の行動特徴を示した7歳女児がターナー症候群と診断された症例を通じて、病因診断と記述的発達診断を特別支援教育の場でどう扱うべきかを論じた症例報告。",
+    "url": "/rehab-paper-digest/articles/2026/10/etiological-diagnoses-versus-descriptive-developmental-diagnoses/",
+    "categories": [
+      "小児",
+      "神経疾患",
+      "作業療法"
+    ],
+    "pmid": "42832706",
+    "doi": "10.1097/DBP.0000000000001523",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-05"
+  },
+  {
+    "title": "健常若年成人におけるUGO外骨格型ロボットを用いた等速性股・膝関節筋力測定の併存的妥当性:横断的検証研究",
+    "summary": "健常若年成人20名を対象に、下肢外骨格型リハビリロボットUGOによるピークトルク測定とHumac Norm動的計測器との一致度を検討したところ、両側膝伸展筋と股屈筋では中〜強い相関が得られた一方、非利き側膝屈筋と両側股伸筋では有意な相関は認められませんでした。",
+    "url": "/rehab-paper-digest/articles/2026/10/concurrent-validity-of-isokinetic-hip-and-knee-strength-measurements-using-the-u/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42832789",
+    "doi": "10.2196/99564",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-05"
+  },
+  {
+    "title": "高齢がん患者の外科治療における老年科併診サービスの影響",
+    "summary": "高齢がん手術患者に対する老年科併診プログラムは、死亡率とせん妄を有意に低下させたが、入院期間延長と自宅退院率低下もみられた観察研究です。",
+    "url": "/rehab-paper-digest/articles/2026/10/impact-of-a-geriatric-co-management-service-on-surgical-cancer-care-for-older-ad/",
+    "categories": [
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42832427",
+    "doi": "10.1159/ger/acxag006",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-05"
+  },
+  {
+    "title": "超微小粒子状物質への長期曝露と神経変性疾患による死亡との関連:人口ベースコホート研究",
+    "summary": "カナダの210万人を19年以上追跡したコホート研究で、大気中の超微小粒子状物質(UFP)濃度の上昇が認知症による死亡リスク上昇、特に血管性認知症で強い関連を示した。",
+    "url": "/rehab-paper-digest/articles/2026/10/long-term-exposure-to-ultrafine-particles-and-mortality-from-neurodegenerative-d/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "高齢者"
+    ],
+    "pmid": "42832702",
+    "doi": "10.1097/EDE.0000000000002054",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-05"
+  },
+  {
     "title": "認知症の有無にかかわらず長期ケア施設入所高齢者におけるスノーズレン多感覚環境の心理感情面・疼痛への治療効果",
     "summary": "長期ケア施設入所高齢者を対象にスノーズレン多感覚環境を実施したところ、セッション直後には感情表出・心理面・疼痛知覚の改善がみられたが、介入全体を通した前後比較では有意な変化は確認されなかった。",
     "url": "/rehab-paper-digest/articles/2026/10/therapeutic-impact-of-snoezelen-environments-on-emotional-outcomes-and-pain-in-l/",
@@ -195,6 +297,20 @@
     ],
     "pmid": "42827299",
     "doi": "10.1002/jcsm.70401",
+    "published_date": "2026-10-01",
+    "online_publication_date": "",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "米国における認知症ケアの実践パターンは臨床医の職種によって異なる:全国規模の医療従事者調査からのエビデンス(2024-25年)",
+    "summary": "米国の臨床医4,699名を対象とした全国調査により、専門医・プライマリケア医・上級実践提供者(APP)の間で認知症診断への自信度や診療内容に違いがあることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-patterns-in-the-us-vary-by-clinician-type-evidence-from-a-national/",
+    "categories": [
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42832713",
+    "doi": "10.1377/hlthaff.2025.01424",
     "published_date": "2026-10-01",
     "online_publication_date": "",
     "issue_date": "2026-10-01"
