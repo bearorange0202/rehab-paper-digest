@@ -231,7 +231,15 @@
     "42832706",
     "42832713",
     "42832756",
-    "42832789"
+    "42832789",
+    "42837236",
+    "42837237",
+    "42837277",
+    "42837321",
+    "42837430",
+    "42837473",
+    "42837535",
+    "42837647"
   ],
   "records": [
     {
@@ -2089,6 +2097,70 @@
       "title": "Maintaining cognitive gains in type 2 diabetes: Barriers, supports, and patterns of strategy use.",
       "url_path": "/articles/2026/10/maintaining-cognitive-gains-in-type-2-diabetes-barriers-supports-and-patterns-of/",
       "processed_at": "2026-10-06T01:42:27+00:00"
+    },
+    {
+      "id": "42837647",
+      "pmid": "42837647",
+      "doi": "10.1212/WNL.0000000000218598",
+      "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
+      "url_path": "/articles/2026/10/quantitative-relationship-between-lumipulse-g-measures-of-ptau217-in-plasma-and/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837535",
+      "pmid": "42837535",
+      "doi": "10.2196/95542",
+      "title": "Effectiveness of a Virtual Reality Immersion Process as a Nonpharmacological Intervention for Behavioral and Psychological Symptoms of Dementia and Immediate Well-Being in People Living in Nursing Homes: Randomized Controlled Trial.",
+      "url_path": "/articles/2026/10/effectiveness-of-a-virtual-reality-immersion-process-as-a-nonpharmacological-int/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837236",
+      "pmid": "42837236",
+      "doi": "10.1109/TNSRE.2026.3740500",
+      "title": "Personalized Gait Phase Estimation for Post-Stroke Individuals via Supervised Domain Adaptation with Limited Gait Data.",
+      "url_path": "/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837430",
+      "pmid": "42837430",
+      "doi": "10.1371/journal.pgph.0007265",
+      "title": "Dementia care gaps in Sub-Saharan Africa: A scoping review of technology, environmental, community perspectives, and financial constraints.",
+      "url_path": "/articles/2026/10/dementia-care-gaps-in-sub-saharan-africa-a-scoping-review-of-technology-environm/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837473",
+      "pmid": "42837473",
+      "doi": "10.11607/jomi.11863",
+      "title": "Implant Survival Rate in Grafted Cleft Defects in Patients with Cleft Lip and Palate: A Systematic Review.",
+      "url_path": "/articles/2026/10/implant-survival-rate-in-grafted-cleft-defects-in-patients-with-cleft-lip-and-pa/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837321",
+      "pmid": "42837321",
+      "doi": "10.12659/AJCR.953196",
+      "title": "A High-Energy Military Femoral Fracture With Multidrug-Resistant Infection: A Case Report.",
+      "url_path": "/articles/2026/10/a-high-energy-military-femoral-fracture-with-multidrug-resistant-infection-a-cas/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837237",
+      "pmid": "42837237",
+      "doi": "10.1109/TNSRE.2026.3740549",
+      "title": "Using Digital Twins to Predict Recovery and Decline in Neurological Disorders.",
+      "url_path": "/articles/2026/10/using-digital-twins-to-predict-recovery-and-decline-in-neurological-disorders/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42837277",
+      "pmid": "42837277",
+      "doi": "10.1080/10826084.2026.2734484",
+      "title": "Changes in Family Burden and Functioning After a Structured Psychoeducation Program in Addiction Rehabilitation: A Pre-Post Study.",
+      "url_path": "/articles/2026/10/changes-in-family-burden-and-functioning-after-a-structured-psychoeducation-prog/",
+      "processed_at": "2026-10-07T00:15:43+00:00"
     }
   ]
 }

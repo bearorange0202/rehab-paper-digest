@@ -1,5 +1,106 @@
 [
   {
+    "title": "依存症リハビリテーションにおける構造化心理教育プログラム後の家族負担感と家族機能の変化:前後比較研究",
+    "summary": "依存症治療を受ける患者の家族を対象に構造化心理教育プログラムを実施したところ、介入前後で家族の負担感と家族機能の評価尺度が有意に改善した。",
+    "url": "/rehab-paper-digest/articles/2026/10/changes-in-family-burden-and-functioning-after-a-structured-psychoeducation-prog/",
+    "categories": [
+      "精神科"
+    ],
+    "pmid": "42837277",
+    "doi": "10.1080/10826084.2026.2734484",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
+    "title": "口唇口蓋裂患者の骨移植部に埋入したインプラントの生存率:システマティックレビュー",
+    "summary": "口唇口蓋裂患者の骨移植部へのデンタルインプラントは、非裂型患者より生存率はやや低いものの、口腔リハビリの選択肢として妥当な成績であることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/implant-survival-rate-in-grafted-cleft-defects-in-patients-with-cleft-lip-and-pa/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42837473",
+    "doi": "10.11607/jomi.11863",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
+    "title": "限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定",
+    "summary": "非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。",
+    "url": "/rehab-paper-digest/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/",
+    "categories": [
+      "歩行",
+      "脳卒中",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42837236",
+    "doi": "10.1109/TNSRE.2026.3740500",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
+    "title": "デジタルツインを用いた神経疾患における回復・衰退の予測",
+    "summary": "本論説は、個人の言語学習歴や神経学的状態を反映した計算モデル「デジタルツイン」が、脳卒中後失語症や認知症における回復・衰退予測や治療選択にどう応用しうるかを概念的に論じたものです。",
+    "url": "/rehab-paper-digest/articles/2026/10/using-digital-twins-to-predict-recovery-and-decline-in-neurological-disorders/",
+    "categories": [
+      "言語聴覚療法",
+      "神経疾患",
+      "脳卒中",
+      "認知症"
+    ],
+    "pmid": "42837237",
+    "doi": "10.1109/TNSRE.2026.3740549",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
+    "title": "多剤耐性感染を合併した高エネルギー外傷性大腿骨骨折に対する段階的治療の症例報告",
+    "summary": "高エネルギー外傷による大腿骨骨折と多剤耐性感染を合併した1例に対し、Masquelet法とセメントレス人工股関節置換術を組み合わせた段階的治療により2年後に良好な機能転帰が得られたことを報告した症例報告です。",
+    "url": "/rehab-paper-digest/articles/2026/10/a-high-energy-military-femoral-fracture-with-multidrug-resistant-infection-a-cas/",
+    "categories": [
+      "整形外科"
+    ],
+    "pmid": "42837321",
+    "doi": "10.12659/AJCR.953196",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
+    "title": "介護施設入居者の認知症BPSDに対するVR没入介入の有効性:多施設ランダム化比較試験",
+    "summary": "介護施設入居者56名を対象に、VR没入介入と非デジタル認知刺激(アクティブ対照)を比較したところ、BPSD軽減において両群間に有意差は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/effectiveness-of-a-virtual-reality-immersion-process-as-a-nonpharmacological-int/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "精神科",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42837535",
+    "doi": "10.2196/95542",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
+    "title": "サブサハラアフリカにおける認知症ケアのギャップ:技術・環境・地域社会の視点と財政的制約に関するスコーピングレビュー",
+    "summary": "サブサハラアフリカの認知症ケアについて、環境・社会的要因、技術的基盤、地域介護、財政面の4領域から2021〜2025年の文献を整理したスコーピングレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-gaps-in-sub-saharan-africa-a-scoping-review-of-technology-environm/",
+    "categories": [
+      "認知症",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42837430",
+    "doi": "10.1371/journal.pgph.0007265",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "2型糖尿病患者における認知的介入後の戦略維持:障壁、支援、そしてパターン",
     "summary": "2型糖尿病患者を対象とした認知介入(MAPSS-DM)で習得した戦略の維持状況をフォローアップ面接で質的に検討し、維持・部分的維持・中断の3パターンとそれぞれの促進要因・阻害要因を明らかにした研究です。",
     "url": "/rehab-paper-digest/articles/2026/10/maintaining-cognitive-gains-in-type-2-diabetes-barriers-supports-and-patterns-of/",
@@ -57,6 +158,20 @@
     "published_date": "2026-10-05",
     "online_publication_date": "2026-10-05",
     "issue_date": "2026-10-05"
+  },
+  {
+    "title": "血漿pTau217値と側頭葉皮質内pTau217濃度との定量的関係:剖検対照研究",
+    "summary": "アルツハイマー病の血液バイオマーカーである血漿pTau217値は、剖検で得られた側頭葉皮質内のpTau217濃度と強く相関することが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/quantitative-relationship-between-lumipulse-g-measures-of-ptau217-in-plasma-and/",
+    "categories": [
+      "認知症",
+      "神経疾患"
+    ],
+    "pmid": "42837647",
+    "doi": "10.1212/WNL.0000000000218598",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-27"
   },
   {
     "title": "健常若年成人におけるUGO外骨格型ロボットを用いた等速性股・膝関節筋力測定の併存的妥当性:横断的検証研究",

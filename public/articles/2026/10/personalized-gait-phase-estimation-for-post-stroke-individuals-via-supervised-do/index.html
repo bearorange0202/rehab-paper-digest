@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定 | Rehab Paper Digest</title>
+  <meta name="description" content="非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。">
+  <link rel="canonical" href="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/">
+  <meta name="site-base-path" content="/rehab-paper-digest">
+  <link rel="icon" href="/rehab-paper-digest/assets/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Rehab Paper Digest RSS" href="/rehab-paper-digest/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定 | Rehab Paper Digest">
+  <meta property="og:description" content="非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。">
+  <meta property="og:url" content="https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/">
+  <meta property="og:site_name" content="Rehab Paper Digest">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定 | Rehab Paper Digest">
+  <meta name="twitter:description" content="非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。">
+  <link rel="stylesheet" href="/rehab-paper-digest/assets/styles.css?v=20260913-date-category-search">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/rehab-paper-digest/">Rehab Paper Digest</a>
+    <nav class="nav">
+      <a href="/rehab-paper-digest/articles/">新着</a>
+      <a href="/rehab-paper-digest/categories/">カテゴリ</a>
+      <a href="/rehab-paper-digest/diseases/">疾患別</a>
+      <a href="/rehab-paper-digest/archive/">年月別</a>
+      <a href="/rehab-paper-digest/feed.xml">RSS</a>
+    </nav>
+  </header>
+  <main>
+
+    <article class="article-page">
+      <div class="ad-slot" data-slot="article-top">広告枠</div>
+      <p class="meta-line">公開日 2026-10-06</p>
+      <h1>限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定</h1>
+      <p class="original-title">Personalized Gait Phase Estimation for Post-Stroke Individuals via Supervised Domain Adaptation with Limited Gait Data.</p>
+      <p class="lead">非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。</p>
+      <div class="tags"><a class="tag" href="/rehab-paper-digest/categories/gait/">歩行</a><a class="tag" href="/rehab-paper-digest/categories/stroke/">脳卒中</a><a class="tag" href="/rehab-paper-digest/categories/assistive-technology/">福祉用具・支援技術</a></div>
+
+      <section class="source-box">
+        <h2>原著論文</h2>
+        <dl>
+          <dt>Original title</dt><dd>Personalized Gait Phase Estimation for Post-Stroke Individuals via Supervised Domain Adaptation with Limited Gait Data.</dd>
+          <dt>著者</dt><dd>Choi S, Kong K</dd>
+          <dt>雑誌名</dt><dd>IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society</dd>
+          <dt>公開日</dt><dd>2026-10-06</dd>
+          <dt>発行日</dt><dd>2026-10-06</dd>
+          <dt>DOI</dt><dd>10.1109/TNSRE.2026.3740500</dd>
+          <dt>PMID</dt><dd>42837236</dd>
+        </dl>
+        <a class="button" href="https://doi.org/10.1109/TNSRE.2026.3740500" target="_blank" rel="noopener noreferrer">原著論文を確認する</a>
+      </section>
+
+      <section><h2>背景・目的</h2><p>歩行位相の正確な推定は、歩行分析やリハビリテーション、神経補装具、ウェアラブル支援機器において歩行周期に応じたモニタリングや介入を可能にするために重要とされています。しかし脳卒中後の病的歩行は個人差が大きい一方で、患者本人の歩行データは限られることが多く、個別化された推定モデルの構築が課題となっていました。</p></section>
+      
+      <section><h2>対象</h2><p>脳卒中後の歩行に関する参加者7名のデータを用いた評価が行われています。あわせて、モデル構築には非障害者の歩行データも使用されています。</p></section>
+      <section><h2>方法</h2><p>本研究では、立脚相と遊脚相を分けて潜在特徴を揃える多相最大平均差(MP-MMD)を目的関数とした教師ありドメイン適応(SDA)フレームワークを提案しています。共有の特徴抽出器とドメイン別の回帰器を、非障害者データと各患者の限られたラベル付きデータを用いて共同学習し、被験者ごとの個別モデルを構築しました。評価にはLeave-One-Trial-Out法を用い、提案手法と、Source Only、Target Only、Fine-Tuning、通常のグローバルMMDといった比較手法との性能を比較しています。</p></section>
+      <div class="ad-slot" data-slot="article-middle">広告枠</div>
+      <section><h2>結果</h2><p>提案したSDA手法は、7名の参加者においてRMSE 4.37±1.26%、最大絶対誤差(MaxAE) 8.64±1.90%を達成しました。Holm補正後、提案手法はSource OnlyおよびFine-TuningよりRMSEが有意に低く、3つの比較手法すべてよりMaxAEが有意に低い結果でした(いずれも補正後p=0.047)。Target OnlyおよびFine-Tuningと比較すると、RMSEはそれぞれ13.32%、57.51%、MaxAEは26.50%、72.17%の数値上の減少が見られました。また、従来のグローバルMMDと比較して、MP-MMDはRMSEで2.87%、MaxAEで2.77%の数値上の改善を示しました。</p></section>
+      <section><h2>臨床的示唆</h2><p>本研究は、脳卒中後の歩行位相推定を、限られた患者データのみでも非障害者データとの組み合わせにより個別化できる可能性を示すデータ効率の高い手法の概念実証として位置づけられます。将来的にウェアラブル機器や神経補装具における歩行位相依存の制御・モニタリングへの応用が期待される基礎的知見です。</p></section>
+      <section><h2>限界</h2><ul><li>評価対象が7名と少数であり、概念実証段階の結果である点に留意が必要です</li><li>Leave-One-Trial-Out評価であり、実際の臨床場面での汎化性能や長期的な妥当性は確認されていません</li></ul></section>
+      <div class="ad-slot" data-slot="article-bottom">広告枠</div>
+      <p class="disclaimer">本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+      <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定", "datePublished": "2026-10-06", "dateModified": "2026-10-07T00:13:51+00:00", "author": {"@type": "Organization", "name": "Rehab Paper Digest"}, "isBasedOn": "https://doi.org/10.1109/TNSRE.2026.3740500", "description": "非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。", "mainEntityOfPage": "https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/"}</script>
+    </article>
+
+  </main>
+  <footer class="site-footer">
+    <p>本記事は論文の書誌情報および抄録を基にAIを利用して作成した要約です。診断・治療等の医学的助言を目的とするものではありません。詳細は原著論文をご確認ください。</p>
+  </footer>
+  <script src="/rehab-paper-digest/assets/search.js?v=20260913-date-category-search" defer></script>
+</body>
+</html>
