@@ -239,7 +239,15 @@
     "42837430",
     "42837473",
     "42837535",
-    "42837647"
+    "42837647",
+    "42842247",
+    "42842281",
+    "42842343",
+    "42842348",
+    "42842530",
+    "42842742",
+    "42842812",
+    "42842818"
   ],
   "records": [
     {
@@ -2161,6 +2169,70 @@
       "title": "Changes in Family Burden and Functioning After a Structured Psychoeducation Program in Addiction Rehabilitation: A Pre-Post Study.",
       "url_path": "/articles/2026/10/changes-in-family-burden-and-functioning-after-a-structured-psychoeducation-prog/",
       "processed_at": "2026-10-07T00:15:43+00:00"
+    },
+    {
+      "id": "42842281",
+      "pmid": "42842281",
+      "doi": "10.1001/jamapsychiatry.2026.3165",
+      "title": "Attention-Deficit/Hyperactivity Disorder and Late-Life Cognitive Impairment.",
+      "url_path": "/articles/2026/10/attention-deficit-hyperactivity-disorder-and-late-life-cognitive-impairment/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842530",
+      "pmid": "42842530",
+      "doi": "10.1371/journal.pone.0358178",
+      "title": "Dose- and modality-specific effects of exercise on BDNF and depression in middle-aged and older adults with mild cognitive impairment: A Bayesian network meta-analysis.",
+      "url_path": "/articles/2026/10/dose-and-modality-specific-effects-of-exercise-on-bdnf-and-depression-in-middle/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842818",
+      "pmid": "42842818",
+      "doi": "10.1684/pnv.2026.1301",
+      "title": "[Heatwaves and Resilience of Hospital Geriatric Care Pathways: Results of the Repeated National PUGG FLASH-HEATWAVE 2026 survey].",
+      "url_path": "/articles/2026/09/heatwaves-and-resilience-of-hospital-geriatric-care-pathways-results-of-the-repe/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842348",
+      "pmid": "42842348",
+      "doi": "10.1177/19375867261490105",
+      "title": "Dementia Care Environments and Person-Environment Fit: A Review.",
+      "url_path": "/articles/2026/10/dementia-care-environments-and-person-environment-fit-a-review/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842247",
+      "pmid": "42842247",
+      "doi": "10.1001/jamanetworkopen.2026.37691",
+      "title": "Surrogate Decision-Making for Older Adults With and Without Dementia.",
+      "url_path": "/articles/2026/10/surrogate-decision-making-for-older-adults-with-and-without-dementia/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842742",
+      "pmid": "42842742",
+      "doi": "10.1177/10538127261494053",
+      "title": "Addition of low-load blood flow restriction training to conventional physiotherapy improves handgrip strength and function in patients with lateral epicondylitis at the short-term: A single-blind randomized clinical trial.",
+      "url_path": "/articles/2026/10/addition-of-low-load-blood-flow-restriction-training-to-conventional-physiothera/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842343",
+      "pmid": "42842343",
+      "doi": "10.1002/pri.70355",
+      "title": "Perme Mobility Scale Is Associated With Morbidity and Mortality in Patients Undergoing Lung Transplant: 1-Year Follow-Up.",
+      "url_path": "/articles/2026/10/perme-mobility-scale-is-associated-with-morbidity-and-mortality-in-patients-unde/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42842812",
+      "pmid": "42842812",
+      "doi": "10.2196/92189",
+      "title": "Real-Time Physical Activity Self-Monitoring in Patients Hospitalized for Cardiology Care: Interrupted Time Series Analysis.",
+      "url_path": "/articles/2026/10/real-time-physical-activity-self-monitoring-in-patients-hospitalized-for-cardiol/",
+      "processed_at": "2026-10-08T00:34:15+00:00"
     }
   ]
 }

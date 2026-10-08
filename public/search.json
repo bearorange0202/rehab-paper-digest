@@ -1,5 +1,82 @@
 [
   {
+    "title": "注意欠如・多動症(ADHD)と晩年期の認知機能障害との関連",
+    "summary": "米国の大規模コホートデータを用いた解析で、ADHDの診断歴およびADHD関連の遺伝的リスクスコアの両方が、後年の軽度認知障害・認知症の発症リスク上昇と関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/10/attention-deficit-hyperactivity-disorder-and-late-life-cognitive-impairment/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "認知機能",
+      "高齢者"
+    ],
+    "pmid": "42842281",
+    "doi": "10.1001/jamapsychiatry.2026.3165",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-10-07"
+  },
+  {
+    "title": "認知症ケア環境と人-環境適合:レビュー",
+    "summary": "認知症ケア環境評価における人-環境適合理論の応用を批判的にレビューし、既存の評価ツールが心理社会的・文化的側面を十分に捉えていないことを指摘した論文。",
+    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-environments-and-person-environment-fit-a-review/",
+    "categories": [
+      "認知症",
+      "福祉用具・支援技術",
+      "高齢者"
+    ],
+    "pmid": "42842348",
+    "doi": "10.1177/19375867261490105",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-10-07"
+  },
+  {
+    "title": "外側上顆炎患者における通常理学療法への低負荷血流制限トレーニング併用が短期的な握力と機能を改善する:単盲検ランダム化比較試験",
+    "summary": "外側上顆炎患者に通常の理学療法と低負荷血流制限トレーニングを併用したところ、通常理学療法単独よりも短期的な握力と機能の改善が大きかったが、疼痛と治療満足度には差がなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/addition-of-low-load-blood-flow-restriction-training-to-conventional-physiothera/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "上肢機能"
+    ],
+    "pmid": "42842742",
+    "doi": "10.1177/10538127261494053",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-10-07"
+  },
+  {
+    "title": "循環器病棟入院患者におけるリアルタイム身体活動セルフモニタリング:中断時系列分析",
+    "summary": "循環器病棟入院患者に対し、加速度計データをリアルタイムで患者自身にフィードバックする仕組みを導入したところ、入院中に生じていた身体活動量の経時的な低下が認められなくなり、活動量が維持された。",
+    "url": "/rehab-paper-digest/articles/2026/10/real-time-physical-activity-self-monitoring-in-patients-hospitalized-for-cardiol/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42842812",
+    "doi": "10.2196/92189",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-10-07"
+  },
+  {
+    "title": "軽度認知障害を有する中高年・高齢者における運動の種類・量とBDNF・抑うつ症状の関係:ベイズネットワークメタアナリシス",
+    "summary": "軽度認知障害のある中高年・高齢者を対象に、運動の種類と週あたり運動量が末梢BDNFおよび抑うつ症状に及ぼす影響をベイズ用量反応ネットワークメタアナリシスで検討した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/10/dose-and-modality-specific-effects-of-exercise-on-bdnf-and-depression-in-middle/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "神経疾患",
+      "認知機能"
+    ],
+    "pmid": "42842530",
+    "doi": "10.1371/journal.pone.0358178",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "依存症リハビリテーションにおける構造化心理教育プログラム後の家族負担感と家族機能の変化:前後比較研究",
     "summary": "依存症治療を受ける患者の家族を対象に構造化心理教育プログラムを実施したところ、介入前後で家族の負担感と家族機能の評価尺度が有意に改善した。",
     "url": "/rehab-paper-digest/articles/2026/10/changes-in-family-burden-and-functioning-after-a-structured-psychoeducation-prog/",
@@ -417,6 +494,21 @@
     "issue_date": "2026-10-01"
   },
   {
+    "title": "肺移植後患者におけるPerme Mobility Scaleと合併症・死亡率との関連:1年間の追跡調査",
+    "summary": "肺移植後ICU患者を対象とした後ろ向き研究で、Perme Mobility Scaleによる機能評価の改善が人工呼吸期間の短縮、ICU・入院期間の短縮と関連していました。",
+    "url": "/rehab-paper-digest/articles/2026/10/perme-mobility-scale-is-associated-with-morbidity-and-mortality-in-patients-unde/",
+    "categories": [
+      "理学療法",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42842343",
+    "doi": "10.1002/pri.70355",
+    "published_date": "2026-10-01",
+    "online_publication_date": "",
+    "issue_date": "2026-10-01"
+  },
+  {
     "title": "米国における認知症ケアの実践パターンは臨床医の職種によって異なる:全国規模の医療従事者調査からのエビデンス(2024-25年)",
     "summary": "米国の臨床医4,699名を対象とした全国調査により、専門医・プライマリケア医・上級実践提供者(APP)の間で認知症診断への自信度や診療内容に違いがあることが示された。",
     "url": "/rehab-paper-digest/articles/2026/10/dementia-care-patterns-in-the-us-vary-by-clinician-type-evidence-from-a-national/",
@@ -428,6 +520,21 @@
     "doi": "10.1377/hlthaff.2025.01424",
     "published_date": "2026-10-01",
     "online_publication_date": "",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "認知症の有無が高齢者終末期医療における代理意思決定に与える影響",
+    "summary": "米国成人を対象としたランダム化ビネット調査で、事前指示の内容が同じでも認知症を伴う患者では生命維持治療を推奨する割合が低いことが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/10/surrogate-decision-making-for-older-adults-with-and-without-dementia/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42842247",
+    "doi": "10.1001/jamanetworkopen.2026.37691",
+    "published_date": "2026-10-01",
+    "online_publication_date": "2026-10-01",
     "issue_date": "2026-10-01"
   },
   {
@@ -3032,6 +3139,20 @@
     ],
     "pmid": "42725680",
     "doi": "10.1111/ene.70753",
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "熱波と病院高齢者ケア経路のレジリエンス:全国反復調査PUGG FLASH-HEATWAVE 2026の結果",
+    "summary": "2026年の熱波時にフランスの急性期高齢者病棟とリハビリ病棟を対象に行った全国調査で、病室の暑さ・職員の疲労・救急逼迫・下流の受け入れ不足が広く報告され、1週間後には一部指標が改善した一方で下流の受け入れ不足は解消しなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/heatwaves-and-resilience-of-hospital-geriatric-care-pathways-results-of-the-repe/",
+    "categories": [
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42842818",
+    "doi": "10.1684/pnv.2026.1301",
     "published_date": "2026-09-01",
     "online_publication_date": "",
     "issue_date": "2026-09-01"
