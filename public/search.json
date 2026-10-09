@@ -1,5 +1,62 @@
 [
   {
+    "title": "ニュージーランドにおける脊髄損傷者の自己効力感は入院再入院や入院期間と関連するか:横断的分析",
+    "summary": "脊髄損傷者101名を対象とした調査で、退院時から18か月後にかけて自己効力感が有意に低下し、その低下は病院再入院と関連していたが入院期間とは関連していなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42849001",
+    "doi": "10.26635/6965.7412",
+    "published_date": "2026-10-09",
+    "online_publication_date": "2026-10-09",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "プライマリケアにおけるAI搭載臨床意思決定支援システムの実世界効果:システマティックレビュー",
+    "summary": "プライマリケアで使用されるAI搭載臨床意思決定支援システムを対象にした系統的レビューで、診断・ケアプロセスでは一部改善がみられたが、患者にとって重要なアウトカムでの明確な便益は示されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/real-world-effectiveness-of-ai-enabled-clinical-decision-support-in-primary-care/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42849036",
+    "doi": "10.2196/98630",
+    "published_date": "2026-10-08",
+    "online_publication_date": "2026-10-08",
+    "issue_date": "2026-10-08"
+  },
+  {
+    "title": "NHSイングランドの認知症ケアパスウェイ各段階におけるAI活用ケアと人間中心ケアへの公的受容性の検討",
+    "summary": "55-64歳の一般住民を対象としたビネット実験により、認知症ケアの段階やAIの関与度によってAI活用ケアへの受容性が変化し、特にケア後期では人間による全面対応が好まれる傾向が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/10/examining-public-acceptance-of-ai-versus-human-centric-dementia-care-across-nhs/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42848740",
+    "doi": "10.1371/journal.pdig.0001088",
+    "published_date": "2026-10-08",
+    "online_publication_date": "2026-10-08",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "COVID-19罹患後の身体不活発な成人に対するeHealh活用運動介入:ピーク酸素摂取量と健康関連QOLを改善するランダム化比較試験",
+    "summary": "COVID-19罹患後の身体不活発な成人において、eHealthツールAQを用いた運動促進介入が標準的な身体活動アドバイスに比べ、ピーク酸素摂取量と精神的健康関連QOLをより改善させた。",
+    "url": "/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42849012",
+    "doi": "10.1249/MSS.0000000000004177",
+    "published_date": "2026-10-08",
+    "online_publication_date": "2026-10-08",
+    "issue_date": "2026-10-08"
+  },
+  {
     "title": "注意欠如・多動症(ADHD)と晩年期の認知機能障害との関連",
     "summary": "米国の大規模コホートデータを用いた解析で、ADHDの診断歴およびADHD関連の遺伝的リスクスコアの両方が、後年の軽度認知障害・認知症の発症リスク上昇と関連していた。",
     "url": "/rehab-paper-digest/articles/2026/10/attention-deficit-hyperactivity-disorder-and-late-life-cognitive-impairment/",
@@ -3289,6 +3346,35 @@
     "issue_date": "2026-08-31"
   },
   {
+    "title": "作業療法における生成AI活用の実態:利用状況、倫理的懸念、研修ニーズに関する調査",
+    "summary": "作業療法士・作業療法助手354名を対象とした横断調査により、約半数が生成AIを使用している一方で、施設方針や同意取得、研修体制の整備が遅れている実態が示された。",
+    "url": "/rehab-paper-digest/articles/2026/08/genai-in-occupational-therapy-a-survey-of-adoption-ethical-concerns-and-training/",
+    "categories": [
+      "作業療法",
+      "その他"
+    ],
+    "pmid": "42848855",
+    "doi": "10.1177/19437676261478044",
+    "published_date": "2026-08-28",
+    "online_publication_date": "2026-08-28",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "後天性脳損傷後の運転状況と作業機能不全が健康アウトカムに与える長期的関連",
+    "summary": "後天性脳損傷後の運転再開は、特にベースラインの作業機能不全が重度な患者において、精神的健康・抑うつ症状・生活空間の改善と関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/08/longitudinal-associations-of-driving-status-and-occupational-dysfunction-with-he/",
+    "categories": [
+      "作業療法",
+      "神経疾患",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42848854",
+    "doi": "10.1177/19437676261478046",
+    "published_date": "2026-08-28",
+    "online_publication_date": "2026-08-28",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "真珠腫術後の聴力改善不良例における再手術および人工聴覚器の適応候補に関する検討",
     "summary": "後天性真珠腫に対する鼓室形成術後に聴力改善が得られなかった患者のうち、多くが再手術や人工聴覚器(人工内耳、Baha、VSB)の適応候補となり得ることを後方視的に示した研究です。",
     "url": "/rehab-paper-digest/articles/2026/08/candidates-for-revision-tympanoplasty-and-implantable-hearing-devices-in-cases-o/",
@@ -3345,6 +3431,21 @@
     "published_date": "2026-08-24",
     "online_publication_date": "2026-08-24",
     "issue_date": "2026-08-01"
+  },
+  {
+    "title": "母親における共同作業(co-occupation)の参加パターンと筋骨格系健康:7日間日誌研究",
+    "summary": "産後女性101名を対象に、1週間の母子ケア(共同作業)の時間的パターンと筋骨格系の障害度との関連を横断的に検討した研究。",
+    "url": "/rehab-paper-digest/articles/2026/08/co-occupational-participation-and-musculoskeletal-health-in-mothers-a-7-day-diar/",
+    "categories": [
+      "作業療法",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42848858",
+    "doi": "10.1177/19437676261480598",
+    "published_date": "2026-08-22",
+    "online_publication_date": "2026-08-22",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "高齢者の認知機能健康:認知機能低下を予防し自律性を維持するための検証済みアプローチ",
@@ -3434,6 +3535,21 @@
     "published_date": "2026-08-16",
     "online_publication_date": "2026-08-16",
     "issue_date": "2026-09-01"
+  },
+  {
+    "title": "自閉症青年の運転準備性スクリーニングに向けて:臨床評価と実路評価の関連",
+    "summary": "自閉症青年21名を対象に、臨床的な運動・認知評価スコアと実路での運転準備性判定との関連を検討した横断研究です。",
+    "url": "/rehab-paper-digest/articles/2026/08/toward-scalable-driver-readiness-screenings-for-autistic-teens-clinical-measures/",
+    "categories": [
+      "作業療法",
+      "小児",
+      "その他"
+    ],
+    "pmid": "42848857",
+    "doi": "10.1177/19437676261473507",
+    "published_date": "2026-08-12",
+    "online_publication_date": "2026-08-12",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "脳出血における免疫関連循環バイオマーカー:看護管理と予後評価への示唆",

@@ -247,7 +247,15 @@
     "42842530",
     "42842742",
     "42842812",
-    "42842818"
+    "42842818",
+    "42848740",
+    "42848854",
+    "42848855",
+    "42848857",
+    "42848858",
+    "42849001",
+    "42849012",
+    "42849036"
   ],
   "records": [
     {
@@ -2233,6 +2241,70 @@
       "title": "Real-Time Physical Activity Self-Monitoring in Patients Hospitalized for Cardiology Care: Interrupted Time Series Analysis.",
       "url_path": "/articles/2026/10/real-time-physical-activity-self-monitoring-in-patients-hospitalized-for-cardiol/",
       "processed_at": "2026-10-08T00:34:15+00:00"
+    },
+    {
+      "id": "42849036",
+      "pmid": "42849036",
+      "doi": "10.2196/98630",
+      "title": "Real-World Effectiveness of AI-Enabled Clinical Decision Support in Primary Care: Systematic Review.",
+      "url_path": "/articles/2026/10/real-world-effectiveness-of-ai-enabled-clinical-decision-support-in-primary-care/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42848854",
+      "pmid": "42848854",
+      "doi": "10.1177/19437676261478046",
+      "title": "Longitudinal Associations of Driving Status and Occupational Dysfunction With Health Outcomes After Acquired Brain Injury.",
+      "url_path": "/articles/2026/08/longitudinal-associations-of-driving-status-and-occupational-dysfunction-with-he/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42848855",
+      "pmid": "42848855",
+      "doi": "10.1177/19437676261478044",
+      "title": "GenAI in Occupational Therapy: A Survey of Adoption, Ethical Concerns, and Training Needs.",
+      "url_path": "/articles/2026/08/genai-in-occupational-therapy-a-survey-of-adoption-ethical-concerns-and-training/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42848740",
+      "pmid": "42848740",
+      "doi": "10.1371/journal.pdig.0001088",
+      "title": "Examining public acceptance of AI versus human-centric dementia care across NHS England's dementia pathway stages.",
+      "url_path": "/articles/2026/10/examining-public-acceptance-of-ai-versus-human-centric-dementia-care-across-nhs/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42849012",
+      "pmid": "42849012",
+      "doi": "10.1249/MSS.0000000000004177",
+      "title": "eHealth-Guided Exercise Improves Peak Oxygen Uptake and Health-Related Quality of Life After COVID-19: A Randomized Controlled Trial.",
+      "url_path": "/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42848858",
+      "pmid": "42848858",
+      "doi": "10.1177/19437676261480598",
+      "title": "Co-Occupational Participation and Musculoskeletal Health in Mothers: A 7-Day Diary Study.",
+      "url_path": "/articles/2026/08/co-occupational-participation-and-musculoskeletal-health-in-mothers-a-7-day-diar/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42848857",
+      "pmid": "42848857",
+      "doi": "10.1177/19437676261473507",
+      "title": "Toward Scalable Driver Readiness Screenings for Autistic Teens: Clinical Measures Correlated With Real-World Evaluations.",
+      "url_path": "/articles/2026/08/toward-scalable-driver-readiness-screenings-for-autistic-teens-clinical-measures/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42849001",
+      "pmid": "42849001",
+      "doi": "10.26635/6965.7412",
+      "title": "Is self-efficacy after spinal cord injury associated with hospital re-admissions or length of stay in Aotearoa New Zealand? A cross-sectional analysis.",
+      "url_path": "/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/",
+      "processed_at": "2026-10-09T00:47:41+00:00"
     }
   ]
 }

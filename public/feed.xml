@@ -6,6 +6,34 @@
     <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
     
     <item>
+      <title>ニュージーランドにおける脊髄損傷者の自己効力感は入院再入院や入院期間と関連するか:横断的分析</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>脊髄損傷者101名を対象とした調査で、退院時から18か月後にかけて自己効力感が有意に低下し、その低下は病院再入院と関連していたが入院期間とは関連していなかった。</description>
+    </item>
+    <item>
+      <title>プライマリケアにおけるAI搭載臨床意思決定支援システムの実世界効果:システマティックレビュー</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/real-world-effectiveness-of-ai-enabled-clinical-decision-support-in-primary-care/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/real-world-effectiveness-of-ai-enabled-clinical-decision-support-in-primary-care/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>プライマリケアで使用されるAI搭載臨床意思決定支援システムを対象にした系統的レビューで、診断・ケアプロセスでは一部改善がみられたが、患者にとって重要なアウトカムでの明確な便益は示されなかった。</description>
+    </item>
+    <item>
+      <title>NHSイングランドの認知症ケアパスウェイ各段階におけるAI活用ケアと人間中心ケアへの公的受容性の検討</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/examining-public-acceptance-of-ai-versus-human-centric-dementia-care-across-nhs/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/examining-public-acceptance-of-ai-versus-human-centric-dementia-care-across-nhs/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>55-64歳の一般住民を対象としたビネット実験により、認知症ケアの段階やAIの関与度によってAI活用ケアへの受容性が変化し、特にケア後期では人間による全面対応が好まれる傾向が示されました。</description>
+    </item>
+    <item>
+      <title>COVID-19罹患後の身体不活発な成人に対するeHealh活用運動介入:ピーク酸素摂取量と健康関連QOLを改善するランダム化比較試験</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>COVID-19罹患後の身体不活発な成人において、eHealthツールAQを用いた運動促進介入が標準的な身体活動アドバイスに比べ、ピーク酸素摂取量と精神的健康関連QOLをより改善させた。</description>
+    </item>
+    <item>
       <title>注意欠如・多動症(ADHD)と晩年期の認知機能障害との関連</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/attention-deficit-hyperactivity-disorder-and-late-life-cognitive-impairment/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/attention-deficit-hyperactivity-disorder-and-late-life-cognitive-impairment/</guid>
@@ -116,34 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/etiological-diagnoses-versus-descriptive-developmental-diagnoses/</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>発達の遅れと自閉スペクトラム症様の行動特徴を示した7歳女児がターナー症候群と診断された症例を通じて、病因診断と記述的発達診断を特別支援教育の場でどう扱うべきかを論じた症例報告。</description>
-    </item>
-    <item>
-      <title>血漿pTau217値と側頭葉皮質内pTau217濃度との定量的関係:剖検対照研究</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/quantitative-relationship-between-lumipulse-g-measures-of-ptau217-in-plasma-and/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/quantitative-relationship-between-lumipulse-g-measures-of-ptau217-in-plasma-and/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>アルツハイマー病の血液バイオマーカーである血漿pTau217値は、剖検で得られた側頭葉皮質内のpTau217濃度と強く相関することが示された。</description>
-    </item>
-    <item>
-      <title>健常若年成人におけるUGO外骨格型ロボットを用いた等速性股・膝関節筋力測定の併存的妥当性:横断的検証研究</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/concurrent-validity-of-isokinetic-hip-and-knee-strength-measurements-using-the-u/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/concurrent-validity-of-isokinetic-hip-and-knee-strength-measurements-using-the-u/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>健常若年成人20名を対象に、下肢外骨格型リハビリロボットUGOによるピークトルク測定とHumac Norm動的計測器との一致度を検討したところ、両側膝伸展筋と股屈筋では中〜強い相関が得られた一方、非利き側膝屈筋と両側股伸筋では有意な相関は認められませんでした。</description>
-    </item>
-    <item>
-      <title>高齢がん患者の外科治療における老年科併診サービスの影響</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/impact-of-a-geriatric-co-management-service-on-surgical-cancer-care-for-older-ad/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/impact-of-a-geriatric-co-management-service-on-surgical-cancer-care-for-older-ad/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>高齢がん手術患者に対する老年科併診プログラムは、死亡率とせん妄を有意に低下させたが、入院期間延長と自宅退院率低下もみられた観察研究です。</description>
-    </item>
-    <item>
-      <title>超微小粒子状物質への長期曝露と神経変性疾患による死亡との関連:人口ベースコホート研究</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/long-term-exposure-to-ultrafine-particles-and-mortality-from-neurodegenerative-d/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/long-term-exposure-to-ultrafine-particles-and-mortality-from-neurodegenerative-d/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>カナダの210万人を19年以上追跡したコホート研究で、大気中の超微小粒子状物質(UFP)濃度の上昇が認知症による死亡リスク上昇、特に血管性認知症で強い関連を示した。</description>
     </item>
   </channel>
 </rss>
