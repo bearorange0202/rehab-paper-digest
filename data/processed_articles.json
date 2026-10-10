@@ -255,7 +255,13 @@
     "42848858",
     "42849001",
     "42849012",
-    "42849036"
+    "42849036",
+    "42853857",
+    "42853972",
+    "42854004",
+    "42854007",
+    "42854054",
+    "42854187"
   ],
   "records": [
     {
@@ -2305,6 +2311,54 @@
       "title": "Is self-efficacy after spinal cord injury associated with hospital re-admissions or length of stay in Aotearoa New Zealand? A cross-sectional analysis.",
       "url_path": "/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/",
       "processed_at": "2026-10-09T00:47:41+00:00"
+    },
+    {
+      "id": "42854007",
+      "pmid": "42854007",
+      "doi": "10.1097/MD.0000000000050933",
+      "title": "Dose-response effects of robot-assisted training on poststroke functional recovery: A systematic review and meta-analysis.",
+      "url_path": "/articles/2026/10/dose-response-effects-of-robot-assisted-training-on-poststroke-functional-recove/",
+      "processed_at": "2026-10-10T00:24:36+00:00"
+    },
+    {
+      "id": "42854004",
+      "pmid": "42854004",
+      "doi": "10.1097/MD.0000000000051043",
+      "title": "Efficacy of Kinesio tape for central facial paralysis: A prospective, randomized sham-controlled, single-blinded clinical trial.",
+      "url_path": "/articles/2026/10/efficacy-of-kinesio-tape-for-central-facial-paralysis-a-prospective-randomized-s/",
+      "processed_at": "2026-10-10T00:24:36+00:00"
+    },
+    {
+      "id": "42853857",
+      "pmid": "42853857",
+      "doi": "10.1371/journal.pone.0360076",
+      "title": "Self-care practices of people living with HIV and hypertension or diabetes comorbidities in low-and-middle income countries: A systematic review.",
+      "url_path": "/articles/2026/10/self-care-practices-of-people-living-with-hiv-and-hypertension-or-diabetes-comor/",
+      "processed_at": "2026-10-10T00:24:36+00:00"
+    },
+    {
+      "id": "42853972",
+      "pmid": "42853972",
+      "doi": "10.1177/10499091261496423",
+      "title": "The Effectiveness of Digital Collage Activity Based on a Life Review for Home-Dwelling Older Patients With Cancer and Their Families: A Randomized Controlled Trial.",
+      "url_path": "/articles/2026/10/the-effectiveness-of-digital-collage-activity-based-on-a-life-review-for-home-dw/",
+      "processed_at": "2026-10-10T00:24:36+00:00"
+    },
+    {
+      "id": "42854187",
+      "pmid": "42854187",
+      "doi": "10.2196/90389",
+      "title": "Association Between Embodiment of a Muscular Avatar and Muscle Performance in Virtual Reality for Chronic Low Back Pain: Exploratory Pre-Post Study.",
+      "url_path": "/articles/2026/10/association-between-embodiment-of-a-muscular-avatar-and-muscle-performance-in-vi/",
+      "processed_at": "2026-10-10T00:24:36+00:00"
+    },
+    {
+      "id": "42854054",
+      "pmid": "42854054",
+      "doi": "10.1097/MD.0000000000051062",
+      "title": "Changes in hepatic functional reserve and renal function during hospitalization in patients with chronic liver disease: A retrospective observational study of inpatient rehabilitation.",
+      "url_path": "/articles/2026/10/changes-in-hepatic-functional-reserve-and-renal-function-during-hospitalization/",
+      "processed_at": "2026-10-10T00:24:36+00:00"
     }
   ]
 }

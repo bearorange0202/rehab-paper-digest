@@ -14,6 +14,96 @@
     "issue_date": "2026-10-09"
   },
   {
+    "title": "慢性肝疾患患者における入院中リハビリテーションと肝・腎機能変化:単施設後方視的観察研究",
+    "summary": "進行肝硬変を含む慢性肝疾患入院患者200名を対象に、入院リハビリテーションの実態と肝・腎機能の院内変化、有害事象の有無を後方視的に記述した研究。",
+    "url": "/rehab-paper-digest/articles/2026/10/changes-in-hepatic-functional-reserve-and-renal-function-during-hospitalization/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42854054",
+    "doi": "10.1097/MD.0000000000051062",
+    "published_date": "2026-10-09",
+    "online_publication_date": "",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "低中所得国におけるHIVと高血圧・糖尿病を併存する人々のセルフケア実践:システマティックレビュー",
+    "summary": "低中所得国の質的研究13件を統合し、HIVと高血圧・糖尿病を併存する人々のセルフケア実践と治療負担を整理したシステマティックレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/10/self-care-practices-of-people-living-with-hiv-and-hypertension-or-diabetes-comor/",
+    "categories": [
+      "その他",
+      "ADL",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42853857",
+    "doi": "10.1371/journal.pone.0360076",
+    "published_date": "2026-10-09",
+    "online_publication_date": "2026-10-09",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "在宅高齢がん患者とその家族に対するライフレビューに基づくデジタルコラージュ活動の効果:ランダム化比較試験",
+    "summary": "在宅高齢がん患者とその家族を対象に、ライフレビューを活用したデジタルコラージュ活動が自己効力感や介護者QOLの一部指標に好影響を示した予備的RCTです。",
+    "url": "/rehab-paper-digest/articles/2026/10/the-effectiveness-of-digital-collage-activity-based-on-a-life-review-for-home-dw/",
+    "categories": [
+      "精神科",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42853972",
+    "doi": "10.1177/10499091261496423",
+    "published_date": "2026-10-09",
+    "online_publication_date": "2026-10-09",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "中枢性顔面麻痺に対するキネシオテープの効果:前向き無作為化シャム対照単盲検試験",
+    "summary": "脳卒中後の中枢性顔面麻痺患者を対象に、張力をかけたキネシオテープを通常リハビリに併用した群が、シャムテープ群や通常リハビリのみの群よりも顔面対称性と嚥下効率の改善において優れていたことを示したRCT。",
+    "url": "/rehab-paper-digest/articles/2026/10/efficacy-of-kinesio-tape-for-central-facial-paralysis-a-prospective-randomized-s/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42854004",
+    "doi": "10.1097/MD.0000000000051043",
+    "published_date": "2026-10-09",
+    "online_publication_date": "",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "脳卒中後のロボット支援訓練と機能回復の用量反応関係:システマティックレビュー・メタ解析",
+    "summary": "脳卒中患者を対象とした36件のRCT統合解析で、ロボット支援訓練は上肢運動機能とADLを有意に改善したが、訓練量(頻度・強度等)と効果の間に明確な関連は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/dose-response-effects-of-robot-assisted-training-on-poststroke-functional-recove/",
+    "categories": [
+      "理学療法",
+      "脳卒中",
+      "上肢機能",
+      "ADL"
+    ],
+    "pmid": "42854007",
+    "doi": "10.1097/MD.0000000000050933",
+    "published_date": "2026-10-09",
+    "online_publication_date": "",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "慢性腰痛患者におけるVR筋肉質アバターへの身体化と筋力変化の関連:探索的前後比較研究",
+    "summary": "慢性腰痛患者がVR内で徐々に筋肉質になるアバターを用いてスクワット課題を行ったところ、体幹伸展筋力の変化が主観的な身体化スコアの変化と相関する傾向が示された予備的研究です。",
+    "url": "/rehab-paper-digest/articles/2026/10/association-between-embodiment-of-a-muscular-avatar-and-muscle-performance-in-vi/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42854187",
+    "doi": "10.2196/90389",
+    "published_date": "2026-10-09",
+    "online_publication_date": "2026-10-09",
+    "issue_date": "2026-10-09"
+  },
+  {
     "title": "プライマリケアにおけるAI搭載臨床意思決定支援システムの実世界効果:システマティックレビュー",
     "summary": "プライマリケアで使用されるAI搭載臨床意思決定支援システムを対象にした系統的レビューで、診断・ケアプロセスでは一部改善がみられたが、患者にとって重要なアウトカムでの明確な便益は示されなかった。",
     "url": "/rehab-paper-digest/articles/2026/10/real-world-effectiveness-of-ai-enabled-clinical-decision-support-in-primary-care/",
