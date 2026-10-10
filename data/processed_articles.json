@@ -261,7 +261,15 @@
     "42854004",
     "42854007",
     "42854054",
-    "42854187"
+    "42854187",
+    "42855776",
+    "42855834",
+    "42855843",
+    "42855873",
+    "42856006",
+    "42856014",
+    "42856019",
+    "42856067"
   ],
   "records": [
     {
@@ -2359,6 +2367,70 @@
       "title": "Changes in hepatic functional reserve and renal function during hospitalization in patients with chronic liver disease: A retrospective observational study of inpatient rehabilitation.",
       "url_path": "/articles/2026/10/changes-in-hepatic-functional-reserve-and-renal-function-during-hospitalization/",
       "processed_at": "2026-10-10T00:24:36+00:00"
+    },
+    {
+      "id": "42855834",
+      "pmid": "42855834",
+      "doi": "10.1002/pmrj.70225",
+      "title": "First aggression as a planning signal in post-acute stroke rehabilitation: Service benchmarks, goal setting, and a 60-day precaution window from a comprehensive observational cohort.",
+      "url_path": "/articles/2026/10/first-aggression-as-a-planning-signal-in-post-acute-stroke-rehabilitation-servic/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42856014",
+      "pmid": "42856014",
+      "doi": "10.1080/09638288.2026.2734781",
+      "title": "Exploring the participation of people with lower limb absence or amputation: a mixed methods study.",
+      "url_path": "/articles/2026/10/exploring-the-participation-of-people-with-lower-limb-absence-or-amputation-a-mi/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42855843",
+      "pmid": "42855843",
+      "doi": "10.1111/joor.70340",
+      "title": "Age-Specific Changes in Chewing Discomfort During the Expansion of National Health Insurance Coverage for Dental Implants: A Controlled Interrupted Time Series Analysis in South Korea, 2010-2024.",
+      "url_path": "/articles/2026/10/age-specific-changes-in-chewing-discomfort-during-the-expansion-of-national-heal/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42855776",
+      "pmid": "42855776",
+      "doi": "10.3760/cma.j.cn112142-20260107-00010",
+      "title": "[Chinese expert consensus on the management of corneal and ocular surface adverse events related to antibody-drug conjugates (2026)].",
+      "url_path": "/articles/2026/10/chinese-expert-consensus-on-the-management-of-corneal-and-ocular-surface-adverse/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42856019",
+      "pmid": "42856019",
+      "doi": "10.1177/09287329261496166",
+      "title": "Multimodal adaptive mirror therapy through gait adaptation on a split-belt treadmill for gait training.",
+      "url_path": "/articles/2026/10/multimodal-adaptive-mirror-therapy-through-gait-adaptation-on-a-split-belt-tread/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42856067",
+      "pmid": "42856067",
+      "doi": "10.1080/08039488.2026.2744720",
+      "title": "Predictors of improvement in personal recovery and activity engagement among mental health service users following a group-based sensory modulation intervention.",
+      "url_path": "/articles/2026/10/predictors-of-improvement-in-personal-recovery-and-activity-engagement-among-men/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42856006",
+      "pmid": "42856006",
+      "doi": "10.1080/17518423.2026.2746730",
+      "title": "Game-oriented interventions for children with cerebral palsy: a review of efficacy, engagement, and functional outcomes.",
+      "url_path": "/articles/2026/10/game-oriented-interventions-for-children-with-cerebral-palsy-a-review-of-efficac/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42855873",
+      "pmid": "42855873",
+      "doi": "10.12659/AJCR.953163",
+      "title": "Case Report: Botulinum Toxin Type A Injection for Bruxism Following Left Basal Ganglia Hemorrhage.",
+      "url_path": "/articles/2026/10/case-report-botulinum-toxin-type-a-injection-for-bruxism-following-left-basal-ga/",
+      "processed_at": "2026-10-10T23:59:28+00:00"
     }
   ]
 }
