@@ -1,5 +1,47 @@
 [
   {
+    "title": "脳震盪後の前庭・眼球運動機能障害に対するVRおよびVR様技術の評価・リハビリテーション応用:系統的レビュー",
+    "summary": "脳震盪後の前庭・眼球運動機能障害に対するVR技術の評価・リハビリ応用を検討した系統的レビューで、VRが従来療法より一貫して優れるという根拠は示されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/virtual-reality-and-vr-like-technologies-for-the-assessment-and-rehabilitation-o/",
+    "categories": [
+      "神経疾患",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42859897",
+    "doi": "10.1080/02699052.2026.2744773",
+    "published_date": "2026-10-11",
+    "online_publication_date": "2026-10-11",
+    "issue_date": "2026-10-11"
+  },
+  {
+    "title": "抗体薬物複合体(ADC)関連の角膜・眼表面有害事象管理に関する中国専門家コンセンサス(2026年)",
+    "summary": "新規抗がん治療薬であるADC(抗体薬物複合体)によって生じる角膜・眼表面の有害事象について、予防・診断・管理の指針を示す中国の専門家コンセンサスである。",
+    "url": "/rehab-paper-digest/articles/2026/10/chinese-expert-consensus-on-the-management-of-corneal-and-ocular-surface-adverse/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42855776",
+    "doi": "10.3760/cma.j.cn112142-20260107-00010",
+    "published_date": "2026-10-11",
+    "online_publication_date": "",
+    "issue_date": "2026-10-11"
+  },
+  {
+    "title": "蝿蛆症を伴わないWohlfahrtiimonas chitiniclastica感染による壊死性筋膜炎の一例",
+    "summary": "糖尿病と末梢血管疾患を有する高齢女性において、蝿蛆症を伴わずに稀少菌Wohlfahrtiimonas chitiniclasticaが検出された壊死性筋膜炎の症例報告。",
+    "url": "/rehab-paper-digest/articles/2026/10/necrotizing-fasciitis-secondary-to-wohlfahrtiimonas-chitiniclastica-in-the-absen/",
+    "categories": [
+      "その他",
+      "高齢者"
+    ],
+    "pmid": "42859819",
+    "doi": "10.1093/jscr/rjag892",
+    "published_date": "2026-10-10",
+    "online_publication_date": "2026-10-10",
+    "issue_date": "2026-10-01"
+  },
+  {
     "title": "スプリットベルトトレッドミルを用いた歩行適応に基づくマルチモーダル適応型ミラーセラピーの開発",
     "summary": "健常者を対象に、カメラ・IMU・筋電図を統合した多目的最適化制御による適応型ミラーセラピーシステムを開発し、従来の固定的な対称模倣よりも安定したバランスの取れた歩行訓練制御が可能であることを示した研究です。",
     "url": "/rehab-paper-digest/articles/2026/10/multimodal-adaptive-mirror-therapy-through-gait-adaptation-on-a-split-belt-tread/",
@@ -74,19 +116,6 @@
     "published_date": "2026-10-10",
     "online_publication_date": "2026-10-10",
     "issue_date": "2026-10-10"
-  },
-  {
-    "title": "抗体薬物複合体(ADC)関連の角膜・眼表面有害事象管理に関する中国専門家コンセンサス(2026年)",
-    "summary": "新規抗がん治療薬であるADC(抗体薬物複合体)によって生じる角膜・眼表面の有害事象について、予防・診断・管理の指針を示す中国の専門家コンセンサスである。",
-    "url": "/rehab-paper-digest/articles/2026/10/chinese-expert-consensus-on-the-management-of-corneal-and-ocular-surface-adverse/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42855776",
-    "doi": "10.3760/cma.j.cn112142-20260107-00010",
-    "published_date": "2026-10-10",
-    "online_publication_date": "",
-    "issue_date": "2026-10-11"
   },
   {
     "title": "ニュージーランドにおける脊髄損傷者の自己効力感は入院再入院や入院期間と関連するか:横断的分析",
@@ -427,6 +456,22 @@
     "published_date": "2026-10-06",
     "online_publication_date": "2026-10-06",
     "issue_date": "2026-10-06"
+  },
+  {
+    "title": "COPD患者の転倒および転倒関連アウトカムに関連する神経筋・バランス・歩行因子:システマティックレビュー",
+    "summary": "COPD患者1295名を含む25研究を統合した結果、バランス障害が転倒と最も一貫して関連し、筋力との関連は一貫しないことが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/10/neuromuscular-balance-and-gait-factors-associated-with-falls-and-fall-related-ou/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "歩行",
+      "その他"
+    ],
+    "pmid": "42859794",
+    "doi": "10.2147/COPD.S635248",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "サブサハラアフリカにおける認知症ケアのギャップ:技術・環境・地域社会の視点と財政的制約に関するスコーピングレビュー",

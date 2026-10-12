@@ -269,7 +269,10 @@
     "42856006",
     "42856014",
     "42856019",
-    "42856067"
+    "42856067",
+    "42859794",
+    "42859819",
+    "42859897"
   ],
   "records": [
     {
@@ -2431,6 +2434,30 @@
       "title": "Case Report: Botulinum Toxin Type A Injection for Bruxism Following Left Basal Ganglia Hemorrhage.",
       "url_path": "/articles/2026/10/case-report-botulinum-toxin-type-a-injection-for-bruxism-following-left-basal-ga/",
       "processed_at": "2026-10-10T23:59:28+00:00"
+    },
+    {
+      "id": "42859897",
+      "pmid": "42859897",
+      "doi": "10.1080/02699052.2026.2744773",
+      "title": "Virtual reality and VR-like technologies for the assessment and rehabilitation of concussion-related vestibular and oculomotor dysfunction: a systematic review.",
+      "url_path": "/articles/2026/10/virtual-reality-and-vr-like-technologies-for-the-assessment-and-rehabilitation-o/",
+      "processed_at": "2026-10-12T00:04:28+00:00"
+    },
+    {
+      "id": "42859794",
+      "pmid": "42859794",
+      "doi": "10.2147/COPD.S635248",
+      "title": "Neuromuscular, Balance, and Gait Factors Associated with Falls and Fall-Related Outcomes in Individuals with COPD: A Systematic Review.",
+      "url_path": "/articles/2026/10/neuromuscular-balance-and-gait-factors-associated-with-falls-and-fall-related-ou/",
+      "processed_at": "2026-10-12T00:04:28+00:00"
+    },
+    {
+      "id": "42859819",
+      "pmid": "42859819",
+      "doi": "10.1093/jscr/rjag892",
+      "title": "Necrotizing fasciitis secondary to Wohlfahrtiimonas chitiniclastica in the absence of myiasis.",
+      "url_path": "/articles/2026/10/necrotizing-fasciitis-secondary-to-wohlfahrtiimonas-chitiniclastica-in-the-absen/",
+      "processed_at": "2026-10-12T00:04:28+00:00"
     }
   ]
 }

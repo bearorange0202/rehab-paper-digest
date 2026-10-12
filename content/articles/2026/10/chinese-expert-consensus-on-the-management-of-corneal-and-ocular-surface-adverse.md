@@ -9,7 +9,7 @@
   "journal": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
   "published_date": "2026-10-11",
   "online_publication_date": "",
-  "sort_date": "2026-10-10",
+  "sort_date": "2026-10-11",
   "generated_at": "2026-10-10T23:57:28+00:00",
   "updated_at": "2026-10-10T23:57:28+00:00",
   "doi": "10.3760/cma.j.cn112142-20260107-00010",
