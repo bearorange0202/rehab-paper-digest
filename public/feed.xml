@@ -6,6 +6,13 @@
     <description>医学・リハビリテーション領域の新着論文を、抄録に基づいて医療職向けに読みやすく整理する論文ダイジェストです。</description>
     
     <item>
+      <title>複合性局所疼痛症候群(CRPS)における神経障害性疼痛管理に関する包括的レビュー</title>
+      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/11/management-of-neuropathic-pain-in-complex-regional-pain-syndrome-a-comprehensive/</link>
+      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/11/management-of-neuropathic-pain-in-complex-regional-pain-syndrome-a-comprehensive/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>CRPS Type IおよびIIにおける神経障害性疼痛への薬物・非薬物療法を整理したレビューで、ガバペンチンと理学療法に比較的強いエビデンスがあると報告された。</description>
+    </item>
+    <item>
       <title>脳震盪後の前庭・眼球運動機能障害に対するVRおよびVR様技術の評価・リハビリテーション応用:系統的レビュー</title>
       <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/virtual-reality-and-vr-like-technologies-for-the-assessment-and-rehabilitation-o/</link>
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/virtual-reality-and-vr-like-technologies-for-the-assessment-and-rehabilitation-o/</guid>
@@ -137,13 +144,6 @@
       <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/real-world-effectiveness-of-ai-enabled-clinical-decision-support-in-primary-care/</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <description>プライマリケアで使用されるAI搭載臨床意思決定支援システムを対象にした系統的レビューで、診断・ケアプロセスでは一部改善がみられたが、患者にとって重要なアウトカムでの明確な便益は示されなかった。</description>
-    </item>
-    <item>
-      <title>COVID-19罹患後の身体不活発な成人に対するeHealh活用運動介入:ピーク酸素摂取量と健康関連QOLを改善するランダム化比較試験</title>
-      <link>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/</link>
-      <guid>https://bearorange0202.github.io/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>COVID-19罹患後の身体不活発な成人において、eHealthツールAQを用いた運動促進介入が標準的な身体活動アドバイスに比べ、ピーク酸素摂取量と精神的健康関連QOLをより改善させた。</description>
     </item>
   </channel>
 </rss>
