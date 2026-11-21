@@ -14,19 +14,6 @@
     "issue_date": "2026-11-01"
   },
   {
-    "title": "抗体薬物複合体(ADC)関連の角膜・眼表面有害事象管理に関する中国専門家コンセンサス(2026年)",
-    "summary": "新規抗がん治療薬であるADC(抗体薬物複合体)によって生じる角膜・眼表面の有害事象について、予防・診断・管理の指針を示す中国の専門家コンセンサスである。",
-    "url": "/rehab-paper-digest/articles/2026/10/chinese-expert-consensus-on-the-management-of-corneal-and-ocular-surface-adverse/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42855776",
-    "doi": "10.3760/cma.j.cn112142-20260107-00010",
-    "published_date": "2026-10-11",
-    "online_publication_date": "",
-    "issue_date": "2026-10-11"
-  },
-  {
     "title": "脳震盪後の前庭・眼球運動機能障害に対するVRおよびVR様技術の評価・リハビリテーション応用:系統的レビュー",
     "summary": "脳震盪後の前庭・眼球運動機能障害に対するVR技術の評価・リハビリ応用を検討した系統的レビューで、VRが従来療法より一貫して優れるという根拠は示されなかった。",
     "url": "/rehab-paper-digest/articles/2026/10/virtual-reality-and-vr-like-technologies-for-the-assessment-and-rehabilitation-o/",
@@ -42,20 +29,17 @@
     "issue_date": "2026-10-11"
   },
   {
-    "title": "下肢欠損・切断者の社会参加に関する混合研究法による検討",
-    "summary": "下肢欠損・切断者の社会参加には歩行能力が最も強く関連し、身体・環境・社会・制度・心理的要因が複合的に影響することが、量的・質的データの両面から示されました。",
-    "url": "/rehab-paper-digest/articles/2026/10/exploring-the-participation-of-people-with-lower-limb-absence-or-amputation-a-mi/",
+    "title": "抗体薬物複合体(ADC)関連の角膜・眼表面有害事象管理に関する中国専門家コンセンサス(2026年)",
+    "summary": "新規抗がん治療薬であるADC(抗体薬物複合体)によって生じる角膜・眼表面の有害事象について、予防・診断・管理の指針を示す中国の専門家コンセンサスである。",
+    "url": "/rehab-paper-digest/articles/2026/10/chinese-expert-consensus-on-the-management-of-corneal-and-ocular-surface-adverse/",
     "categories": [
-      "理学療法",
-      "福祉用具・支援技術",
-      "ADL",
       "その他"
     ],
-    "pmid": "42856014",
-    "doi": "10.1080/09638288.2026.2734781",
-    "published_date": "2026-10-10",
-    "online_publication_date": "2026-10-10",
-    "issue_date": "2026-10-10"
+    "pmid": "42855776",
+    "doi": "10.3760/cma.j.cn112142-20260107-00010",
+    "published_date": "2026-10-11",
+    "online_publication_date": "",
+    "issue_date": "2026-10-11"
   },
   {
     "title": "蝿蛆症を伴わないWohlfahrtiimonas chitiniclastica感染による壊死性筋膜炎の一例",
@@ -72,17 +56,31 @@
     "issue_date": "2026-10-01"
   },
   {
-    "title": "脳性麻痺児に対するゲーム型介入:効果・エンゲージメント・機能的アウトカムに関するレビュー",
-    "summary": "2021〜2025年に発表された25件の文献を基に、脳性麻痺児に対するVRやエクサゲームなどゲーム型リハビリテーションの効果と課題をまとめたナラティブレビュー。",
-    "url": "/rehab-paper-digest/articles/2026/10/game-oriented-interventions-for-children-with-cerebral-palsy-a-review-of-efficac/",
+    "title": "精神科外来利用者における集団感覚調整介入後の個人的リカバリーと活動参加の改善予測因子",
+    "summary": "精神科外来利用者を対象とした11週間の集団感覚調整介入において、精神病診断の有無以外にはベースライン特性と改善との間に明確な関連は見られなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/predictors-of-improvement-in-personal-recovery-and-activity-engagement-among-men/",
     "categories": [
-      "小児",
-      "理学療法",
-      "神経疾患",
-      "福祉用具・支援技術"
+      "精神科",
+      "作業療法"
     ],
-    "pmid": "42856006",
-    "doi": "10.1080/17518423.2026.2746730",
+    "pmid": "42856067",
+    "doi": "10.1080/08039488.2026.2744720",
+    "published_date": "2026-10-10",
+    "online_publication_date": "2026-10-10",
+    "issue_date": "2026-10-10"
+  },
+  {
+    "title": "下肢欠損・切断者の社会参加に関する混合研究法による検討",
+    "summary": "下肢欠損・切断者の社会参加には歩行能力が最も強く関連し、身体・環境・社会・制度・心理的要因が複合的に影響することが、量的・質的データの両面から示されました。",
+    "url": "/rehab-paper-digest/articles/2026/10/exploring-the-participation-of-people-with-lower-limb-absence-or-amputation-a-mi/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42856014",
+    "doi": "10.1080/09638288.2026.2734781",
     "published_date": "2026-10-10",
     "online_publication_date": "2026-10-10",
     "issue_date": "2026-10-10"
@@ -103,6 +101,22 @@
     "issue_date": "2026-10-10"
   },
   {
+    "title": "脳性麻痺児に対するゲーム型介入:効果・エンゲージメント・機能的アウトカムに関するレビュー",
+    "summary": "2021〜2025年に発表された25件の文献を基に、脳性麻痺児に対するVRやエクサゲームなどゲーム型リハビリテーションの効果と課題をまとめたナラティブレビュー。",
+    "url": "/rehab-paper-digest/articles/2026/10/game-oriented-interventions-for-children-with-cerebral-palsy-a-review-of-efficac/",
+    "categories": [
+      "小児",
+      "理学療法",
+      "神経疾患",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42856006",
+    "doi": "10.1080/17518423.2026.2746730",
+    "published_date": "2026-10-10",
+    "online_publication_date": "2026-10-10",
+    "issue_date": "2026-10-10"
+  },
+  {
     "title": "左被殻出血後に生じたブラキシズムに対するA型ボツリヌス毒素注射の症例報告",
     "summary": "脳卒中後に発症したブラキシズムに対し、STABによる多面的評価のもとA型ボツリヌス毒素を咬筋に注射したところ、症状改善が6か月間持続したとする単一症例報告。",
     "url": "/rehab-paper-digest/articles/2026/10/case-report-botulinum-toxin-type-a-injection-for-bruxism-following-left-basal-ga/",
@@ -118,32 +132,32 @@
     "issue_date": "2026-10-10"
   },
   {
-    "title": "精神科外来利用者における集団感覚調整介入後の個人的リカバリーと活動参加の改善予測因子",
-    "summary": "精神科外来利用者を対象とした11週間の集団感覚調整介入において、精神病診断の有無以外にはベースライン特性と改善との間に明確な関連は見られなかった。",
-    "url": "/rehab-paper-digest/articles/2026/10/predictors-of-improvement-in-personal-recovery-and-activity-engagement-among-men/",
+    "title": "慢性肝疾患患者における入院中リハビリテーションと肝・腎機能変化:単施設後方視的観察研究",
+    "summary": "進行肝硬変を含む慢性肝疾患入院患者200名を対象に、入院リハビリテーションの実態と肝・腎機能の院内変化、有害事象の有無を後方視的に記述した研究。",
+    "url": "/rehab-paper-digest/articles/2026/10/changes-in-hepatic-functional-reserve-and-renal-function-during-hospitalization/",
     "categories": [
-      "精神科",
-      "作業療法"
-    ],
-    "pmid": "42856067",
-    "doi": "10.1080/08039488.2026.2744720",
-    "published_date": "2026-10-10",
-    "online_publication_date": "2026-10-10",
-    "issue_date": "2026-10-10"
-  },
-  {
-    "title": "在宅高齢がん患者とその家族に対するライフレビューに基づくデジタルコラージュ活動の効果:ランダム化比較試験",
-    "summary": "在宅高齢がん患者とその家族を対象に、ライフレビューを活用したデジタルコラージュ活動が自己効力感や介護者QOLの一部指標に好影響を示した予備的RCTです。",
-    "url": "/rehab-paper-digest/articles/2026/10/the-effectiveness-of-digital-collage-activity-based-on-a-life-review-for-home-dw/",
-    "categories": [
-      "精神科",
-      "高齢者",
+      "理学療法",
       "その他"
     ],
-    "pmid": "42853972",
-    "doi": "10.1177/10499091261496423",
+    "pmid": "42854054",
+    "doi": "10.1097/MD.0000000000051062",
     "published_date": "2026-10-09",
-    "online_publication_date": "2026-10-09",
+    "online_publication_date": "",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "中枢性顔面麻痺に対するキネシオテープの効果:前向き無作為化シャム対照単盲検試験",
+    "summary": "脳卒中後の中枢性顔面麻痺患者を対象に、張力をかけたキネシオテープを通常リハビリに併用した群が、シャムテープ群や通常リハビリのみの群よりも顔面対称性と嚥下効率の改善において優れていたことを示したRCT。",
+    "url": "/rehab-paper-digest/articles/2026/10/efficacy-of-kinesio-tape-for-central-facial-paralysis-a-prospective-randomized-s/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42854004",
+    "doi": "10.1097/MD.0000000000051043",
+    "published_date": "2026-10-09",
+    "online_publication_date": "",
     "issue_date": "2026-10-09"
   },
   {
@@ -163,15 +177,16 @@
     "issue_date": "2026-10-09"
   },
   {
-    "title": "ニュージーランドにおける脊髄損傷者の自己効力感は入院再入院や入院期間と関連するか:横断的分析",
-    "summary": "脊髄損傷者101名を対象とした調査で、退院時から18か月後にかけて自己効力感が有意に低下し、その低下は病院再入院と関連していたが入院期間とは関連していなかった。",
-    "url": "/rehab-paper-digest/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/",
+    "title": "在宅高齢がん患者とその家族に対するライフレビューに基づくデジタルコラージュ活動の効果:ランダム化比較試験",
+    "summary": "在宅高齢がん患者とその家族を対象に、ライフレビューを活用したデジタルコラージュ活動が自己効力感や介護者QOLの一部指標に好影響を示した予備的RCTです。",
+    "url": "/rehab-paper-digest/articles/2026/10/the-effectiveness-of-digital-collage-activity-based-on-a-life-review-for-home-dw/",
     "categories": [
-      "神経疾患",
+      "精神科",
+      "高齢者",
       "その他"
     ],
-    "pmid": "42849001",
-    "doi": "10.26635/6965.7412",
+    "pmid": "42853972",
+    "doi": "10.1177/10499091261496423",
     "published_date": "2026-10-09",
     "online_publication_date": "2026-10-09",
     "issue_date": "2026-10-09"
@@ -192,18 +207,31 @@
     "issue_date": "2026-10-09"
   },
   {
-    "title": "中枢性顔面麻痺に対するキネシオテープの効果:前向き無作為化シャム対照単盲検試験",
-    "summary": "脳卒中後の中枢性顔面麻痺患者を対象に、張力をかけたキネシオテープを通常リハビリに併用した群が、シャムテープ群や通常リハビリのみの群よりも顔面対称性と嚥下効率の改善において優れていたことを示したRCT。",
-    "url": "/rehab-paper-digest/articles/2026/10/efficacy-of-kinesio-tape-for-central-facial-paralysis-a-prospective-randomized-s/",
+    "title": "韓国における歯科インプラント保険適用拡大と年齢別の咀嚼不快感の推移:対照群付き中断時系列分析(2010-2024年)",
+    "summary": "韓国の国民健康保険による歯科インプラント適用拡大前後で、年齢層別に咀嚼不快感の推移を分析したところ、全年齢層で改善傾向が見られたが、政策導入と明確に関連する追加的な改善は70-74歳群で最も一貫して観察された。",
+    "url": "/rehab-paper-digest/articles/2026/10/age-specific-changes-in-chewing-discomfort-during-the-expansion-of-national-heal/",
     "categories": [
-      "脳卒中",
-      "理学療法",
+      "高齢者",
       "その他"
     ],
-    "pmid": "42854004",
-    "doi": "10.1097/MD.0000000000051043",
+    "pmid": "42855843",
+    "doi": "10.1111/joor.70340",
     "published_date": "2026-10-09",
-    "online_publication_date": "",
+    "online_publication_date": "2026-10-09",
+    "issue_date": "2026-10-09"
+  },
+  {
+    "title": "ニュージーランドにおける脊髄損傷者の自己効力感は入院再入院や入院期間と関連するか:横断的分析",
+    "summary": "脊髄損傷者101名を対象とした調査で、退院時から18か月後にかけて自己効力感が有意に低下し、その低下は病院再入院と関連していたが入院期間とは関連していなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/is-self-efficacy-after-spinal-cord-injury-associated-with-hospital-re-admissions/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42849001",
+    "doi": "10.26635/6965.7412",
+    "published_date": "2026-10-09",
+    "online_publication_date": "2026-10-09",
     "issue_date": "2026-10-09"
   },
   {
@@ -238,32 +266,19 @@
     "issue_date": "2026-10-09"
   },
   {
-    "title": "慢性肝疾患患者における入院中リハビリテーションと肝・腎機能変化:単施設後方視的観察研究",
-    "summary": "進行肝硬変を含む慢性肝疾患入院患者200名を対象に、入院リハビリテーションの実態と肝・腎機能の院内変化、有害事象の有無を後方視的に記述した研究。",
-    "url": "/rehab-paper-digest/articles/2026/10/changes-in-hepatic-functional-reserve-and-renal-function-during-hospitalization/",
+    "title": "COVID-19罹患後の身体不活発な成人に対するeHealh活用運動介入:ピーク酸素摂取量と健康関連QOLを改善するランダム化比較試験",
+    "summary": "COVID-19罹患後の身体不活発な成人において、eHealthツールAQを用いた運動促進介入が標準的な身体活動アドバイスに比べ、ピーク酸素摂取量と精神的健康関連QOLをより改善させた。",
+    "url": "/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/",
     "categories": [
       "理学療法",
+      "福祉用具・支援技術",
       "その他"
     ],
-    "pmid": "42854054",
-    "doi": "10.1097/MD.0000000000051062",
-    "published_date": "2026-10-09",
-    "online_publication_date": "",
-    "issue_date": "2026-10-09"
-  },
-  {
-    "title": "韓国における歯科インプラント保険適用拡大と年齢別の咀嚼不快感の推移:対照群付き中断時系列分析(2010-2024年)",
-    "summary": "韓国の国民健康保険による歯科インプラント適用拡大前後で、年齢層別に咀嚼不快感の推移を分析したところ、全年齢層で改善傾向が見られたが、政策導入と明確に関連する追加的な改善は70-74歳群で最も一貫して観察された。",
-    "url": "/rehab-paper-digest/articles/2026/10/age-specific-changes-in-chewing-discomfort-during-the-expansion-of-national-heal/",
-    "categories": [
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42855843",
-    "doi": "10.1111/joor.70340",
-    "published_date": "2026-10-09",
-    "online_publication_date": "2026-10-09",
-    "issue_date": "2026-10-09"
+    "pmid": "42849012",
+    "doi": "10.1249/MSS.0000000000004177",
+    "published_date": "2026-10-08",
+    "online_publication_date": "2026-10-08",
+    "issue_date": "2026-10-08"
   },
   {
     "title": "プライマリケアにおけるAI搭載臨床意思決定支援システムの実世界効果:システマティックレビュー",
@@ -294,19 +309,34 @@
     "issue_date": "2026-10-01"
   },
   {
-    "title": "COVID-19罹患後の身体不活発な成人に対するeHealh活用運動介入:ピーク酸素摂取量と健康関連QOLを改善するランダム化比較試験",
-    "summary": "COVID-19罹患後の身体不活発な成人において、eHealthツールAQを用いた運動促進介入が標準的な身体活動アドバイスに比べ、ピーク酸素摂取量と精神的健康関連QOLをより改善させた。",
-    "url": "/rehab-paper-digest/articles/2026/10/ehealth-guided-exercise-improves-peak-oxygen-uptake-and-health-related-quality-o/",
+    "title": "外側上顆炎患者における通常理学療法への低負荷血流制限トレーニング併用が短期的な握力と機能を改善する:単盲検ランダム化比較試験",
+    "summary": "外側上顆炎患者に通常の理学療法と低負荷血流制限トレーニングを併用したところ、通常理学療法単独よりも短期的な握力と機能の改善が大きかったが、疼痛と治療満足度には差がなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/addition-of-low-load-blood-flow-restriction-training-to-conventional-physiothera/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "上肢機能"
+    ],
+    "pmid": "42842742",
+    "doi": "10.1177/10538127261494053",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-10-07"
+  },
+  {
+    "title": "循環器病棟入院患者におけるリアルタイム身体活動セルフモニタリング:中断時系列分析",
+    "summary": "循環器病棟入院患者に対し、加速度計データをリアルタイムで患者自身にフィードバックする仕組みを導入したところ、入院中に生じていた身体活動量の経時的な低下が認められなくなり、活動量が維持された。",
+    "url": "/rehab-paper-digest/articles/2026/10/real-time-physical-activity-self-monitoring-in-patients-hospitalized-for-cardiol/",
     "categories": [
       "理学療法",
       "福祉用具・支援技術",
       "その他"
     ],
-    "pmid": "42849012",
-    "doi": "10.1249/MSS.0000000000004177",
-    "published_date": "2026-10-08",
-    "online_publication_date": "2026-10-08",
-    "issue_date": "2026-10-08"
+    "pmid": "42842812",
+    "doi": "10.2196/92189",
+    "published_date": "2026-10-07",
+    "online_publication_date": "2026-10-07",
+    "issue_date": "2026-10-07"
   },
   {
     "title": "軽度認知障害を有する中高年・高齢者における運動の種類・量とBDNF・抑うつ症状の関係:ベイズネットワークメタアナリシス",
@@ -341,36 +371,6 @@
     "issue_date": "2026-10-07"
   },
   {
-    "title": "循環器病棟入院患者におけるリアルタイム身体活動セルフモニタリング:中断時系列分析",
-    "summary": "循環器病棟入院患者に対し、加速度計データをリアルタイムで患者自身にフィードバックする仕組みを導入したところ、入院中に生じていた身体活動量の経時的な低下が認められなくなり、活動量が維持された。",
-    "url": "/rehab-paper-digest/articles/2026/10/real-time-physical-activity-self-monitoring-in-patients-hospitalized-for-cardiol/",
-    "categories": [
-      "理学療法",
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42842812",
-    "doi": "10.2196/92189",
-    "published_date": "2026-10-07",
-    "online_publication_date": "2026-10-07",
-    "issue_date": "2026-10-07"
-  },
-  {
-    "title": "外側上顆炎患者における通常理学療法への低負荷血流制限トレーニング併用が短期的な握力と機能を改善する:単盲検ランダム化比較試験",
-    "summary": "外側上顆炎患者に通常の理学療法と低負荷血流制限トレーニングを併用したところ、通常理学療法単独よりも短期的な握力と機能の改善が大きかったが、疼痛と治療満足度には差がなかった。",
-    "url": "/rehab-paper-digest/articles/2026/10/addition-of-low-load-blood-flow-restriction-training-to-conventional-physiothera/",
-    "categories": [
-      "理学療法",
-      "整形外科",
-      "上肢機能"
-    ],
-    "pmid": "42842742",
-    "doi": "10.1177/10538127261494053",
-    "published_date": "2026-10-07",
-    "online_publication_date": "2026-10-07",
-    "issue_date": "2026-10-07"
-  },
-  {
     "title": "認知症ケア環境と人-環境適合:レビュー",
     "summary": "認知症ケア環境評価における人-環境適合理論の応用を批判的にレビューし、既存の評価ツールが心理社会的・文化的側面を十分に捉えていないことを指摘した論文。",
     "url": "/rehab-paper-digest/articles/2026/10/dementia-care-environments-and-person-environment-fit-a-review/",
@@ -384,19 +384,6 @@
     "published_date": "2026-10-07",
     "online_publication_date": "2026-10-07",
     "issue_date": "2026-10-07"
-  },
-  {
-    "title": "多剤耐性感染を合併した高エネルギー外傷性大腿骨骨折に対する段階的治療の症例報告",
-    "summary": "高エネルギー外傷による大腿骨骨折と多剤耐性感染を合併した1例に対し、Masquelet法とセメントレス人工股関節置換術を組み合わせた段階的治療により2年後に良好な機能転帰が得られたことを報告した症例報告です。",
-    "url": "/rehab-paper-digest/articles/2026/10/a-high-energy-military-femoral-fracture-with-multidrug-resistant-infection-a-cas/",
-    "categories": [
-      "整形外科"
-    ],
-    "pmid": "42837321",
-    "doi": "10.12659/AJCR.953196",
-    "published_date": "2026-10-06",
-    "online_publication_date": "2026-10-06",
-    "issue_date": "2026-10-06"
   },
   {
     "title": "COPD患者の転倒および転倒関連アウトカムに関連する神経筋・バランス・歩行因子:システマティックレビュー",
@@ -415,14 +402,31 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "口唇口蓋裂患者の骨移植部に埋入したインプラントの生存率:システマティックレビュー",
-    "summary": "口唇口蓋裂患者の骨移植部へのデンタルインプラントは、非裂型患者より生存率はやや低いものの、口腔リハビリの選択肢として妥当な成績であることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/10/implant-survival-rate-in-grafted-cleft-defects-in-patients-with-cleft-lip-and-pa/",
+    "title": "サブサハラアフリカにおける認知症ケアのギャップ:技術・環境・地域社会の視点と財政的制約に関するスコーピングレビュー",
+    "summary": "サブサハラアフリカの認知症ケアについて、環境・社会的要因、技術的基盤、地域介護、財政面の4領域から2021〜2025年の文献を整理したスコーピングレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-gaps-in-sub-saharan-africa-a-scoping-review-of-technology-environm/",
     "categories": [
+      "認知症",
+      "福祉用具・支援技術",
       "その他"
     ],
-    "pmid": "42837473",
-    "doi": "10.11607/jomi.11863",
+    "pmid": "42837430",
+    "doi": "10.1371/journal.pgph.0007265",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定",
+    "summary": "非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。",
+    "url": "/rehab-paper-digest/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/",
+    "categories": [
+      "歩行",
+      "脳卒中",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42837236",
+    "doi": "10.1109/TNSRE.2026.3740500",
     "published_date": "2026-10-06",
     "online_publication_date": "2026-10-06",
     "issue_date": "2026-10-06"
@@ -457,6 +461,19 @@
     "issue_date": "2026-10-06"
   },
   {
+    "title": "多剤耐性感染を合併した高エネルギー外傷性大腿骨骨折に対する段階的治療の症例報告",
+    "summary": "高エネルギー外傷による大腿骨骨折と多剤耐性感染を合併した1例に対し、Masquelet法とセメントレス人工股関節置換術を組み合わせた段階的治療により2年後に良好な機能転帰が得られたことを報告した症例報告です。",
+    "url": "/rehab-paper-digest/articles/2026/10/a-high-energy-military-femoral-fracture-with-multidrug-resistant-infection-a-cas/",
+    "categories": [
+      "整形外科"
+    ],
+    "pmid": "42837321",
+    "doi": "10.12659/AJCR.953196",
+    "published_date": "2026-10-06",
+    "online_publication_date": "2026-10-06",
+    "issue_date": "2026-10-06"
+  },
+  {
     "title": "介護施設入居者の認知症BPSDに対するVR没入介入の有効性:多施設ランダム化比較試験",
     "summary": "介護施設入居者56名を対象に、VR没入介入と非デジタル認知刺激(アクティブ対照)を比較したところ、BPSD軽減において両群間に有意差は認められなかった。",
     "url": "/rehab-paper-digest/articles/2026/10/effectiveness-of-a-virtual-reality-immersion-process-as-a-nonpharmacological-int/",
@@ -473,49 +490,31 @@
     "issue_date": "2026-10-06"
   },
   {
-    "title": "限られた歩行データを用いた教師ありドメイン適応による脳卒中後個別化歩行位相推定",
-    "summary": "非障害者データと少数の患者本人データを組み合わせたドメイン適応手法により、脳卒中後の歩行位相推定の個別化精度を向上させた概念実証研究。",
-    "url": "/rehab-paper-digest/articles/2026/10/personalized-gait-phase-estimation-for-post-stroke-individuals-via-supervised-do/",
+    "title": "口唇口蓋裂患者の骨移植部に埋入したインプラントの生存率:システマティックレビュー",
+    "summary": "口唇口蓋裂患者の骨移植部へのデンタルインプラントは、非裂型患者より生存率はやや低いものの、口腔リハビリの選択肢として妥当な成績であることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/implant-survival-rate-in-grafted-cleft-defects-in-patients-with-cleft-lip-and-pa/",
     "categories": [
-      "歩行",
-      "脳卒中",
-      "福祉用具・支援技術"
+      "その他"
     ],
-    "pmid": "42837236",
-    "doi": "10.1109/TNSRE.2026.3740500",
+    "pmid": "42837473",
+    "doi": "10.11607/jomi.11863",
     "published_date": "2026-10-06",
     "online_publication_date": "2026-10-06",
     "issue_date": "2026-10-06"
   },
   {
-    "title": "サブサハラアフリカにおける認知症ケアのギャップ:技術・環境・地域社会の視点と財政的制約に関するスコーピングレビュー",
-    "summary": "サブサハラアフリカの認知症ケアについて、環境・社会的要因、技術的基盤、地域介護、財政面の4領域から2021〜2025年の文献を整理したスコーピングレビューです。",
-    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-gaps-in-sub-saharan-africa-a-scoping-review-of-technology-environm/",
+    "title": "2型糖尿病患者における認知的介入後の戦略維持:障壁、支援、そしてパターン",
+    "summary": "2型糖尿病患者を対象とした認知介入(MAPSS-DM)で習得した戦略の維持状況をフォローアップ面接で質的に検討し、維持・部分的維持・中断の3パターンとそれぞれの促進要因・阻害要因を明らかにした研究です。",
+    "url": "/rehab-paper-digest/articles/2026/10/maintaining-cognitive-gains-in-type-2-diabetes-barriers-supports-and-patterns-of/",
     "categories": [
-      "認知症",
-      "福祉用具・支援技術",
+      "認知機能",
       "その他"
     ],
-    "pmid": "42837430",
-    "doi": "10.1371/journal.pgph.0007265",
-    "published_date": "2026-10-06",
-    "online_publication_date": "2026-10-06",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "病因診断と記述的発達診断の違い:ターナー症候群の一例から",
-    "summary": "発達の遅れと自閉スペクトラム症様の行動特徴を示した7歳女児がターナー症候群と診断された症例を通じて、病因診断と記述的発達診断を特別支援教育の場でどう扱うべきかを論じた症例報告。",
-    "url": "/rehab-paper-digest/articles/2026/10/etiological-diagnoses-versus-descriptive-developmental-diagnoses/",
-    "categories": [
-      "小児",
-      "神経疾患",
-      "作業療法"
-    ],
-    "pmid": "42832706",
-    "doi": "10.1097/DBP.0000000000001523",
+    "pmid": "42832520",
+    "doi": "10.1371/journal.pone.0349848",
     "published_date": "2026-10-05",
     "online_publication_date": "2026-10-05",
-    "issue_date": "2026-10-05"
+    "issue_date": "2026-01-01"
   },
   {
     "title": "台湾の縦断コホートにおける婚姻状況と認知機能低下スクリーニング陽性との関連:使用する認知スクリーニング尺度によって結果が異なる",
@@ -548,32 +547,19 @@
     "issue_date": "2026-10-05"
   },
   {
-    "title": "健常若年成人におけるUGO外骨格型ロボットを用いた等速性股・膝関節筋力測定の併存的妥当性:横断的検証研究",
-    "summary": "健常若年成人20名を対象に、下肢外骨格型リハビリロボットUGOによるピークトルク測定とHumac Norm動的計測器との一致度を検討したところ、両側膝伸展筋と股屈筋では中〜強い相関が得られた一方、非利き側膝屈筋と両側股伸筋では有意な相関は認められませんでした。",
-    "url": "/rehab-paper-digest/articles/2026/10/concurrent-validity-of-isokinetic-hip-and-knee-strength-measurements-using-the-u/",
+    "title": "病因診断と記述的発達診断の違い:ターナー症候群の一例から",
+    "summary": "発達の遅れと自閉スペクトラム症様の行動特徴を示した7歳女児がターナー症候群と診断された症例を通じて、病因診断と記述的発達診断を特別支援教育の場でどう扱うべきかを論じた症例報告。",
+    "url": "/rehab-paper-digest/articles/2026/10/etiological-diagnoses-versus-descriptive-developmental-diagnoses/",
     "categories": [
-      "理学療法",
-      "福祉用具・支援技術"
+      "小児",
+      "神経疾患",
+      "作業療法"
     ],
-    "pmid": "42832789",
-    "doi": "10.2196/99564",
+    "pmid": "42832706",
+    "doi": "10.1097/DBP.0000000000001523",
     "published_date": "2026-10-05",
     "online_publication_date": "2026-10-05",
     "issue_date": "2026-10-05"
-  },
-  {
-    "title": "2型糖尿病患者における認知的介入後の戦略維持:障壁、支援、そしてパターン",
-    "summary": "2型糖尿病患者を対象とした認知介入(MAPSS-DM)で習得した戦略の維持状況をフォローアップ面接で質的に検討し、維持・部分的維持・中断の3パターンとそれぞれの促進要因・阻害要因を明らかにした研究です。",
-    "url": "/rehab-paper-digest/articles/2026/10/maintaining-cognitive-gains-in-type-2-diabetes-barriers-supports-and-patterns-of/",
-    "categories": [
-      "認知機能",
-      "その他"
-    ],
-    "pmid": "42832520",
-    "doi": "10.1371/journal.pone.0349848",
-    "published_date": "2026-10-05",
-    "online_publication_date": "2026-10-05",
-    "issue_date": "2026-01-01"
   },
   {
     "title": "高齢がん患者の外科治療における老年科併診サービスの影響",
@@ -585,6 +571,34 @@
     ],
     "pmid": "42832427",
     "doi": "10.1159/ger/acxag006",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-05"
+  },
+  {
+    "title": "血漿pTau217値と側頭葉皮質内pTau217濃度との定量的関係:剖検対照研究",
+    "summary": "アルツハイマー病の血液バイオマーカーである血漿pTau217値は、剖検で得られた側頭葉皮質内のpTau217濃度と強く相関することが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/quantitative-relationship-between-lumipulse-g-measures-of-ptau217-in-plasma-and/",
+    "categories": [
+      "認知症",
+      "神経疾患"
+    ],
+    "pmid": "42837647",
+    "doi": "10.1212/WNL.0000000000218598",
+    "published_date": "2026-10-05",
+    "online_publication_date": "2026-10-05",
+    "issue_date": "2026-10-27"
+  },
+  {
+    "title": "健常若年成人におけるUGO外骨格型ロボットを用いた等速性股・膝関節筋力測定の併存的妥当性:横断的検証研究",
+    "summary": "健常若年成人20名を対象に、下肢外骨格型リハビリロボットUGOによるピークトルク測定とHumac Norm動的計測器との一致度を検討したところ、両側膝伸展筋と股屈筋では中〜強い相関が得られた一方、非利き側膝屈筋と両側股伸筋では有意な相関は認められませんでした。",
+    "url": "/rehab-paper-digest/articles/2026/10/concurrent-validity-of-isokinetic-hip-and-knee-strength-measurements-using-the-u/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42832789",
+    "doi": "10.2196/99564",
     "published_date": "2026-10-05",
     "online_publication_date": "2026-10-05",
     "issue_date": "2026-10-05"
@@ -603,20 +617,6 @@
     "published_date": "2026-10-05",
     "online_publication_date": "2026-10-05",
     "issue_date": "2026-10-05"
-  },
-  {
-    "title": "血漿pTau217値と側頭葉皮質内pTau217濃度との定量的関係:剖検対照研究",
-    "summary": "アルツハイマー病の血液バイオマーカーである血漿pTau217値は、剖検で得られた側頭葉皮質内のpTau217濃度と強く相関することが示された。",
-    "url": "/rehab-paper-digest/articles/2026/10/quantitative-relationship-between-lumipulse-g-measures-of-ptau217-in-plasma-and/",
-    "categories": [
-      "認知症",
-      "神経疾患"
-    ],
-    "pmid": "42837647",
-    "doi": "10.1212/WNL.0000000000218598",
-    "published_date": "2026-10-05",
-    "online_publication_date": "2026-10-05",
-    "issue_date": "2026-10-27"
   },
   {
     "title": "認知症の有無にかかわらず長期ケア施設入所高齢者におけるスノーズレン多感覚環境の心理感情面・疼痛への治療効果",
@@ -649,31 +649,29 @@
     "issue_date": "2026-10-01"
   },
   {
-    "title": "サルコペニアは増加リスクにあるのか?変形性関節症と骨粗鬆症への示唆",
-    "summary": "サルコペニアと変形性関節症(OA)・骨粗鬆症(OP)が共通の機序を通じて相互に悪化させ合う可能性を整理し、既存の診療資源を統合した対応の重要性を論じた総説。",
-    "url": "/rehab-paper-digest/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/",
+    "title": "ステージIII歯周炎に対する歯周治療が咀嚼機能と生活の質に与える影響",
+    "summary": "ステージIII、グレードB歯周炎患者に対する包括的歯周治療により、臨床的歯周パラメータ、咀嚼機能、口腔関連QOLが治療段階を通じて並行して改善した。",
+    "url": "/rehab-paper-digest/articles/2026/10/impact-of-periodontal-therapy-on-function-and-quality-of-life-in-stage-iii-perio/",
     "categories": [
-      "高齢者",
-      "整形外科",
       "その他"
     ],
-    "pmid": "42827061",
-    "doi": "10.1016/j.berh.2026.102204",
+    "pmid": "42827084",
+    "doi": "10.1111/joor.70323",
     "published_date": "2026-10-02",
     "online_publication_date": "2026-10-02",
     "issue_date": "2026-10-02"
   },
   {
-    "title": "ナルコレプシーから何がわかるか:ヒポクレチンと認知症の関係を考える",
-    "summary": "ヒポクレチン欠損を特徴とするナルコレプシー1型は深刻な睡眠覚醒障害を伴うにもかかわらず、神経変性バイオマーカーの所見は一貫せず、睡眠と認知症の関連を考える上で逆説的な手がかりを提供するという総説です。",
-    "url": "/rehab-paper-digest/articles/2026/10/what-can-narcolepsy-teach-us-about-hypocretin-and-dementia/",
+    "title": "長期介護施設におけるリハビリテーション:機能的自立度、生活の質、在宅復帰に関する縦断研究",
+    "summary": "長期介護施設でリハビリテーション志向のケアを受けた入所者を3時点で追跡したところ、生活の質の一部指標には改善傾向がみられたが、機能的自立度には明確な変化パターンは認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/rehabilitation-in-residential-long-term-care-longitudinal-study-of-functional-in/",
     "categories": [
-      "神経疾患",
-      "認知症",
+      "高齢者",
+      "ADL",
       "その他"
     ],
-    "pmid": "42826906",
-    "doi": "10.1016/j.arr.2026.103388",
+    "pmid": "42825944",
+    "doi": "10.1007/s00391-026-02661-3",
     "published_date": "2026-10-02",
     "online_publication_date": "2026-10-02",
     "issue_date": "2026-10-02"
@@ -695,29 +693,29 @@
     "issue_date": "2026-10-02"
   },
   {
-    "title": "感音難聴に対する能動型人工中耳植込みの有効性と安全性:システマティックレビュー・メタ解析",
-    "summary": "中等度から重度の感音難聴患者において、人工中耳(Vibrant Soundbridge)は有意な聴力改善と比較的良好な安全性を示したが、研究間のばらつきが大きいことが報告されました。",
-    "url": "/rehab-paper-digest/articles/2026/10/active-middle-ear-implantation-for-sensorineural-hearing-loss-a-systematic-revie/",
+    "title": "ナルコレプシーから何がわかるか:ヒポクレチンと認知症の関係を考える",
+    "summary": "ヒポクレチン欠損を特徴とするナルコレプシー1型は深刻な睡眠覚醒障害を伴うにもかかわらず、神経変性バイオマーカーの所見は一貫せず、睡眠と認知症の関連を考える上で逆説的な手がかりを提供するという総説です。",
+    "url": "/rehab-paper-digest/articles/2026/10/what-can-narcolepsy-teach-us-about-hypocretin-and-dementia/",
     "categories": [
+      "神経疾患",
+      "認知症",
       "その他"
     ],
-    "pmid": "42826367",
-    "doi": "10.1097/MAO.0000000000005081",
+    "pmid": "42826906",
+    "doi": "10.1016/j.arr.2026.103388",
     "published_date": "2026-10-02",
     "online_publication_date": "2026-10-02",
     "issue_date": "2026-10-02"
   },
   {
-    "title": "長期介護施設におけるリハビリテーション:機能的自立度、生活の質、在宅復帰に関する縦断研究",
-    "summary": "長期介護施設でリハビリテーション志向のケアを受けた入所者を3時点で追跡したところ、生活の質の一部指標には改善傾向がみられたが、機能的自立度には明確な変化パターンは認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/10/rehabilitation-in-residential-long-term-care-longitudinal-study-of-functional-in/",
+    "title": "日本におけるがん医療集約化に対する認識の地域差:患者アドボケイト調査",
+    "summary": "国立がん研究センターの患者・市民パネルへのウェブ調査により、がん医療集約化政策に対する認識やサービス利用可能性の評価に地域差があることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/",
     "categories": [
-      "高齢者",
-      "ADL",
       "その他"
     ],
-    "pmid": "42825944",
-    "doi": "10.1007/s00391-026-02661-3",
+    "pmid": "42826793",
+    "doi": "10.1016/j.jcpo.2026.100813",
     "published_date": "2026-10-02",
     "online_publication_date": "2026-10-02",
     "issue_date": "2026-10-02"
@@ -738,6 +736,34 @@
     "issue_date": "2026-10-02"
   },
   {
+    "title": "サルコペニアは増加リスクにあるのか?変形性関節症と骨粗鬆症への示唆",
+    "summary": "サルコペニアと変形性関節症(OA)・骨粗鬆症(OP)が共通の機序を通じて相互に悪化させ合う可能性を整理し、既存の診療資源を統合した対応の重要性を論じた総説。",
+    "url": "/rehab-paper-digest/articles/2026/10/are-we-at-risk-of-increasing-sarcopenia-implications-for-osteoarthritis-and-oste/",
+    "categories": [
+      "高齢者",
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42827061",
+    "doi": "10.1016/j.berh.2026.102204",
+    "published_date": "2026-10-02",
+    "online_publication_date": "2026-10-02",
+    "issue_date": "2026-10-02"
+  },
+  {
+    "title": "感音難聴に対する能動型人工中耳植込みの有効性と安全性:システマティックレビュー・メタ解析",
+    "summary": "中等度から重度の感音難聴患者において、人工中耳(Vibrant Soundbridge)は有意な聴力改善と比較的良好な安全性を示したが、研究間のばらつきが大きいことが報告されました。",
+    "url": "/rehab-paper-digest/articles/2026/10/active-middle-ear-implantation-for-sensorineural-hearing-loss-a-systematic-revie/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42826367",
+    "doi": "10.1097/MAO.0000000000005081",
+    "published_date": "2026-10-02",
+    "online_publication_date": "2026-10-02",
+    "issue_date": "2026-10-02"
+  },
+  {
     "title": "閉塞性睡眠時無呼吸の重症度はN2睡眠中の位相遅延指数による脳機能的結合性の低下と関連する",
     "summary": "閉塞性睡眠時無呼吸患者50例の後ろ向き解析で、無呼吸低呼吸指数が重いほどN2睡眠中のデルタ波・シータ波の位相遅延指数(PLI)による脳波機能的結合性が低下する関連がみられた。",
     "url": "/rehab-paper-digest/articles/2026/10/obstructive-sleep-apnea-severity-associates-with-reduced-phase-lag-index-functio/",
@@ -747,32 +773,6 @@
     ],
     "pmid": "42825868",
     "doi": "10.1007/s11325-026-03822-9",
-    "published_date": "2026-10-02",
-    "online_publication_date": "2026-10-02",
-    "issue_date": "2026-10-02"
-  },
-  {
-    "title": "日本におけるがん医療集約化に対する認識の地域差:患者アドボケイト調査",
-    "summary": "国立がん研究センターの患者・市民パネルへのウェブ調査により、がん医療集約化政策に対する認識やサービス利用可能性の評価に地域差があることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/10/regional-differences-in-perceptions-of-cancer-care-centralisation-in-japan-a-pat/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42826793",
-    "doi": "10.1016/j.jcpo.2026.100813",
-    "published_date": "2026-10-02",
-    "online_publication_date": "2026-10-02",
-    "issue_date": "2026-10-02"
-  },
-  {
-    "title": "ステージIII歯周炎に対する歯周治療が咀嚼機能と生活の質に与える影響",
-    "summary": "ステージIII、グレードB歯周炎患者に対する包括的歯周治療により、臨床的歯周パラメータ、咀嚼機能、口腔関連QOLが治療段階を通じて並行して改善した。",
-    "url": "/rehab-paper-digest/articles/2026/10/impact-of-periodontal-therapy-on-function-and-quality-of-life-in-stage-iii-perio/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42827084",
-    "doi": "10.1111/joor.70323",
     "published_date": "2026-10-02",
     "online_publication_date": "2026-10-02",
     "issue_date": "2026-10-02"
@@ -788,20 +788,6 @@
     "doi": "10.4103/jips.jips_38_26",
     "published_date": "2026-10-01",
     "online_publication_date": "2026-10-01",
-    "issue_date": "2026-10-01"
-  },
-  {
-    "title": "米国における認知症ケアの実践パターンは臨床医の職種によって異なる:全国規模の医療従事者調査からのエビデンス(2024-25年)",
-    "summary": "米国の臨床医4,699名を対象とした全国調査により、専門医・プライマリケア医・上級実践提供者(APP)の間で認知症診断への自信度や診療内容に違いがあることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-patterns-in-the-us-vary-by-clinician-type-evidence-from-a-national/",
-    "categories": [
-      "認知症",
-      "その他"
-    ],
-    "pmid": "42832713",
-    "doi": "10.1377/hlthaff.2025.01424",
-    "published_date": "2026-10-01",
-    "online_publication_date": "",
     "issue_date": "2026-10-01"
   },
   {
@@ -834,20 +820,6 @@
     "issue_date": "2026-10-01"
   },
   {
-    "title": "関節リウマチに対するヨガの効果:システマティックレビュー・メタ分析",
-    "summary": "関節リウマチ患者を対象としたRCT8件・651名のメタ分析で、ヨガは疾患活動性スコア(DAS28)とIL-6を有意に改善したが、身体機能(HAQ-DI)やTNF-αには有意な効果は認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/10/effects-of-yoga-on-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/",
-    "categories": [
-      "整形外科",
-      "その他"
-    ],
-    "pmid": "42827396",
-    "doi": "10.1111/1756-185x.70896",
-    "published_date": "2026-10-01",
-    "online_publication_date": "",
-    "issue_date": "2026-10-01"
-  },
-  {
     "title": "肺移植後患者におけるPerme Mobility Scaleと合併症・死亡率との関連:1年間の追跡調査",
     "summary": "肺移植後ICU患者を対象とした後ろ向き研究で、Perme Mobility Scaleによる機能評価の改善が人工呼吸期間の短縮、ICU・入院期間の短縮と関連していました。",
     "url": "/rehab-paper-digest/articles/2026/10/perme-mobility-scale-is-associated-with-morbidity-and-mortality-in-patients-unde/",
@@ -863,18 +835,62 @@
     "issue_date": "2026-10-01"
   },
   {
-    "title": "がんリハビリテーション後の復職における社会経済的格差:ドイツ年金保険データを用いた分析",
-    "summary": "ドイツの公的年金保険データを用いた分析で、低所得層はがんリハビリテーション後の復職率が低いという社会経済的格差が示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/",
+    "title": "米国における認知症ケアの実践パターンは臨床医の職種によって異なる:全国規模の医療従事者調査からのエビデンス(2024-25年)",
+    "summary": "米国の臨床医4,699名を対象とした全国調査により、専門医・プライマリケア医・上級実践提供者(APP)の間で認知症診断への自信度や診療内容に違いがあることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/10/dementia-care-patterns-in-the-us-vary-by-clinician-type-evidence-from-a-national/",
     "categories": [
-      "その他",
-      "高齢者"
+      "認知症",
+      "その他"
     ],
-    "pmid": "42819518",
-    "doi": "10.25646/14443",
+    "pmid": "42832713",
+    "doi": "10.1377/hlthaff.2025.01424",
+    "published_date": "2026-10-01",
+    "online_publication_date": "",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "関節リウマチに対するヨガの効果:システマティックレビュー・メタ分析",
+    "summary": "関節リウマチ患者を対象としたRCT8件・651名のメタ分析で、ヨガは疾患活動性スコア(DAS28)とIL-6を有意に改善したが、身体機能(HAQ-DI)やTNF-αには有意な効果は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/10/effects-of-yoga-on-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42827396",
+    "doi": "10.1111/1756-185x.70896",
+    "published_date": "2026-10-01",
+    "online_publication_date": "",
+    "issue_date": "2026-10-01"
+  },
+  {
+    "title": "心疾患を有する外来高齢患者における手首装着型活動量計の座位行動測定精度の検証",
+    "summary": "心疾患外来患者51名を対象に、市販の手首装着型活動量計と研究用加速度計で座位時間を同時測定し一致度を検討した結果、固定的なバイアスを補正することで集団レベルの一致度が大きく改善した。",
+    "url": "/rehab-paper-digest/articles/2026/09/assessment-of-wrist-worn-activity-tracker-accuracy-for-measuring-sedentary-behav/",
+    "categories": [
+      "理学療法",
+      "高齢者",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42814647",
+    "doi": "10.2196/91104",
     "published_date": "2026-09-30",
     "online_publication_date": "2026-09-30",
-    "issue_date": "2026-01-01"
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "退役軍人の軽度外傷性脳損傷後遺症に対する頭蓋電気刺激(CES)についての患者と医療者の視点",
+    "summary": "VAのポリトラウマリハビリ施設で、軽度外傷性脳損傷の持続症状管理に用いられるCESについて、患者81名と医療者23名への質的・混合研究から使用実態や受容、教育ニーズが明らかにされた。",
+    "url": "/rehab-paper-digest/articles/2026/09/patient-and-provider-perspective-of-cranioelectrical-stimulation-for-the-managem/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42814668",
+    "doi": "10.1093/milmed/usag433",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
   },
   {
     "title": "欧州ポルトガル語版Michigan Hand Outcomes Questionnaire(MHQ)の紙媒体・電子媒体における測定特性:尺度開発研究",
@@ -903,67 +919,6 @@
     ],
     "pmid": "42814801",
     "doi": "10.1126/scitranslmed.adw3644",
-    "published_date": "2026-09-30",
-    "online_publication_date": "2026-09-30",
-    "issue_date": "2026-09-30"
-  },
-  {
-    "title": "高齢者における太極拳の動作符号化学習:没入型VRと2D動画の比較ランダム化研究",
-    "summary": "地域在住高齢者を対象に没入型VRと2D動画による太極拳動作学習を比較したところ、知識スコアに差はなかったが、VR群はゲーム体験面で良好な評価を示した。",
-    "url": "/rehab-paper-digest/articles/2026/09/knowledge-performance-user-experience-and-cybersickness-with-immersive-virtual-r/",
-    "categories": [
-      "高齢者",
-      "福祉用具・支援技術",
-      "認知機能"
-    ],
-    "pmid": "42814913",
-    "doi": "10.2196/96867",
-    "published_date": "2026-09-30",
-    "online_publication_date": "2026-09-30",
-    "issue_date": "2026-09-30"
-  },
-  {
-    "title": "発話から推定する「音声年齢時計」は認知症の表現型、社会的曝露、生物学的加齢を反映する",
-    "summary": "ラテンアメリカ5カ国2928人の発話データから算出した音声年齢ギャップが、健常者と各種認知症群を区別し、リン酸化タウやエピジェネティック年齢などの生物学的加齢指標と関連することが示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/speech-clocks-decode-dementia-phenotypes-social-exposome-and-biological-aging/",
-    "categories": [
-      "認知症",
-      "言語聴覚療法",
-      "神経疾患",
-      "高齢者"
-    ],
-    "pmid": "42814823",
-    "doi": "10.1126/sciadv.aef9864",
-    "published_date": "2026-09-30",
-    "online_publication_date": "2026-09-30",
-    "issue_date": "2026-10-02"
-  },
-  {
-    "title": "心疾患を有する外来高齢患者における手首装着型活動量計の座位行動測定精度の検証",
-    "summary": "心疾患外来患者51名を対象に、市販の手首装着型活動量計と研究用加速度計で座位時間を同時測定し一致度を検討した結果、固定的なバイアスを補正することで集団レベルの一致度が大きく改善した。",
-    "url": "/rehab-paper-digest/articles/2026/09/assessment-of-wrist-worn-activity-tracker-accuracy-for-measuring-sedentary-behav/",
-    "categories": [
-      "理学療法",
-      "高齢者",
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42814647",
-    "doi": "10.2196/91104",
-    "published_date": "2026-09-30",
-    "online_publication_date": "2026-09-30",
-    "issue_date": "2026-09-30"
-  },
-  {
-    "title": "退役軍人の軽度外傷性脳損傷後遺症に対する頭蓋電気刺激(CES)についての患者と医療者の視点",
-    "summary": "VAのポリトラウマリハビリ施設で、軽度外傷性脳損傷の持続症状管理に用いられるCESについて、患者81名と医療者23名への質的・混合研究から使用実態や受容、教育ニーズが明らかにされた。",
-    "url": "/rehab-paper-digest/articles/2026/09/patient-and-provider-perspective-of-cranioelectrical-stimulation-for-the-managem/",
-    "categories": [
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42814668",
-    "doi": "10.1093/milmed/usag433",
     "published_date": "2026-09-30",
     "online_publication_date": "2026-09-30",
     "issue_date": "2026-09-30"
@@ -998,6 +953,20 @@
     "issue_date": "2026-01-01"
   },
   {
+    "title": "がんリハビリテーション後の復職における社会経済的格差:ドイツ年金保険データを用いた分析",
+    "summary": "ドイツの公的年金保険データを用いた分析で、低所得層はがんリハビリテーション後の復職率が低いという社会経済的格差が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an/",
+    "categories": [
+      "その他",
+      "高齢者"
+    ],
+    "pmid": "42819518",
+    "doi": "10.25646/14443",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "アルツハイマー病におけるオレキシン系の役割:睡眠障害から神経変性促進まで",
     "summary": "アルツハイマー病では睡眠障害とアミロイド病理が相互に悪化し合う関係にあり、その仲介因子としてオレキシン系が注目されているとする総説。",
     "url": "/rehab-paper-digest/articles/2026/09/the-orexinergic-system-in-alzheimer-s-disease-from-sleep-disruption-to-accelerat/",
@@ -1007,6 +976,37 @@
     ],
     "pmid": "42814649",
     "doi": "10.1159/ene/acsag009",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-09-30"
+  },
+  {
+    "title": "発話から推定する「音声年齢時計」は認知症の表現型、社会的曝露、生物学的加齢を反映する",
+    "summary": "ラテンアメリカ5カ国2928人の発話データから算出した音声年齢ギャップが、健常者と各種認知症群を区別し、リン酸化タウやエピジェネティック年齢などの生物学的加齢指標と関連することが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/speech-clocks-decode-dementia-phenotypes-social-exposome-and-biological-aging/",
+    "categories": [
+      "認知症",
+      "言語聴覚療法",
+      "神経疾患",
+      "高齢者"
+    ],
+    "pmid": "42814823",
+    "doi": "10.1126/sciadv.aef9864",
+    "published_date": "2026-09-30",
+    "online_publication_date": "2026-09-30",
+    "issue_date": "2026-10-02"
+  },
+  {
+    "title": "高齢者における太極拳の動作符号化学習:没入型VRと2D動画の比較ランダム化研究",
+    "summary": "地域在住高齢者を対象に没入型VRと2D動画による太極拳動作学習を比較したところ、知識スコアに差はなかったが、VR群はゲーム体験面で良好な評価を示した。",
+    "url": "/rehab-paper-digest/articles/2026/09/knowledge-performance-user-experience-and-cybersickness-with-immersive-virtual-r/",
+    "categories": [
+      "高齢者",
+      "福祉用具・支援技術",
+      "認知機能"
+    ],
+    "pmid": "42814913",
+    "doi": "10.2196/96867",
     "published_date": "2026-09-30",
     "online_publication_date": "2026-09-30",
     "issue_date": "2026-09-30"
@@ -1022,21 +1022,6 @@
     ],
     "pmid": "42809480",
     "doi": "10.1159/pps/aemag017",
-    "published_date": "2026-09-29",
-    "online_publication_date": "2026-09-29",
-    "issue_date": "2026-09-29"
-  },
-  {
-    "title": "COPD患者における呼吸リハビリテーション後の体重増加は持続するが減弱する:退院後の栄養ケアにギャップの可能性",
-    "summary": "COPD患者を対象とした多施設研究で、呼吸リハビリテーションによる体重増加は退院後も持続したものの、退院後は栄養カウンセリングの実施率が大きく低下していた。",
-    "url": "/rehab-paper-digest/articles/2026/09/sustained-but-attenuated-weight-gain-following-pulmonary-rehabilitation-in-copd/",
-    "categories": [
-      "理学療法",
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42809523",
-    "doi": "10.1159/res/aepag017",
     "published_date": "2026-09-29",
     "online_publication_date": "2026-09-29",
     "issue_date": "2026-09-29"
@@ -1073,6 +1058,21 @@
     "issue_date": "2026-10-01"
   },
   {
+    "title": "COPD患者における呼吸リハビリテーション後の体重増加は持続するが減弱する:退院後の栄養ケアにギャップの可能性",
+    "summary": "COPD患者を対象とした多施設研究で、呼吸リハビリテーションによる体重増加は退院後も持続したものの、退院後は栄養カウンセリングの実施率が大きく低下していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/sustained-but-attenuated-weight-gain-following-pulmonary-rehabilitation-in-copd/",
+    "categories": [
+      "理学療法",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42809523",
+    "doi": "10.1159/res/aepag017",
+    "published_date": "2026-09-29",
+    "online_publication_date": "2026-09-29",
+    "issue_date": "2026-09-29"
+  },
+  {
     "title": "チリ・ラアラウカニア地域における先住民マプチェと非先住民高齢者の口腔健康と社会的決定要因の比較:横断研究",
     "summary": "チリの地域在住高齢者471名を対象に、テレデンティストリーと移動診療を組み合わせたハイブリッド歯科ケアモデルのデータを用い、マプチェ(先住民)と非先住民間で口腔健康状態・歯科ケアへのアクセス・治療必要性を比較した横断研究。",
     "url": "/rehab-paper-digest/articles/2026/09/social-determinants-and-oral-health-among-indigenous-and-non-indigenous-older-ad/",
@@ -1087,18 +1087,47 @@
     "issue_date": "2026-09-29"
   },
   {
-    "title": "人工内耳装用後の聴覚神経系および行動的適応の縦断的検討",
-    "summary": "人工内耳を新規装用した成人19名を活性化後12か月まで追跡し、連続音声聴取課題における行動指標とEEG神経指標が活性化後早期に大きく改善し約6か月でプラトーに達することを示した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/longitudinal-adaptations-in-neural-and-behavioral-systems-following-hearing-rest/",
+    "title": "大学バスケットボール選手における足関節弛緩性と腓骨筋(evertor)量の相互作用が慢性足関節不安定症の症状と関連する",
+    "summary": "超音波で定量評価した足関節弛緩性は腓骨筋体積が小さい選手ほど慢性足関節不安定症の症状悪化と関連し、従来の徒手検査による弛緩性評価では同様の関連は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/greater-ankle-laxity-and-smaller-evertor-muscles-in-conjunction-are-linked-to-sy/",
     "categories": [
-      "言語聴覚療法",
-      "福祉用具・支援技術"
+      "理学療法",
+      "整形外科"
     ],
-    "pmid": "42804642",
-    "doi": "10.1073/pnas.2613077123",
+    "pmid": "42804665",
+    "doi": "10.1249/MSS.0000000000004157",
     "published_date": "2026-09-28",
     "online_publication_date": "2026-09-28",
-    "issue_date": "2026-10-06"
+    "issue_date": "2026-09-28"
+  },
+  {
+    "title": "アルコール使用障害治療における催眠を用いた認知リハビリテーションとマインドフルネス催眠の比較:作業記憶と治療同盟への効果",
+    "summary": "アルコール使用障害の入院治療患者を対象としたRCTで、催眠による認知リハビリテーション(SBCR)は作業記憶などの主要アウトカムでマインドフルネス催眠と差はなかったが、治療同盟の改善を介して再発減少や断酒自信の向上と関連する可能性が探索的に示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/hypnosis-using-cognitive-rehabilitation-versus-mindfulness-suggestions-on-workin/",
+    "categories": [
+      "精神科",
+      "認知機能"
+    ],
+    "pmid": "42804666",
+    "doi": "10.1080/00207144.2026.2728581",
+    "published_date": "2026-09-28",
+    "online_publication_date": "2026-09-28",
+    "issue_date": "2026-09-28"
+  },
+  {
+    "title": "認知症配偶者介護者における愛着不安、ミトコンドリア呼吸、将来の抑うつ症状の関連",
+    "summary": "認知症配偶者介護者166名を対象に、末梢血単核細胞のミトコンドリア予備呼吸能と愛着不安の交互作用が7か月後の抑うつ症状を予測することを示した縦断研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/attachment-anxiety-mitochondrial-respiration-and-future-depressive-symptoms-in-d/",
+    "categories": [
+      "認知症",
+      "精神科",
+      "その他"
+    ],
+    "pmid": "42804652",
+    "doi": "10.1097/PSY.0000000000001533",
+    "published_date": "2026-09-28",
+    "online_publication_date": "2026-09-28",
+    "issue_date": "2026-09-28"
   },
   {
     "title": "英語・スペイン語話者ラティーノにおけるモントリオール認知評価(MoCA)の最適カットオフ値の検討",
@@ -1116,15 +1145,16 @@
     "issue_date": "2026-09-28"
   },
   {
-    "title": "アルコール使用障害治療における催眠を用いた認知リハビリテーションとマインドフルネス催眠の比較:作業記憶と治療同盟への効果",
-    "summary": "アルコール使用障害の入院治療患者を対象としたRCTで、催眠による認知リハビリテーション(SBCR)は作業記憶などの主要アウトカムでマインドフルネス催眠と差はなかったが、治療同盟の改善を介して再発減少や断酒自信の向上と関連する可能性が探索的に示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/hypnosis-using-cognitive-rehabilitation-versus-mindfulness-suggestions-on-workin/",
+    "title": "成人難聴者に対する対面式とインターネットを介した聴覚リハビリテーションのQOLへの効果:システマティックレビュー・メタ解析",
+    "summary": "成人の難聴者を対象に、対面式とインターネットを介した聴覚リハビリテーションが聴覚関連QOLと健康関連QOLに与える効果を比較したシステマティックレビュー・メタ解析です。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-selected-components-of-aural-rehabilitation-delivered-in-person-versus/",
     "categories": [
-      "精神科",
-      "認知機能"
+      "言語聴覚療法",
+      "高齢者",
+      "福祉用具・支援技術"
     ],
-    "pmid": "42804666",
-    "doi": "10.1080/00207144.2026.2728581",
+    "pmid": "42804507",
+    "doi": "10.1080/14992027.2026.2729217",
     "published_date": "2026-09-28",
     "online_publication_date": "2026-09-28",
     "issue_date": "2026-09-28"
@@ -1146,62 +1176,18 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "認知症配偶者介護者における愛着不安、ミトコンドリア呼吸、将来の抑うつ症状の関連",
-    "summary": "認知症配偶者介護者166名を対象に、末梢血単核細胞のミトコンドリア予備呼吸能と愛着不安の交互作用が7か月後の抑うつ症状を予測することを示した縦断研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/attachment-anxiety-mitochondrial-respiration-and-future-depressive-symptoms-in-d/",
-    "categories": [
-      "認知症",
-      "精神科",
-      "その他"
-    ],
-    "pmid": "42804652",
-    "doi": "10.1097/PSY.0000000000001533",
-    "published_date": "2026-09-28",
-    "online_publication_date": "2026-09-28",
-    "issue_date": "2026-09-28"
-  },
-  {
-    "title": "大学バスケットボール選手における足関節弛緩性と腓骨筋(evertor)量の相互作用が慢性足関節不安定症の症状と関連する",
-    "summary": "超音波で定量評価した足関節弛緩性は腓骨筋体積が小さい選手ほど慢性足関節不安定症の症状悪化と関連し、従来の徒手検査による弛緩性評価では同様の関連は認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/greater-ankle-laxity-and-smaller-evertor-muscles-in-conjunction-are-linked-to-sy/",
-    "categories": [
-      "理学療法",
-      "整形外科"
-    ],
-    "pmid": "42804665",
-    "doi": "10.1249/MSS.0000000000004157",
-    "published_date": "2026-09-28",
-    "online_publication_date": "2026-09-28",
-    "issue_date": "2026-09-28"
-  },
-  {
-    "title": "成人難聴者に対する対面式とインターネットを介した聴覚リハビリテーションのQOLへの効果:システマティックレビュー・メタ解析",
-    "summary": "成人の難聴者を対象に、対面式とインターネットを介した聴覚リハビリテーションが聴覚関連QOLと健康関連QOLに与える効果を比較したシステマティックレビュー・メタ解析です。",
-    "url": "/rehab-paper-digest/articles/2026/09/effect-of-selected-components-of-aural-rehabilitation-delivered-in-person-versus/",
+    "title": "人工内耳装用後の聴覚神経系および行動的適応の縦断的検討",
+    "summary": "人工内耳を新規装用した成人19名を活性化後12か月まで追跡し、連続音声聴取課題における行動指標とEEG神経指標が活性化後早期に大きく改善し約6か月でプラトーに達することを示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/longitudinal-adaptations-in-neural-and-behavioral-systems-following-hearing-rest/",
     "categories": [
       "言語聴覚療法",
-      "高齢者",
       "福祉用具・支援技術"
     ],
-    "pmid": "42804507",
-    "doi": "10.1080/14992027.2026.2729217",
+    "pmid": "42804642",
+    "doi": "10.1073/pnas.2613077123",
     "published_date": "2026-09-28",
     "online_publication_date": "2026-09-28",
-    "issue_date": "2026-09-28"
-  },
-  {
-    "title": "膝関節症患者に対するドライニードリングと器具を用いた軟部組織モビライゼーションの短期効果:ランダム化比較試験",
-    "summary": "膝関節症患者34名を対象に、ドライニードリング・IASTM・通常理学療法の3群を比較したところ、いずれも疼痛・機能・可動域が改善し、ドライニードリングが最も改善幅が大きかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/short-term-effectiveness-of-dry-needling-and-instrument-assisted-soft-tissue-mob/",
-    "categories": [
-      "理学療法",
-      "整形外科"
-    ],
-    "pmid": "42801510",
-    "doi": "10.1080/10669817.2026.2733484",
-    "published_date": "2026-09-27",
-    "online_publication_date": "2026-09-27",
-    "issue_date": "2026-09-27"
+    "issue_date": "2026-10-06"
   },
   {
     "title": "軟骨軟化症による前膝痛に対する筋膜リリースとドライニードリングの効果比較:ランダム化比較試験",
@@ -1213,6 +1199,20 @@
     ],
     "pmid": "42801270",
     "doi": "10.1177/19417381261486230",
+    "published_date": "2026-09-27",
+    "online_publication_date": "2026-09-27",
+    "issue_date": "2026-09-27"
+  },
+  {
+    "title": "膝関節症患者に対するドライニードリングと器具を用いた軟部組織モビライゼーションの短期効果:ランダム化比較試験",
+    "summary": "膝関節症患者34名を対象に、ドライニードリング・IASTM・通常理学療法の3群を比較したところ、いずれも疼痛・機能・可動域が改善し、ドライニードリングが最も改善幅が大きかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/short-term-effectiveness-of-dry-needling-and-instrument-assisted-soft-tissue-mob/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42801510",
+    "doi": "10.1080/10669817.2026.2733484",
     "published_date": "2026-09-27",
     "online_publication_date": "2026-09-27",
     "issue_date": "2026-09-27"
@@ -1233,6 +1233,19 @@
     "issue_date": "2026-09-26"
   },
   {
+    "title": "肥満を経験して:バリアトリック手術前の人生経路と実らなかった減量努力",
+    "summary": "小児期から肥満とともに生きてきた女性21名への半構造化面接と写真伝記法を用いた質的研究で、バリアトリック手術に至るまでの人生経路が描かれた。",
+    "url": "/rehab-paper-digest/articles/2026/09/experiencing-obesity-trajectory-and-fruitless-sacrifices-to-lose-weight-prior-to/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42809792",
+    "doi": "10.1590/1980-220X-REEUSP-2026-0209en",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "頭頸部がん患者における加速度計を用いた身体活動量の変化と関連因子:前向きコホート研究",
     "summary": "頭頸部がん患者517例を診断時から治療後2年まで追跡した結果、全体としての身体活動量の変化は有意ではなかったが、併存疾患・高齢・喫煙・パフォーマンス低下は活動量低下と関連していた。",
     "url": "/rehab-paper-digest/articles/2026/09/demographic-lifestyle-and-clinical-factors-associated-with-accelerometer-based-p/",
@@ -1244,6 +1257,48 @@
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
     "issue_date": "2026-09-25"
+  },
+  {
+    "title": "支援・リハビリ・訓練技術に対するユーザー満足度質問票(U-ART-Q)の開発と内容妥当性検証",
+    "summary": "支援機器・リハビリ機器・訓練技術に対する利用者満足度を測るための新たな質問票U-ART-Qが開発され、専門家評価により内容妥当性が確認されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/user-satisfaction-with-assistive-rehabilitation-and-training-technologies-questi/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42789783",
+    "doi": "10.2196/88182",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
+    "title": "血統同一性(IBD)解析による神経変性疾患の浸透率低下の解明と遺伝子発見への応用",
+    "summary": "筋萎縮性側索硬化症(ALS)・前頭側頭型認知症(FTD)スペクトラムの大規模コホートにIBD解析を適用し、見かけ上孤発性の症例に隠れた血縁関係や遺伝的関連を明らかにし、新規疾患遺伝子座候補を同定した研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/identity-by-descent-to-resolve-reduced-penetrance-and-advance-gene-discovery-in/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42789481",
+    "doi": "10.1093/brain/awag326",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-09-25"
+  },
+  {
+    "title": "バングラデシュにおける認知症診断年齢・サブタイプ関連因子・神経画像による鑑別能:CARED研究",
+    "summary": "バングラデシュの三次医療機関における横断研究で、認知症サブタイプごとの診断年齢差や関連因子、神経画像視覚評価スケールの鑑別能を検討した。",
+    "url": "/rehab-paper-digest/articles/2026/09/age-at-dementia-diagnosis-subtype-associations-and-neuroimaging-differentiation/",
+    "categories": [
+      "認知症",
+      "神経疾患"
+    ],
+    "pmid": "42789572",
+    "doi": "10.1371/journal.pone.0359109",
+    "published_date": "2026-09-25",
+    "online_publication_date": "2026-09-25",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "跳躍高だけではない:ACLリハビリテーション過程におけるカウンタームーブメントジャンプ指標のモニタリング",
@@ -1259,51 +1314,6 @@
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
     "issue_date": "2026-09-25"
-  },
-  {
-    "title": "多領域脳波バイオマーカー統合による機械学習ベースの認知症分類",
-    "summary": "公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/",
-    "categories": [
-      "認知症",
-      "神経疾患",
-      "認知機能"
-    ],
-    "pmid": "42801300",
-    "doi": "10.3791/72549",
-    "published_date": "2026-09-25",
-    "online_publication_date": "2026-09-25",
-    "issue_date": "2026-09-25"
-  },
-  {
-    "title": "軽度認知障害高齢者におけるマインドボディ運動の非線形用量反応関係:システマティックレビュー・メタ解析",
-    "summary": "軽度認知障害高齢者を対象としたマインドボディ運動(太極拳・ヨガなど)のメタ解析で、全般的認知機能と処理速度に対する非線形(U字型)な用量反応関係が示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/nonlinear-dose-response-of-mind-body-exercise-in-older-adults-with-mild-cognitiv/",
-    "categories": [
-      "認知症",
-      "高齢者",
-      "認知機能",
-      "その他"
-    ],
-    "pmid": "42789586",
-    "doi": "10.1371/journal.pone.0350867",
-    "published_date": "2026-09-25",
-    "online_publication_date": "2026-09-25",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "バングラデシュにおける認知症診断年齢・サブタイプ関連因子・神経画像による鑑別能:CARED研究",
-    "summary": "バングラデシュの三次医療機関における横断研究で、認知症サブタイプごとの診断年齢差や関連因子、神経画像視覚評価スケールの鑑別能を検討した。",
-    "url": "/rehab-paper-digest/articles/2026/09/age-at-dementia-diagnosis-subtype-associations-and-neuroimaging-differentiation/",
-    "categories": [
-      "認知症",
-      "神経疾患"
-    ],
-    "pmid": "42789572",
-    "doi": "10.1371/journal.pone.0359109",
-    "published_date": "2026-09-25",
-    "online_publication_date": "2026-09-25",
-    "issue_date": "2026-01-01"
   },
   {
     "title": "脳卒中生存者を対象としたShort Form Stroke Impact Scale(SF-SIS)アラビア語版の異文化間適応と妥当性検証",
@@ -1335,18 +1345,19 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "支援・リハビリ・訓練技術に対するユーザー満足度質問票(U-ART-Q)の開発と内容妥当性検証",
-    "summary": "支援機器・リハビリ機器・訓練技術に対する利用者満足度を測るための新たな質問票U-ART-Qが開発され、専門家評価により内容妥当性が確認されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/user-satisfaction-with-assistive-rehabilitation-and-training-technologies-questi/",
+    "title": "パーキンソン病患者に対する運動介入が歩行・運動機能・バランスに与える効果:メタ解析",
+    "summary": "パーキンソン病患者を対象とした20件のRCT(714例)のメタ解析で、運動介入はすくみ足・運動機能・バランスの一部指標を改善させる可能性が示されたが、エビデンスの確実性は中〜低程度にとどまった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-exercise-interventions-on-gait-motor-function-and-balance-in-patients/",
     "categories": [
-      "福祉用具・支援技術",
-      "その他"
+      "理学療法",
+      "神経疾患",
+      "歩行"
     ],
-    "pmid": "42789783",
-    "doi": "10.2196/88182",
+    "pmid": "42789569",
+    "doi": "10.1371/journal.pone.0359274",
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
-    "issue_date": "2026-09-25"
+    "issue_date": "2026-01-01"
   },
   {
     "title": "「暴力は単純なものではない」:後天性脳損傷が暴力行動に果たす役割についての実践者の視点",
@@ -1364,19 +1375,19 @@
     "issue_date": "2026-09-25"
   },
   {
-    "title": "パーキンソン病患者に対する運動介入が歩行・運動機能・バランスに与える効果:メタ解析",
-    "summary": "パーキンソン病患者を対象とした20件のRCT(714例)のメタ解析で、運動介入はすくみ足・運動機能・バランスの一部指標を改善させる可能性が示されたが、エビデンスの確実性は中〜低程度にとどまった。",
-    "url": "/rehab-paper-digest/articles/2026/09/effects-of-exercise-interventions-on-gait-motor-function-and-balance-in-patients/",
+    "title": "多領域脳波バイオマーカー統合による機械学習ベースの認知症分類",
+    "summary": "公開EEGデータセットを用い、複数領域の脳波特徴量とランダムフォレストによりアルツハイマー病・前頭側頭型認知症・健常者を分類する手法を検討した研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/multidomain-electroencephalography-biomarker-fusion-for-machine-learning-based-d/",
     "categories": [
-      "理学療法",
+      "認知症",
       "神経疾患",
-      "歩行"
+      "認知機能"
     ],
-    "pmid": "42789569",
-    "doi": "10.1371/journal.pone.0359274",
+    "pmid": "42801300",
+    "doi": "10.3791/72549",
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
-    "issue_date": "2026-01-01"
+    "issue_date": "2026-09-25"
   },
   {
     "title": "地域在住高齢者におけるバランス能力と記憶機能の関連:横断研究",
@@ -1394,28 +1405,17 @@
     "issue_date": "2026-09-25"
   },
   {
-    "title": "血統同一性(IBD)解析による神経変性疾患の浸透率低下の解明と遺伝子発見への応用",
-    "summary": "筋萎縮性側索硬化症(ALS)・前頭側頭型認知症(FTD)スペクトラムの大規模コホートにIBD解析を適用し、見かけ上孤発性の症例に隠れた血縁関係や遺伝的関連を明らかにし、新規疾患遺伝子座候補を同定した研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/identity-by-descent-to-resolve-reduced-penetrance-and-advance-gene-discovery-in/",
+    "title": "軽度認知障害高齢者におけるマインドボディ運動の非線形用量反応関係:システマティックレビュー・メタ解析",
+    "summary": "軽度認知障害高齢者を対象としたマインドボディ運動(太極拳・ヨガなど)のメタ解析で、全般的認知機能と処理速度に対する非線形(U字型)な用量反応関係が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/nonlinear-dose-response-of-mind-body-exercise-in-older-adults-with-mild-cognitiv/",
     "categories": [
-      "神経疾患",
+      "認知症",
+      "高齢者",
+      "認知機能",
       "その他"
     ],
-    "pmid": "42789481",
-    "doi": "10.1093/brain/awag326",
-    "published_date": "2026-09-25",
-    "online_publication_date": "2026-09-25",
-    "issue_date": "2026-09-25"
-  },
-  {
-    "title": "肥満を経験して:バリアトリック手術前の人生経路と実らなかった減量努力",
-    "summary": "小児期から肥満とともに生きてきた女性21名への半構造化面接と写真伝記法を用いた質的研究で、バリアトリック手術に至るまでの人生経路が描かれた。",
-    "url": "/rehab-paper-digest/articles/2026/09/experiencing-obesity-trajectory-and-fruitless-sacrifices-to-lose-weight-prior-to/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42809792",
-    "doi": "10.1590/1980-220X-REEUSP-2026-0209en",
+    "pmid": "42789586",
+    "doi": "10.1371/journal.pone.0350867",
     "published_date": "2026-09-25",
     "online_publication_date": "2026-09-25",
     "issue_date": "2026-01-01"
@@ -1436,17 +1436,20 @@
     "issue_date": "2026-07-01"
   },
   {
-    "title": "アルコール使用障害の回復支援施設におけるピアサポートと2年間の完全断酒との関連:全国前向きコホート研究",
-    "summary": "薬物依存症回復支援施設(DARC)を利用するアルコール使用障害者を対象とした全国コホート研究で、良好な仲間関係と回復ロールモデルへの曝露が2年間の完全断酒と有意に関連していた。",
-    "url": "/rehab-paper-digest/articles/2026/09/peer-support-and-2-year-abstinence-in-alcohol-use-disorder-a-nationwide-prospect/",
+    "title": "脳性麻痺児に対するリアルタイムコンピュータビジョン・AIを用いた手指機能リハビリテーションプログラムの効果",
+    "summary": "脳性麻痺児を対象に、リアルタイムのコンピュータビジョンとAIを活用した手指機能訓練プログラムが上肢機能の一部指標を改善し、在宅療法としての実施可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/a-novel-real-time-computer-vision-and-artificial-intelligence-based-hand-functio/",
     "categories": [
-      "精神科"
+      "小児",
+      "作業療法",
+      "上肢機能",
+      "福祉用具・支援技術"
     ],
-    "pmid": "42781422",
-    "doi": "10.1002/pcn5.70418",
+    "pmid": "42776790",
+    "doi": "10.1080/09638288.2026.2735445",
     "published_date": "2026-09-23",
     "online_publication_date": "2026-09-23",
-    "issue_date": "2026-09-01"
+    "issue_date": "2026-09-23"
   },
   {
     "title": "障害のある子どもを持つ家族介護者におけるデジタル支援プラットフォーム利用の縦断的変化",
@@ -1459,34 +1462,6 @@
     ],
     "pmid": "42777162",
     "doi": "10.2196/92481",
-    "published_date": "2026-09-23",
-    "online_publication_date": "2026-09-23",
-    "issue_date": "2026-09-23"
-  },
-  {
-    "title": "整形外科病棟における尿閉予防のエビデンスに基づく実践ガイドライン導入:プロセス評価研究",
-    "summary": "整形外科ケアにおける尿閉予防ガイドラインの導入支援プログラムを、現地チームによるグループインタビューや記録類を用いて質的に評価した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/implementation-of-evidence-based-practice-guidelines-to-prevent-urinary-retentio/",
-    "categories": [
-      "整形外科",
-      "その他"
-    ],
-    "pmid": "42776945",
-    "doi": "10.1371/journal.pone.0338755",
-    "published_date": "2026-09-23",
-    "online_publication_date": "2026-09-23",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "標準眼内レンズと望遠鏡インプラント(SING-IMT)を組み合わせた二重眼内システムの世界初ヒト移植:光学シミュレーション・前臨床検証・臨床実施可能性",
-    "summary": "進行加齢黄斑変性に対し標準眼内レンズと望遠鏡型インプラントを併用する新しい術式について、光学シミュレーション・豚モデルでの前臨床検証・世界初のヒト移植を通じて実施可能性と短期安全性を検討した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/first-in-human-implantation-of-an-add-on-dual-intraocular-system-combining-a-sta/",
-    "categories": [
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42776856",
-    "doi": "10.1097/IAE.0000000000005023",
     "published_date": "2026-09-23",
     "online_publication_date": "2026-09-23",
     "issue_date": "2026-09-23"
@@ -1508,20 +1483,17 @@
     "issue_date": "2026-10-27"
   },
   {
-    "title": "脳性麻痺児に対するリアルタイムコンピュータビジョン・AIを用いた手指機能リハビリテーションプログラムの効果",
-    "summary": "脳性麻痺児を対象に、リアルタイムのコンピュータビジョンとAIを活用した手指機能訓練プログラムが上肢機能の一部指標を改善し、在宅療法としての実施可能性が示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/a-novel-real-time-computer-vision-and-artificial-intelligence-based-hand-functio/",
+    "title": "アルコール使用障害の回復支援施設におけるピアサポートと2年間の完全断酒との関連:全国前向きコホート研究",
+    "summary": "薬物依存症回復支援施設(DARC)を利用するアルコール使用障害者を対象とした全国コホート研究で、良好な仲間関係と回復ロールモデルへの曝露が2年間の完全断酒と有意に関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/peer-support-and-2-year-abstinence-in-alcohol-use-disorder-a-nationwide-prospect/",
     "categories": [
-      "小児",
-      "作業療法",
-      "上肢機能",
-      "福祉用具・支援技術"
+      "精神科"
     ],
-    "pmid": "42776790",
-    "doi": "10.1080/09638288.2026.2735445",
+    "pmid": "42781422",
+    "doi": "10.1002/pcn5.70418",
     "published_date": "2026-09-23",
     "online_publication_date": "2026-09-23",
-    "issue_date": "2026-09-23"
+    "issue_date": "2026-09-01"
   },
   {
     "title": "パーキンソン病における運動サブ回路の機能的再編成",
@@ -1539,6 +1511,20 @@
     "issue_date": "2026-01-01"
   },
   {
+    "title": "標準眼内レンズと望遠鏡インプラント(SING-IMT)を組み合わせた二重眼内システムの世界初ヒト移植:光学シミュレーション・前臨床検証・臨床実施可能性",
+    "summary": "進行加齢黄斑変性に対し標準眼内レンズと望遠鏡型インプラントを併用する新しい術式について、光学シミュレーション・豚モデルでの前臨床検証・世界初のヒト移植を通じて実施可能性と短期安全性を検討した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/first-in-human-implantation-of-an-add-on-dual-intraocular-system-combining-a-sta/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42776856",
+    "doi": "10.1097/IAE.0000000000005023",
+    "published_date": "2026-09-23",
+    "online_publication_date": "2026-09-23",
+    "issue_date": "2026-09-23"
+  },
+  {
     "title": "デンマーク語版QPR(回復過程質問票)の妥当性検証:心理測定学的特性、変化への感度、意味のある差異の閾値",
     "summary": "デンマークの地域精神保健サービス利用者を対象に、主観的リカバリーを評価するQPR-15とQPR-7のデンマーク語版を検証し、QPR-7が良好な心理測定学的特性と解釈可能な閾値を持つことを示した研究です。",
     "url": "/rehab-paper-digest/articles/2026/09/validation-of-the-danish-version-of-the-questionnaire-about-the-process-of-recov/",
@@ -1552,18 +1538,17 @@
     "issue_date": "2026-09-23"
   },
   {
-    "title": "アルツハイマー病:分子病態から疾患修飾療法、そして高齢者臨床への実装まで",
-    "summary": "アルツハイマー病の分子病態から最新の抗アミロイド抗体薬、遺伝学的背景、診断バイオマーカー、高齢者臨床への実装課題までを包括的に整理したナラティブレビューです。",
-    "url": "/rehab-paper-digest/articles/2026/09/alzheimer-s-disease-from-molecular-pathogenesis-to-disease-modifying-therapies-a/",
+    "title": "整形外科病棟における尿閉予防のエビデンスに基づく実践ガイドライン導入:プロセス評価研究",
+    "summary": "整形外科ケアにおける尿閉予防ガイドラインの導入支援プログラムを、現地チームによるグループインタビューや記録類を用いて質的に評価した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/implementation-of-evidence-based-practice-guidelines-to-prevent-urinary-retentio/",
     "categories": [
-      "認知症",
-      "神経疾患",
-      "高齢者"
+      "整形外科",
+      "その他"
     ],
-    "pmid": "42801246",
-    "doi": "10.2147/CIA.S639690",
-    "published_date": "2026-09-22",
-    "online_publication_date": "2026-09-22",
+    "pmid": "42776945",
+    "doi": "10.1371/journal.pone.0338755",
+    "published_date": "2026-09-23",
+    "online_publication_date": "2026-09-23",
     "issue_date": "2026-01-01"
   },
   {
@@ -1579,20 +1564,6 @@
     "published_date": "2026-09-22",
     "online_publication_date": "2026-09-22",
     "issue_date": "2026-10-01"
-  },
-  {
-    "title": "慢性足関節不安定性を有する女性バレーボール選手におけるストロボスコピック眼鏡バランストレーニングと従来型バランストレーニングの比較:ランダム化比較試験",
-    "summary": "慢性足関節不安定性を持つ女性バレーボール選手において、ストロボスコピック眼鏡を用いたバランストレーニングは従来型トレーニングと同様に神経筋機能を改善し、静止立位バランスと主観的な足関節安定感ではより大きな改善が見られた。",
-    "url": "/rehab-paper-digest/articles/2026/09/stroboscopic-versus-traditional-balance-training-in-female-volleyball-players-wi/",
-    "categories": [
-      "理学療法",
-      "整形外科"
-    ],
-    "pmid": "42770538",
-    "doi": "10.1177/19417381261483200",
-    "published_date": "2026-09-22",
-    "online_publication_date": "2026-09-22",
-    "issue_date": "2026-09-22"
   },
   {
     "title": "アルツハイマー病の診断と病理における遺伝的レジリエンスとレジスタンス",
@@ -1624,6 +1595,35 @@
     "issue_date": "2026-09-22"
   },
   {
+    "title": "慢性足関節不安定性を有する女性バレーボール選手におけるストロボスコピック眼鏡バランストレーニングと従来型バランストレーニングの比較:ランダム化比較試験",
+    "summary": "慢性足関節不安定性を持つ女性バレーボール選手において、ストロボスコピック眼鏡を用いたバランストレーニングは従来型トレーニングと同様に神経筋機能を改善し、静止立位バランスと主観的な足関節安定感ではより大きな改善が見られた。",
+    "url": "/rehab-paper-digest/articles/2026/09/stroboscopic-versus-traditional-balance-training-in-female-volleyball-players-wi/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42770538",
+    "doi": "10.1177/19417381261483200",
+    "published_date": "2026-09-22",
+    "online_publication_date": "2026-09-22",
+    "issue_date": "2026-09-22"
+  },
+  {
+    "title": "アルツハイマー病:分子病態から疾患修飾療法、そして高齢者臨床への実装まで",
+    "summary": "アルツハイマー病の分子病態から最新の抗アミロイド抗体薬、遺伝学的背景、診断バイオマーカー、高齢者臨床への実装課題までを包括的に整理したナラティブレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/09/alzheimer-s-disease-from-molecular-pathogenesis-to-disease-modifying-therapies-a/",
+    "categories": [
+      "認知症",
+      "神経疾患",
+      "高齢者"
+    ],
+    "pmid": "42801246",
+    "doi": "10.2147/CIA.S639690",
+    "published_date": "2026-09-22",
+    "online_publication_date": "2026-09-22",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "脳卒中リハビリテーションにおける拡張現実(AR)訓練前のミラーセラピー実施の効果:ランダム化比較試験",
     "summary": "初発脳卒中患者を対象に、ミラーセラピーを前処置として組み合わせたAR訓練は、AR単独や通常療法と比べて運動・感覚機能の改善で優れた結果を示した。",
     "url": "/rehab-paper-digest/articles/2026/09/outcomes-of-mirror-therapy-preceding-augmented-reality-in-stroke-rehabilitation/",
@@ -1640,15 +1640,16 @@
     "issue_date": "2026-09-22"
   },
   {
-    "title": "人工内耳リハビリテーション転帰のデータ駆動型多変量予測分析",
-    "summary": "人工内耳術後の聴力改善に影響する術前聴力指標は年齢によって異なり、若年者では移植耳の残存聴力が、高齢者では非移植耳(対側耳)の聴力がそれぞれ改善速度の予測因子となることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/data-driven-multiparameter-predictive-analysis-of-cochlear-implant-rehabilitatio/",
+    "title": "中国における脊髄損傷の疾病負担の経年推移・要因分解・2050年までの将来予測",
+    "summary": "Global Burden of Disease 2023データを用いた解析で、中国の脊髄損傷は1990年から2023年にかけて症例数が増加し、頸髄損傷と転倒による負担が特に増大しており、2050年まで高い有病数が続くと予測されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/secular-trends-decomposition-and-projections-of-spinal-cord-injury-burden-in-chi/",
     "categories": [
-      "言語聴覚療法",
+      "神経疾患",
+      "高齢者",
       "その他"
     ],
-    "pmid": "42770793",
-    "doi": "10.1097/MAO.0000000000005076",
+    "pmid": "42766468",
+    "doi": "10.1159/ned/adwag035",
     "published_date": "2026-09-21",
     "online_publication_date": "2026-09-21",
     "issue_date": "2026-09-21"
@@ -1668,16 +1669,16 @@
     "issue_date": "2026-09-21"
   },
   {
-    "title": "COPD向けデジタル自己管理ツールmyCOPDの提供方法が2つの臨床現場での患者エンゲージメントに与える影響:質的研究",
-    "summary": "COPDのデジタル自己管理ツールmyCOPDは、地域リハビリでの能動的・関係性重視の提供が、病院退院支援での受動的な導入よりも持続的な患者エンゲージメントを促す可能性が示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/understanding-delivery-and-engagement-with-a-digital-self-management-interventio/",
+    "title": "大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション",
+    "summary": "Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/",
     "categories": [
-      "理学療法",
-      "福祉用具・支援技術",
+      "認知症",
+      "認知機能",
       "その他"
     ],
-    "pmid": "42766845",
-    "doi": "10.2196/88108",
+    "pmid": "42766599",
+    "doi": "10.2196/93279",
     "published_date": "2026-09-21",
     "online_publication_date": "2026-09-21",
     "issue_date": "2026-09-21"
@@ -1698,16 +1699,16 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "大規模言語モデルによるマルチモーダル認知症予測:テキスト・音声・画像間のクロスアテンション",
-    "summary": "Cookie Theft絵画説明課題のテキスト・音声・画像情報を双方向クロスアテンションで統合することで、アルツハイマー病の検出と重症度予測の精度が単一モダリティや従来の融合手法より向上したことを示した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/multimodal-dementia-prediction-with-large-language-models-cross-attention-over-t/",
+    "title": "タイ農村部の地域リハビリセンターにおける脳卒中生存者向け作業に基づく実践(OBP)サービス提供モデルの開発と実施可能性:混合研究法によるフィージビリティスタディ",
+    "summary": "タイ農村部の地域リハビリセンターで、脳卒中生存者7名に対し作業に基づく実践(OBP)モデルを実施したところ、作業遂行・目標達成・QOLの改善がみられ、担当作業療法士も実施可能性と実践的有用性を実感した予備的研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/developing-and-implementing-an-occupation-based-practice-service-delivery-model/",
     "categories": [
-      "認知症",
-      "認知機能",
-      "その他"
+      "作業療法",
+      "脳卒中",
+      "ADL"
     ],
-    "pmid": "42766599",
-    "doi": "10.2196/93279",
+    "pmid": "42766796",
+    "doi": "10.2196/91118",
     "published_date": "2026-09-21",
     "online_publication_date": "2026-09-21",
     "issue_date": "2026-09-21"
@@ -1727,36 +1728,6 @@
     "issue_date": "2026-09-21"
   },
   {
-    "title": "中国における脊髄損傷の疾病負担の経年推移・要因分解・2050年までの将来予測",
-    "summary": "Global Burden of Disease 2023データを用いた解析で、中国の脊髄損傷は1990年から2023年にかけて症例数が増加し、頸髄損傷と転倒による負担が特に増大しており、2050年まで高い有病数が続くと予測されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/secular-trends-decomposition-and-projections-of-spinal-cord-injury-burden-in-chi/",
-    "categories": [
-      "神経疾患",
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42766468",
-    "doi": "10.1159/ned/adwag035",
-    "published_date": "2026-09-21",
-    "online_publication_date": "2026-09-21",
-    "issue_date": "2026-09-21"
-  },
-  {
-    "title": "タイ農村部の地域リハビリセンターにおける脳卒中生存者向け作業に基づく実践(OBP)サービス提供モデルの開発と実施可能性:混合研究法によるフィージビリティスタディ",
-    "summary": "タイ農村部の地域リハビリセンターで、脳卒中生存者7名に対し作業に基づく実践(OBP)モデルを実施したところ、作業遂行・目標達成・QOLの改善がみられ、担当作業療法士も実施可能性と実践的有用性を実感した予備的研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/developing-and-implementing-an-occupation-based-practice-service-delivery-model/",
-    "categories": [
-      "作業療法",
-      "脳卒中",
-      "ADL"
-    ],
-    "pmid": "42766796",
-    "doi": "10.2196/91118",
-    "published_date": "2026-09-21",
-    "online_publication_date": "2026-09-21",
-    "issue_date": "2026-09-21"
-  },
-  {
     "title": "慢性的な息切れを有する人へのウォーキングフットボール:混合研究法によるプルーフオブコンセプト研究",
     "summary": "呼吸リハビリテーション終了後の運動維持手段として、ウォーキングフットボールの実行可能性を少人数の観察研究で探索的に検討した研究です。",
     "url": "/rehab-paper-digest/articles/2026/09/walking-football-for-people-with-chronic-breathlessness-a-mixed-methods-proof-of/",
@@ -1771,19 +1742,33 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "Tetragrip：頸髄損傷による四肢麻痺者の上肢機能を補助する機能的電気刺激(FES)デバイスの開発、技術評価、および予備的臨床調査",
-    "summary": "C5-C7頸髄損傷による四肢麻痺者向けに開発された5チャンネルFESデバイス「Tetragrip」について、健常者での技術評価と少数の脊髄損傷当事者による予備的な使用感評価を報告した論文。",
-    "url": "/rehab-paper-digest/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/",
+    "title": "人工内耳リハビリテーション転帰のデータ駆動型多変量予測分析",
+    "summary": "人工内耳術後の聴力改善に影響する術前聴力指標は年齢によって異なり、若年者では移植耳の残存聴力が、高齢者では非移植耳(対側耳)の聴力がそれぞれ改善速度の予測因子となることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/data-driven-multiparameter-predictive-analysis-of-cochlear-implant-rehabilitatio/",
     "categories": [
-      "福祉用具・支援技術",
-      "上肢機能",
-      "神経疾患"
+      "言語聴覚療法",
+      "その他"
     ],
-    "pmid": "42763894",
-    "doi": "10.1080/03091902.2026.2718865",
-    "published_date": "2026-09-20",
-    "online_publication_date": "2026-09-20",
-    "issue_date": "2026-09-20"
+    "pmid": "42770793",
+    "doi": "10.1097/MAO.0000000000005076",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
+  },
+  {
+    "title": "COPD向けデジタル自己管理ツールmyCOPDの提供方法が2つの臨床現場での患者エンゲージメントに与える影響:質的研究",
+    "summary": "COPDのデジタル自己管理ツールmyCOPDは、地域リハビリでの能動的・関係性重視の提供が、病院退院支援での受動的な導入よりも持続的な患者エンゲージメントを促す可能性が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/understanding-delivery-and-engagement-with-a-digital-self-management-interventio/",
+    "categories": [
+      "理学療法",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42766845",
+    "doi": "10.2196/88108",
+    "published_date": "2026-09-21",
+    "online_publication_date": "2026-09-21",
+    "issue_date": "2026-09-21"
   },
   {
     "title": "デュシェンヌ型筋ジストロフィー男性における電動車椅子操作への電気ハンドウォーマーの影響",
@@ -1796,6 +1781,21 @@
     ],
     "pmid": "42763902",
     "doi": "10.1080/17483107.2026.2734710",
+    "published_date": "2026-09-20",
+    "online_publication_date": "2026-09-20",
+    "issue_date": "2026-09-20"
+  },
+  {
+    "title": "Tetragrip：頸髄損傷による四肢麻痺者の上肢機能を補助する機能的電気刺激(FES)デバイスの開発、技術評価、および予備的臨床調査",
+    "summary": "C5-C7頸髄損傷による四肢麻痺者向けに開発された5チャンネルFESデバイス「Tetragrip」について、健常者での技術評価と少数の脊髄損傷当事者による予備的な使用感評価を報告した論文。",
+    "url": "/rehab-paper-digest/articles/2026/09/tetragrip-a-functional-electrical-stimulation-fes-device-for-enhancing-upper-lim/",
+    "categories": [
+      "福祉用具・支援技術",
+      "上肢機能",
+      "神経疾患"
+    ],
+    "pmid": "42763894",
+    "doi": "10.1080/03091902.2026.2718865",
     "published_date": "2026-09-20",
     "online_publication_date": "2026-09-20",
     "issue_date": "2026-09-20"
@@ -1816,21 +1816,6 @@
     "issue_date": "2026-09-20"
   },
   {
-    "title": "虚血性脳卒中ステント留置後患者における運動恐怖症の関連因子:混合研究法による検討",
-    "summary": "虚血性脳卒中でステント留置を受けた患者215名を対象に、運動恐怖症に関連する因子を量的・質的手法を組み合わせて検討した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/factors-influencing-kinesiophobia-in-patients-after-ischemic-stroke-stent-placem/",
-    "categories": [
-      "脳卒中",
-      "理学療法",
-      "その他"
-    ],
-    "pmid": "42781528",
-    "doi": "10.2147/IJGM.S613458",
-    "published_date": "2026-09-19",
-    "online_publication_date": "2026-09-19",
-    "issue_date": "2026-01-01"
-  },
-  {
     "title": "COPDにおける血中好酸球数と2型生物学的製剤の適格性:全員が対象となるわけではない",
     "summary": "入院リハビリテーションを受けたCOPD患者441例のうち、2型生物学的製剤の適格基準を満たしたのは6.8%にとどまった。",
     "url": "/rehab-paper-digest/articles/2026/09/blood-eosinophils-in-copd-are-biologics-for-everyone/",
@@ -1844,34 +1829,18 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "脳卒中亜急性期リハビリテーション早期における両側ヒラメ筋運動単位協調の破綻",
-    "summary": "脳卒中亜急性期患者では立位時のヒラメ筋運動単位の両側同期性が低下しており、その改善がバランス機能(BBS)の改善と強く関連していた。",
-    "url": "/rehab-paper-digest/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/",
+    "title": "虚血性脳卒中ステント留置後患者における運動恐怖症の関連因子:混合研究法による検討",
+    "summary": "虚血性脳卒中でステント留置を受けた患者215名を対象に、運動恐怖症に関連する因子を量的・質的手法を組み合わせて検討した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/factors-influencing-kinesiophobia-in-patients-after-ischemic-stroke-stent-placem/",
     "categories": [
       "脳卒中",
       "理学療法",
-      "神経疾患",
       "その他"
     ],
-    "pmid": "42758877",
-    "doi": "10.1113/JP290882",
-    "published_date": "2026-09-18",
-    "online_publication_date": "2026-09-18",
-    "issue_date": "2026-09-18"
-  },
-  {
-    "title": "パーキンソン病患者に対する基本運動療法とデュアルタスク運動療法が身体機能に与える効果:PARKEX研究",
-    "summary": "パーキンソン病患者24名を対象としたランダム化比較試験で、基本運動療法とデュアルタスク運動療法はいずれも下肢筋力と機能的移動能力を改善したが、生活の質や抑うつ症状には統計的な有意差は認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/effects-of-basic-and-dual-task-training-programs-on-physical-function-in-parkins/",
-    "categories": [
-      "理学療法",
-      "神経疾患",
-      "歩行"
-    ],
-    "pmid": "42758697",
-    "doi": "10.1371/journal.pone.0358534",
-    "published_date": "2026-09-18",
-    "online_publication_date": "2026-09-18",
+    "pmid": "42781528",
+    "doi": "10.2147/IJGM.S613458",
+    "published_date": "2026-09-19",
+    "online_publication_date": "2026-09-19",
     "issue_date": "2026-01-01"
   },
   {
@@ -1889,34 +1858,6 @@
     "issue_date": "2026-09-18"
   },
   {
-    "title": "米国中年層における機能障害の軌跡と発生率の出生コホート別動向",
-    "summary": "米国の代表的コホート研究において、1935~1959年生まれの4つの出生コホートを比較したところ、より新しい世代ほど中年期(65歳未満)の日常生活動作(ADL/IADL)機能障害の軌跡と発生率が改善していた。",
-    "url": "/rehab-paper-digest/articles/2026/09/trends-in-trajectories-and-incidence-of-functional-impairment-in-middle-aged-ame/",
-    "categories": [
-      "高齢者",
-      "ADL",
-      "その他"
-    ],
-    "pmid": "42758739",
-    "doi": "10.1371/journal.pone.0358337",
-    "published_date": "2026-09-18",
-    "online_publication_date": "2026-09-18",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "摂食障害治療に関するブラジル精神医学会ガイドライン",
-    "summary": "ブラジル精神医学会が神経性やせ症・神経性過食症・過食性障害の治療について、エビデンスに基づく多職種連携の推奨をまとめたガイドラインです。",
-    "url": "/rehab-paper-digest/articles/2026/09/brazilian-psychiatric-association-guidelines-for-the-treatment-of-eating-disorde/",
-    "categories": [
-      "精神科"
-    ],
-    "pmid": "42758807",
-    "doi": "10.47626/1516-4446-2026-5102",
-    "published_date": "2026-09-18",
-    "online_publication_date": "2026-09-18",
-    "issue_date": "2026-09-18"
-  },
-  {
     "title": "東アジア系米国人の高齢認知症介護者における介護の時間的負荷と精神的健康の関連",
     "summary": "東アジア系米国人の認知症介護者82名を対象とした横断調査で、客観的な介護時間よりも主観的な介護負担感がうつ症状と強く関連することが示された。",
     "url": "/rehab-paper-digest/articles/2026/09/how-temporal-caregiving-demands-shape-mental-health-among-older-east-asian-demen/",
@@ -1930,6 +1871,21 @@
     "published_date": "2026-09-18",
     "online_publication_date": "2026-09-18",
     "issue_date": "2026-09-18"
+  },
+  {
+    "title": "米国中年層における機能障害の軌跡と発生率の出生コホート別動向",
+    "summary": "米国の代表的コホート研究において、1935~1959年生まれの4つの出生コホートを比較したところ、より新しい世代ほど中年期(65歳未満)の日常生活動作(ADL/IADL)機能障害の軌跡と発生率が改善していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/trends-in-trajectories-and-incidence-of-functional-impairment-in-middle-aged-ame/",
+    "categories": [
+      "高齢者",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42758739",
+    "doi": "10.1371/journal.pone.0358337",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "2型糖尿病を有する高齢者に対する用手的横隔膜リリース技術が運動耐容能と睡眠の質に与える効果:ランダム化対照試験",
@@ -1962,6 +1918,50 @@
     "issue_date": "2026-09-18"
   },
   {
+    "title": "脳卒中亜急性期リハビリテーション早期における両側ヒラメ筋運動単位協調の破綻",
+    "summary": "脳卒中亜急性期患者では立位時のヒラメ筋運動単位の両側同期性が低下しており、その改善がバランス機能(BBS)の改善と強く関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/disrupted-bilateral-co-ordination-of-soleus-motor-units-during-early-subacute-st/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42758877",
+    "doi": "10.1113/JP290882",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "摂食障害治療に関するブラジル精神医学会ガイドライン",
+    "summary": "ブラジル精神医学会が神経性やせ症・神経性過食症・過食性障害の治療について、エビデンスに基づく多職種連携の推奨をまとめたガイドラインです。",
+    "url": "/rehab-paper-digest/articles/2026/09/brazilian-psychiatric-association-guidelines-for-the-treatment-of-eating-disorde/",
+    "categories": [
+      "精神科"
+    ],
+    "pmid": "42758807",
+    "doi": "10.47626/1516-4446-2026-5102",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-09-18"
+  },
+  {
+    "title": "パーキンソン病患者に対する基本運動療法とデュアルタスク運動療法が身体機能に与える効果:PARKEX研究",
+    "summary": "パーキンソン病患者24名を対象としたランダム化比較試験で、基本運動療法とデュアルタスク運動療法はいずれも下肢筋力と機能的移動能力を改善したが、生活の質や抑うつ症状には統計的な有意差は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-basic-and-dual-task-training-programs-on-physical-function-in-parkins/",
+    "categories": [
+      "理学療法",
+      "神経疾患",
+      "歩行"
+    ],
+    "pmid": "42758697",
+    "doi": "10.1371/journal.pone.0358534",
+    "published_date": "2026-09-18",
+    "online_publication_date": "2026-09-18",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "脳卒中後の記憶リハビリテーションにおける目標と主観的記憶の問題の一致度がアウトカム測定に与える影響",
     "summary": "脳卒中後の記憶リハビリでは、参加者自身が設定した目標に一致する記憶の問題の方が、目標と一致しない問題よりも初期介入で改善しやすいことが示された。",
     "url": "/rehab-paper-digest/articles/2026/09/alignment-between-goals-and-subjective-memory-concerns-in-measuring-outcomes-of/",
@@ -1977,16 +1977,16 @@
     "issue_date": "2026-09-18"
   },
   {
-    "title": "回復期リハビリテーション病棟における高齢脳卒中患者への構造化デジタル機器指導プログラム:実行可能性研究",
-    "summary": "回復期リハビリ病棟に入院する高齢脳卒中患者19名を対象に、14日間のデジタル機器使用指導プログラムを実施したところ、多くの参加者が退院までに基本操作の自立を達成した。",
-    "url": "/rehab-paper-digest/articles/2026/09/structured-digital-device-instruction-for-older-adults-with-stroke-during-conval/",
+    "title": "手段的日常生活動作(IADL)の変化パターンと全死亡リスクの関連:抑うつ症状の媒介効果に関する韓国の追跡研究",
+    "summary": "韓国の中高年6033人を長期追跡した結果、IADL制限が増加していく群は死亡リスクが高く、その関連の一部は抑うつ症状によって媒介されていた。",
+    "url": "/rehab-paper-digest/articles/2026/09/mediating-role-of-depressive-symptoms-in-the-association-between-trajectories-of/",
     "categories": [
-      "脳卒中",
       "高齢者",
-      "福祉用具・支援技術"
+      "ADL",
+      "精神科"
     ],
-    "pmid": "42753251",
-    "doi": "10.2196/95768",
+    "pmid": "42753032",
+    "doi": "10.1007/s11357-026-02536-w",
     "published_date": "2026-09-17",
     "online_publication_date": "2026-09-17",
     "issue_date": "2026-09-17"
@@ -2006,30 +2006,16 @@
     "issue_date": "2026-09-17"
   },
   {
-    "title": "有酸素運動とレジスタンス運動の複合トレーニングはマウスの白色脂肪組織の褐色化を誘導する",
-    "summary": "マウスを用いた実験で、8週間の複合トレーニング(有酸素+レジスタンス)が白色脂肪組織において褐色脂肪細胞様の特徴(ブラウニング)を誘導することが示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/a-combination-of-aerobic-and-resistance-training-induces-white-adipose-tissue-br/",
+    "title": "回復期リハビリテーション病棟における高齢脳卒中患者への構造化デジタル機器指導プログラム:実行可能性研究",
+    "summary": "回復期リハビリ病棟に入院する高齢脳卒中患者19名を対象に、14日間のデジタル機器使用指導プログラムを実施したところ、多くの参加者が退院までに基本操作の自立を達成した。",
+    "url": "/rehab-paper-digest/articles/2026/09/structured-digital-device-instruction-for-older-adults-with-stroke-during-conval/",
     "categories": [
-      "理学療法",
-      "その他"
-    ],
-    "pmid": "42753033",
-    "doi": "10.1007/s13105-026-01234-7",
-    "published_date": "2026-09-17",
-    "online_publication_date": "2026-09-17",
-    "issue_date": "2026-09-17"
-  },
-  {
-    "title": "手段的日常生活動作(IADL)の変化パターンと全死亡リスクの関連:抑うつ症状の媒介効果に関する韓国の追跡研究",
-    "summary": "韓国の中高年6033人を長期追跡した結果、IADL制限が増加していく群は死亡リスクが高く、その関連の一部は抑うつ症状によって媒介されていた。",
-    "url": "/rehab-paper-digest/articles/2026/09/mediating-role-of-depressive-symptoms-in-the-association-between-trajectories-of/",
-    "categories": [
+      "脳卒中",
       "高齢者",
-      "ADL",
-      "精神科"
+      "福祉用具・支援技術"
     ],
-    "pmid": "42753032",
-    "doi": "10.1007/s11357-026-02536-w",
+    "pmid": "42753251",
+    "doi": "10.2196/95768",
     "published_date": "2026-09-17",
     "online_publication_date": "2026-09-17",
     "issue_date": "2026-09-17"
@@ -2050,30 +2036,29 @@
     "issue_date": "2026-09-17"
   },
   {
-    "title": "閉塞性睡眠時無呼吸に対するリハビリテーションと運動療法:無呼吸低呼吸指数(AHI)を超えた視点",
-    "summary": "閉塞性睡眠時無呼吸(OSA)に対する運動療法や口腔咽頭筋機能療法などのリハビリテーション介入が、AHIの変化が乏しい場合でも眠気・睡眠の質・機能的能力・認知機能・QOLを改善しうることを整理したナラティブレビュー。",
-    "url": "/rehab-paper-digest/articles/2026/09/rehabilitation-and-therapeutic-exercise-in-obstructive-sleep-apnea-a-perspective/",
+    "title": "有酸素運動とレジスタンス運動の複合トレーニングはマウスの白色脂肪組織の褐色化を誘導する",
+    "summary": "マウスを用いた実験で、8週間の複合トレーニング(有酸素+レジスタンス)が白色脂肪組織において褐色脂肪細胞様の特徴(ブラウニング)を誘導することが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/a-combination-of-aerobic-and-resistance-training-induces-white-adipose-tissue-br/",
     "categories": [
       "理学療法",
       "その他"
     ],
-    "pmid": "42819610",
-    "doi": "10.3389/fmed.2026.1873380",
-    "published_date": "2026-09-16",
-    "online_publication_date": "2026-09-16",
-    "issue_date": "2026-01-01"
+    "pmid": "42753033",
+    "doi": "10.1007/s13105-026-01234-7",
+    "published_date": "2026-09-17",
+    "online_publication_date": "2026-09-17",
+    "issue_date": "2026-09-17"
   },
   {
-    "title": "無線インソール型センサー(WalkinSense)を用いた準自由生活環境下での日常生活活動分類の検証",
-    "summary": "圧力・慣性データを統合した無線インソール型センサーが、準自由生活環境下で日常生活活動の種類や継続時間、歩数をおおむね高い精度で分類できることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/classification-of-daily-activities-using-a-wireless-instrumented-insole-walkinse/",
+    "title": "若年サッカー選手における片側性バランス単独トレーニングと複合(バランス+プライオメトリック)トレーニングが左右のバランス能力非対称性に与える効果の比較",
+    "summary": "若年男子サッカー選手を対象に、非利き足への片側性バランス単独トレーニングと、バランス+プライオメトリックを組み合わせた複合トレーニングを比較したところ、いずれも静的・動的な左右バランス能力を改善させたが、明確な優劣は示されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-unilateral-single-mode-balance-training-compared-to-combined-balance/",
     "categories": [
-      "福祉用具・支援技術",
-      "歩行",
-      "ADL"
+      "理学療法",
+      "その他"
     ],
-    "pmid": "42748102",
-    "doi": "10.1371/journal.pone.0357961",
+    "pmid": "42748111",
+    "doi": "10.1371/journal.pone.0358565",
     "published_date": "2026-09-16",
     "online_publication_date": "2026-09-16",
     "issue_date": "2026-01-01"
@@ -2094,6 +2079,21 @@
     "issue_date": "2026-09-16"
   },
   {
+    "title": "無線インソール型センサー(WalkinSense)を用いた準自由生活環境下での日常生活活動分類の検証",
+    "summary": "圧力・慣性データを統合した無線インソール型センサーが、準自由生活環境下で日常生活活動の種類や継続時間、歩数をおおむね高い精度で分類できることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/classification-of-daily-activities-using-a-wireless-instrumented-insole-walkinse/",
+    "categories": [
+      "福祉用具・支援技術",
+      "歩行",
+      "ADL"
+    ],
+    "pmid": "42748102",
+    "doi": "10.1371/journal.pone.0357961",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "在宅認知症介護を支援するmHealthアプリのための介護者の課題と機能要件:質的インタビュー研究",
     "summary": "インドネシアの認知症介護者・医療従事者へのインタビューから、在宅介護の課題とそれに対応するmHealthアプリの機能要件を参加型デザインで抽出した質的研究。",
     "url": "/rehab-paper-digest/articles/2026/09/caregiver-challenges-and-functional-requirements-for-an-mhealth-app-supporting-h/",
@@ -2103,21 +2103,6 @@
     ],
     "pmid": "42748455",
     "doi": "10.2196/87234",
-    "published_date": "2026-09-16",
-    "online_publication_date": "2026-09-16",
-    "issue_date": "2026-09-16"
-  },
-  {
-    "title": "マラウイ農村部における脳性麻痺児の介護:主介護者の経験と支援ニーズに関する混合研究",
-    "summary": "マラウイ農村部で脳性麻痺児を介護する主介護者42名を対象に、介護負担の実態と対処・支援ニーズを混合研究法で検討したところ、高い介護負担が示され、貧困やスティグマの影響とレジリエンスによる対処が明らかになった。",
-    "url": "/rehab-paper-digest/articles/2026/09/caring-for-a-child-with-cerebral-palsy-in-rural-malawi-a-mixed-methods-study-of/",
-    "categories": [
-      "小児",
-      "神経疾患",
-      "福祉用具・支援技術"
-    ],
-    "pmid": "42748405",
-    "doi": "10.1111/dmcn.70502",
     "published_date": "2026-09-16",
     "online_publication_date": "2026-09-16",
     "issue_date": "2026-09-16"
@@ -2152,20 +2137,6 @@
     "issue_date": "2026-09-16"
   },
   {
-    "title": "若年サッカー選手における片側性バランス単独トレーニングと複合(バランス+プライオメトリック)トレーニングが左右のバランス能力非対称性に与える効果の比較",
-    "summary": "若年男子サッカー選手を対象に、非利き足への片側性バランス単独トレーニングと、バランス+プライオメトリックを組み合わせた複合トレーニングを比較したところ、いずれも静的・動的な左右バランス能力を改善させたが、明確な優劣は示されなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/effects-of-unilateral-single-mode-balance-training-compared-to-combined-balance/",
-    "categories": [
-      "理学療法",
-      "その他"
-    ],
-    "pmid": "42748111",
-    "doi": "10.1371/journal.pone.0358565",
-    "published_date": "2026-09-16",
-    "online_publication_date": "2026-09-16",
-    "issue_date": "2026-01-01"
-  },
-  {
     "title": "韓国高齢者を対象としたシナリオ型シリアスゲームによる軽度認知障害スクリーニングの予備的妥当性検証",
     "summary": "文化的に馴染みのある日常生活シナリオとタブレット操作の正確性・反応時間を組み合わせたシリアスゲームが、韓国の地域在住高齢者においてMCIを一定の精度で判別できる可能性が予備的に示された。",
     "url": "/rehab-paper-digest/articles/2026/09/scenario-based-serious-game-for-screening-mild-cognitive-impairment-in-older-adu/",
@@ -2181,44 +2152,44 @@
     "issue_date": "2026-09-16"
   },
   {
-    "title": "脳卒中後のAI搭載基本的ADL訓練システムに対する利用者ニーズ:質的研究",
-    "summary": "脳卒中後片麻痺患者と主介護者への面接調査から、AI搭載ADL訓練システムの受容には有用性・使いやすさ・安全性・持続可能性が重要であることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/user-needs-for-an-artificial-intelligence-empowered-basic-activities-of-daily-li/",
+    "title": "マラウイ農村部における脳性麻痺児の介護:主介護者の経験と支援ニーズに関する混合研究",
+    "summary": "マラウイ農村部で脳性麻痺児を介護する主介護者42名を対象に、介護負担の実態と対処・支援ニーズを混合研究法で検討したところ、高い介護負担が示され、貧困やスティグマの影響とレジリエンスによる対処が明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/caring-for-a-child-with-cerebral-palsy-in-rural-malawi-a-mixed-methods-study-of/",
     "categories": [
-      "脳卒中",
-      "ADL",
+      "小児",
+      "神経疾患",
       "福祉用具・支援技術"
     ],
-    "pmid": "42763734",
-    "doi": "10.2147/JMDH.S635260",
-    "published_date": "2026-09-15",
-    "online_publication_date": "2026-09-15",
-    "issue_date": "2026-01-01"
+    "pmid": "42748405",
+    "doi": "10.1111/dmcn.70502",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-09-16"
   },
   {
-    "title": "時間・対話・チームワーク:プライマリケアにおける認知症のパーソナライズされたケアプランニング会話に関する認識",
-    "summary": "認知症の人・家族介護者・多職種のプライマリケア従事者への半構造化インタビューにより、ケアプランニング会話を阻害・促進する要因を探索した質的研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/time-talk-and-teamwork-perceptions-of-personalised-dementia-care-planning-conver/",
-    "categories": [
-      "認知症",
-      "その他"
-    ],
-    "pmid": "42743226",
-    "doi": "10.1371/journal.pone.0343482",
-    "published_date": "2026-09-15",
-    "online_publication_date": "2026-09-15",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "VDDモードのリードレスペースメーカーで胸部理学療法中に生じたセンサー起因の頻脈性ペーシング",
-    "summary": "リードレスペースメーカー(VDDモード)装着患者において、胸部理学療法中の振動が加速度センサーを刺激し、意図しない心拍数上昇(モード切替によるVVIRペーシング)を引き起こした症例が報告されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/",
+    "title": "閉塞性睡眠時無呼吸に対するリハビリテーションと運動療法:無呼吸低呼吸指数(AHI)を超えた視点",
+    "summary": "閉塞性睡眠時無呼吸(OSA)に対する運動療法や口腔咽頭筋機能療法などのリハビリテーション介入が、AHIの変化が乏しい場合でも眠気・睡眠の質・機能的能力・認知機能・QOLを改善しうることを整理したナラティブレビュー。",
+    "url": "/rehab-paper-digest/articles/2026/09/rehabilitation-and-therapeutic-exercise-in-obstructive-sleep-apnea-a-perspective/",
     "categories": [
       "理学療法",
       "その他"
     ],
-    "pmid": "42743401",
-    "doi": "10.1111/jce.70496",
+    "pmid": "42819610",
+    "doi": "10.3389/fmed.2026.1873380",
+    "published_date": "2026-09-16",
+    "online_publication_date": "2026-09-16",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "血液透析患者に対する神経筋電気刺激(NMES)の効果:システマティックレビュー・メタ解析",
+    "summary": "血液透析患者へのNMESは握力にわずかな改善傾向を示したが、感度分析で頑健性を欠き、歩行や生化学マーカー、QOLなど他の指標では一貫した効果は確認されなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-neuromuscular-electrical-stimulation-nmes-in-patients-undergoing-haem/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42742859",
+    "doi": "10.1007/s11255-026-05357-0",
     "published_date": "2026-09-15",
     "online_publication_date": "2026-09-15",
     "issue_date": "2026-09-15"
@@ -2238,32 +2209,32 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "血液透析患者に対する神経筋電気刺激(NMES)の効果:システマティックレビュー・メタ解析",
-    "summary": "血液透析患者へのNMESは握力にわずかな改善傾向を示したが、感度分析で頑健性を欠き、歩行や生化学マーカー、QOLなど他の指標では一貫した効果は確認されなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/effects-of-neuromuscular-electrical-stimulation-nmes-in-patients-undergoing-haem/",
+    "title": "VDDモードのリードレスペースメーカーで胸部理学療法中に生じたセンサー起因の頻脈性ペーシング",
+    "summary": "リードレスペースメーカー(VDDモード)装着患者において、胸部理学療法中の振動が加速度センサーを刺激し、意図しない心拍数上昇(モード切替によるVVIRペーシング)を引き起こした症例が報告されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/sensor-driven-pacemaker-tachycardia-during-chest-physiotherapy-the-hidden-accele/",
     "categories": [
       "理学療法",
       "その他"
     ],
-    "pmid": "42742859",
-    "doi": "10.1007/s11255-026-05357-0",
+    "pmid": "42743401",
+    "doi": "10.1111/jce.70496",
     "published_date": "2026-09-15",
     "online_publication_date": "2026-09-15",
     "issue_date": "2026-09-15"
   },
   {
-    "title": "心血管代謝疾患における食事療法と運動療法:併用は常に単独より優れるのか",
-    "summary": "食事療法と運動療法を直接比較したランダム化比較試験・メタ解析を整理したレビューで、併用の優位性はアウトカムによって異なることが示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/diet-versus-exercise-in-cardiometabolic-disease-are-two-always-better-than-one/",
+    "title": "時間・対話・チームワーク:プライマリケアにおける認知症のパーソナライズされたケアプランニング会話に関する認識",
+    "summary": "認知症の人・家族介護者・多職種のプライマリケア従事者への半構造化インタビューにより、ケアプランニング会話を阻害・促進する要因を探索した質的研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/time-talk-and-teamwork-perceptions-of-personalised-dementia-care-planning-conver/",
     "categories": [
-      "理学療法",
+      "認知症",
       "その他"
     ],
-    "pmid": "42742866",
-    "doi": "10.1007/s11886-026-02419-8",
+    "pmid": "42743226",
+    "doi": "10.1371/journal.pone.0343482",
     "published_date": "2026-09-15",
     "online_publication_date": "2026-09-15",
-    "issue_date": "2026-09-15"
+    "issue_date": "2026-01-01"
   },
   {
     "title": "介護施設入居中の認知症高齢者のQoL:観察データの二次解析による大規模言語モデル活用の探索",
@@ -2278,6 +2249,21 @@
     "published_date": "2026-09-15",
     "online_publication_date": "2026-09-15",
     "issue_date": "2026-09-15"
+  },
+  {
+    "title": "脳卒中後のAI搭載基本的ADL訓練システムに対する利用者ニーズ:質的研究",
+    "summary": "脳卒中後片麻痺患者と主介護者への面接調査から、AI搭載ADL訓練システムの受容には有用性・使いやすさ・安全性・持続可能性が重要であることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/user-needs-for-an-artificial-intelligence-empowered-basic-activities-of-daily-li/",
+    "categories": [
+      "脳卒中",
+      "ADL",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42763734",
+    "doi": "10.2147/JMDH.S635260",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-01-01"
   },
   {
     "title": "適応的な計算論的表現型分析による軽度認知障害と健常加齢における記憶機能障害の信頼性の高い検出と継続的モニタリング",
@@ -2295,6 +2281,20 @@
     "issue_date": "2026-09-01"
   },
   {
+    "title": "心血管代謝疾患における食事療法と運動療法:併用は常に単独より優れるのか",
+    "summary": "食事療法と運動療法を直接比較したランダム化比較試験・メタ解析を整理したレビューで、併用の優位性はアウトカムによって異なることが示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/diet-versus-exercise-in-cardiometabolic-disease-are-two-always-better-than-one/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42742866",
+    "doi": "10.1007/s11886-026-02419-8",
+    "published_date": "2026-09-15",
+    "online_publication_date": "2026-09-15",
+    "issue_date": "2026-09-15"
+  },
+  {
     "title": "高齢の銃保有者における認知症を見据えた銃火器安全計画:医師関与への態度に関する調査",
     "summary": "高齢の銃保有者を対象とした横断調査で、認知症を見据えた銃火器安全計画は現状ほとんど行われていないものの、この概念に触れることで計画意図が大きく高まる一方、医師の関与には賛否が分かれることが示された。",
     "url": "/rehab-paper-digest/articles/2026/09/anticipatory-firearm-safety-planning-among-older-adult-firearm-owners-attitudes/",
@@ -2310,6 +2310,21 @@
     "issue_date": "2026-09-15"
   },
   {
+    "title": "特異的学習障害児に対する従来型およびVR型前庭リハビリテーションがバランスと視覚運動技能に与える効果:ランダム化比較試験",
+    "summary": "特異的学習障害児では定型発達児と比べてバランス機能が低下しており、従来型・VR型いずれの前庭リハビリでもバランスや学習関連指標が改善し、VR型では一部の前庭・眼球運動指標でより大きな改善がみられた。",
+    "url": "/rehab-paper-digest/articles/2026/09/effects-of-traditional-and-virtual-reality-based-vestibular-rehabilitation-on-ba/",
+    "categories": [
+      "小児",
+      "その他",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42735284",
+    "doi": "10.1044/2026_AJA-26-00030",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-09-14"
+  },
+  {
     "title": "底屈筋痙縮を有する脳卒中患者に対する高強度レーザー療法が機能的転帰と痙縮関連疼痛に与える効果:ランダム化シャム対照試験",
     "summary": "亜急性期・慢性期脳卒中後の底屈筋痙縮患者において、高強度レーザー療法を通常リハビリに併用したところ、シャム群と比較して痙縮関連疼痛が大きく改善し、歩行速度についても補正後解析で改善傾向がみられた予備的ランダム化比較試験。",
     "url": "/rehab-paper-digest/articles/2026/09/effects-of-high-intensity-laser-therapy-on-functional-outcomes-and-spasticity-re/",
@@ -2320,6 +2335,22 @@
     ],
     "pmid": "42735219",
     "doi": "10.1097/PHM.0000000000003161",
+    "published_date": "2026-09-14",
+    "online_publication_date": "2026-09-14",
+    "issue_date": "2026-09-14"
+  },
+  {
+    "title": "脳性麻痺児に対するロボット支援歩行トレーニングの効果:GRADE評価とTrial Sequential Analysisを用いたシステマティックレビュー・メタ解析",
+    "summary": "脳性麻痺児542例を対象とした15件のRCTを解析した結果、ロボット支援歩行トレーニングは多くの歩行・バランス指標で通常療法と同等だったが、6分間歩行距離、10m歩行速度、粗大運動機能(走る・跳ぶ項目)ではわずかな上乗せ効果が確認された。",
+    "url": "/rehab-paper-digest/articles/2026/09/robot-assisted-gait-training-in-cerebral-palsy-a-grade-assessed-systematic-revie/",
+    "categories": [
+      "小児",
+      "理学療法",
+      "歩行",
+      "神経疾患"
+    ],
+    "pmid": "42735092",
+    "doi": "10.1080/01616412.2026.2697005",
     "published_date": "2026-09-14",
     "online_publication_date": "2026-09-14",
     "issue_date": "2026-09-14"
@@ -2355,37 +2386,6 @@
     "issue_date": "2026-12-30"
   },
   {
-    "title": "特異的学習障害児に対する従来型およびVR型前庭リハビリテーションがバランスと視覚運動技能に与える効果:ランダム化比較試験",
-    "summary": "特異的学習障害児では定型発達児と比べてバランス機能が低下しており、従来型・VR型いずれの前庭リハビリでもバランスや学習関連指標が改善し、VR型では一部の前庭・眼球運動指標でより大きな改善がみられた。",
-    "url": "/rehab-paper-digest/articles/2026/09/effects-of-traditional-and-virtual-reality-based-vestibular-rehabilitation-on-ba/",
-    "categories": [
-      "小児",
-      "その他",
-      "福祉用具・支援技術"
-    ],
-    "pmid": "42735284",
-    "doi": "10.1044/2026_AJA-26-00030",
-    "published_date": "2026-09-14",
-    "online_publication_date": "2026-09-14",
-    "issue_date": "2026-09-14"
-  },
-  {
-    "title": "脳性麻痺児に対するロボット支援歩行トレーニングの効果:GRADE評価とTrial Sequential Analysisを用いたシステマティックレビュー・メタ解析",
-    "summary": "脳性麻痺児542例を対象とした15件のRCTを解析した結果、ロボット支援歩行トレーニングは多くの歩行・バランス指標で通常療法と同等だったが、6分間歩行距離、10m歩行速度、粗大運動機能(走る・跳ぶ項目)ではわずかな上乗せ効果が確認された。",
-    "url": "/rehab-paper-digest/articles/2026/09/robot-assisted-gait-training-in-cerebral-palsy-a-grade-assessed-systematic-revie/",
-    "categories": [
-      "小児",
-      "理学療法",
-      "歩行",
-      "神経疾患"
-    ],
-    "pmid": "42735092",
-    "doi": "10.1080/01616412.2026.2697005",
-    "published_date": "2026-09-14",
-    "online_publication_date": "2026-09-14",
-    "issue_date": "2026-09-14"
-  },
-  {
     "title": "R2Play-Rehab:脳震盪に対する多領域統合型アクティブリハビリテーションツールの共同デザイン",
     "summary": "脳震盪評価ツールR2Playをリハビリテーション用に発展させるため、11名の臨床家との共同デザインを通じて介入機会と設計要件を整理した研究です。",
     "url": "/rehab-paper-digest/articles/2026/09/r2play-rehab-co-designing-a-multidomain-integrative-active-rehabilitation-tool-f/",
@@ -2411,21 +2411,6 @@
     ],
     "pmid": "42731172",
     "doi": "10.1016/j.tjpad.2026.100676",
-    "published_date": "2026-09-12",
-    "online_publication_date": "2026-09-12",
-    "issue_date": "2026-09-12"
-  },
-  {
-    "title": "脳卒中患者における自立歩行獲得直後の転倒予防教育は、その後の転倒リスク低下と関連する:後ろ向き前後比較研究",
-    "summary": "自立歩行を獲得した脳卒中患者に対し、標準化された転倒予防教育を実施した群は、通常ケア群と比べてその後の転倒発生時期が遅く、転倒発生率も低かった。",
-    "url": "/rehab-paper-digest/articles/2026/09/fall-prevention-education-after-achieving-independent-walking-is-associated-with/",
-    "categories": [
-      "脳卒中",
-      "理学療法",
-      "その他"
-    ],
-    "pmid": "42731691",
-    "doi": "10.1016/j.apmr.2026.09.006",
     "published_date": "2026-09-12",
     "online_publication_date": "2026-09-12",
     "issue_date": "2026-09-12"
@@ -2459,209 +2444,19 @@
     "issue_date": "2026-09-12"
   },
   {
-    "title": "AIMSクリニックモデル:後期パーキンソニズム患者に対する学際的運動障害・神経緩和ケア外来の後方視的分析",
-    "summary": "後期パーキンソニズム患者を対象とした学際的な運動障害・神経緩和ケア外来「AIMSクリニック」の構造と、2019~2023年の175例・568回受診の後方視的レビューを報告した研究。",
-    "url": "/rehab-paper-digest/articles/2026/10/the-aims-clinic-model-a-retrospective-analysis-of-interdisciplinary-movement-neu/",
-    "categories": [
-      "神経疾患",
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42727035",
-    "doi": "10.1212/CPJ.0000000000200652",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-10-01"
-  },
-  {
-    "title": "スウェーデンのプライマリケアにおける2型糖尿病患者がグループ教育を選択しなかった理由に関する現象学的インタビュー研究",
-    "summary": "2型糖尿病のグループ教育を選択しなかった患者18名へのインタビューから、個別学習の希望・利便性の障壁の認識・グループの利点への理解という3つの異なる認識パターンが明らかになった。",
-    "url": "/rehab-paper-digest/articles/2026/12/patients-conceptions-of-opting-out-of-group-based-education-for-type-2-diabetes/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42726907",
-    "doi": "10.1080/17482631.2026.2731703",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-12-31"
-  },
-  {
-    "title": "ストレプトゾトシン誘発性認知症モデルラットの視床下部アストロサイト培養における細胞老化表現型",
-    "summary": "ストレプトゾトシン誘発性認知症モデルラットから採取した視床下部アストロサイトの培養実験で、生体内で見られた変化に加え、細胞老化やSASP因子の増加が確認されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/the-senescent-phenotype-of-cultured-hypothalamic-astrocytes-from-rats-with-strep/",
-    "categories": [
-      "神経疾患",
-      "認知症",
-      "その他"
-    ],
-    "pmid": "42726406",
-    "doi": "10.1007/s11064-026-04884-7",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "脳卒中生存者における座位行動軽減の阻害要因・促進要因:理論的領域フレームワークに基づくスコーピングレビュー",
-    "summary": "脳卒中後の座りすぎ行動を減らすうえでの阻害要因・促進要因を、49件の研究をもとにTheoretical Domains Frameworkの12領域に整理したスコーピングレビュー。",
-    "url": "/rehab-paper-digest/articles/2026/09/barriers-and-facilitators-to-reducing-sedentary-behaviour-in-stroke-survivors-a/",
+    "title": "脳卒中患者における自立歩行獲得直後の転倒予防教育は、その後の転倒リスク低下と関連する:後ろ向き前後比較研究",
+    "summary": "自立歩行を獲得した脳卒中患者に対し、標準化された転倒予防教育を実施した群は、通常ケア群と比べてその後の転倒発生時期が遅く、転倒発生率も低かった。",
+    "url": "/rehab-paper-digest/articles/2026/09/fall-prevention-education-after-achieving-independent-walking-is-associated-with/",
     "categories": [
       "脳卒中",
       "理学療法",
-      "ADL"
-    ],
-    "pmid": "42731832",
-    "doi": "10.1136/bmjopen-2026-119904",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "肥満関連腱病理:心代謝メカニズム、臨床的意義、および管理に関する総説",
-    "summary": "本総説は、肥満を機械的負荷と脂肪組織機能不全を結びつける中心的要因として位置づけ、腱病理との関連を候補メカニズムとともに整理したものである。",
-    "url": "/rehab-paper-digest/articles/2026/09/obesity-related-tendon-pathology-cardiometabolic-mechanisms-clinical-implication/",
-    "categories": [
-      "整形外科",
       "その他"
     ],
-    "pmid": "42726433",
-    "doi": "10.1007/s13679-026-00759-8",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "腰椎除圧術は変性腰部脊柱管狭窄症患者における立ち上がり動作の力学と神経筋制御の変化と関連する",
-    "summary": "変性腰部脊柱管狭窄症患者を対象に腰椎除圧術前後で立ち上がり動作を解析したところ、術後は体幹優位から下肢優位の動作戦略へと変化し、下肢・体幹筋の活動タイミングにも改善が見られた。",
-    "url": "/rehab-paper-digest/articles/2026/09/lumbar-decompression-is-associated-with-changes-in-functional-transition-biomech/",
-    "categories": [
-      "理学療法",
-      "整形外科",
-      "ADL"
-    ],
-    "pmid": "42726093",
-    "doi": "10.1177/21925682261489579",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "ドイツにおける院外集中治療の実態調査:バーデン=ヴュルテンベルク州における新法制運用から見えた課題",
-    "summary": "ドイツの新法制下で呼吸器専門医が評価した院外集中治療患者148例の後方視的検討で、離脱・リハビリテーションへのアクセスの重要性が示唆された。",
-    "url": "/rehab-paper-digest/articles/2026/09/out-of-hospital-intensive-care-in-germany-who-s-out-there-key-issues-revealed-by/",
-    "categories": [
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42726674",
-    "doi": "10.1159/res/aepag011",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "ファーストネーションの親の声を中心に据えて:北部サスカチュワンにおける地域主導型小児リハビリテーションニーズ評価",
-    "summary": "北部クリー・コミュニティの長老の懸念を受け、発達に困難のある子どもを持つ親への聞き取りから、小児リハビリサービスへのニーズと課題を地域参加型で明らかにした質的研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/centering-first-nations-parents-voices-a-community-directed-pediatric-rehabilita/",
-    "categories": [
-      "小児",
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42725466",
-    "doi": "10.1080/09638288.2026.2729409",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "集中リハビリテーションにおける近傍神経電気刺激を用いた意識状態評価の検討",
-    "summary": "遷延性意識障害患者19名を対象に、正中神経への近傍神経電気刺激(NNS)と高密度EEGを組み合わせた指標が、標準的な表面刺激(SCS)よりも高い精度で意識状態を判別できる可能性を示した単施設パイロット研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/assessing-consciousness-by-near-nerve-electrostimulation-in-intensive-rehabilita/",
-    "categories": [
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42727595",
-    "doi": "10.1088/1741-2552/aea645",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "内在的能力(intrinsic capacity)の障害と認知症発症リスク:3つの地域コホートを統合した個人参加者データ解析",
-    "summary": "CHARLS、ELSA、HRSの3大規模地域コホート(計約4.9万人)を統合解析した結果、内在的能力の障害ドメイン数が多いほど認知症発症リスクが段階的に上昇し、既存の人口統計モデルへの追加で予測精度が改善した。",
-    "url": "/rehab-paper-digest/articles/2026/09/intrinsic-capacity-impairment-and-incident-dementia-across-three-population-base/",
-    "categories": [
-      "認知症",
-      "高齢者",
-      "認知機能"
-    ],
-    "pmid": "42727174",
-    "doi": "10.1016/j.jnha.2026.100983",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "日常ケアにおける認知症フレンドリー動画の実装:現場スタッフの経験に関する質的研究",
-    "summary": "認知症フレンドリー動画を臨床現場に導入する際の障壁と促進要因を、多職種スタッフへのインタビューを通じて明らかにした質的研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/implementing-dementia-friendly-videos-in-everyday-care-a-qualitative-study-of-fr/",
-    "categories": [
-      "認知症",
-      "高齢者",
-      "福祉用具・支援技術"
-    ],
-    "pmid": "42727940",
-    "doi": "10.1177/14713012261489380",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "認知症高齢者におけるウェルビーイングへの歌唱活動と会話活動の比較:クロスオーバー・パイロット研究",
-    "summary": "認知症のある施設入居者15名を対象に歌唱活動と会話活動を比較したパイロット研究で、歌唱は介護者負担を軽減し、会話は本人のウェルビーイングを高める傾向が示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/singing-versus-conversation-for-wellbeing-in-dementia-a-cross-over-pilot-study/",
-    "categories": [
-      "認知症",
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42725922",
-    "doi": "10.1177/13872877261485601",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "フラクトオリゴ糖は腸機能を回復させ海馬短鎖脂肪酸を増加させることで慢性脳低灌流ラットのミトコンドリア自食作用による神経細胞アポトーシスを軽減する",
-    "summary": "慢性脳低灌流モデルラットにフラクトオリゴ糖(FOS)を経口投与したところ、腸管バリア機能・海馬短鎖脂肪酸・神経炎症・ミトコンドリア自食作用・神経細胞アポトーシスが改善し、認知機能障害が軽減した。",
-    "url": "/rehab-paper-digest/articles/2026/09/fructooligosaccharides-restore-gut-function-and-increase-hippocampal-short-chain/",
-    "categories": [
-      "認知症",
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42726175",
-    "doi": "10.1007/s12035-026-06189-w",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "交差する差別被害:長期療養施設における高齢LGBTQ+当事者への差別的虐待",
-    "summary": "認知症を有するゲイ男性が施設でホモフォビックな虐待を受けた事例をもとに、高齢LGBTQ+当事者への差別的虐待が学術・データ・制度枠組みの中で見過ごされてきた構造的問題を論じる評論です。",
-    "url": "/rehab-paper-digest/articles/2026/09/intersectional-harms-discriminatory-abuse-of-older-lgbtq-adults-in-long-term-car/",
-    "categories": [
-      "高齢者",
-      "認知症",
-      "その他"
-    ],
-    "pmid": "42725539",
-    "doi": "10.1080/08946566.2026.2731352",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
+    "pmid": "42731691",
+    "doi": "10.1016/j.apmr.2026.09.006",
+    "published_date": "2026-09-12",
+    "online_publication_date": "2026-09-12",
+    "issue_date": "2026-09-12"
   },
   {
     "title": "単純ヘルペスウイルス1型と認知症発症の関連:実臨床電子カルテデータを用いた縦断的後ろ向きコホート研究",
@@ -2674,50 +2469,6 @@
     ],
     "pmid": "42727071",
     "doi": "10.2196/83028",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "アミロイドβの役割再考:金属イオンと感染・免疫学的観点からの分子機序仮説",
-    "summary": "アルツハイマー病の原因として、アミロイドβを単なる毒性物質ではなく防御的なタンパク質断片と捉え直し、金属イオンや感染症との関連から新たな機序仮説を提示した理論的考察論文です。",
-    "url": "/rehab-paper-digest/articles/2026/09/revisiting-the-role-of-amyloid-a-molecular-and-immunological-perspective/",
-    "categories": [
-      "認知症",
-      "神経疾患"
-    ],
-    "pmid": "42725888",
-    "doi": "10.1177/13872877261484863",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "放射線治療を受ける高齢がん患者における機能的軌跡とその関連因子",
-    "summary": "放射線治療を受けた高齢がん患者258例を追跡し、IADLと役割機能の縦断的変化パターンを4群に分類し、機能低下リスクに関連する因子を検討した前向き研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/functional-trajectories-and-associated-factors-in-older-adults-with-cancer-after/",
-    "categories": [
-      "高齢者",
-      "ADL",
-      "その他"
-    ],
-    "pmid": "42727393",
-    "doi": "10.1016/j.jgo.2026.103410",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "粟粒結核患者における脳MRI施行例からみた脳結核の頻度と臨床的特徴:単施設後方視的研究",
-    "summary": "粟粒結核患者のうち脳MRIを施行した例では約6割に脳結核所見が認められたが、MRI施行例には選択バイアスがあり、臨床所見のみでは脳病変の有無を判別できなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/cerebral-tuberculosis-among-elderly-patients-with-miliary-tuberculosis-undergoin/",
-    "categories": [
-      "神経疾患",
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42727680",
-    "doi": "10.1016/j.ijid.2026.109113",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
@@ -2738,33 +2489,32 @@
     "issue_date": "2026-09-11"
   },
   {
-    "title": "頭痛管理のためのC2-C3神経末梢神経刺激:新規手技の解説",
-    "summary": "難治性の慢性頭痛や後頭神経痛に対し、C2-C3神経を標的とする末梢神経刺激(PNS)の新規手技と解剖学的留意点を紹介するレビュー論文。",
-    "url": "/rehab-paper-digest/articles/2026/09/peripheral-nerve-stimulation-of-c2-c3-nerves-for-management-of-headaches-a-descr/",
+    "title": "外傷性脳損傷研究における翻訳的非効率性:94,399件の文献からの証拠",
+    "summary": "94,399件の外傷性脳損傷関連文献を自然言語処理で解析した結果、無作為化比較試験の少なさや基礎研究と臨床応用の乖離など、研究エコシステム上の構造的な非効率性が明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/translational-inefficiencies-in-traumatic-brain-injury-research-evidence-from-94/",
     "categories": [
       "神経疾患",
       "その他"
     ],
-    "pmid": "42726330",
-    "doi": "10.1007/s11916-026-01562-9",
+    "pmid": "42725750",
+    "doi": "10.1227/neu.0000000000004208",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "若年・中年脳卒中患者と配偶者における心理的ストレスと悲しみの反芻の縦断的関連:アクター・パートナー相互依存モデルによる検討",
-    "summary": "脳卒中患者と配偶者256組を6か月間追跡した結果、両者の心理的ストレスは各自の反芻を予測し、さらに配偶者の反芻が患者の反芻を予測する非対称な波及効果が示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/longitudinal-dyadic-associations-between-psychological-stress-and-sadness-rumina/",
+    "title": "肥満関連腱病理:心代謝メカニズム、臨床的意義、および管理に関する総説",
+    "summary": "本総説は、肥満を機械的負荷と脂肪組織機能不全を結びつける中心的要因として位置づけ、腱病理との関連を候補メカニズムとともに整理したものである。",
+    "url": "/rehab-paper-digest/articles/2026/09/obesity-related-tendon-pathology-cardiometabolic-mechanisms-clinical-implication/",
     "categories": [
-      "脳卒中",
-      "精神科",
+      "整形外科",
       "その他"
     ],
-    "pmid": "42798397",
-    "doi": "10.3389/fpubh.2026.1910517",
+    "pmid": "42726433",
+    "doi": "10.1007/s13679-026-00759-8",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
-    "issue_date": "2026-01-01"
+    "issue_date": "2026-09-11"
   },
   {
     "title": "高齢者における脳の健康に関わるMIND食のメタボロミクス・シグネチャーの特徴づけ",
@@ -2782,86 +2532,131 @@
     "issue_date": "2026-09-11"
   },
   {
-    "title": "脊椎手術前のプレハビリテーションプログラム設計に関する患者の意向を探る質的研究",
-    "summary": "腰椎手術を待つ患者を対象にした質的研究で、プレハビリテーションプログラムへの参加意欲、参加の障壁・促進要因、プログラム構造や内容への希望が明らかにされた。",
-    "url": "/rehab-paper-digest/articles/2026/09/designing-prehabilitation-programs-for-spinal-surgery-a-qualitative-study-explor/",
+    "title": "無歯顎上顎の全顎補綴における翼状インプラントの有効性:システマティックレビュー・メタ解析",
+    "summary": "翼状インプラントは従来型インプラントと比較してインプラント脱落リスクが有意に高く、生存率もやや低いことがメタ解析で示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/effectiveness-of-pterygoid-dental-implants-in-the-complete-arch-rehabilitation-o/",
     "categories": [
-      "理学療法",
-      "整形外科"
+      "その他"
     ],
-    "pmid": "42731317",
-    "doi": "10.1016/j.msksp.2026.103660",
+    "pmid": "42728116",
+    "doi": "10.1016/j.ijom.2026.08.036",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "ソフトボール投手の肩オーバーユース障害の評価と管理に関する臨床ガイド",
-    "summary": "ソフトボール投手に多い肩のオーバーユース障害について、評価から運動連鎖全体を考慮したリハビリテーションまでを示した臨床ガイド論文。",
-    "url": "/rehab-paper-digest/articles/2026/09/a-clinician-s-guide-to-evaluating-and-managing-shoulder-overuse-injury-in-softba/",
+    "title": "放射線治療を受ける高齢がん患者における機能的軌跡とその関連因子",
+    "summary": "放射線治療を受けた高齢がん患者258例を追跡し、IADLと役割機能の縦断的変化パターンを4群に分類し、機能低下リスクに関連する因子を検討した前向き研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/functional-trajectories-and-associated-factors-in-older-adults-with-cancer-after/",
+    "categories": [
+      "高齢者",
+      "ADL",
+      "その他"
+    ],
+    "pmid": "42727393",
+    "doi": "10.1016/j.jgo.2026.103410",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "脳卒中生存者における座位行動軽減の阻害要因・促進要因:理論的領域フレームワークに基づくスコーピングレビュー",
+    "summary": "脳卒中後の座りすぎ行動を減らすうえでの阻害要因・促進要因を、49件の研究をもとにTheoretical Domains Frameworkの12領域に整理したスコーピングレビュー。",
+    "url": "/rehab-paper-digest/articles/2026/09/barriers-and-facilitators-to-reducing-sedentary-behaviour-in-stroke-survivors-a/",
+    "categories": [
+      "脳卒中",
+      "理学療法",
+      "ADL"
+    ],
+    "pmid": "42731832",
+    "doi": "10.1136/bmjopen-2026-119904",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "腰椎除圧術は変性腰部脊柱管狭窄症患者における立ち上がり動作の力学と神経筋制御の変化と関連する",
+    "summary": "変性腰部脊柱管狭窄症患者を対象に腰椎除圧術前後で立ち上がり動作を解析したところ、術後は体幹優位から下肢優位の動作戦略へと変化し、下肢・体幹筋の活動タイミングにも改善が見られた。",
+    "url": "/rehab-paper-digest/articles/2026/09/lumbar-decompression-is-associated-with-changes-in-functional-transition-biomech/",
     "categories": [
       "理学療法",
       "整形外科",
-      "上肢機能"
+      "ADL"
     ],
-    "pmid": "42725649",
-    "doi": "10.2519/josptopen.2026.0227",
+    "pmid": "42726093",
+    "doi": "10.1177/21925682261489579",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "70歳コホート6年間追跡研究:両親の寿命と多遺伝子性長寿スコアは加齢関連因子とどう関わるか(ヨーテボリH70出生コホート研究)",
-    "summary": "スウェーデンの70歳住民1126人を6年間追跡した結果、両親の長寿および多遺伝子性長寿スコアは、社会経済状態や心血管危険因子、炎症マーカー、認知機能、血漿pTau217の変化と関連していた。",
-    "url": "/rehab-paper-digest/articles/2026/09/parental-longevity-and-polygenic-longevity-scores-in-relation-to-ageing-related/",
+    "title": "脊髄損傷者に対するカヤックエルゴメーター訓練が体幹制御・自立度・心肺機能に与える効果",
+    "summary": "脊髄損傷者を対象に、カヤックエルゴメーター訓練と従来の体幹訓練を比較したランダム化比較試験で、カヤック訓練群に改善傾向がみられたが、補正後は統計的有意差は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-kayak-ergometer-training-on-trunk-control-independence-and-cardiovascu/",
     "categories": [
-      "高齢者",
+      "理学療法",
+      "神経疾患",
+      "ADL"
+    ],
+    "pmid": "42725712",
+    "doi": "10.1080/10790268.2026.2672832",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "アミロイドβの役割再考:金属イオンと感染・免疫学的観点からの分子機序仮説",
+    "summary": "アルツハイマー病の原因として、アミロイドβを単なる毒性物質ではなく防御的なタンパク質断片と捉え直し、金属イオンや感染症との関連から新たな機序仮説を提示した理論的考察論文です。",
+    "url": "/rehab-paper-digest/articles/2026/09/revisiting-the-role-of-amyloid-a-molecular-and-immunological-perspective/",
+    "categories": [
       "認知症",
+      "神経疾患"
+    ],
+    "pmid": "42725888",
+    "doi": "10.1177/13872877261484863",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "車椅子座位における仙骨-背もたれ間距離が呼吸機能に及ぼす影響:シーティング評価への示唆",
+    "summary": "健常若年女性を対象に、車椅子座位で仙骨と背もたれの間の距離を変化させたところ、距離が大きいほど努力性肺活量など複数の呼吸機能指標が低下する傾向が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-sacrum-backrest-distance-on-respiratory-function-during-wheelchair-sit/",
+    "categories": [
+      "福祉用具・支援技術",
       "その他"
     ],
-    "pmid": "42726198",
-    "doi": "10.1007/s11357-026-02501-7",
+    "pmid": "42726489",
+    "doi": "10.1080/17483107.2026.2730873",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "脊髄損傷者における経皮的脊髄硬膜外刺激:姿勢変化が運動誘発反応に与える影響",
-    "summary": "完全脊髄損傷者2例において、経皮的脊髄硬膜外刺激による下肢筋の運動誘発反応が、臥位に比べ立位で大きく減弱することが観察された。",
-    "url": "/rehab-paper-digest/articles/2026/09/postural-changes-and-motor-evoked-potentials-following-percutaneous-spinal-cord/",
+    "title": "心臓リハビリテーション適応入院患者におけるデジタルヘルス利用状況とバーチャル心臓リハビリテーションへの関心:横断研究",
+    "summary": "心臓リハビリテーション適応疾患で入院中の成人患者150名を対象とした横断調査で、多くの患者がバーチャル/在宅型心臓リハビリテーションに関心を示し、非白人患者では白人患者よりも関心が高かった。",
+    "url": "/rehab-paper-digest/articles/2026/09/digital-health-use-and-interest-in-virtual-cardiac-rehabilitation-among-cardiac/",
     "categories": [
-      "神経疾患",
+      "その他",
+      "福祉用具・支援技術",
+      "高齢者"
+    ],
+    "pmid": "42726796",
+    "doi": "10.2196/91767",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "術後鎮痛と回復における末梢神経刺激療法の役割の進展",
+    "summary": "一時的経皮的末梢神経刺激(PNS)は、運動機能を温存しながらオピオイド消費と術後疼痛を軽減しうる神経調節療法として、複数の外科領域で報告されているナラティブレビューです。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-evolving-role-of-peripheral-nerve-stimulation-in-postoperative-analgesia-and/",
+    "categories": [
+      "その他",
       "理学療法"
     ],
-    "pmid": "42728305",
-    "doi": "10.1038/s41394-026-00753-1",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "ALS-FTDスペクトラムにおける選択的神経保護:神経細胞の抵抗性メカニズムと臨床応用への視点",
-    "summary": "筋萎縮性側索硬化症(ALS)と前頭側頭型認知症(FTD)の連続体において、一部の神経細胞集団が選択的に温存される仕組みを、既存文献の統合により整理したレビュー論文です。",
-    "url": "/rehab-paper-digest/articles/2026/09/selective-neuroprotection-in-the-als-ftd-spectrum-mechanisms-of-neuronal-resilie/",
-    "categories": [
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42727710",
-    "doi": "10.1016/j.brainresbull.2026.112111",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "慢性膵炎に対する膵臓手術における術前サルコペニアと術後主要合併症の関連",
-    "summary": "慢性膵炎手術患者65名の後ろ向き研究で、CT評価によるサルコペニアが術後主要合併症・死亡率と強く関連していた。",
-    "url": "/rehab-paper-digest/articles/2026/09/preoperative-sarcopenia-predicts-major-postoperative-morbidity-in-patients-under/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42727902",
-    "doi": "10.1016/j.gassur.2026.102584",
+    "pmid": "42726365",
+    "doi": "10.1007/s11916-026-01560-x",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
@@ -2882,28 +2677,228 @@
     "issue_date": "2026-09-11"
   },
   {
-    "title": "外傷性脳損傷研究における翻訳的非効率性:94,399件の文献からの証拠",
-    "summary": "94,399件の外傷性脳損傷関連文献を自然言語処理で解析した結果、無作為化比較試験の少なさや基礎研究と臨床応用の乖離など、研究エコシステム上の構造的な非効率性が明らかになった。",
-    "url": "/rehab-paper-digest/articles/2026/09/translational-inefficiencies-in-traumatic-brain-injury-research-evidence-from-94/",
+    "title": "頭痛管理のためのC2-C3神経末梢神経刺激:新規手技の解説",
+    "summary": "難治性の慢性頭痛や後頭神経痛に対し、C2-C3神経を標的とする末梢神経刺激(PNS)の新規手技と解剖学的留意点を紹介するレビュー論文。",
+    "url": "/rehab-paper-digest/articles/2026/09/peripheral-nerve-stimulation-of-c2-c3-nerves-for-management-of-headaches-a-descr/",
     "categories": [
       "神経疾患",
       "その他"
     ],
-    "pmid": "42725750",
-    "doi": "10.1227/neu.0000000000004208",
+    "pmid": "42726330",
+    "doi": "10.1007/s11916-026-01562-9",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "無歯顎上顎の全顎補綴における翼状インプラントの有効性:システマティックレビュー・メタ解析",
-    "summary": "翼状インプラントは従来型インプラントと比較してインプラント脱落リスクが有意に高く、生存率もやや低いことがメタ解析で示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/effectiveness-of-pterygoid-dental-implants-in-the-complete-arch-rehabilitation-o/",
+    "title": "集中リハビリテーションにおける近傍神経電気刺激を用いた意識状態評価の検討",
+    "summary": "遷延性意識障害患者19名を対象に、正中神経への近傍神経電気刺激(NNS)と高密度EEGを組み合わせた指標が、標準的な表面刺激(SCS)よりも高い精度で意識状態を判別できる可能性を示した単施設パイロット研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/assessing-consciousness-by-near-nerve-electrostimulation-in-intensive-rehabilita/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42727595",
+    "doi": "10.1088/1741-2552/aea645",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "日常ケアにおける認知症フレンドリー動画の実装:現場スタッフの経験に関する質的研究",
+    "summary": "認知症フレンドリー動画を臨床現場に導入する際の障壁と促進要因を、多職種スタッフへのインタビューを通じて明らかにした質的研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/implementing-dementia-friendly-videos-in-everyday-care-a-qualitative-study-of-fr/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "福祉用具・支援技術"
+    ],
+    "pmid": "42727940",
+    "doi": "10.1177/14713012261489380",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "ALS-FTDスペクトラムにおける選択的神経保護:神経細胞の抵抗性メカニズムと臨床応用への視点",
+    "summary": "筋萎縮性側索硬化症(ALS)と前頭側頭型認知症(FTD)の連続体において、一部の神経細胞集団が選択的に温存される仕組みを、既存文献の統合により整理したレビュー論文です。",
+    "url": "/rehab-paper-digest/articles/2026/09/selective-neuroprotection-in-the-als-ftd-spectrum-mechanisms-of-neuronal-resilie/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42727710",
+    "doi": "10.1016/j.brainresbull.2026.112111",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "米国成人におけるカドミウム曝露と全認知症・アルツハイマー病発症率の関連",
+    "summary": "米国の大規模疫学データを用いた縦断研究で、尿中・血中カドミウム濃度とアルツハイマー病・全認知症の発症リスクとの間に有意な関連は認められませんでした。",
+    "url": "/rehab-paper-digest/articles/2026/09/cadmium-exposure-and-incidence-of-all-cause-dementia-and-alzheimer-s-disease-in/",
+    "categories": [
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42725989",
+    "doi": "10.1177/13872877261487104",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "膝・股関節肢位が健常者の大腿直筋・外側広筋の受動的スティフネスに及ぼす影響",
+    "summary": "健常成人36名を対象に、せん断波エラストグラフィーで関節肢位・筋深度・性差が大腿四頭筋の受動的スティフネスに与える影響を調べたランダム化クロスオーバー研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/effect-of-knee-and-hip-joint-positions-on-passive-stiffness-of-the-rectus-femori/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42728264",
+    "doi": "10.1038/s41598-026-60808-z",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "前十字靱帯再建術の手術タイミングと関節内病変・患者報告アウトカムとの関連:システマティックレビュー",
+    "summary": "受傷後3か月以内の早期ACL再建術は、それ以降の再建に比べて半月板損傷の有病率が低い傾向が示されたが、軟骨損傷や患者報告アウトカムに明確な差は認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/timing-of-anterior-cruciate-ligament-reconstruction-and-associated-intra-articul/",
+    "categories": [
+      "整形外科"
+    ],
+    "pmid": "42727886",
+    "doi": "10.1016/j.jisako.2026.101215",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "若年・中年脳卒中患者と配偶者における心理的ストレスと悲しみの反芻の縦断的関連:アクター・パートナー相互依存モデルによる検討",
+    "summary": "脳卒中患者と配偶者256組を6か月間追跡した結果、両者の心理的ストレスは各自の反芻を予測し、さらに配偶者の反芻が患者の反芻を予測する非対称な波及効果が示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/longitudinal-dyadic-associations-between-psychological-stress-and-sadness-rumina/",
+    "categories": [
+      "脳卒中",
+      "精神科",
+      "その他"
+    ],
+    "pmid": "42798397",
+    "doi": "10.3389/fpubh.2026.1910517",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "ドイツにおける院外集中治療の実態調査:バーデン=ヴュルテンベルク州における新法制運用から見えた課題",
+    "summary": "ドイツの新法制下で呼吸器専門医が評価した院外集中治療患者148例の後方視的検討で、離脱・リハビリテーションへのアクセスの重要性が示唆された。",
+    "url": "/rehab-paper-digest/articles/2026/09/out-of-hospital-intensive-care-in-germany-who-s-out-there-key-issues-revealed-by/",
+    "categories": [
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42726674",
+    "doi": "10.1159/res/aepag011",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "関節鏡下腱板修復術後の早期拘縮における可動域回復軌跡と患者関連因子の検討",
+    "summary": "腱板修復術後3か月時点の肩拘縮は約半数に見られ、疼痛が主因の拘縮は6か月時点でも持続しやすい一方、再断裂への恐怖・不安による拘縮は概ね可逆的であった。",
+    "url": "/rehab-paper-digest/articles/2026/09/recovery-trajectory-of-range-of-motion-and-its-association-with-patient-factors/",
+    "categories": [
+      "整形外科",
+      "理学療法"
+    ],
+    "pmid": "42732269",
+    "doi": "10.1177/23259671261477946",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "慢性膵炎に対する膵臓手術における術前サルコペニアと術後主要合併症の関連",
+    "summary": "慢性膵炎手術患者65名の後ろ向き研究で、CT評価によるサルコペニアが術後主要合併症・死亡率と強く関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/preoperative-sarcopenia-predicts-major-postoperative-morbidity-in-patients-under/",
     "categories": [
       "その他"
     ],
-    "pmid": "42728116",
-    "doi": "10.1016/j.ijom.2026.08.036",
+    "pmid": "42727902",
+    "doi": "10.1016/j.gassur.2026.102584",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "70歳コホート6年間追跡研究:両親の寿命と多遺伝子性長寿スコアは加齢関連因子とどう関わるか(ヨーテボリH70出生コホート研究)",
+    "summary": "スウェーデンの70歳住民1126人を6年間追跡した結果、両親の長寿および多遺伝子性長寿スコアは、社会経済状態や心血管危険因子、炎症マーカー、認知機能、血漿pTau217の変化と関連していた。",
+    "url": "/rehab-paper-digest/articles/2026/09/parental-longevity-and-polygenic-longevity-scores-in-relation-to-ageing-related/",
+    "categories": [
+      "高齢者",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42726198",
+    "doi": "10.1007/s11357-026-02501-7",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "線維筋痛症患者における標準化評価バッテリーの構成概念妥当性:パフォーマンステスト・患者報告アウトカム・加速度計データの統合分析",
+    "summary": "線維筋痛症の女性患者87名を対象に、パフォーマンステスト・患者報告アウトカム・加速度計データを組み合わせた評価バッテリーが、ICF枠組みに基づく多次元的な機能評価として妥当であることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-value-of-performance-based-tests-in-the-assessment-of-patients-with-fibromya/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42798403",
+    "doi": "10.3389/fresc.2026.1947752",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "Stage IV歯周炎の治療:欧州歯周病学連盟(EFP)Stage IVガイドラインの英国版適応(adolopment)",
+    "summary": "英国歯周病学会が、EFPによるStage IV歯周炎治療のS3臨床ガイドラインを英国向けに適応(adolopment)したプロセスと推奨内容を解説した論文である。",
+    "url": "/rehab-paper-digest/articles/2026/09/treating-stage-iv-periodontitis-the-uk-adolopment-of-the-efp-stage-iv-periodonti/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42728299",
+    "doi": "10.1038/s41415-026-9887-0",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "認知機能障害を有する高齢2型糖尿病入院患者における持続血糖モニタリング(CGM)の実行可能性に関する単群非対照研究",
+    "summary": "認知機能障害を伴う高齢2型糖尿病入院患者32名を対象に、盲検化持続血糖モニタリング(CGM)センサーの装着可能性・受容性・忍容性を検討したところ、高い受容性と低い痛みが報告された。",
+    "url": "/rehab-paper-digest/articles/2026/09/continuous-glucose-monitoring-in-older-inpatients-with-type-2-diabetes-and-cogni/",
+    "categories": [
+      "高齢者",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42731827",
+    "doi": "10.1136/bmjopen-2026-118196",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "認知症高齢者におけるウェルビーイングへの歌唱活動と会話活動の比較:クロスオーバー・パイロット研究",
+    "summary": "認知症のある施設入居者15名を対象に歌唱活動と会話活動を比較したパイロット研究で、歌唱は介護者負担を軽減し、会話は本人のウェルビーイングを高める傾向が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/singing-versus-conversation-for-wellbeing-in-dementia-a-cross-over-pilot-study/",
+    "categories": [
+      "認知症",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42725922",
+    "doi": "10.1177/13872877261485601",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
@@ -2924,29 +2919,31 @@
     "issue_date": "2026-09-11"
   },
   {
-    "title": "Stage IV歯周炎の治療:欧州歯周病学連盟(EFP)Stage IVガイドラインの英国版適応(adolopment)",
-    "summary": "英国歯周病学会が、EFPによるStage IV歯周炎治療のS3臨床ガイドラインを英国向けに適応(adolopment)したプロセスと推奨内容を解説した論文である。",
-    "url": "/rehab-paper-digest/articles/2026/09/treating-stage-iv-periodontitis-the-uk-adolopment-of-the-efp-stage-iv-periodonti/",
+    "title": "多病因性認知症の治療への道筋:血管リスク管理と疾患修飾型神経変性治療の統合",
+    "summary": "血管性病理と神経変性病理が併存する多病因性認知症(MED)に対し、両病態を同時に標的とする統合的な研究戦略の必要性を論じたレビュー論文である。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-path-to-treating-multiple-etiology-dementia-combining-vascular-risk-control/",
     "categories": [
-      "その他"
+      "認知症",
+      "神経疾患",
+      "高齢者"
     ],
-    "pmid": "42728299",
-    "doi": "10.1038/s41415-026-9887-0",
+    "pmid": "42727484",
+    "doi": "10.1016/j.neurot.2026.e01068",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-01"
+    "issue_date": "2026-09-11"
   },
   {
-    "title": "脊髄損傷者に対するカヤックエルゴメーター訓練が体幹制御・自立度・心肺機能に与える効果",
-    "summary": "脊髄損傷者を対象に、カヤックエルゴメーター訓練と従来の体幹訓練を比較したランダム化比較試験で、カヤック訓練群に改善傾向がみられたが、補正後は統計的有意差は認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/effect-of-kayak-ergometer-training-on-trunk-control-independence-and-cardiovascu/",
+    "title": "フラクトオリゴ糖は腸機能を回復させ海馬短鎖脂肪酸を増加させることで慢性脳低灌流ラットのミトコンドリア自食作用による神経細胞アポトーシスを軽減する",
+    "summary": "慢性脳低灌流モデルラットにフラクトオリゴ糖(FOS)を経口投与したところ、腸管バリア機能・海馬短鎖脂肪酸・神経炎症・ミトコンドリア自食作用・神経細胞アポトーシスが改善し、認知機能障害が軽減した。",
+    "url": "/rehab-paper-digest/articles/2026/09/fructooligosaccharides-restore-gut-function-and-increase-hippocampal-short-chain/",
     "categories": [
-      "理学療法",
+      "認知症",
       "神経疾患",
-      "ADL"
+      "その他"
     ],
-    "pmid": "42725712",
-    "doi": "10.1080/10790268.2026.2672832",
+    "pmid": "42726175",
+    "doi": "10.1007/s12035-026-06189-w",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
@@ -2968,130 +2965,30 @@
     "issue_date": "2026-09-11"
   },
   {
-    "title": "心臓リハビリテーション適応入院患者におけるデジタルヘルス利用状況とバーチャル心臓リハビリテーションへの関心:横断研究",
-    "summary": "心臓リハビリテーション適応疾患で入院中の成人患者150名を対象とした横断調査で、多くの患者がバーチャル/在宅型心臓リハビリテーションに関心を示し、非白人患者では白人患者よりも関心が高かった。",
-    "url": "/rehab-paper-digest/articles/2026/09/digital-health-use-and-interest-in-virtual-cardiac-rehabilitation-among-cardiac/",
+    "title": "内在的能力(intrinsic capacity)の障害と認知症発症リスク:3つの地域コホートを統合した個人参加者データ解析",
+    "summary": "CHARLS、ELSA、HRSの3大規模地域コホート(計約4.9万人)を統合解析した結果、内在的能力の障害ドメイン数が多いほど認知症発症リスクが段階的に上昇し、既存の人口統計モデルへの追加で予測精度が改善した。",
+    "url": "/rehab-paper-digest/articles/2026/09/intrinsic-capacity-impairment-and-incident-dementia-across-three-population-base/",
     "categories": [
-      "その他",
-      "福祉用具・支援技術",
-      "高齢者"
+      "認知症",
+      "高齢者",
+      "認知機能"
     ],
-    "pmid": "42726796",
-    "doi": "10.2196/91767",
+    "pmid": "42727174",
+    "doi": "10.1016/j.jnha.2026.100983",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "関節鏡下腱板修復術後の早期拘縮における可動域回復軌跡と患者関連因子の検討",
-    "summary": "腱板修復術後3か月時点の肩拘縮は約半数に見られ、疼痛が主因の拘縮は6か月時点でも持続しやすい一方、再断裂への恐怖・不安による拘縮は概ね可逆的であった。",
-    "url": "/rehab-paper-digest/articles/2026/09/recovery-trajectory-of-range-of-motion-and-its-association-with-patient-factors/",
+    "title": "脊髄損傷者における経皮的脊髄硬膜外刺激:姿勢変化が運動誘発反応に与える影響",
+    "summary": "完全脊髄損傷者2例において、経皮的脊髄硬膜外刺激による下肢筋の運動誘発反応が、臥位に比べ立位で大きく減弱することが観察された。",
+    "url": "/rehab-paper-digest/articles/2026/09/postural-changes-and-motor-evoked-potentials-following-percutaneous-spinal-cord/",
     "categories": [
-      "整形外科",
+      "神経疾患",
       "理学療法"
     ],
-    "pmid": "42732269",
-    "doi": "10.1177/23259671261477946",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-01"
-  },
-  {
-    "title": "線維筋痛症患者における標準化評価バッテリーの構成概念妥当性:パフォーマンステスト・患者報告アウトカム・加速度計データの統合分析",
-    "summary": "線維筋痛症の女性患者87名を対象に、パフォーマンステスト・患者報告アウトカム・加速度計データを組み合わせた評価バッテリーが、ICF枠組みに基づく多次元的な機能評価として妥当であることが示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/the-value-of-performance-based-tests-in-the-assessment-of-patients-with-fibromya/",
-    "categories": [
-      "理学療法",
-      "整形外科",
-      "その他"
-    ],
-    "pmid": "42798403",
-    "doi": "10.3389/fresc.2026.1947752",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "米国成人におけるカドミウム曝露と全認知症・アルツハイマー病発症率の関連",
-    "summary": "米国の大規模疫学データを用いた縦断研究で、尿中・血中カドミウム濃度とアルツハイマー病・全認知症の発症リスクとの間に有意な関連は認められませんでした。",
-    "url": "/rehab-paper-digest/articles/2026/09/cadmium-exposure-and-incidence-of-all-cause-dementia-and-alzheimer-s-disease-in/",
-    "categories": [
-      "認知症",
-      "その他"
-    ],
-    "pmid": "42725989",
-    "doi": "10.1177/13872877261487104",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "車椅子座位における仙骨-背もたれ間距離が呼吸機能に及ぼす影響:シーティング評価への示唆",
-    "summary": "健常若年女性を対象に、車椅子座位で仙骨と背もたれの間の距離を変化させたところ、距離が大きいほど努力性肺活量など複数の呼吸機能指標が低下する傾向が示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/effect-of-sacrum-backrest-distance-on-respiratory-function-during-wheelchair-sit/",
-    "categories": [
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42726489",
-    "doi": "10.1080/17483107.2026.2730873",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "前十字靱帯再建術の手術タイミングと関節内病変・患者報告アウトカムとの関連:システマティックレビュー",
-    "summary": "受傷後3か月以内の早期ACL再建術は、それ以降の再建に比べて半月板損傷の有病率が低い傾向が示されたが、軟骨損傷や患者報告アウトカムに明確な差は認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/timing-of-anterior-cruciate-ligament-reconstruction-and-associated-intra-articul/",
-    "categories": [
-      "整形外科"
-    ],
-    "pmid": "42727886",
-    "doi": "10.1016/j.jisako.2026.101215",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "認知機能障害を有する高齢2型糖尿病入院患者における持続血糖モニタリング(CGM)の実行可能性に関する単群非対照研究",
-    "summary": "認知機能障害を伴う高齢2型糖尿病入院患者32名を対象に、盲検化持続血糖モニタリング(CGM)センサーの装着可能性・受容性・忍容性を検討したところ、高い受容性と低い痛みが報告された。",
-    "url": "/rehab-paper-digest/articles/2026/09/continuous-glucose-monitoring-in-older-inpatients-with-type-2-diabetes-and-cogni/",
-    "categories": [
-      "高齢者",
-      "認知症",
-      "その他"
-    ],
-    "pmid": "42731827",
-    "doi": "10.1136/bmjopen-2026-118196",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "多病因性認知症の治療への道筋:血管リスク管理と疾患修飾型神経変性治療の統合",
-    "summary": "血管性病理と神経変性病理が併存する多病因性認知症(MED)に対し、両病態を同時に標的とする統合的な研究戦略の必要性を論じたレビュー論文である。",
-    "url": "/rehab-paper-digest/articles/2026/09/the-path-to-treating-multiple-etiology-dementia-combining-vascular-risk-control/",
-    "categories": [
-      "認知症",
-      "神経疾患",
-      "高齢者"
-    ],
-    "pmid": "42727484",
-    "doi": "10.1016/j.neurot.2026.e01068",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-09-11"
-  },
-  {
-    "title": "膝・股関節肢位が健常者の大腿直筋・外側広筋の受動的スティフネスに及ぼす影響",
-    "summary": "健常成人36名を対象に、せん断波エラストグラフィーで関節肢位・筋深度・性差が大腿四頭筋の受動的スティフネスに与える影響を調べたランダム化クロスオーバー研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/effect-of-knee-and-hip-joint-positions-on-passive-stiffness-of-the-rectus-femori/",
-    "categories": [
-      "理学療法",
-      "整形外科"
-    ],
-    "pmid": "42728264",
-    "doi": "10.1038/s41598-026-60808-z",
+    "pmid": "42728305",
+    "doi": "10.1038/s41394-026-00753-1",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
@@ -3111,31 +3008,121 @@
     "issue_date": "2026-09-11"
   },
   {
-    "title": "術後鎮痛と回復における末梢神経刺激療法の役割の進展",
-    "summary": "一時的経皮的末梢神経刺激(PNS)は、運動機能を温存しながらオピオイド消費と術後疼痛を軽減しうる神経調節療法として、複数の外科領域で報告されているナラティブレビューです。",
-    "url": "/rehab-paper-digest/articles/2026/09/the-evolving-role-of-peripheral-nerve-stimulation-in-postoperative-analgesia-and/",
+    "title": "粟粒結核患者における脳MRI施行例からみた脳結核の頻度と臨床的特徴:単施設後方視的研究",
+    "summary": "粟粒結核患者のうち脳MRIを施行した例では約6割に脳結核所見が認められたが、MRI施行例には選択バイアスがあり、臨床所見のみでは脳病変の有無を判別できなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/cerebral-tuberculosis-among-elderly-patients-with-miliary-tuberculosis-undergoin/",
     "categories": [
-      "その他",
-      "理学療法"
+      "神経疾患",
+      "高齢者",
+      "その他"
     ],
-    "pmid": "42726365",
-    "doi": "10.1007/s11916-026-01560-x",
+    "pmid": "42727680",
+    "doi": "10.1016/j.ijid.2026.109113",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-09-11"
   },
   {
-    "title": "妊娠糖尿病女性のセルフケア支援に向けた文化的教育資材:ブラジルの伝統韻文「コルデル」の開発と内容妥当性検証",
-    "summary": "ブラジルの伝統的韻文文学「コルデル」を用いた妊娠糖尿病患者向け教育資材を開発し、妊婦22名と専門家40名による内容妥当性評価を行った方法論的研究。",
-    "url": "/rehab-paper-digest/articles/2026/01/culturally-grounded-health-communication-to-support-self-care-among-pregnant-wom/",
+    "title": "ファーストネーションの親の声を中心に据えて:北部サスカチュワンにおける地域主導型小児リハビリテーションニーズ評価",
+    "summary": "北部クリー・コミュニティの長老の懸念を受け、発達に困難のある子どもを持つ親への聞き取りから、小児リハビリサービスへのニーズと課題を地域参加型で明らかにした質的研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/centering-first-nations-parents-voices-a-community-directed-pediatric-rehabilita/",
+    "categories": [
+      "小児",
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42725466",
+    "doi": "10.1080/09638288.2026.2729409",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "ストレプトゾトシン誘発性認知症モデルラットの視床下部アストロサイト培養における細胞老化表現型",
+    "summary": "ストレプトゾトシン誘発性認知症モデルラットから採取した視床下部アストロサイトの培養実験で、生体内で見られた変化に加え、細胞老化やSASP因子の増加が確認されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/the-senescent-phenotype-of-cultured-hypothalamic-astrocytes-from-rats-with-strep/",
+    "categories": [
+      "神経疾患",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42726406",
+    "doi": "10.1007/s11064-026-04884-7",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "脊椎手術前のプレハビリテーションプログラム設計に関する患者の意向を探る質的研究",
+    "summary": "腰椎手術を待つ患者を対象にした質的研究で、プレハビリテーションプログラムへの参加意欲、参加の障壁・促進要因、プログラム構造や内容への希望が明らかにされた。",
+    "url": "/rehab-paper-digest/articles/2026/09/designing-prehabilitation-programs-for-spinal-surgery-a-qualitative-study-explor/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42731317",
+    "doi": "10.1016/j.msksp.2026.103660",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "交差する差別被害:長期療養施設における高齢LGBTQ+当事者への差別的虐待",
+    "summary": "認知症を有するゲイ男性が施設でホモフォビックな虐待を受けた事例をもとに、高齢LGBTQ+当事者への差別的虐待が学術・データ・制度枠組みの中で見過ごされてきた構造的問題を論じる評論です。",
+    "url": "/rehab-paper-digest/articles/2026/09/intersectional-harms-discriminatory-abuse-of-older-lgbtq-adults-in-long-term-car/",
+    "categories": [
+      "高齢者",
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42725539",
+    "doi": "10.1080/08946566.2026.2731352",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "ソフトボール投手の肩オーバーユース障害の評価と管理に関する臨床ガイド",
+    "summary": "ソフトボール投手に多い肩のオーバーユース障害について、評価から運動連鎖全体を考慮したリハビリテーションまでを示した臨床ガイド論文。",
+    "url": "/rehab-paper-digest/articles/2026/09/a-clinician-s-guide-to-evaluating-and-managing-shoulder-overuse-injury-in-softba/",
+    "categories": [
+      "理学療法",
+      "整形外科",
+      "上肢機能"
+    ],
+    "pmid": "42725649",
+    "doi": "10.2519/josptopen.2026.0227",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-09-11"
+  },
+  {
+    "title": "スウェーデンのプライマリケアにおける2型糖尿病患者がグループ教育を選択しなかった理由に関する現象学的インタビュー研究",
+    "summary": "2型糖尿病のグループ教育を選択しなかった患者18名へのインタビューから、個別学習の希望・利便性の障壁の認識・グループの利点への理解という3つの異なる認識パターンが明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/12/patients-conceptions-of-opting-out-of-group-based-education-for-type-2-diabetes/",
     "categories": [
       "その他"
     ],
-    "pmid": "42726707",
-    "doi": "10.1371/journal.pone.0357959",
+    "pmid": "42726907",
+    "doi": "10.1080/17482631.2026.2731703",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
-    "issue_date": "2026-01-01"
+    "issue_date": "2026-12-31"
+  },
+  {
+    "title": "AIMSクリニックモデル:後期パーキンソニズム患者に対する学際的運動障害・神経緩和ケア外来の後方視的分析",
+    "summary": "後期パーキンソニズム患者を対象とした学際的な運動障害・神経緩和ケア外来「AIMSクリニック」の構造と、2019~2023年の175例・568回受診の後方視的レビューを報告した研究。",
+    "url": "/rehab-paper-digest/articles/2026/10/the-aims-clinic-model-a-retrospective-analysis-of-interdisciplinary-movement-neu/",
+    "categories": [
+      "神経疾患",
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42727035",
+    "doi": "10.1212/CPJ.0000000000200652",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-10-01"
   },
   {
     "title": "西・南部アフリカにおける精神病を有する人々のための地域密着型リハビリテーション介入「SUCCEED」の共同創造プロセス:Theory of Changeを用いた開発報告",
@@ -3148,19 +3135,6 @@
     ],
     "pmid": "42726714",
     "doi": "10.1371/journal.pmen.0000668",
-    "published_date": "2026-09-11",
-    "online_publication_date": "2026-09-11",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "心不全患者のセルフケア支援を目的としたモバイルアプリケーションの効果に関する準実験的研究",
-    "summary": "心不全患者57名を対象に、モバイルアプリ「Tum-Tum」の使用前後でセルフケア指標(維持・自信サブスケール)が有意に改善したことを示した単群前後比較研究。",
-    "url": "/rehab-paper-digest/articles/2026/01/mobile-application-for-self-care-in-people-with-heart-failure-a-quasi-experiment/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42726518",
-    "doi": "10.1590/1980-220X-REEUSP-2025-0537en",
     "published_date": "2026-09-11",
     "online_publication_date": "2026-09-11",
     "issue_date": "2026-01-01"
@@ -3180,6 +3154,32 @@
     "issue_date": "2026-01-01"
   },
   {
+    "title": "心不全患者のセルフケア支援を目的としたモバイルアプリケーションの効果に関する準実験的研究",
+    "summary": "心不全患者57名を対象に、モバイルアプリ「Tum-Tum」の使用前後でセルフケア指標(維持・自信サブスケール)が有意に改善したことを示した単群前後比較研究。",
+    "url": "/rehab-paper-digest/articles/2026/01/mobile-application-for-self-care-in-people-with-heart-failure-a-quasi-experiment/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42726518",
+    "doi": "10.1590/1980-220X-REEUSP-2025-0537en",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "妊娠糖尿病女性のセルフケア支援に向けた文化的教育資材:ブラジルの伝統韻文「コルデル」の開発と内容妥当性検証",
+    "summary": "ブラジルの伝統的韻文文学「コルデル」を用いた妊娠糖尿病患者向け教育資材を開発し、妊婦22名と専門家40名による内容妥当性評価を行った方法論的研究。",
+    "url": "/rehab-paper-digest/articles/2026/01/culturally-grounded-health-communication-to-support-self-care-among-pregnant-wom/",
+    "categories": [
+      "その他"
+    ],
+    "pmid": "42726707",
+    "doi": "10.1371/journal.pone.0357959",
+    "published_date": "2026-09-11",
+    "online_publication_date": "2026-09-11",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "遺残性左心房心臓静脈(LACV)を介した奇異性脳梗塞の1例:評価と管理に関する提言",
     "summary": "パーキンソン病と認知症の既往がある高齢男性が奇異性脳梗塞を発症し、多モダリティ画像検査で稀な心血管奇形LACVと上肢深部静脈血栓が塞栓源として同定された症例報告。",
     "url": "/rehab-paper-digest/articles/2026/09/paradoxical-stroke-via-persistent-levoatriocardinal-vein-and-evaluation-and-mana/",
@@ -3194,31 +3194,15 @@
     "issue_date": "2026-09-10"
   },
   {
-    "title": "パーキンソン病リハビリテーションへの八段錦の導入:ランダム化比較試験",
-    "summary": "施設入所中のパーキンソン病患者において、通常の理学療法に八段錦を追加したところ、バランス機能と歩行耐久性の指標で通常療法単独より良好な結果が示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/integrating-baduanjin-exercise-into-parkinson-s-rehabilitation-a-randomized-cont/",
+    "title": "中国における遺伝性網膜疾患患者を対象とした全国横断調査",
+    "summary": "中国の遺伝性網膜疾患(IRD)患者2218名を対象とした横断調査により、診断の遅れ、高い誤診率、低い治療満足度、経済的制約など多面的な生活課題が明らかになった。",
+    "url": "/rehab-paper-digest/articles/2026/09/a-national-cross-sectional-study-of-patients-with-inherited-retinal-disease-in-c/",
     "categories": [
-      "理学療法",
-      "神経疾患",
-      "高齢者",
-      "歩行"
-    ],
-    "pmid": "42781380",
-    "doi": "10.3389/fnagi.2026.1925159",
-    "published_date": "2026-09-09",
-    "online_publication_date": "2026-09-09",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "生物学的加齢の加速と多領域機能障害:NHANESとCHARLSにおける死亡・障害との関連および予測増分価値の検討",
-    "summary": "米国と中国の高齢者縦断コホートを用いて、生物学的加齢の加速は死亡と弱く関連するものの障害発生とは関連せず、機能障害スコアに追加しても予測性能はほとんど向上しないことが示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/biological-age-acceleration-and-multidomain-functional-impairment-mortality-asso/",
-    "categories": [
-      "高齢者",
+      "福祉用具・支援技術",
       "その他"
     ],
-    "pmid": "42731357",
-    "doi": "10.1016/j.archger.2026.106404",
+    "pmid": "42728350",
+    "doi": "10.1038/s41598-026-70895-7",
     "published_date": "2026-09-09",
     "online_publication_date": "2026-09-09",
     "issue_date": "2026-09-09"
@@ -3239,32 +3223,33 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "中国における遺伝性網膜疾患患者を対象とした全国横断調査",
-    "summary": "中国の遺伝性網膜疾患(IRD)患者2218名を対象とした横断調査により、診断の遅れ、高い誤診率、低い治療満足度、経済的制約など多面的な生活課題が明らかになった。",
-    "url": "/rehab-paper-digest/articles/2026/09/a-national-cross-sectional-study-of-patients-with-inherited-retinal-disease-in-c/",
+    "title": "生物学的加齢の加速と多領域機能障害:NHANESとCHARLSにおける死亡・障害との関連および予測増分価値の検討",
+    "summary": "米国と中国の高齢者縦断コホートを用いて、生物学的加齢の加速は死亡と弱く関連するものの障害発生とは関連せず、機能障害スコアに追加しても予測性能はほとんど向上しないことが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/biological-age-acceleration-and-multidomain-functional-impairment-mortality-asso/",
     "categories": [
-      "福祉用具・支援技術",
+      "高齢者",
       "その他"
     ],
-    "pmid": "42728350",
-    "doi": "10.1038/s41598-026-70895-7",
+    "pmid": "42731357",
+    "doi": "10.1016/j.archger.2026.106404",
     "published_date": "2026-09-09",
     "online_publication_date": "2026-09-09",
     "issue_date": "2026-09-09"
   },
   {
-    "title": "パーキンソン病における歩行凍結(FOG)患者へのリハビリテーション:運動・非運動アウトカムに関するシステマティックレビューとメタ解析",
-    "summary": "パーキンソン病の歩行凍結を有する患者を対象としたリハビリ介入研究をメタ解析した結果、姿勢制御と認知処理領域では有意な改善がみられたが、不安・抑うつなどの辺縁系領域では有意な変化が認められなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/motor-and-non-motor-outcomes-post-rehabilitation-for-persons-with-freezing-of-ga/",
+    "title": "パーキンソン病リハビリテーションへの八段錦の導入:ランダム化比較試験",
+    "summary": "施設入所中のパーキンソン病患者において、通常の理学療法に八段錦を追加したところ、バランス機能と歩行耐久性の指標で通常療法単独より良好な結果が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/integrating-baduanjin-exercise-into-parkinson-s-rehabilitation-a-randomized-cont/",
     "categories": [
-      "神経疾患",
       "理学療法",
-      "認知機能"
+      "神経疾患",
+      "高齢者",
+      "歩行"
     ],
-    "pmid": "42781534",
-    "doi": "10.1016/j.prdoa.2026.100498",
-    "published_date": "2026-09-07",
-    "online_publication_date": "2026-09-07",
+    "pmid": "42781380",
+    "doi": "10.3389/fnagi.2026.1925159",
+    "published_date": "2026-09-09",
+    "online_publication_date": "2026-09-09",
     "issue_date": "2026-01-01"
   },
   {
@@ -3282,46 +3267,19 @@
     "issue_date": "2026-09-07"
   },
   {
-    "title": "全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル",
-    "summary": "脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/",
+    "title": "パーキンソン病における歩行凍結(FOG)患者へのリハビリテーション:運動・非運動アウトカムに関するシステマティックレビューとメタ解析",
+    "summary": "パーキンソン病の歩行凍結を有する患者を対象としたリハビリ介入研究をメタ解析した結果、姿勢制御と認知処理領域では有意な改善がみられたが、不安・抑うつなどの辺縁系領域では有意な変化が認められなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/motor-and-non-motor-outcomes-post-rehabilitation-for-persons-with-freezing-of-ga/",
     "categories": [
-      "整形外科",
-      "その他"
+      "神経疾患",
+      "理学療法",
+      "認知機能"
     ],
-    "pmid": "42761078",
-    "doi": "10.3389/fmed.2026.1871136",
-    "published_date": "2026-09-04",
-    "online_publication_date": "2026-09-04",
+    "pmid": "42781534",
+    "doi": "10.1016/j.prdoa.2026.100498",
+    "published_date": "2026-09-07",
+    "online_publication_date": "2026-09-07",
     "issue_date": "2026-01-01"
-  },
-  {
-    "title": "統合失調症患者に対する地域リハビリテーションの費用対効果:クラスターランダム化比較試験の二次解析",
-    "summary": "中国の統合失調症患者を対象に、施設ベースケアに加えた集団型地域リハビリテーション(CBR)の費用対効果を検討したクラスターRCTの二次解析で、CBR併用群は臨床アウトカムの改善とコスト削減の両立が示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/cost-effectiveness-of-community-based-rehabilitation-for-people-with-schizophren/",
-    "categories": [
-      "精神科",
-      "その他"
-    ],
-    "pmid": "42758489",
-    "doi": "10.1001/jamahealthforum.2026.3280",
-    "published_date": "2026-09-04",
-    "online_publication_date": "2026-09-04",
-    "issue_date": "2026-09-04"
-  },
-  {
-    "title": "高齢男性の尿失禁自己管理:専門家の合意と患者の実行可能性を統合した優先順位づけ",
-    "summary": "尿失禁のある高齢男性を対象に、専門家が臨床的に重要とみなす修正可能な危険因子と、当事者が実際に取り組む意欲・実行可能性を組み合わせて、自己管理介入の優先候補を検討した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/09/prioritising-modifiable-risk-factors-for-self-management-of-urinary-incontinence/",
-    "categories": [
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42735390",
-    "doi": "10.1093/ageing/afag270",
-    "published_date": "2026-09-04",
-    "online_publication_date": "",
-    "issue_date": "2026-09-04"
   },
   {
     "title": "穿通性V3椎骨動脈完全離断に対する近位・遠位血管内塞栓術と外科的結紮の併用療法:症例報告",
@@ -3338,17 +3296,17 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "認知症の心理社会的介入試験における目標達成度スケール(GAS)の測定特性の検証",
-    "summary": "認知症とその家族介護者を対象としたNIDUS-Family試験において、個別化アウトカム指標であるGoal Attainment Scaling(GAS)の実行可能性・信頼性・妥当性が良好であることが示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/measuring-what-matters-evaluating-the-psychometric-properties-of-goal-attainment/",
+    "title": "統合失調症患者に対する地域リハビリテーションの費用対効果:クラスターランダム化比較試験の二次解析",
+    "summary": "中国の統合失調症患者を対象に、施設ベースケアに加えた集団型地域リハビリテーション(CBR)の費用対効果を検討したクラスターRCTの二次解析で、CBR併用群は臨床アウトカムの改善とコスト削減の両立が示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/cost-effectiveness-of-community-based-rehabilitation-for-people-with-schizophren/",
     "categories": [
-      "認知症",
+      "精神科",
       "その他"
     ],
-    "pmid": "42735391",
-    "doi": "10.1093/ageing/afag260",
+    "pmid": "42758489",
+    "doi": "10.1001/jamahealthforum.2026.3280",
     "published_date": "2026-09-04",
-    "online_publication_date": "",
+    "online_publication_date": "2026-09-04",
     "issue_date": "2026-09-04"
   },
   {
@@ -3381,6 +3339,20 @@
     "issue_date": "2026-01-01"
   },
   {
+    "title": "高齢男性の尿失禁自己管理:専門家の合意と患者の実行可能性を統合した優先順位づけ",
+    "summary": "尿失禁のある高齢男性を対象に、専門家が臨床的に重要とみなす修正可能な危険因子と、当事者が実際に取り組む意欲・実行可能性を組み合わせて、自己管理介入の優先候補を検討した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/prioritising-modifiable-risk-factors-for-self-management-of-urinary-incontinence/",
+    "categories": [
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42735390",
+    "doi": "10.1093/ageing/afag270",
+    "published_date": "2026-09-04",
+    "online_publication_date": "",
+    "issue_date": "2026-09-04"
+  },
+  {
     "title": "心血管代謝薬への曝露とアルツハイマー病における認知機能転帰の関連",
     "summary": "複数の大規模コホートを統合し、7種類の心血管代謝薬とアルツハイマー病における認知機能低下の推移との関連を検討した観察研究です。",
     "url": "/rehab-paper-digest/articles/2026/09/cardiometabolic-medication-exposures-and-cognitive-outcomes-in-alzheimer-s-disea/",
@@ -3391,6 +3363,34 @@
     ],
     "pmid": "42735389",
     "doi": "10.1093/ageing/afag263",
+    "published_date": "2026-09-04",
+    "online_publication_date": "",
+    "issue_date": "2026-09-04"
+  },
+  {
+    "title": "全身麻酔下脊椎手術後の腹部膨満に関する機械学習ベースのリスク予測モデル",
+    "summary": "脊椎手術後の腹部膨満を予測する複数の機械学習モデルを単施設データで構築・内部検証し、ランダムフォレストが最も高い判別能を示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/09/machine-learning-based-risk-prediction-model-for-postoperative-abdominal-distens/",
+    "categories": [
+      "整形外科",
+      "その他"
+    ],
+    "pmid": "42761078",
+    "doi": "10.3389/fmed.2026.1871136",
+    "published_date": "2026-09-04",
+    "online_publication_date": "2026-09-04",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "認知症の心理社会的介入試験における目標達成度スケール(GAS)の測定特性の検証",
+    "summary": "認知症とその家族介護者を対象としたNIDUS-Family試験において、個別化アウトカム指標であるGoal Attainment Scaling(GAS)の実行可能性・信頼性・妥当性が良好であることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/measuring-what-matters-evaluating-the-psychometric-properties-of-goal-attainment/",
+    "categories": [
+      "認知症",
+      "その他"
+    ],
+    "pmid": "42735391",
+    "doi": "10.1093/ageing/afag260",
     "published_date": "2026-09-04",
     "online_publication_date": "",
     "issue_date": "2026-09-04"
@@ -3426,16 +3426,29 @@
     "issue_date": "2026-09-03"
   },
   {
-    "title": "運動前野-小脳間の対連合刺激による運動巧緻性と小脳機能の時間依存的増強",
-    "summary": "健常成人を対象に運動前野と小脳への対連合刺激(PAS)を行ったところ、刺激間隔20msで小脳性抑制と左手の巧緻性が向上し、5msでは逆の変化が生じることが示されました。",
-    "url": "/rehab-paper-digest/articles/2026/09/time-dependent-enhancement-of-motor-dexterity-and-cerebellar-function-via-premot/",
+    "title": "TUBA4A遺伝子変異により成人発症の遺伝性筋無力症候群・ミオパチー・不妊を呈した1例",
+    "summary": "TUBA4A遺伝子変異を持つ成人女性が、筋無力症候群様の症状とミオパチー、不妊を合併した症例を報告し、神経筋接合部異常が主要な表現型となりうることを示した。",
+    "url": "/rehab-paper-digest/articles/2026/09/tuba4a-pathogenic-variant-manifesting-with-adulthood-onset-genetic-myasthenic-sy/",
     "categories": [
       "神経疾患",
-      "上肢機能",
       "その他"
     ],
-    "pmid": "42753155",
-    "doi": "10.1111/ejn.70688",
+    "pmid": "42725680",
+    "doi": "10.1111/ene.70753",
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "膝関節症患者における体幹深部筋・股関節周囲筋の筋力低下の有病率:横断研究",
+    "summary": "膝OA患者は無症候群と比較して、体幹深部筋(腹横筋)の活性化不全や股関節伸展・外転・外旋筋力低下の有病率が有意に高いことが横断研究で示された。",
+    "url": "/rehab-paper-digest/articles/2026/09/prevalence-of-strength-deficits-of-core-and-hip-stabilizers-in-knee-osteoarthrit/",
+    "categories": [
+      "整形外科",
+      "理学療法"
+    ],
+    "pmid": "42732557",
+    "doi": "10.1002/msc.70262",
     "published_date": "2026-09-01",
     "online_publication_date": "",
     "issue_date": "2026-09-01"
@@ -3456,28 +3469,17 @@
     "issue_date": "2026-09-01"
   },
   {
-    "title": "理学療法:リハビリテーションの原則、連携、協働",
-    "summary": "プライマリケア医が理学療法士と効果的に連携するための、リハビリテーションの基本原則と治療戦略を解説した総説。",
-    "url": "/rehab-paper-digest/articles/2026/09/physical-therapy-rehabilitation-principles-coordination-and-collaboration/",
+    "title": "日本版抗コリン薬リスクスケール(JARS)と脳卒中後高齢患者の領域別機能予後との関連",
+    "summary": "脳卒中後高齢患者747例を対象に、日本版抗コリン薬リスクスケール(JARS)とADL・認知・嚥下・栄養・筋力の各予後との関連を検討した後ろ向きコホート研究。",
+    "url": "/rehab-paper-digest/articles/2026/09/japanese-anticholinergic-risk-scale-and-domain-specific-functional-outcomes-in-o/",
     "categories": [
-      "理学療法",
-      "整形外科"
+      "脳卒中",
+      "高齢者",
+      "認知機能",
+      "ADL"
     ],
-    "pmid": "42789630",
-    "doi": "",
-    "published_date": "2026-09-01",
-    "online_publication_date": "",
-    "issue_date": "2026-09-01"
-  },
-  {
-    "title": "人工膝関節全置換術待機中の重度膝関節症患者における神経障害性疼痛様症状の有病率と機能・QOLとの関連",
-    "summary": "人工膝関節全置換術を待機する重度膝関節症患者902名のうち約28.6%に神経障害性疼痛様症状がみられ、これらの患者は機能・QOLがより低い傾向にあった。",
-    "url": "/rehab-paper-digest/articles/2026/09/dn4-positive-neuropathic-pain-features-in-end-stage-knee-osteoarthritis-awaiting/",
-    "categories": [
-      "整形外科"
-    ],
-    "pmid": "42770731",
-    "doi": "10.1111/1756-185x.70882",
+    "pmid": "42728245",
+    "doi": "10.1111/ggi.70842",
     "published_date": "2026-09-01",
     "online_publication_date": "",
     "issue_date": "2026-09-01"
@@ -3492,20 +3494,6 @@
     ],
     "pmid": "42804318",
     "doi": "",
-    "published_date": "2026-09-01",
-    "online_publication_date": "",
-    "issue_date": "2026-09-01"
-  },
-  {
-    "title": "TUBA4A遺伝子変異により成人発症の遺伝性筋無力症候群・ミオパチー・不妊を呈した1例",
-    "summary": "TUBA4A遺伝子変異を持つ成人女性が、筋無力症候群様の症状とミオパチー、不妊を合併した症例を報告し、神経筋接合部異常が主要な表現型となりうることを示した。",
-    "url": "/rehab-paper-digest/articles/2026/09/tuba4a-pathogenic-variant-manifesting-with-adulthood-onset-genetic-myasthenic-sy/",
-    "categories": [
-      "神経疾患",
-      "その他"
-    ],
-    "pmid": "42725680",
-    "doi": "10.1111/ene.70753",
     "published_date": "2026-09-01",
     "online_publication_date": "",
     "issue_date": "2026-09-01"
@@ -3527,34 +3515,6 @@
     "issue_date": "2026-09-01"
   },
   {
-    "title": "熱波と病院高齢者ケア経路のレジリエンス:全国反復調査PUGG FLASH-HEATWAVE 2026の結果",
-    "summary": "2026年の熱波時にフランスの急性期高齢者病棟とリハビリ病棟を対象に行った全国調査で、病室の暑さ・職員の疲労・救急逼迫・下流の受け入れ不足が広く報告され、1週間後には一部指標が改善した一方で下流の受け入れ不足は解消しなかった。",
-    "url": "/rehab-paper-digest/articles/2026/09/heatwaves-and-resilience-of-hospital-geriatric-care-pathways-results-of-the-repe/",
-    "categories": [
-      "高齢者",
-      "その他"
-    ],
-    "pmid": "42842818",
-    "doi": "10.1684/pnv.2026.1301",
-    "published_date": "2026-09-01",
-    "online_publication_date": "",
-    "issue_date": "2026-09-01"
-  },
-  {
-    "title": "膝関節症患者における体幹深部筋・股関節周囲筋の筋力低下の有病率:横断研究",
-    "summary": "膝OA患者は無症候群と比較して、体幹深部筋(腹横筋)の活性化不全や股関節伸展・外転・外旋筋力低下の有病率が有意に高いことが横断研究で示された。",
-    "url": "/rehab-paper-digest/articles/2026/09/prevalence-of-strength-deficits-of-core-and-hip-stabilizers-in-knee-osteoarthrit/",
-    "categories": [
-      "整形外科",
-      "理学療法"
-    ],
-    "pmid": "42732557",
-    "doi": "10.1002/msc.70262",
-    "published_date": "2026-09-01",
-    "online_publication_date": "",
-    "issue_date": "2026-09-01"
-  },
-  {
     "title": "脳性麻痺児の摂食における課題に関する母親の視点:質的研究",
     "summary": "トルコの脳性麻痺児の母親26名への半構造化面接から、摂食に関わる困難と対処戦略、専門支援へのアクセス課題が明らかにされた。",
     "url": "/rehab-paper-digest/articles/2026/09/parental-perspectives-on-feeding-challenges-in-children-with-cerebral-palsy-a-qu/",
@@ -3570,17 +3530,57 @@
     "issue_date": "2026-09-01"
   },
   {
-    "title": "日本版抗コリン薬リスクスケール(JARS)と脳卒中後高齢患者の領域別機能予後との関連",
-    "summary": "脳卒中後高齢患者747例を対象に、日本版抗コリン薬リスクスケール(JARS)とADL・認知・嚥下・栄養・筋力の各予後との関連を検討した後ろ向きコホート研究。",
-    "url": "/rehab-paper-digest/articles/2026/09/japanese-anticholinergic-risk-scale-and-domain-specific-functional-outcomes-in-o/",
+    "title": "運動前野-小脳間の対連合刺激による運動巧緻性と小脳機能の時間依存的増強",
+    "summary": "健常成人を対象に運動前野と小脳への対連合刺激(PAS)を行ったところ、刺激間隔20msで小脳性抑制と左手の巧緻性が向上し、5msでは逆の変化が生じることが示されました。",
+    "url": "/rehab-paper-digest/articles/2026/09/time-dependent-enhancement-of-motor-dexterity-and-cerebellar-function-via-premot/",
     "categories": [
-      "脳卒中",
-      "高齢者",
-      "認知機能",
-      "ADL"
+      "神経疾患",
+      "上肢機能",
+      "その他"
     ],
-    "pmid": "42728245",
-    "doi": "10.1111/ggi.70842",
+    "pmid": "42753155",
+    "doi": "10.1111/ejn.70688",
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "熱波と病院高齢者ケア経路のレジリエンス:全国反復調査PUGG FLASH-HEATWAVE 2026の結果",
+    "summary": "2026年の熱波時にフランスの急性期高齢者病棟とリハビリ病棟を対象に行った全国調査で、病室の暑さ・職員の疲労・救急逼迫・下流の受け入れ不足が広く報告され、1週間後には一部指標が改善した一方で下流の受け入れ不足は解消しなかった。",
+    "url": "/rehab-paper-digest/articles/2026/09/heatwaves-and-resilience-of-hospital-geriatric-care-pathways-results-of-the-repe/",
+    "categories": [
+      "高齢者",
+      "その他"
+    ],
+    "pmid": "42842818",
+    "doi": "10.1684/pnv.2026.1301",
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "人工膝関節全置換術待機中の重度膝関節症患者における神経障害性疼痛様症状の有病率と機能・QOLとの関連",
+    "summary": "人工膝関節全置換術を待機する重度膝関節症患者902名のうち約28.6%に神経障害性疼痛様症状がみられ、これらの患者は機能・QOLがより低い傾向にあった。",
+    "url": "/rehab-paper-digest/articles/2026/09/dn4-positive-neuropathic-pain-features-in-end-stage-knee-osteoarthritis-awaiting/",
+    "categories": [
+      "整形外科"
+    ],
+    "pmid": "42770731",
+    "doi": "10.1111/1756-185x.70882",
+    "published_date": "2026-09-01",
+    "online_publication_date": "",
+    "issue_date": "2026-09-01"
+  },
+  {
+    "title": "理学療法:リハビリテーションの原則、連携、協働",
+    "summary": "プライマリケア医が理学療法士と効果的に連携するための、リハビリテーションの基本原則と治療戦略を解説した総説。",
+    "url": "/rehab-paper-digest/articles/2026/09/physical-therapy-rehabilitation-principles-coordination-and-collaboration/",
+    "categories": [
+      "理学療法",
+      "整形外科"
+    ],
+    "pmid": "42789630",
+    "doi": "",
     "published_date": "2026-09-01",
     "online_publication_date": "",
     "issue_date": "2026-09-01"
@@ -3598,6 +3598,34 @@
     "published_date": "2026-08-31",
     "online_publication_date": "2026-08-31",
     "issue_date": "2026-08-31"
+  },
+  {
+    "title": "真珠腫術後の聴力改善不良例における再手術および人工聴覚器の適応候補に関する検討",
+    "summary": "後天性真珠腫に対する鼓室形成術後に聴力改善が得られなかった患者のうち、多くが再手術や人工聴覚器(人工内耳、Baha、VSB)の適応候補となり得ることを後方視的に示した研究です。",
+    "url": "/rehab-paper-digest/articles/2026/08/candidates-for-revision-tympanoplasty-and-implantable-hearing-devices-in-cases-o/",
+    "categories": [
+      "福祉用具・支援技術",
+      "その他"
+    ],
+    "pmid": "42732641",
+    "doi": "10.65717/iao.2026.262348",
+    "published_date": "2026-08-28",
+    "online_publication_date": "2026-08-28",
+    "issue_date": "2026-08-28"
+  },
+  {
+    "title": "白質びまん性病変を有する人工内耳装用児における聴覚および言語発達の検討",
+    "summary": "白質びまん性病変を有する人工内耳装用児は、聴覚検知や語音弁別は病変のない児と差がない一方、受容・表出言語の発達が有意に遅れていた。",
+    "url": "/rehab-paper-digest/articles/2026/08/auditory-and-language-development-in-children-with-white-matter-diffused-lesions/",
+    "categories": [
+      "言語聴覚療法",
+      "小児"
+    ],
+    "pmid": "42732640",
+    "doi": "10.65717/iao.2026.252241",
+    "published_date": "2026-08-28",
+    "online_publication_date": "2026-08-28",
+    "issue_date": "2026-08-28"
   },
   {
     "title": "作業療法における生成AI活用の実態:利用状況、倫理的懸念、研修ニーズに関する調査",
@@ -3627,34 +3655,6 @@
     "published_date": "2026-08-28",
     "online_publication_date": "2026-08-28",
     "issue_date": "2026-01-01"
-  },
-  {
-    "title": "真珠腫術後の聴力改善不良例における再手術および人工聴覚器の適応候補に関する検討",
-    "summary": "後天性真珠腫に対する鼓室形成術後に聴力改善が得られなかった患者のうち、多くが再手術や人工聴覚器(人工内耳、Baha、VSB)の適応候補となり得ることを後方視的に示した研究です。",
-    "url": "/rehab-paper-digest/articles/2026/08/candidates-for-revision-tympanoplasty-and-implantable-hearing-devices-in-cases-o/",
-    "categories": [
-      "福祉用具・支援技術",
-      "その他"
-    ],
-    "pmid": "42732641",
-    "doi": "10.65717/iao.2026.262348",
-    "published_date": "2026-08-28",
-    "online_publication_date": "2026-08-28",
-    "issue_date": "2026-08-28"
-  },
-  {
-    "title": "白質びまん性病変を有する人工内耳装用児における聴覚および言語発達の検討",
-    "summary": "白質びまん性病変を有する人工内耳装用児は、聴覚検知や語音弁別は病変のない児と差がない一方、受容・表出言語の発達が有意に遅れていた。",
-    "url": "/rehab-paper-digest/articles/2026/08/auditory-and-language-development-in-children-with-white-matter-diffused-lesions/",
-    "categories": [
-      "言語聴覚療法",
-      "小児"
-    ],
-    "pmid": "42732640",
-    "doi": "10.65717/iao.2026.252241",
-    "published_date": "2026-08-28",
-    "online_publication_date": "2026-08-28",
-    "issue_date": "2026-08-28"
   },
   {
     "title": "開瞼失行に対するブロモクリプチン治療が奏効した1例",
@@ -3851,6 +3851,20 @@
     "issue_date": "2026-01-01"
   },
   {
+    "title": "日本の緩和ケア病棟におけるがんリハビリテーションの実施状況:全国調査",
+    "summary": "日本全国の緩和ケア病棟462施設を対象とした全国調査により、がんリハビリテーションの対象がん種、介入内容、実施頻度・時間などの実態が明らかにされました。",
+    "url": "/rehab-paper-digest/articles/2026/06/overview-of-cancer-rehabilitation-provided-in-palliative-care-units-in-japan-a-n/",
+    "categories": [
+      "理学療法",
+      "その他"
+    ],
+    "pmid": "42819709",
+    "doi": "10.1298/ptr.25-E10376",
+    "published_date": "2026-06-04",
+    "online_publication_date": "2026-06-04",
+    "issue_date": "2026-01-01"
+  },
+  {
     "title": "回復期リハ病棟における低FIM脳卒中患者の退院時機能自立度予測:入院時モデルと3週時点モデルの比較",
     "summary": "入院時情報のみのモデルより、入院時情報に3週時点の再評価を加えたモデルの方が、退院時FIM運動項目の予測精度が高かった。",
     "url": "/rehab-paper-digest/articles/2026/06/time-updated-prediction-of-discharge-functional-independence-in-patients-with-st/",
@@ -3861,20 +3875,6 @@
     ],
     "pmid": "42819719",
     "doi": "10.1298/ptr.25-E10391",
-    "published_date": "2026-06-04",
-    "online_publication_date": "2026-06-04",
-    "issue_date": "2026-01-01"
-  },
-  {
-    "title": "日本の緩和ケア病棟におけるがんリハビリテーションの実施状況:全国調査",
-    "summary": "日本全国の緩和ケア病棟462施設を対象とした全国調査により、がんリハビリテーションの対象がん種、介入内容、実施頻度・時間などの実態が明らかにされました。",
-    "url": "/rehab-paper-digest/articles/2026/06/overview-of-cancer-rehabilitation-provided-in-palliative-care-units-in-japan-a-n/",
-    "categories": [
-      "理学療法",
-      "その他"
-    ],
-    "pmid": "42819709",
-    "doi": "10.1298/ptr.25-E10376",
     "published_date": "2026-06-04",
     "online_publication_date": "2026-06-04",
     "issue_date": "2026-01-01"
@@ -3924,19 +3924,6 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "救急・集中治療看護師における看護ケアの見落とし:項目レベルのネットワーク分析とコンピュータシミュレーションによる検討",
-    "summary": "中国の救急・集中治療看護師3351名のデータを用い、看護ケアの見落とし24項目間の関連構造をネットワーク分析とシミュレーションで検討し、頻度だけでは分からない優先すべきケア項目を特定した横断研究。",
-    "url": "/rehab-paper-digest/articles/2026/01/missed-nursing-care-among-emergency-and-critical-care-nurses-an-item-level-netwo/",
-    "categories": [
-      "その他"
-    ],
-    "pmid": "42801313",
-    "doi": "10.1155/jonm/5019343",
-    "published_date": "2026-01-01",
-    "online_publication_date": "",
-    "issue_date": "2026-01-01"
-  },
-  {
     "title": "咀嚼から思考へ:咀嚼運動・脳血流・認知機能をつなぐ解剖学的・神経生理学的リンク(ナラティブレビュー)",
     "summary": "側頭筋と側頭葉は別々の血管系に支配され直接的な血管吻合はないものの、咀嚼運動が脳血流や認知機能と関連しうるとする既存知見を統合したナラティブレビュー。",
     "url": "/rehab-paper-digest/articles/2026/01/from-chewing-to-thinking-anatomical-and-neurophysiological-links-between-mastica/",
@@ -3952,16 +3939,14 @@
     "issue_date": "2026-01-01"
   },
   {
-    "title": "急性脳卒中様症状を呈した膠芽腫の一例:診断上の課題",
-    "summary": "言語障害や右片麻痺など脳卒中様症状で救急搬送された71歳女性が、精査の結果膠芽腫と診断された症例報告。",
-    "url": "/rehab-paper-digest/articles/2026/01/glioblastoma-mimicking-acute-stroke-a-case-report-and-diagnostic-challenges/",
+    "title": "救急・集中治療看護師における看護ケアの見落とし:項目レベルのネットワーク分析とコンピュータシミュレーションによる検討",
+    "summary": "中国の救急・集中治療看護師3351名のデータを用い、看護ケアの見落とし24項目間の関連構造をネットワーク分析とシミュレーションで検討し、頻度だけでは分からない優先すべきケア項目を特定した横断研究。",
+    "url": "/rehab-paper-digest/articles/2026/01/missed-nursing-care-among-emergency-and-critical-care-nurses-an-item-level-netwo/",
     "categories": [
-      "脳卒中",
-      "神経疾患",
       "その他"
     ],
-    "pmid": "42726837",
-    "doi": "10.36740/Merkur202604122",
+    "pmid": "42801313",
+    "doi": "10.1155/jonm/5019343",
     "published_date": "2026-01-01",
     "online_publication_date": "",
     "issue_date": "2026-01-01"
@@ -3977,6 +3962,21 @@
     ],
     "pmid": "42726081",
     "doi": "10.1590/2175-8239-JBN-2025-0316en",
+    "published_date": "2026-01-01",
+    "online_publication_date": "",
+    "issue_date": "2026-01-01"
+  },
+  {
+    "title": "急性脳卒中様症状を呈した膠芽腫の一例:診断上の課題",
+    "summary": "言語障害や右片麻痺など脳卒中様症状で救急搬送された71歳女性が、精査の結果膠芽腫と診断された症例報告。",
+    "url": "/rehab-paper-digest/articles/2026/01/glioblastoma-mimicking-acute-stroke-a-case-report-and-diagnostic-challenges/",
+    "categories": [
+      "脳卒中",
+      "神経疾患",
+      "その他"
+    ],
+    "pmid": "42726837",
+    "doi": "10.36740/Merkur202604122",
     "published_date": "2026-01-01",
     "online_publication_date": "",
     "issue_date": "2026-01-01"
